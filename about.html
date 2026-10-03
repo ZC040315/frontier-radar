@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="obsidian">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关于 · 前沿雷达</title>
+<meta name="description" content="这个站是什么、内容怎么选、多久更新一次。">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+  (function () {
+    var t = new URLSearchParams(location.search).get("theme");
+    if (t) document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+</head>
+<body>
+
+<header class="site-head">
+  <a class="brand" href="index.html">
+    <svg class="brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9"></circle>
+      <circle cx="12" cy="12" r="5"></circle>
+      <path d="M12 12 L18.4 5.6" stroke-width="1.7"></path>
+      <circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none"></circle>
+    </svg>
+    <span class="brand-name">前沿雷达</span>
+  </a>
+  <nav class="site-nav">
+    <a href="index.html">雷达</a>
+    <a href="map.html">地图</a>
+    <a class="is-current" href="about.html">关于</a>
+  </nav>
+</header>
+
+<main>
+  <section class="page-head">
+    <h1>关于这个站</h1>
+    <p class="page-lead">给自己看的说明书。三件事：这个站是什么、内容怎么选、多久更新一次。</p>
+  </section>
+
+  <section class="about about--page">
+    <h2>这个站是什么</h2>
+    <p>一个由我自己策展的前沿科技信息源，用来替代算法推荐。它不是新闻搬运站，也不追求流量——第一用户是我自己。</p>
+    <p>首页回答「最近有什么」，地图回答「这些东西在整张网的哪个位置」。它和我 AI 学习地图共用一套层级词汇（地基层 / 主干层 / 前沿层），所以这里的每条内容都能挂回主干，挂不上的就明确存进「暂时存档」，而不是悬在心里变成焦虑。</p>
+    <p class="about-strong">它不是「看完了就会了」的站，它是「提醒我该往哪看」的站。</p>
+
+    <h2>内容怎么选</h2>
+    <p>四个领域：医疗健康、AI 与智能体、数字产品与交互、交叉与基础设施。类型只有三类：论文、产品、标准与政策。</p>
+    <p>每条都要过三道关：</p>
+    <ol class="about-list">
+      <li><strong>原文可点开。</strong>链接打不开的，不放进来。2026-10-03 的首批 48 条全部逐条联网核实过（先直接抓取，被反爬拦截的改用无头浏览器读取页面标题和发布日期）。</li>
+      <li><strong>只写已经发生的。</strong>不写「这将是未来」这类预测，只写原文里的事实 + 我自己的理解。拿不准的宁可不写。</li>
+      <li><strong>要说清「为什么值得知道」。</strong>只复述「它是什么」等于搬运，这一步才是这个站别处抄不到的东西。</li>
+    </ol>
+    <p class="about-strong">一个信息站只要掺了几条假内容，它作为信息源的价值就归零了——你会开始怀疑每一条，然后就不看了。所以规则是：宁可三十条真实，不要四十五条掺假。</p>
+
+    <h2>多久更新一次</h2>
+    <p>每周一次，10 分钟以内：复制一条模板 → 填标题、链接、一句话是什么、为什么值得知道、挂哪一层 → 保存 → 推送，线上自动更新。</p>
+    <p>规则只有一条：每周最多加 5 条，且至少有一条来自「能挂上主干」的判断。宁可这一周一条都不加，也不加自己都没看懂的东西。</p>
+    <p class="about-note">新增的内容会在首页带「本周新增」标记，方便看到维护的痕迹。</p>
+
+    <h2>我不做什么</h2>
+    <p>不做用户系统、登录、评论；不接实时抓取 API；不做后台管理界面（加内容就编辑 <code>data/items.js</code> 一个文件）；不做多语言。</p>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <span>前沿雷达</span>
+  <span class="foot-dot">·</span>
+  <span>2026</span>
+</footer>
+
+</body>
+</html>
