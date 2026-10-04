@@ -925,3 +925,185 @@ body.panel-open { overflow: hidden; }
   .panel-title { font-size: 21px; }
   .row-title-wrap { gap: 8px; }
 }
+
+/* ---------- 每日自动收录 ---------- */
+
+.daily {
+  margin: 0 0 42px;
+  padding: 22px 24px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: linear-gradient(180deg, var(--accent-wash), transparent 62%);
+}
+
+.daily--full {
+  border: 0;
+  background: none;
+  padding: 0;
+}
+
+.daily-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+.daily-title-h {
+  margin: 0 0 6px;
+  font-family: var(--title-font);
+  font-weight: var(--title-weight);
+  font-size: 19px;
+  letter-spacing: var(--title-track);
+  color: var(--text-strong);
+}
+
+.daily-sub {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+}
+
+.daily-more {
+  font-size: 12.5px;
+  color: var(--accent);
+  white-space: nowrap;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.16s ease;
+}
+
+.daily-more:hover { border-color: var(--accent-soft); }
+
+.daily-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.daily-row {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) 190px;
+  gap: 0 20px;
+  padding: 13px 0;
+  border-top: 1px solid var(--line);
+  align-items: baseline;
+}
+
+.daily-row:first-child { border-top: 0; }
+
+.daily-time {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.daily-body { min-width: 0; }
+
+.daily-title {
+  display: block;
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--text);
+  transition: color 0.16s ease;
+}
+
+.daily-title:hover { color: var(--accent); }
+
+.daily-summary {
+  margin: 5px 0 0;
+  font-size: 12.5px;
+  line-height: 1.62;
+  color: var(--faint);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.daily-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  align-items: baseline;
+  justify-content: flex-end;
+}
+
+.daily-source {
+  font-size: 11.5px;
+  color: var(--text);
+}
+
+.daily-kind,
+.daily-domain,
+.daily-score {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+}
+
+.daily-domain { color: var(--accent); }
+
+.daily-empty {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 0 18px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.daily-empty-hint { font-size: 12.5px; color: var(--faint); }
+
+.daily-note {
+  margin: 12px 0 6px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  line-height: 1.75;
+  color: var(--faint);
+  max-width: 96ch;
+}
+
+.daily-note a { color: var(--accent); border-bottom: 1px solid var(--accent-soft); }
+
+.daily-day { margin-bottom: 34px; }
+
+.daily-day-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 0 4px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line-strong);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-strong);
+}
+
+.daily-day-count {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+}
+
+@media (max-width: 940px) {
+  .daily { padding: 18px 16px 12px; }
+  .daily-row {
+    grid-template-columns: 46px minmax(0, 1fr);
+    gap: 0 12px;
+  }
+  .daily-meta {
+    grid-column: 2;
+    justify-content: flex-start;
+    margin-top: 7px;
+  }
+  .daily-summary { -webkit-line-clamp: 3; }
+}

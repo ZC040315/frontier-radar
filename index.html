@@ -28,6 +28,7 @@
   </a>
   <nav class="site-nav">
     <a class="is-current" href="index.html">雷达</a>
+    <a href="daily.html">每日</a>
     <a href="map.html">地图</a>
     <a href="about.html">关于</a>
   </nav>
@@ -42,6 +43,21 @@
       <span id="heroCount">0</span> 条 · 4 个领域 · 逐条核实原文
       <span class="hero-sep" aria-hidden="true">·</span>
       <span id="heroNew">本周新增 0 条</span>
+    </p>
+  </section>
+
+  <section class="daily" id="dailyBand" hidden aria-label="过去 24 小时自动收录">
+    <header class="daily-head">
+      <div>
+        <h2 class="daily-title-h">过去 24 小时</h2>
+        <p class="daily-sub" data-daily-sub>每天早上 8:00 自动抓取</p>
+      </div>
+      <a class="daily-more" href="daily.html" data-daily-more>看近 7 天全部 →</a>
+    </header>
+    <ul class="daily-list"></ul>
+    <p class="daily-note">
+      自动收录：只记录来源页面上的标题、时间、链接与原文摘要，未经策展。
+      觉得哪条值得留下，再按 <a href="README.md">README</a> 的模板把它写成正式条目。
     </p>
   </section>
 
@@ -91,6 +107,8 @@
 </aside>
 
 <script src="data/items.js"></script>
+<script src="data/daily.js"></script>
+<script src="assets/daily.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

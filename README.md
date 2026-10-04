@@ -5,6 +5,7 @@
 - 线上地址：https://zc040315.github.io/frontier-radar/
 - 计划书：[网站建设计划规划书.md](网站建设计划规划书.md)
 - 首次上线：2026-10-03（48 条，全部逐条联网核实）
+- 每日自动更新：2026-10-04 起，每天早上 08:00 抓取过去 24 小时的前沿线索
 
 ---
 
@@ -21,17 +22,64 @@
 ```
 前沿雷达/
 ├── index.html          ← 首页（雷达）：筛选 + 搜索 + 内容流
+├── daily.html          ← 每日：近 7 天自动抓取的原始线索（按天分组）
 ├── map.html            ← 地图：四个领域的技术主干树
 ├── about.html          ← 关于：这个站是什么、内容怎么选、多久更新
 ├── assets/
 │   ├── style.css       ← 全站样式（深空观测站主题）
 │   ├── app.js          ← 首页逻辑：筛选、搜索、详情面板、本周新增
-│   └── map.js          ← 地图页逻辑：节点展开收拢 + 条目挂载
+│   ├── map.js          ← 地图页逻辑：节点展开收拢 + 条目挂载
+│   └── daily.js        ← 每日线索的渲染（首页 24 小时区块 + daily.html）
 ├── data/
-│   ├── items.js        ← 内容条目（加内容只改这里）
+│   ├── items.js        ← 正式条目（加内容只改这里）
+│   ├── daily.js        ← 每天 08:00 自动生成的线索（请勿手工编辑）
 │   └── map.js          ← 地图主干结构（节点 + 挂在这一节点下的条目 id）
+├── scripts/
+│   └── fetch-daily.mjs ← 抓取脚本：抓源 → 过滤 → 去重 → 写 data/daily.js
+├── .github/workflows/
+│   └── daily.yml       ← 定时任务：每天 08:00 跑抓取并自动提交
 └── design/             ← 阶段 1 的视觉概念图（存档，不参与页面）
 ```
+
+---
+
+## 每天 08:00 自动更新（每日线索）
+
+**它做什么**：GitHub Actions 每天 00:00 UTC（北京时间 08:00）跑一次 `scripts/fetch-daily.mjs`，
+把过去 24 小时的前沿线索写进 `data/daily.js`，自动提交，GitHub Pages 随之重新发布。
+不需要你的电脑开着，也不需要任何 API key。
+
+**两层窗口**：首页顶部显示「过去 24 小时」；`daily.html` 显示近 7 天、按天分组。
+
+**抓取源**（想加减就改 `scripts/fetch-daily.mjs` 里的 `FEEDS` 数组和 arXiv 分类）：
+
+| 类型 | 源 |
+| --- | --- |
+| 论文 | arXiv（cs.AI / cs.CL / cs.LG / cs.CV / cs.RO / q-bio.QM / eess.IV） |
+| 官方实验室 | OpenAI、Google DeepMind、Microsoft Research、NVIDIA |
+| 期刊 | Nature、Nature Medicine |
+| 媒体 | Hacker News（≥200 分）、MIT Technology Review、IEEE Spectrum、STAT News、Ars Technica、The Verge、TechCrunch、量子位、IT之家 |
+
+**过滤规则**（宁可少，不要噪音）：
+
+- 每个源按窗口时间筛选，只收窗口内的条目；
+- 综合类来源（Nature、IT之家、The Verge 等）必须在**标题**里命中四个领域的关键词才收录，
+  正文里偶然提到一次不算；
+- 消费数码上市、价格、预约、配色这类快讯直接丢掉；
+- 与正式条目（`data/items.js`）重复的链接不会重复出现；
+- 如果某次所有源都失败，脚本保留原文件不覆盖。
+
+**自动收录 ≠ 已策展**：每日线索只记录来源页面上的标题、时间、链接和原文摘要，
+不写解读、不做判断。觉得哪条值得留下，把它按下面的模板写成正式条目——
+「为什么值得我知道」这一步永远由人来做。
+
+**手动跑一次**：
+
+- 线上：仓库 → Actions → 「每日雷达更新」→ Run workflow
+- 本地：`node scripts/fetch-daily.mjs`（加 `--fresh` 完全重生成，加 `--seed` 播种多取一页 arXiv）
+
+**两个已知限制**：GitHub 的定时任务可能延迟几分钟到十几分钟；仓库连续 60 天没有任何提交时，
+GitHub 会自动暂停定时任务——随便推一次内容就会恢复。
 
 ---
 
