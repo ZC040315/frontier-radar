@@ -1,79 +1,143 @@
 // 前沿雷达 · 每日自动收录（GitHub Actions 每天 08:00 生成，请勿手工编辑）
 // 只记录来源页面上的事实：标题、时间、来源、链接、原文摘要；未经策展，判断留给人来做。
-// 生成时间：2026-10-04T10:39:06.193Z｜抓取窗口：7 天｜其中过去 24 小时 13 条
+// 生成时间：2026-10-05T02:44:26.765Z｜抓取窗口：7 天｜其中过去 24 小时 11 条
 
 window.FRONTIER_DAILY = {
-  "generatedAt": "2026-10-04T10:39:06.193Z",
-  "windowStart": "2026-09-27T10:39:06.193Z",
-  "last24hSince": "2026-10-03T10:39:06.193Z",
+  "generatedAt": "2026-10-05T02:44:26.765Z",
+  "windowStart": "2026-09-28T02:44:26.765Z",
+  "last24hSince": "2026-10-04T02:44:26.765Z",
   "days": 7,
   "counts": {
     "total": 60,
-    "last24h": 13,
+    "last24h": 11,
     "byDomain": {
-      "ai": 43,
-      "med": 9,
-      "infra": 7,
+      "ai": 48,
+      "infra": 5,
+      "med": 6,
       "prod": 1
     },
     "bySource": {
-      "IT之家": 4,
+      "IT之家": 5,
+      "TechCrunch": 4,
+      "The": 2,
       "量子位": 5,
       "Hacker": 5,
-      "TechCrunch": 4,
-      "The": 4,
       "Ars": 4,
-      "OpenAI": 5,
+      "arXiv": 14,
+      "OpenAI": 6,
       "MIT": 4,
-      "STAT": 4,
-      "NVIDIA": 4,
-      "Nature": 4,
-      "arXiv": 13
+      "Nature": 8,
+      "Google": 2,
+      "Microsoft": 1
     }
   },
   "items": [
     {
-      "id": "d-c6b3cff6e0",
-      "title": "特朗普将“人工智能”改为“超级智能”后，马斯克确认 SpaceXAI 将更名为 SpaceXSI",
-      "url": "https://www.ithome.com/1/009/688.htm",
+      "id": "d-3b1416c45f",
+      "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
+      "url": "https://www.ithome.com/1/009/769.htm",
       "source": "IT之家",
       "kind": "news",
-      "published": "2026-10-04T10:04:39.000Z",
-      "summary": "IT之家 10 月 4 日消息，美东时间 9 月 29 日，美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。 今日有网友向埃隆 · 马斯克提问，（SpaceXAI）有没有可能更名为 SpaceXSI？马斯克则给出了肯定的答复“是的，我们会做出改变。” 埃隆 · 马斯克随后在 X 平台表示，SpaceX 是一家超级智能公司。 今年 2 月，xAI 被马斯克旗下航天公司 Space…",
+      "published": "2026-10-05T02:14:40.000Z",
+      "summary": "IT之家 10 月 5 日消息，据知情人士向彭博新闻社透露，Anthropic 前研究员雅各布 · 考克斯顿（Jacob Coxon）将出席纽约市一场关于人工智能的听证会并作证。 报道称，考克斯恩将应纽约市议会议长朱莉 · 梅宁的要求出席作证。朱莉 · 梅宁敦促人工智能举报人出庭作证，与此同时，市议员们正在审议一揽子法案，旨在为这项技术制定相关保障措施。 IT之家注意到，考克森上月离开了 Anthropic 公司，并发出警告称，“认真研发人工智能的人坚信，到本十年末人工智能…",
       "domain": "ai",
+      "category": "infra-policy",
       "score": 0
     },
     {
-      "id": "d-bc2faef327",
-      "title": "天津大学获批全国首个“脑机接口”一级交叉学科博士点",
-      "url": "https://www.ithome.com/1/009/684.htm",
+      "id": "d-6405b4170d",
+      "title": "南亚科技布局晶圆级封测，将在屏东科学园区投资设厂",
+      "url": "https://www.ithome.com/1/009/768.htm",
       "source": "IT之家",
       "kind": "news",
-      "published": "2026-10-04T09:28:43.000Z",
-      "summary": "IT之家 10 月 4 日消息，近日，国务院学位委员会正式下发《关于下达 2025 年度学位授予资格自主审核单位撤销和增设学位授予点名单的通知》（学位〔2026〕17 号），天津大学成功获批 全国首个、也是目前全国唯一一个的“脑机接口”一级交叉学科博士学位授予点 。 这在脑机接口未来产业发展历程中具有重要里程碑意义，标志着我国脑机接口学科建设与人才培养迈入全新阶段。 据介绍，脑机接口作为人机交互的最高形态，是融合临床医学、神经科学、人工智能、电子信息、集成电路等多学科前沿理…",
-      "domain": "med",
+      "published": "2026-10-05T02:12:02.000Z",
+      "summary": "IT之家 10 月 5 日消息，DRAM 内存芯片与模组制造商南亚科技 (Nanya Technology) 本月 1 日宣布，将在屏东科学园区投资设立 3D 晶圆封装测试厂。 这座先进封测设施将导入 TSV（硅通孔）、晶圆堆叠等 3D IC 先进技术， 布局晶圆级 (Wafer Level) 封装与测试的专业制造整合能力 ，以满足 AI 应用快速发展所带动的高性能、高带宽内存需求。 IT之家注意到，从描述上来看，南亚科技的这种新后端工厂 将瞄准“类 HBM”的内存解决方案…",
+      "domain": "infra",
+      "category": "infra-compute",
       "score": 0
     },
     {
-      "id": "d-597ec4ea88",
-      "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-      "url": "https://www.ithome.com/1/009/673.htm",
+      "id": "d-fbefa34046",
+      "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
+      "url": "https://www.ithome.com/1/009/765.htm",
       "source": "IT之家",
       "kind": "news",
-      "published": "2026-10-04T08:46:29.000Z",
-      "summary": "IT之家 10 月 4 日消息，谷歌宣布，自 2026 年 10 月 1 日起，开源软件漏洞奖励计划（OSS VRP）将不再接收产品漏洞提报。本次规则调整不影响 2026 年 10 月 1 日之前已提交的产品漏洞。 不过，针对部分可能对谷歌云（Google Cloud）产品造成影响的谷歌云代码仓库，如果涉及产品漏洞，谷歌仍可能通过云漏洞奖励计划（Cloud VRP）接收相关报告。 OSS VRP 是谷歌设立的一项专业安全赏金计划，旨在通过激励独立安全研究人员，在谷歌整个开源…",
+      "published": "2026-10-05T02:02:05.000Z",
+      "summary": "IT之家 10 月 5 日消息，外媒 Axios 当地时间 4 日报道称，Reflection 等 多家西方企业本月将推出开放权重 AI 模型 ，人工智能模型领域的竞争将进一步升级。 开放权重模型的一大好处是其支持客户本地部署，这对微调和推理数据安全有着严格要求的部分行业来说是一项关键性优势。 报道表示，Reflection 这家初创企业即将推出的模型预计最初会落后于美国竞争对手最先进的闭源模型，但 足以同中国友商的顶级开放权重模型相竞争 。Reflection 发言人拒绝…",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
-      "id": "d-998f375252",
-      "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-      "url": "https://www.ithome.com/1/009/669.htm",
+      "id": "d-4791ba58a5",
+      "title": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
+      "url": "https://www.ithome.com/1/009/764.htm",
       "source": "IT之家",
       "kind": "news",
-      "published": "2026-10-04T08:35:59.000Z",
-      "summary": "IT之家 10 月 4 日消息，开发团队 System76 现已更新 COSMIC 项目的 Pull Request（PR）模板，新增一份强制性检查清单，明确禁止贡献者提交利用 AI 辅助完成的代码。贡献者必须确认提交内容中不存在任何 AI 生成的代码、注释以及描述，否则无法按照要求提交贡献。 公开信息显示，COSMIC 是 System76 基于 Rust 开发的 Linux 桌面环境。在 COSMIC 推出之前，System76 的 Pop!_OS 长期基于经过深度修改…",
+      "published": "2026-10-05T02:00:14.000Z",
+      "summary": "IT之家 10 月 5 日消息，“开拍了吗？”由人工智能生成的好莱坞三十年代影星葛丽泰 · 嘉宝（Greta Garbo）的形象柔声问道。这是一则看起来颇出人意料的广告，广告的投放方是瑞典滚珠轴承制造商斯凯孚（SKF）。 据路透社报道，这则广告引发了热议，收获赞许的同时也遭到嘲讽。这件事也凸显出，技术日趋成熟的人工智能正不断向传媒领域渗透，从剧本撰写一直延伸到动画制作。 葛丽泰 · 嘉宝是好莱坞“黄金时代”最富盛名的明星之一，于 1990 年离世，终年 84 岁；而早在数十…",
       "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-3a8a5c45a4",
+      "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+      "url": "https://www.ithome.com/1/009/758.htm",
+      "source": "IT之家",
+      "kind": "news",
+      "published": "2026-10-05T01:21:43.000Z",
+      "summary": "IT之家 10 月 5 日消息，据彭博社报道，软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着 AI 能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。 周日，在日本京都举行的“科学与技术在社会中的作用”论坛期间，孙正义在与白宫科技政策顾问迈克尔 · 克拉齐奥斯（Michael Kratsios）同台发言时指出，人工智能能力的指数级爆发使得各国建立互信迫在眉睫，唯有如此，各方才能携手驾驭这项技术。 “人类已经承受不起彼此内耗的代价了，”孙正…",
+      "domain": "ai",
+      "category": "ai-safety",
+      "score": 0
+    },
+    {
+      "id": "d-71b92d7d12",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "published": "2026-10-04T20:31:07.000Z",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-8a9c48729b",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "published": "2026-10-04T20:08:34.000Z",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-cb4cee0e9e",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "kind": "news",
+      "published": "2026-10-04T16:16:04.000Z",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the med…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-d5a8ffd2dd",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "kind": "news",
+      "published": "2026-10-04T15:21:59.000Z",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, t…",
+      "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -85,6 +149,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-04T06:12:22.000Z",
       "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
       "domain": "ai",
+      "category": "infra-compute",
       "score": 0
     },
     {
@@ -96,6 +161,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-04T06:05:35.000Z",
       "summary": "什么是FDE？它会一直存在吗？",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -107,18 +173,20 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-04T00:53:29.000Z",
       "summary": "专业3D模型反而更稀缺了",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
       "id": "d-83913d49e9",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News · 263 分",
+      "source": "Hacker News · 267 分",
       "kind": "discussion",
       "published": "2026-10-03T22:18:13.000Z",
-      "summary": "263 分 · 3 条评论 · 讨论区：https://news.ycombinator.com/item?id=49948332",
+      "summary": "267 分 · 3 条评论 · 讨论区：https://news.ycombinator.com/item?id=49948332",
       "domain": "ai",
-      "score": 263
+      "category": "ai-safety",
+      "score": 267
     },
     {
       "id": "d-d442265d45",
@@ -129,29 +197,20 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-03T18:43:57.000Z",
       "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
       "domain": "infra",
+      "category": "infra-compute",
       "score": 0
     },
     {
-      "id": "d-f1c80105d2",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "kind": "news",
-      "published": "2026-10-03T16:49:10.000Z",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"Th…",
+      "id": "d-8b1e323a22",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "Hacker News · 385 分",
+      "kind": "discussion",
+      "published": "2026-10-03T17:44:29.000Z",
+      "summary": "385 分 · 719 条评论 · 讨论区：https://news.ycombinator.com/item?id=49946228",
       "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-2b2053e0bc",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "source": "The Verge",
-      "kind": "news",
-      "published": "2026-10-03T15:00:00.000Z",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Ca…",
-      "domain": "ai",
-      "score": 0
+      "category": "ai-model",
+      "score": 385
     },
     {
       "id": "d-9a415d111d",
@@ -162,18 +221,20 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-03T14:00:00.000Z",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "domain": "ai",
+      "category": "ai-agent",
       "score": 0
     },
     {
       "id": "d-9a14422b82",
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "Hacker News · 413 分",
+      "source": "Hacker News · 417 分",
       "kind": "discussion",
       "published": "2026-10-03T10:43:51.000Z",
-      "summary": "413 分 · 12 条评论 · 讨论区：https://news.ycombinator.com/item?id=49943034",
+      "summary": "417 分 · 12 条评论 · 讨论区：https://news.ycombinator.com/item?id=49943034",
       "domain": "ai",
-      "score": 413
+      "category": "ai-model",
+      "score": 417
     },
     {
       "id": "d-4451b33365",
@@ -184,6 +245,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-03T07:54:43.000Z",
       "summary": "岗位JD甩了篇技术报告",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -195,6 +257,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-03T04:41:24.000Z",
       "summary": "又咋啦。。。",
       "domain": "ai",
+      "category": "ai-safety",
       "score": 0
     },
     {
@@ -206,28 +269,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T23:03:16.000Z",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-5113cb6536",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "kind": "news",
-      "published": "2026-10-02T21:09:14.000Z",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-c0a74765cc",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "kind": "news",
-      "published": "2026-10-02T21:08:37.000Z",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI …",
-      "domain": "ai",
+      "category": "ai-agent",
       "score": 0
     },
     {
@@ -239,17 +281,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T20:30:27.000Z",
       "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
       "domain": "infra",
-      "score": 0
-    },
-    {
-      "id": "d-e148a12b42",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "kind": "news",
-      "published": "2026-10-02T20:08:40.000Z",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish t…",
-      "domain": "ai",
+      "category": "infra-compute",
       "score": 0
     },
     {
@@ -261,6 +293,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T20:07:59.000Z",
       "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
       "domain": "med",
+      "category": "med-clinic",
       "score": 0
     },
     {
@@ -272,29 +305,188 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T19:09:49.000Z",
       "summary": "Critics say workers are still owed far more.",
       "domain": "infra",
-      "score": 0
-    },
-    {
-      "id": "d-39b9fbb58d",
-      "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "kind": "news",
-      "published": "2026-10-02T18:11:27.000Z",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "domain": "ai",
+      "category": "infra-compute",
       "score": 0
     },
     {
       "id": "d-3577570198",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
-      "source": "Hacker News · 351 分",
+      "source": "Hacker News · 359 分",
       "kind": "discussion",
       "published": "2026-10-02T18:01:16.000Z",
-      "summary": "351 分 · 99 条评论 · 讨论区：https://news.ycombinator.com/item?id=49936575",
+      "summary": "359 分 · 102 条评论 · 讨论区：https://news.ycombinator.com/item?id=49936575",
       "domain": "ai",
-      "score": 351
+      "category": "ai-model",
+      "score": 359
+    },
+    {
+      "id": "d-1e54151eda",
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "url": "http://arxiv.org/abs/2610.03717v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:59:14.000Z",
+      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing en…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-3eac52c196",
+      "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+      "url": "http://arxiv.org/abs/2610.03716v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:58:52.000Z",
+      "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying part, nor which pix…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-8d1da60f78",
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "url": "http://arxiv.org/abs/2610.03715v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:58:49.000Z",
+      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations int…",
+      "domain": "ai",
+      "category": "ai-agent",
+      "score": 0
+    },
+    {
+      "id": "d-5ebd0eb3a8",
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "url": "http://arxiv.org/abs/2610.03713v1",
+      "source": "arXiv cs.LG",
+      "kind": "paper",
+      "published": "2026-10-02T17:58:14.000Z",
+      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy…",
+      "domain": "ai",
+      "category": "ai-multimodal",
+      "score": 0
+    },
+    {
+      "id": "d-cc727bf02d",
+      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+      "url": "http://arxiv.org/abs/2610.03712v1",
+      "source": "arXiv cs.LG",
+      "kind": "paper",
+      "published": "2026-10-02T17:58:08.000Z",
+      "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory genera…",
+      "domain": "ai",
+      "category": "ai-safety",
+      "score": 0
+    },
+    {
+      "id": "d-5b55bf520d",
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "url": "http://arxiv.org/abs/2610.03710v1",
+      "source": "arXiv cs.RO",
+      "kind": "paper",
+      "published": "2026-10-02T17:57:51.000Z",
+      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye vi…",
+      "domain": "prod",
+      "category": "prod-tools",
+      "score": 0
+    },
+    {
+      "id": "d-fe1b031893",
+      "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+      "url": "http://arxiv.org/abs/2610.03709v1",
+      "source": "arXiv math.OC",
+      "kind": "paper",
+      "published": "2026-10-02T17:57:50.000Z",
+      "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gos…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-4ef4324210",
+      "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+      "url": "http://arxiv.org/abs/2610.03702v1",
+      "source": "arXiv cs.LG",
+      "kind": "paper",
+      "published": "2026-10-02T17:55:42.000Z",
+      "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small v…",
+      "domain": "ai",
+      "category": "infra-data",
+      "score": 0
+    },
+    {
+      "id": "d-8c7c7c380c",
+      "title": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
+      "url": "http://arxiv.org/abs/2610.03698v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:55:06.000Z",
+      "summary": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedicated register tokens to reduce high-nor…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-08b53bcbd6",
+      "title": "Language Models that Play Chess and Explain Their Moves",
+      "url": "http://arxiv.org/abs/2610.03695v1",
+      "source": "arXiv cs.CL",
+      "kind": "paper",
+      "published": "2026-10-02T17:54:22.000Z",
+      "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength …",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-2018029777",
+      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+      "url": "http://arxiv.org/abs/2610.03693v1",
+      "source": "arXiv cs.AI",
+      "kind": "paper",
+      "published": "2026-10-02T17:52:57.000Z",
+      "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transc…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-a8cb7ad174",
+      "title": "FlowHMR: Physically Plausible Motion Capture from Video",
+      "url": "http://arxiv.org/abs/2610.03691v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:52:48.000Z",
+      "summary": "We present FlowHMR, a framework for recovering physically plausible global 3D human motion from monocular video. Previous learning-based methods typically regress human motion directly from video and train the network with geometric superv…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-87e3d8af9d",
+      "title": "SigLIP2 for aerial fire risk classification",
+      "url": "http://arxiv.org/abs/2610.03689v1",
+      "source": "arXiv cs.CV",
+      "kind": "paper",
+      "published": "2026-10-02T17:52:34.000Z",
+      "summary": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror and an implementation that records data…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-e225187ad4",
+      "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+      "url": "http://arxiv.org/abs/2610.03679v1",
+      "source": "arXiv cs.LG",
+      "kind": "paper",
+      "published": "2026-10-02T17:46:52.000Z",
+      "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wass…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
     },
     {
       "id": "d-8e206c4d9e",
@@ -305,6 +497,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T16:15:00.000Z",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -316,40 +509,20 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T15:49:04.000Z",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to …",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
       "id": "d-f52e74133e",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "Hacker News · 281 分",
+      "source": "Hacker News · 286 分",
       "kind": "discussion",
       "published": "2026-10-02T14:11:24.000Z",
-      "summary": "281 分 · 145 条评论 · 讨论区：https://news.ycombinator.com/item?id=49933740",
+      "summary": "286 分 · 148 条评论 · 讨论区：https://news.ycombinator.com/item?id=49933740",
       "domain": "ai",
-      "score": 281
-    },
-    {
-      "id": "d-d46ac48b6f",
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about the 340B drug pilot program, an obesity drug disappointment, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss",
-      "source": "STAT News",
-      "kind": "news",
-      "published": "2026-10-02T13:11:16.000Z",
-      "summary": "The U.S. approved 10 drugmakers to participate in a 340B pilot program that will allow them to offer rebates, instead of upfront discounts, to certain providers",
-      "domain": "med",
-      "score": 0
-    },
-    {
-      "id": "d-d4e3054526",
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "source": "NVIDIA",
-      "kind": "product",
-      "published": "2026-10-02T13:00:39.000Z",
-      "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVI…",
-      "domain": "infra",
-      "score": 0
+      "category": "ai-model",
+      "score": 286
     },
     {
       "id": "d-c8bb8c9c14",
@@ -360,17 +533,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T12:10:00.000Z",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica …",
       "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-f057bdc3c8",
-      "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
-      "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
-      "source": "STAT News",
-      "kind": "news",
-      "published": "2026-10-02T08:30:00.000Z",
-      "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist.",
-      "domain": "med",
+      "category": "med-drug",
       "score": 0
     },
     {
@@ -382,18 +545,8 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T08:00:00.000Z",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some …",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
-    },
-    {
-      "id": "d-774f7412d1",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "source": "Hacker News · 330 分",
-      "kind": "discussion",
-      "published": "2026-10-02T02:51:27.000Z",
-      "summary": "330 分 · 123 条评论 · 讨论区：https://news.ycombinator.com/item?id=49929391",
-      "domain": "ai",
-      "score": 330
     },
     {
       "id": "d-d96eec3af9",
@@ -404,6 +557,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T00:00:00.000Z",
       "summary": "Nature Medicine, Published online: 02 October 2026; doi:10.1038/s41591-026-04673-3 Applied to samples from more than 600 patients and controls, urinary cell-free RNA profiling with uRARE-seq demonstrated high sensitivity in detecting bladd…",
       "domain": "med",
+      "category": "med-clinic",
       "score": 0
     },
     {
@@ -415,6 +569,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T00:00:00.000Z",
       "summary": "Nature Medicine, Published online: 02 October 2026; doi:10.1038/s41591-026-04658-2 A new study tackles issues around operational and decisional trust of agentic artificial intelligence (AI), using locally deployed, on-premise agents and co…",
       "domain": "med",
+      "category": "ai-agent",
       "score": 0
     },
     {
@@ -426,160 +581,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-02T00:00:00.000Z",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-9128069ece",
-      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "source": "NVIDIA",
-      "kind": "product",
-      "published": "2026-10-01T23:44:13.000Z",
-      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the …",
-      "domain": "infra",
-      "score": 0
-    },
-    {
-      "id": "d-d831330cb9",
-      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-      "url": "http://arxiv.org/abs/2610.02210v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:59.000Z",
-      "summary": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed fro…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-e283d46b35",
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:58.000Z",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximat…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-671df093dc",
-      "title": "Sphere Encoder 2",
-      "url": "http://arxiv.org/abs/2610.02208v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:58.000Z",
-      "summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concen…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-140a2cc707",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "source": "arXiv cs.CL",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:55.000Z",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do n…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-ab6907b31b",
-      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-      "url": "http://arxiv.org/abs/2610.02205v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:53.000Z",
-      "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently eval…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-8e87ace6bd",
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "source": "arXiv cs.RO",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:50.000Z",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-e136e17002",
-      "title": "Embedding Prediction Helps Image Generation",
-      "url": "http://arxiv.org/abs/2610.02203v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:49.000Z",
-      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autore…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-a18409ed4d",
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "url": "http://arxiv.org/abs/2610.02202v1",
-      "source": "arXiv cs.AI",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:47.000Z",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study th…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-a782b4d8d1",
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "url": "http://arxiv.org/abs/2610.02201v1",
-      "source": "arXiv cs.CV",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:46.000Z",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-902f265330",
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "url": "http://arxiv.org/abs/2610.02200v1",
-      "source": "arXiv cs.AI",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:45.000Z",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-6fcfb4257b",
-      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-      "url": "http://arxiv.org/abs/2610.02199v1",
-      "source": "arXiv cs.LG",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:42.000Z",
-      "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradi…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-e3b04bd129",
-      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "url": "http://arxiv.org/abs/2610.02198v1",
-      "source": "arXiv cs.LG",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:41.000Z",
-      "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions…",
-      "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-efda75d2b8",
-      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-      "url": "http://arxiv.org/abs/2610.02196v1",
-      "source": "arXiv cs.RO",
-      "kind": "paper",
-      "published": "2026-10-01T17:59:40.000Z",
-      "summary": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, without retraining. Our k…",
-      "domain": "prod",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -591,6 +593,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T17:00:00.000Z",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -602,50 +605,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T16:00:00.000Z",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "domain": "ai",
-      "score": 0
-    },
-    {
-      "id": "d-2f8d61b3cc",
-      "title": "STAT+: A journey to witness China&#8217;s biotech boom up close",
-      "url": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss",
-      "source": "STAT News",
-      "kind": "news",
-      "published": "2026-10-01T15:22:13.000Z",
-      "summary": "Chinese-designed drugs now account for roughly half the global pipeline. STAT's Jason Mast traveled to Shanghai to get an up-close look at the competition that's making American's nervous.",
-      "domain": "med",
-      "score": 0
-    },
-    {
-      "id": "d-c5a15a9f60",
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about a plan to lower Medicare drug prices, a Lilly obesity drug, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/?utm_campaign=rss",
-      "source": "STAT News",
-      "kind": "news",
-      "published": "2026-10-01T13:26:58.000Z",
-      "summary": "A final Medicare rule aimed at lowering prices for doctor-administered drugs applies to only four companies and saves 96% less than the initial proposal",
-      "domain": "med",
-      "score": 0
-    },
-    {
-      "id": "d-7b8f1a5082",
-      "title": "Fall Into 25 New Games on GeForce NOW This October",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "source": "NVIDIA",
-      "kind": "product",
-      "published": "2026-10-01T13:00:54.000Z",
-      "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance …",
-      "domain": "infra",
-      "score": 0
-    },
-    {
-      "id": "d-326e461098",
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "source": "NVIDIA",
-      "kind": "product",
-      "published": "2026-10-01T13:00:49.000Z",
-      "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things …",
-      "domain": "infra",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -657,6 +617,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T12:10:00.000Z",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A …",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -668,6 +629,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T00:00:00.000Z",
       "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition’s tell-tale lesions.",
       "domain": "med",
+      "category": "med-clinic",
       "score": 0
     },
     {
@@ -679,6 +641,7 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T00:00:00.000Z",
       "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9 ‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to the online catalogue of the iconic lexicon.",
       "domain": "ai",
+      "category": "ai-model",
       "score": 0
     },
     {
@@ -690,6 +653,103 @@ window.FRONTIER_DAILY = {
       "published": "2026-10-01T00:00:00.000Z",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-311e095023",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "kind": "product",
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": "",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-396b95f342",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "kind": "product",
+      "published": "2026-09-30T15:03:07.000Z",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-6a91381a42",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI",
+      "kind": "product",
+      "published": "2026-09-30T10:30:00.000Z",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-235c2f05da",
+      "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
+      "url": "https://www.nature.com/articles/d41586-026-02991-7",
+      "source": "Nature",
+      "kind": "paper",
+      "published": "2026-09-30T00:00:00.000Z",
+      "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02991-7 The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-af69b3e4ca",
+      "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
+      "url": "https://www.nature.com/articles/d41586-026-02777-x",
+      "source": "Nature",
+      "kind": "paper",
+      "published": "2026-09-30T00:00:00.000Z",
+      "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02777-x An ultrathin semiconductor that conducts electricity using positively charged ‘holes’ might clear the way for next-generation electronic devices.",
+      "domain": "infra",
+      "category": "infra-compute",
+      "score": 0
+    },
+    {
+      "id": "d-aa558f9a98",
+      "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
+      "url": "https://www.nature.com/articles/d41586-026-03086-z",
+      "source": "Nature",
+      "kind": "paper",
+      "published": "2026-09-30T00:00:00.000Z",
+      "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03086-z Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-3735154486",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Microsoft Research",
+      "kind": "paper",
+      "published": "2026-09-29T14:00:02.000Z",
+      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine …",
+      "domain": "ai",
+      "category": "med-drug",
+      "score": 0
+    },
+    {
+      "id": "d-8a787e91af",
+      "title": "A synthetic lethal drug for microsatellite instability cancers",
+      "url": "https://www.nature.com/articles/s41591-026-04693-z",
+      "source": "Nature Medicine",
+      "kind": "paper",
+      "published": "2026-09-29T00:00:00.000Z",
+      "summary": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04693-z In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite i…",
+      "domain": "med",
+      "category": "med-clinic",
       "score": 0
     }
   ]

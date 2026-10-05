@@ -1107,3 +1107,208 @@ body.panel-open { overflow: hidden; }
   }
   .daily-summary { -webkit-line-clamp: 3; }
 }
+
+/* ---------- 类别 ---------- */
+
+.filter-link {
+  margin-left: auto;
+  font-size: 12.5px;
+  color: var(--accent);
+  white-space: nowrap;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.16s ease;
+}
+
+.filter-link:hover { border-color: var(--accent-soft); }
+
+.filter-note {
+  margin: 10px 0 0;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--faint);
+  min-height: 1px;
+}
+
+.side-category {
+  align-self: flex-start;
+  font-size: 11.5px;
+  color: var(--accent);
+  border: 1px solid var(--accent-soft);
+  background: var(--accent-wash);
+  border-radius: 999px;
+  padding: 1px 9px;
+  white-space: nowrap;
+}
+
+.panel-cat-line {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text);
+}
+
+.panel-cat-line strong { color: var(--accent); }
+
+.panel-cat-link {
+  color: var(--accent);
+  border-bottom: 1px solid var(--accent-soft);
+  white-space: nowrap;
+}
+
+.daily-category {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  border-bottom: 1px solid var(--line-strong);
+}
+
+/* ---------- 分类总览页 ---------- */
+
+.cat-domain {
+  border-top: 1px solid var(--line-strong);
+  padding: 34px 0 40px;
+}
+
+.cat-domain-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 22px;
+}
+
+.cat-domain-head h2 {
+  margin: 0;
+  font-family: var(--title-font);
+  font-weight: var(--title-weight);
+  font-size: 24px;
+  letter-spacing: var(--title-track);
+  color: var(--text-strong);
+}
+
+.cat-domain-count {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+}
+
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 18px;
+}
+
+.cat-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px 20px 16px;
+  background: var(--surface);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  scroll-margin-top: 90px;
+}
+
+.cat-card.is-target {
+  border-color: var(--accent-soft);
+  box-shadow: 0 0 0 1px var(--accent-soft);
+}
+
+.cat-card-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.cat-card-title {
+  margin: 0;
+  font-size: 16.5px;
+  font-weight: 600;
+  color: var(--text-strong);
+}
+
+.cat-card-count {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.cat-card-desc {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.cat-card-meta {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+}
+
+.cat-card-all { color: var(--accent); border-bottom: 1px solid transparent; }
+.cat-card-all:hover { border-color: var(--accent-soft); }
+
+.cat-card-items {
+  list-style: none;
+  margin: 2px 0 0;
+  padding: 12px 0 0;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cat-card-items li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.cat-card-items a {
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--text);
+  transition: color 0.16s ease;
+}
+
+.cat-card-items a:hover { color: var(--accent); }
+
+.cat-card-date {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--faint);
+  white-space: nowrap;
+}
+
+.cat-card-empty {
+  margin: 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 12.5px;
+  color: var(--faint);
+}
+
+@media (max-width: 940px) {
+  .cat-grid { grid-template-columns: minmax(0, 1fr); }
+  .filter-link { margin-left: 0; order: 9; }
+}
+
+/* 5 个导航项在窄屏要收得住 */
+@media (max-width: 720px) {
+  .site-nav { gap: 16px; }
+  .site-nav a { font-size: 12.5px; letter-spacing: 0.02em; }
+  .brand-name { display: none; }
+}

@@ -13,10 +13,18 @@
   var typeLabel = {};
   DATA.types.forEach(function (t) { typeLabel[t.id] = t.label; });
 
+  var CATEGORIES = window.FRONTIER_CATEGORIES || [];
+  var categoryLabel = {};
+  var categoryDesc = {};
+  CATEGORIES.forEach(function (c) {
+    categoryLabel[c.id] = c.label;
+    categoryDesc[c.id] = c.desc;
+  });
+
   var byId = {};
   DATA.items.forEach(function (it) { byId[it.id] = it; });
 
-  var state = { domain: "all", layer: "all", type: "all", q: "" };
+  var state = { domain: "all", layer: "all", type: "all", category: "all", q: "" };
 
   // ---------- 工具 ----------
 
@@ -76,10 +84,53 @@
 
   var feed = document.getElementById("feed");
 
+  // 类别筛选：跟着领域走（选了领域只显示该领域下的类别），并支持 ?cat=xxx 直接进来
+  function categoryOptions() {
+    var inDomain = {};
+    DATA.items.forEach(function (it) {
+      if (state.domain !== "all" && it.domain !== state.domain) return;
+      if (it.category) inDomain[it.category] = (inDomain[it.category] || 0) + 1;
+    });
+    return CATEGORIES.filter(function (c) { return inDomain[c.id]; }).map(function (c) {
+      return { id: c.id, label: c.label + " " + inDomain[c.id], title: c.desc };
+    });
+  }
+
+  function renderCategoryChips() {
+    var host = document.getElementById("categoryChips");
+    if (!host) return;
+    var options = categoryOptions();
+    if (state.category !== "all" && !options.some(function (o) { return o.id === state.category; })) {
+      state.category = "all";
+    }
+    host.innerHTML = "";
+    [{ id: "all", label: "全部" }].concat(options).forEach(function (opt) {
+      var btn = el("button", "chip" + (state.category === opt.id ? " is-active" : ""), opt.label);
+      btn.type = "button";
+      btn.dataset.value = opt.id;
+      btn.setAttribute("aria-pressed", state.category === opt.id ? "true" : "false");
+      if (opt.title) btn.title = opt.title;
+      btn.addEventListener("click", function () {
+        state.category = opt.id;
+        renderCategoryChips();
+        render();
+      });
+      host.appendChild(btn);
+    });
+    var summary = document.getElementById("categorySummary");
+    if (summary) {
+      summary.textContent =
+        state.category === "all"
+          ? ""
+          : categoryDesc[state.category] || "";
+    }
+  }
+
   function matches(item) {
     if (state.domain !== "all" && item.domain !== state.domain) return false;
     if (state.layer !== "all" && item.layer !== state.layer) return false;
     if (state.type !== "all" && item.type !== state.type) return false;
+    if (state.category !== "all" && item.category !== state.category) return false;
     if (state.q) {
       var hay = [item.titleZh, item.titleOrig, item.what, item.why, item.org, item.tags.join(" ")]
         .join(" ")
@@ -131,6 +182,11 @@
 
     var side = el("div", "row-side");
     side.appendChild(el("span", "side-domain", domainLabel[item.domain] || item.domain));
+    if (item.category) {
+      var cat = el("span", "side-category", categoryLabel[item.category] || item.category);
+      cat.title = categoryDesc[item.category] || "";
+      side.appendChild(cat);
+    }
     side.appendChild(el("span", "side-org", item.org));
     var foot = el("div", "side-foot");
     foot.appendChild(el("span", "side-layer", layerLabel[item.layer] || item.layer));
@@ -196,7 +252,21 @@
     meta.appendChild(metaRow("机构", item.org));
     meta.appendChild(metaRow("层级", layerLabel[item.layer] || item.layer));
     meta.appendChild(metaRow("领域", domainLabel[item.domain] || item.domain));
+    meta.appendChild(metaRow("类别", categoryLabel[item.category] || item.category || "未分类"));
     panelBody.appendChild(meta);
+
+    if (item.category) {
+      var catWrap = el("section", "panel-block");
+      catWrap.appendChild(el("h3", "panel-block-title", "这一类"));
+      var catLine = el("p", "panel-cat-line");
+      catLine.appendChild(el("strong", null, categoryLabel[item.category] || item.category));
+      if (categoryDesc[item.category]) catLine.appendChild(document.createTextNode("——" + categoryDesc[item.category] + " "));
+      var catLink = el("a", "panel-cat-link", "看这一类全部 →");
+      catLink.href = "categories.html#cat-" + item.category;
+      catLine.appendChild(catLink);
+      catWrap.appendChild(catLine);
+      panelBody.appendChild(catWrap);
+    }
 
     var whatWrap = el("section", "panel-block");
     whatWrap.appendChild(el("h3", "panel-block-title", "一句话是什么"));
@@ -310,6 +380,16 @@
   chipGroup(document.getElementById("domainChips"), DATA.domains, "domain");
   chipGroup(document.getElementById("layerChips"), DATA.layers, "layer");
   chipGroup(document.getElementById("typeChips"), DATA.types, "type");
+
+  // 领域切换时同步刷新类别筛选
+  document.getElementById("domainChips").addEventListener("click", function () {
+    renderCategoryChips();
+    render(); // 类别可能因为换了领域被重置，需要按新条件重画列表
+  });
+
+  var presetCat = new URLSearchParams(location.search).get("cat");
+  if (presetCat && categoryLabel[presetCat]) state.category = presetCat;
+  renderCategoryChips();
 
   document.getElementById("search").addEventListener("input", function (e) {
     state.q = e.target.value.trim();

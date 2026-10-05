@@ -23,6 +23,13 @@
     discussion: "讨论",
   };
 
+  var CATEGORY_LABEL = {};
+  var CATEGORY_DESC = {};
+  (window.FRONTIER_CATEGORIES || []).forEach(function (c) {
+    CATEGORY_LABEL[c.id] = c.label;
+    CATEGORY_DESC[c.id] = c.desc;
+  });
+
   function el(tag, cls, text) {
     var n = document.createElement(tag);
     if (cls) n.className = cls;
@@ -73,6 +80,11 @@
     meta.appendChild(el("span", "daily-source", item.source));
     meta.appendChild(el("span", "daily-kind", KIND_LABEL[item.kind] || item.kind));
     meta.appendChild(el("span", "daily-domain", DOMAIN_LABEL[item.domain] || item.domain));
+    if (item.category) {
+      var cat = el("span", "daily-category", CATEGORY_LABEL[item.category] || item.category);
+      cat.title = CATEGORY_DESC[item.category] || "";
+      meta.appendChild(cat);
+    }
     if (item.score) meta.appendChild(el("span", "daily-score", item.score + " 分"));
     li.appendChild(meta);
 

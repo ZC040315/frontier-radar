@@ -141,6 +141,38 @@ function strongDomain(text) {
   return null
 }
 
+// 类别判定：领域之下更具体的一层，规则顺序即优先级（越具体越靠前）
+const CATEGORY_RULES = [
+  ['med-imaging', /(medical imaging|radiolog|patholog|ct scan|mri|x-ray|ultrasound|image segmentation|histopath|影像|病理|放射|超声|切片)/i],
+  ['med-drug', /(protein|drug discovery|molecul|antibody|small molecule|genomic|gene therapy|crispr|biolog|vaccine|药物|蛋白|基因|分子|抗体|疫苗)/i],
+  ['med-device', /(wearable|sensor|implant|surgical robot|robotic surgery|continuous monitoring|prosthes|可穿戴|植入|手术机器人|监护设备)/i],
+  ['med-clinic', /(clinical|patient|ehr|medical record|diagnos|triage|consultation|nurse|病历|临床|问诊|诊断|医疗流程|患者)/i],
+  ['ai-agent', /(agentic|multi-agent|tool use|tool calling|function call|mcp\b|a2a\b|workflow automation|autonomous agent|\bagents?\b|智能体|工具调用|多智能体|自动化流程)/i],
+  ['ai-multimodal', /(image generation|video generation|multimodal|text-to-image|text-to-video|3d generat|world model|speech model|voice model|deepfake|多模态|世界模型|文生图|文生视频|语音模型|数字人|换脸|生成视频|生成图片|生成式视频)/i],
+  ['ai-safety', /(ai safety|alignment|hallucinat|evaluat|benchmark|red team|jailbreak|interpretab|misuse|安全|对齐|幻觉|评测|基准|越狱|可解释)/i],
+  ['ai-model', /(language model|\bllm\b|reasoning|pre-?training|fine-?tun|inference|transformer|context window|distillation|quantization|大模型|推理模型|训练|微调|上下文|蒸馏|量化)/i],
+  ['prod-paradigm', /(smart glasses|ar glasses|vr headset|spatial comput|voice interface|brain-computer|brain implant|interaction paradigm|眼镜|头显|空间计算|无屏交互|脑机)/i],
+  ['prod-tools', /(coding assistant|copilot|developer tool|productivity|note-taking|meeting|design tool|writing|notebook|编程助手|生产力|会议|知识管理|设计工具|写作)/i],
+  ['prod-platform', /(app store|agent store|marketplace|distribution platform|ecosystem|api economy|分发|生态|应用商店|平台经济)/i],
+  ['prod-hardware', /(humanoid|home robot|robot vacuum|smart ring|consumer device|drone|人形机器人|家用机器人|智能戒指|消费硬件)/i],
+  ['infra-compute', /(\bgpu\b|\btpu\b|chip|semiconductor|data ?cent|compute cluster|training cost|supercomput|算力|芯片|数据中心|超算|半导体|训练成本)/i],
+  ['infra-data', /(copyright|training data|licens|dataset|data deal|scraping|版权|训练数据|授权|数据集|数据抓取)/i],
+  ['infra-policy', /(regulat|regulator|\bact\b|\blaw\b|compliance|approval|standard|bill|hearing|监管|法案|合规|审批|标准|法规|听证|立法|行政令|政策)/i],
+]
+
+const CATEGORY_FALLBACK = {
+  med: 'med-clinic',
+  ai: 'ai-model',
+  prod: 'prod-tools',
+  infra: 'infra-compute',
+}
+
+function categoryFor(text, domain) {
+  const t = text || ''
+  for (const [id, re] of CATEGORY_RULES) if (re.test(t)) return id
+  return CATEGORY_FALLBACK[domain] || 'ai-model'
+}
+
 // 消费数码 / 商品促销类新闻：不是这个站要的东西，直接丢掉
 const NOISE =
   /(上架|开售|开启预约|开启预售|现已预约|售价|定价为|元起|国补|配色|预热|曝光|发布会定档|促销|降价|优惠|折扣|免运费|游戏《|手游|Steam|开箱评测|直播带货|京东|天猫|拼多多|图赏|上手体验)/i
@@ -153,15 +185,19 @@ function push(item) {
   if (!item.title || !item.url) return
   if (!inRange(item.published)) return
   if (NOISE.test(item.title) || NOISE.test(item.summary)) return
+  const title = clean(item.title)
+  const domain = item.domain || classify(title + ' ' + clean(item.summary))
   results.push({
     id: idFor(normalizeUrl(item.url)),
-    title: clean(item.title).slice(0, 200),
+    title: title.slice(0, 200),
     url: item.url,
     source: item.source,
     kind: item.kind || 'news',
     published: new Date(item.published).toISOString(),
     summary: clip(item.summary, 240),
-    domain: item.domain || classify(clean(item.title) + ' ' + clean(item.summary)),
+    domain,
+    // 类别只看标题：摘要里偶然出现的词（广告、药物之类）容易误伤
+    category: item.category || categoryFor(title, domain),
     score: item.score || 0,
   })
 }

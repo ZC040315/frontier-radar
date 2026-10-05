@@ -1,3 +1,7 @@
 Thumbs.db
 .DS_Store
 *.log
+
+# 定时任务文件需要带 workflow 权限的令牌才能推送；
+# 拿到权限后删掉下面这行，再 git add .github/workflows/daily.yml
+.github/

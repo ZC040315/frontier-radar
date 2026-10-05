@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>地图 · 前沿雷达</title>
-<meta name="description" content="前沿雷达的领域地图：每个节点回答这个领域在解决什么问题、现在卡在哪。">
+<title>分类 · 前沿雷达</title>
+<meta name="description" content="四个领域下的 15 个类别：每一条内容都属于其中一个类别。">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="assets/style.css">
 <script>
@@ -29,29 +29,35 @@
   <nav class="site-nav">
     <a href="index.html">雷达</a>
     <a href="daily.html">每日</a>
-    <a href="categories.html">分类</a>
-    <a class="is-current" href="map.html">地图</a>
+    <a class="is-current" href="categories.html">分类</a>
+    <a href="map.html">地图</a>
     <a href="about.html">关于</a>
   </nav>
 </header>
 
 <main>
   <section class="page-head">
-    <h1>地图</h1>
-    <p class="page-lead">雷达回答「最近有什么」，地图回答「这些东西在整张网的哪个位置」。每个节点只说清两件事：这一块在解决什么问题、现在卡在哪。</p>
-    <p class="hero-meta"><span id="filledNodes">0</span> / <span id="totalNodes">0</span> 个节点已填入内容</p>
+    <h1>分类</h1>
+    <p class="page-lead">
+      领域回答「属于哪一大类」，类别回答「具体是干什么的」。
+      每一条内容——不管是正式条目还是每日线索——都必须落进下面 15 个类别之一，
+      这样「这条信息属于哪一类」就不是靠记忆，而是一个固定字段。
+    </p>
+    <p class="hero-meta" id="categorySummaryLine">正在统计…</p>
   </section>
-  <div id="map"></div>
+
+  <div id="categoryList"></div>
 </main>
 
 <footer class="site-foot">
   <span>前沿雷达</span>
   <span class="foot-dot">·</span>
-  <span>2026</span>
+  <span>15 个类别</span>
 </footer>
 
 <script src="data/items.js"></script>
-<script src="data/map.js"></script>
-<script src="assets/map.js"></script>
+<script src="data/categories.js"></script>
+<script src="data/daily.js"></script>
+<script src="assets/categories.js"></script>
 </body>
 </html>
