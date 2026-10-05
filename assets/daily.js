@@ -96,12 +96,17 @@
 
   var since = new Date(DATA.last24hSince || DATA.generatedAt || Date.now());
   var last24 = items.filter(function (i) { return new Date(i.published) >= since; });
+  // 首页只铺几条：24 小时区块是「快速扫一眼」，不是第二个列表；
+  // 手机上屏幕更窄，收得更狠，免得把正式内容压到第三屏以后。
+  var HOME_LIMIT = window.innerWidth <= 940 ? 3 : 5;
 
   // ---------- 首页：过去 24 小时 ----------
   if (band) {
     var list = band.querySelector(".daily-list");
     var sub = band.querySelector("[data-daily-sub]");
     var more = band.querySelector("[data-daily-more]");
+    var shown = last24.slice(0, HOME_LIMIT);
+    var rest = last24.length - shown.length;
 
     if (sub) {
       sub.textContent =
@@ -123,7 +128,14 @@
       );
       list.appendChild(empty);
     } else {
-      last24.forEach(function (item) { list.appendChild(row(item, true)); });
+      shown.forEach(function (item) { list.appendChild(row(item, true)); });
+      if (rest > 0) {
+        var moreLi = el("li", "daily-more-row");
+        var moreLink = el("a", null, "还有 " + rest + " 条 24 小时内的线索 →");
+        moreLink.href = "daily.html";
+        moreLi.appendChild(moreLink);
+        list.appendChild(moreLi);
+      }
     }
     band.hidden = false;
   }
