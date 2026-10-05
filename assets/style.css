@@ -1073,10 +1073,23 @@ body.panel-open { overflow: hidden; }
 
 .daily-meta {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  text-align: left;
+}
+
+.daily-meta-line {
+  display: flex;
   flex-wrap: wrap;
-  gap: 4px 10px;
+  gap: 3px 8px;
   align-items: baseline;
-  justify-content: flex-end;
+}
+
+/* 项目之间用一个小点分隔，读起来不会糊在一起（纯装饰，不计入对比度要求） */
+.daily-meta-line > * + *::before {
+  content: "· ";
+  color: var(--line-strong);
 }
 
 .daily-source {
@@ -1219,8 +1232,7 @@ body.panel-open { overflow: hidden; }
   font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.06em;
-  color: var(--text);
-  border-bottom: 1px solid var(--line-strong);
+  color: var(--accent);
 }
 
 /* ---------- 分类总览页 ---------- */
@@ -1421,4 +1433,10 @@ body.panel-open { overflow: hidden; }
   .row-title { font-size: 18.5px; }
   .row-orig { font-size: 12px; }
   .daily-row { padding: 10px 0; }
+  /* 手机上一行放得下就并成一排，不再多占一行高度 */
+  .daily-meta {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+  }
 }

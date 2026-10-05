@@ -76,16 +76,24 @@
     if (item.summary) body.appendChild(el("p", "daily-summary", item.summary));
     li.appendChild(body);
 
+    // 元信息固定两行、左对齐：第一行「来源 · 类型」，第二行「领域 · 类别」。
+    // 不要右对齐 + 自动换行——那样每行的左边缘都会跳，整列看起来是歪的。
     var meta = el("div", "daily-meta");
-    meta.appendChild(el("span", "daily-source", item.source));
-    meta.appendChild(el("span", "daily-kind", KIND_LABEL[item.kind] || item.kind));
-    meta.appendChild(el("span", "daily-domain", DOMAIN_LABEL[item.domain] || item.domain));
+
+    var line1 = el("span", "daily-meta-line");
+    line1.appendChild(el("span", "daily-source", item.source));
+    line1.appendChild(el("span", "daily-kind", KIND_LABEL[item.kind] || item.kind));
+    if (item.score) line1.appendChild(el("span", "daily-score", item.score + " 分"));
+    meta.appendChild(line1);
+
+    var line2 = el("span", "daily-meta-line");
+    line2.appendChild(el("span", "daily-domain", DOMAIN_LABEL[item.domain] || item.domain));
     if (item.category) {
       var cat = el("span", "daily-category", CATEGORY_LABEL[item.category] || item.category);
       cat.title = CATEGORY_DESC[item.category] || "";
-      meta.appendChild(cat);
+      line2.appendChild(cat);
     }
-    if (item.score) meta.appendChild(el("span", "daily-score", item.score + " 分"));
+    meta.appendChild(line2);
     li.appendChild(meta);
 
     return li;
