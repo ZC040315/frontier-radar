@@ -5,7 +5,9 @@
 - 线上地址：https://zc040315.github.io/frontier-radar/
 - 计划书：[网站建设计划规划书.md](网站建设计划规划书.md)
 - 首次上线：2026-10-03（48 条，全部逐条联网核实）
-- 每日自动更新：2026-10-04 起，每天早上 08:00 抓取过去 24 小时的前沿线索
+- 每日自动更新：**2026-10-07 起真正启用**，每天早上 08:00（北京时间）抓取过去 24 小时的前沿线索。
+  （10-04 就写好了脚本和 workflow，但因为文件没进版本控制，其实一直没跑过——见
+  [为什么 workflow 推不上去](#为什么-workflow-推不上去踩过的坑)）
 - 来源规则：**只收一手**——学术一手（预印本 + 同行评议期刊）与官方一手（企业研究博客、官方新闻室）。
   **不收任何媒体、自媒体、聚合站与讨论区**。详见 [来源规则](#来源规则只收一手不收转载)。
 - 阅读方式：**在站内读完，不用跳转**——每日线索的原文摘要在站内展开，正式条目有站内正文，链接只用于核对。
@@ -218,6 +220,39 @@ git push
 ```
 
 推上去后 GitHub Pages 会自动重新发布，一两分钟后刷新线上地址就能看到。
+
+---
+
+## 为什么 workflow 推不上去（踩过的坑）
+
+**现象**：`git push` 被拒，报
+
+```
+! [remote rejected] main -> main (refusing to allow a Personal Access Token
+to create or update workflow `.github/workflows/daily.yml` without `workflow` scope)
+```
+
+**原因**：GitHub 规定，创建或修改 `.github/workflows/` 下的文件，令牌必须额外带
+`workflow` 权限——classic 令牌要勾上 `workflow`，fine-grained 令牌要给
+`Workflows: Read and write`。这是防止一个被滥用的令牌偷偷往仓库里塞自动化脚本去偷 secrets。
+
+**另一个更隐蔽的坑**：`.github/` 千万不能写进 `.gitignore`。只在本地放着的话，
+GitHub Actions 永远不会执行它——本地看起来一切正常，线上什么都不发生。
+
+**排查顺序**（每一步都能单独定位问题）：
+
+1. **远端到底有没有这个文件**
+   `https://api.github.com/repos/ZC040315/frontier-radar/contents/.github/workflows/daily.yml`
+   返回 404 = 没推上去，这就是根源。
+2. **令牌对仓库有没有写权限**
+   用 `POST /repos/{owner}/{repo}/git/blobs` 建一个游离 blob（不产生提交、不留痕迹）：
+   201 = 有写权限，403 = 只有读权限（内容写权限没给全）。
+3. **GitHub 有没有识别到这个 workflow**
+   `GET /repos/{owner}/{repo}/actions/workflows`，状态应该是 `active`。
+4. **手动跑一次验证**
+   `POST /repos/{owner}/{repo}/actions/workflows/daily.yml/dispatches`，body `{"ref":"main"}`。
+   成功返回 204，然后看 `GET /repos/{owner}/{repo}/actions/runs` 的状态。
+   真正的成功标志是：仓库里出现一条 `frontier-radar-bot` 的提交。
 
 ---
 
