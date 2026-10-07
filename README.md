@@ -299,6 +299,19 @@ git remote set-url origin https://ZC040315@github.com/ZC040315/frontier-radar.gi
 真正需要认证的是 `git push`。判断方法：看 `cmdkey /list` 里的条目是否存在，
 再用 `git credential-manager get`（注意是 helper 本身，不是 `git credential fill`）确认能取到。
 
+**当前的凭据配置（2026-10-07 实测可用）**：
+
+| 项 | 值 |
+| --- | --- |
+| 令牌类型 | classic PAT，scopes `repo` + `workflow`，只给这个项目用 |
+| 存储键 | `git:https://github.com` 和 `git:https://ZC040315@github.com`，两条都写，避免查找时对不上 |
+| 远端地址 | `https://ZC040315@github.com/ZC040315/frontier-radar.git`（带用户名，让 git 的查找能命中） |
+| 交互开关 | `credential.interactive = false`（本仓库级），认证失败时直接报错、不弹窗 |
+
+**换了令牌之后要重新存一次**：在 GitHub 上点 Regenerate 会**立刻作废旧值**，
+本地推送随即失败（网站和自动更新不受影响，它们不依赖这个令牌）。
+把新值用 `git credential-manager store` 写进上面两个键即可。
+
 ---
 
 ## 上线时的注意事项
