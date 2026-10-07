@@ -58,6 +58,10 @@
     return d.getMonth() + 1 + " 月 " + d.getDate() + " 日 · " + week;
   }
 
+  // 摘要默认只显示开头一小段，点标题就地展开全文——
+  // 每日线索也要能在站内读完，「出处」只作为核对用的备用入口。
+  var PREVIEW_LEN = 110;
+
   function row(item, showTime) {
     var li = el("li", "daily-row");
 
@@ -68,12 +72,35 @@
     }
 
     var body = el("div", "daily-body");
-    var a = el("a", "daily-title", item.title);
-    a.href = item.url;
-    a.target = "_blank";
-    a.rel = "noopener";
-    body.appendChild(a);
-    if (item.summary) body.appendChild(el("p", "daily-summary", item.summary));
+
+    var summary = String(item.summary || "").trim();
+    var hasMore = summary.length > PREVIEW_LEN;
+
+    var toggle = el("button", "daily-toggle");
+    toggle.type = "button";
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.appendChild(el("span", "daily-title", item.title));
+    if (hasMore) toggle.appendChild(el("span", "daily-toggle-label", "展开全文"));
+    body.appendChild(toggle);
+
+    if (summary) {
+      var preview = el("p", "daily-summary", hasMore ? summary.slice(0, PREVIEW_LEN) + "…" : summary);
+      body.appendChild(preview);
+      if (hasMore) {
+        var full = el("p", "daily-summary daily-summary--full", summary);
+        full.hidden = true;
+        body.appendChild(full);
+        toggle.addEventListener("click", function () {
+          var open = toggle.getAttribute("aria-expanded") === "true";
+          var next = !open;
+          toggle.setAttribute("aria-expanded", next ? "true" : "false");
+          var label = toggle.querySelector(".daily-toggle-label");
+          if (label) label.textContent = next ? "收拢" : "展开全文";
+          preview.hidden = next;
+          full.hidden = !next;
+        });
+      }
+    }
     li.appendChild(body);
 
     // 元信息固定两行、左对齐：第一行「来源 · 类型」，第二行「领域 · 类别」。
@@ -82,8 +109,19 @@
 
     var line1 = el("span", "daily-meta-line");
     line1.appendChild(el("span", "daily-source", item.source));
+    if (item.sourceType) {
+      var st = el("span", "daily-sourcetype daily-sourcetype--" + item.sourceType,
+        item.sourceType === "academic" ? "学术一手" : "官方一手");
+      line1.appendChild(st);
+    }
     line1.appendChild(el("span", "daily-kind", KIND_LABEL[item.kind] || item.kind));
     if (item.score) line1.appendChild(el("span", "daily-score", item.score + " 分"));
+    var out = el("a", "daily-out", "出处 ↗");
+    out.href = item.url;
+    out.target = "_blank";
+    out.rel = "noopener";
+    out.title = "去来源页面核对原文";
+    line1.appendChild(out);
     meta.appendChild(line1);
 
     var line2 = el("span", "daily-meta-line");

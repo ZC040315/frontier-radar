@@ -24,6 +24,10 @@
   var byId = {};
   DATA.items.forEach(function (it) { byId[it.id] = it; });
 
+  // 站内正文：data/bodies.js。没有正文的条目不是错误——
+  // 「一句话是什么 + 为什么重要」本身就是站内内容，正文是加分项。
+  var BODIES = window.FRONTIER_BODIES || {};
+
   var state = { domain: "all", layer: "all", type: "all", category: "all", q: "" };
 
   // ---------- 工具 ----------
@@ -188,6 +192,7 @@
       side.appendChild(cat);
     }
     side.appendChild(el("span", "side-org", item.org));
+    if (BODIES[item.id]) side.appendChild(el("span", "side-read", "站内正文"));
     var foot = el("div", "side-foot");
     foot.appendChild(el("span", "side-layer", layerLabel[item.layer] || item.layer));
     var a = el("a", "side-link");
@@ -278,6 +283,27 @@
     whyWrap.appendChild(el("p", null, item.why));
     panelBody.appendChild(whyWrap);
 
+    var sections = BODIES[item.id];
+    if (sections && sections.length) {
+      var readWrap = el("section", "panel-block panel-block--read");
+      readWrap.appendChild(el("h3", "panel-block-title", "站内正文"));
+      sections.forEach(function (s) {
+        var box = el("div", "read-section");
+        box.appendChild(el("h4", "read-h", s.h));
+        box.appendChild(el("p", "read-p", s.p));
+        readWrap.appendChild(box);
+      });
+      var src = el("p", "read-source");
+      src.appendChild(document.createTextNode("以上是我基于一手来源写的解读，不是转载。核对原文："));
+      var srcLink = el("a", null, item.org + " ↗");
+      srcLink.href = item.link;
+      srcLink.target = "_blank";
+      srcLink.rel = "noopener";
+      src.appendChild(srcLink);
+      readWrap.appendChild(src);
+      panelBody.appendChild(readWrap);
+    }
+
     if (item.tags && item.tags.length) {
       var tagWrap = el("section", "panel-block");
       tagWrap.appendChild(el("h3", "panel-block-title", "标签"));
@@ -310,14 +336,16 @@
     }
 
     var actions = el("div", "panel-actions");
-    var go = el("a", "btn-original", "打开原文");
+    var go = el("a", "btn-original", BODIES[item.id] ? "去原文核对" : "站内暂无正文 · 去原文看全文");
     go.href = item.link;
     go.target = "_blank";
     go.rel = "noopener";
     actions.appendChild(go);
     panelBody.appendChild(actions);
 
-    var note = el("p", "panel-note", "内容与日期以原文为准；本条链接已在 2026-10-03 核实可打开。");
+    var note = el("p", "panel-note",
+      "内容与日期以原文为准；本条链接已在 2026-10-03 逐条核实可打开。" +
+      "站内正文由我基于该一手来源撰写，引用只做短句转述。");
     panelBody.appendChild(note);
   }
 

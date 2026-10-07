@@ -3,6 +3,10 @@
 // 只记录来源页面上的事实——标题、时间、来源、链接、原文摘要；
 // 不生成任何评价性文字，「为什么值得知道」那一步永远留给人。
 //
+// 来源规则：只收学术一手（预印本平台、同行评议期刊）和官方一手（企业/机构自己的
+// 研究博客与新闻室）。不收科技媒体、自媒体、聚合站与讨论区。
+// 摘要按原文保留到 1000 字，让读者在站内就能读完，不必点出去。
+//
 // 用法：node scripts/fetch-daily.mjs [--days=7] [--max=60] [--seed]
 //   --days  抓取窗口（默认 7 天，用于凑满「近 7 天」归档）
 //   --seed  首次播种：arXiv 多取一页
@@ -192,9 +196,12 @@ function push(item) {
     title: title.slice(0, 200),
     url: item.url,
     source: item.source,
+    sourceType: item.sourceType || 'official',
     kind: item.kind || 'news',
     published: new Date(item.published).toISOString(),
-    summary: clip(item.summary, 240),
+    // 摘要保留得长一些：每日线索要在站内就能读完，不该逼人点出去。
+    // 1000 字足够覆盖 arXiv / bioRxiv 的完整 abstract。
+    summary: clip(item.summary, 1000),
     domain,
     // 类别只看标题：摘要里偶然出现的词（广告、药物之类）容易误伤
     category: item.category || categoryFor(title, domain),
@@ -229,6 +236,7 @@ async function fetchArxiv() {
           title,
           url: id.trim(),
           source: 'arXiv ' + (cats2[0] || 'preprint'),
+          sourceType: 'academic',
           kind: 'paper',
           published,
           summary,
@@ -247,83 +255,170 @@ async function fetchArxiv() {
   log(`  arXiv：收录最新 ${picked.length} 篇（候选 ${collected.length} 篇）`)
 }
 
-// 2) Hacker News：行业讨论热度
-async function fetchHackerNews() {
-  try {
-    const since = Math.floor(fetchStart.getTime() / 1000)
-    const url = `https://hn.algolia.com/api/v1/search_by_date?tags=story&numericFilters=points%3E200,created_at_i%3E${since}&hitsPerPage=40`
-    const json = await get(url, { as: 'json' })
+// 2) bioRxiv / medRxiv：生物医学预印本（学术一手）
+// 每日线索里的摘要会原样保留在站内，读者不需要点出去才能读完。
+async function fetchBiorxiv() {
+  // 这个接口有两个坑：一是结果按日期「正序」返回（最早的在最前），
+  // 二是每页固定 30 条。所以查 7 天窗口只会拿到第一天的内容。
+  // 对策：只查一个窄窗口（昨天→明天），再靠游标翻两页。
+  const start = new Date(now.getTime() - 36 * 3600 * 1000).toISOString().slice(0, 10)
+  const end = new Date(now.getTime() + 24 * 3600 * 1000).toISOString().slice(0, 10)
+  for (const [server, name] of [
+    ['biorxiv', 'bioRxiv'],
+    ['medrxiv', 'medRxiv'],
+  ]) {
     let used = 0
-    for (const h of json.hits || []) {
+    let seen = 0
+    for (let page = 0; page < 2; page++) {
+      try {
+        const cursor = page * 30
+        const url = `https://api.biorxiv.org/details/${server}/${start}/${end}${cursor ? '/' + cursor : ''}`
+        const json = await get(url, { as: 'json', retries: 2, accept: 'application/json' })
+        const rows = json.collection || []
+        seen += rows.length
+        if (!rows.length) break
+        for (const r of rows) {
+          if (used >= 8) break
+          const title = clean(r.title)
+          if (!title || !inRange(r.date)) continue
+          push({
+            title,
+            url: `https://www.${server}.org/content/${r.doi}v${r.version || 1}`,
+            source: name,
+            sourceType: 'academic',
+            kind: 'paper',
+            published: r.date,
+            summary: r.abstract || '',
+            domain: strongDomain(title) || 'med',
+          })
+          used++
+        }
+      } catch (e) {
+        log(`  ${name} 第 ${page + 1} 页：失败（${e.message}）`)
+      }
       if (used >= 8) break
-      if (!h.title || !h.url || !inRange(h.created_at)) continue
-      // 综合讨论区：标题里必须有技术信号，且按标题判领域
-      if (!/\b(ai|llm|model|agent|robot|chip|gpu|compute|datacenter|copyright|regulation|protocol|algorithm|inference|neural)\b|人工智能|大模型|智能体/i.test(h.title)) continue
-      const domain = strongDomain(h.title)
-      if (!domain) continue
-      push({
-        title: h.title,
-        url: h.url,
-        source: 'Hacker News · ' + h.points + ' 分',
-        kind: 'discussion',
-        published: h.created_at,
-        summary: `${h.points} 分 · ${h.num_comments} 条评论 · 讨论区：https://news.ycombinator.com/item?id=${h.objectID}`,
-        domain,
-        score: h.points,
-      })
-      used++
+      await sleep(1200)
     }
-    log(`  Hacker News：${used} 条`)
-  } catch (e) {
-    log(`  Hacker News：失败（${e.message}）`)
+    log(`  ${name}：${used} 条（抓取窗口 ${start} ~ ${end}，共扫描 ${seen} 条）`)
   }
 }
 
 // 3) RSS 订阅源
+//
+// 来源规则（硬约束）：只收两类一手来源。
+//   academic = 预印本平台、同行评议期刊
+//   official = 企业或机构自己的研究博客、官方新闻室、官方文档
+// 不收：科技媒体、自媒体、聚合站、讨论区——它们是二手转述，会引入标题党，
+// 也会让「一条信息最初是谁说的」变得模糊。
+//
+// topical = true：这个源整体就在讲我们的四个领域，通过 require 后全部收录，
+// 领域交给 classify 判断；没有 topical 的源则要求标题命中强关键词。
 const FEEDS = [
-  // topical = true：这个源本身就在讲我们的四个领域，全部收录；否则走强过滤
-  { url: 'https://openai.com/news/rss.xml', name: 'OpenAI', kind: 'product', max: 6, topical: true },
-  { url: 'https://deepmind.google/blog/rss.xml', name: 'Google DeepMind', kind: 'product', max: 5, topical: true },
-  { url: 'https://www.microsoft.com/en-us/research/feed/', name: 'Microsoft Research', kind: 'paper', max: 4 },
-  // 医学期刊：必须是「技术 / 方法」类进展，纯临床营养试验之类的请出去
+  // ---------- 官方一手：实验室与公司 ----------
+  { url: 'https://openai.com/news/rss.xml', name: 'OpenAI', sourceType: 'official', kind: 'product', max: 6, topical: true },
+  { url: 'https://deepmind.google/blog/rss.xml', name: 'Google DeepMind', sourceType: 'official', kind: 'product', max: 5, topical: true },
+  { url: 'https://blog.google/technology/ai/rss/', name: 'Google AI 官方博客', sourceType: 'official', kind: 'product', max: 5, topical: true },
+  { url: 'https://machinelearning.apple.com/rss.xml', name: 'Apple 机器学习研究', sourceType: 'official', kind: 'paper', max: 4, topical: true },
+  { url: 'https://aws.amazon.com/blogs/machine-learning/feed/', name: 'AWS 机器学习博客', sourceType: 'official', kind: 'product', max: 4, topical: true },
+  { url: 'https://blogs.nvidia.com/feed/', name: 'NVIDIA 官方博客', sourceType: 'official', kind: 'product', max: 4, domain: 'infra', topical: true },
   {
-    url: 'https://www.nature.com/nm.rss',
-    name: 'Nature Medicine',
+    url: 'https://www.microsoft.com/en-us/research/feed/',
+    name: 'Microsoft Research',
+    sourceType: 'official',
     kind: 'paper',
-    max: 5,
-    domain: 'med',
-    require: /\b(ai|artificial intelligence|machine learning|deep learning|algorithm|model|device|sensor|wearable|robot|imaging|diagnos|genom|protein|drug|biomarker|cell-free|digital|sequenc)/i,
+    max: 4,
+    topical: true,
+    require: /\b(ai|artificial intelligence|machine learning|language model|agent|multimodal|robot|medical|health|chip|quantum comput|inference|neural)/i,
   },
-  // Nature 是综合科学刊：只留带技术/方法信号的（半导体、AI、成像等），纯临床或生态话题不要
+  // Meta 新闻室是综合源：只有标题命中技术信号才收
+  {
+    url: 'https://about.fb.com/news/feed/',
+    name: 'Meta 官方新闻室',
+    sourceType: 'official',
+    kind: 'product',
+    max: 4,
+    topical: true,
+    require: /\b(ai|artificial intelligence|machine learning|llama|model|agent|glasses|wearable|headset|robot|spatial)/i,
+  },
+
+  // ---------- 学术一手：同行评议期刊 ----------
+  // 综合科学刊：只留带技术/方法信号的（AI、半导体、成像等），纯生态或纯临床话题不要
   {
     url: 'https://www.nature.com/nature.rss',
     name: 'Nature',
+    sourceType: 'academic',
     kind: 'paper',
     max: 5,
+    topical: true,
     require: /\b(ai|artificial intelligence|machine learning|deep learning|algorithm|model|chip|semiconductor|quantum|robot|imaging|genom|protein|drug|biomarker|digital|comput)/i,
   },
-  { url: 'https://www.technologyreview.com/feed/', name: 'MIT Technology Review', kind: 'news', max: 4 },
-  { url: 'https://spectrum.ieee.org/feeds/feed.rss', name: 'IEEE Spectrum', kind: 'news', max: 4 },
-  { url: 'https://www.ithome.com/rss/', name: 'IT之家', kind: 'news', max: 5 },
-  { url: 'https://www.qbitai.com/feed', name: '量子位', kind: 'news', max: 5, domain: 'ai', topical: true },
   {
-    url: 'https://www.statnews.com/feed/',
-    name: 'STAT News',
-    kind: 'news',
+    url: 'https://www.nature.com/ncomms.rss',
+    name: 'Nature Communications',
+    sourceType: 'academic',
+    kind: 'paper',
+    max: 4,
+    topical: true,
+    require: /\b(ai|artificial intelligence|machine learning|deep learning|algorithm|model|chip|semiconductor|quantum|robot|imaging|genom|protein|drug|biomarker|comput|neural)/i,
+  },
+  // 医学期刊：必须是「技术 / 方法」类进展，纯临床试验报告请出去
+  {
+    url: 'https://www.nature.com/nm.rss',
+    name: 'Nature Medicine',
+    sourceType: 'academic',
+    kind: 'paper',
+    max: 5,
+    domain: 'med',
+    topical: true,
+    require: /\b(ai|artificial intelligence|machine learning|deep learning|algorithm|model|device|sensor|wearable|robot|imaging|diagnos|genom|protein|drug|biomarker|cell-free|digital|sequenc)/i,
+  },
+  {
+    url: 'https://www.nature.com/nbt.rss',
+    name: 'Nature Biotechnology',
+    sourceType: 'academic',
+    kind: 'paper',
     max: 4,
     domain: 'med',
-    require: /\b(ai|artificial intelligence|machine learning|drug|biotech|fda|device|genomic|diagnos|robot|digital health|therapy|vaccine|trial)/i,
+    topical: true,
+    require: /\b(ai|machine learning|deep learning|protein|drug|genom|crispr|biolog|antibody|vaccine|therap|diagnos|model|algorithm|cell)/i,
   },
-  { url: 'https://blogs.nvidia.com/feed/', name: 'NVIDIA', kind: 'product', max: 4, domain: 'infra', topical: true },
   {
-    url: 'https://www.theverge.com/rss/index.xml',
-    name: 'The Verge',
-    kind: 'news',
+    url: 'https://www.nature.com/nmeth.rss',
+    name: 'Nature Methods',
+    sourceType: 'academic',
+    kind: 'paper',
     max: 4,
-    require: /\b(ai|artificial intelligence|robot|glasses|wearable|device|app|software|chip|browser|assistant|model|agent|headset)/i,
+    topical: true,
+    require: /\b(ai|machine learning|deep learning|model|algorithm|imaging|sequenc|proteom|microscop|neural|comput|foundation model)/i,
   },
-  { url: 'https://feeds.arstechnica.com/arstechnica/index', name: 'Ars Technica', kind: 'news', max: 4 },
-  { url: 'https://techcrunch.com/feed/', name: 'TechCrunch', kind: 'news', max: 4 },
+  // 这两本整体就在「数字医疗」这个交叉点上，通过即可收
+  {
+    url: 'https://www.nature.com/natmachintell.rss',
+    name: 'Nature Machine Intelligence',
+    sourceType: 'academic',
+    kind: 'paper',
+    max: 4,
+    domain: 'ai',
+    topical: true,
+  },
+  {
+    url: 'https://www.nature.com/npjdigitalmed.rss',
+    name: 'npj Digital Medicine',
+    sourceType: 'academic',
+    kind: 'paper',
+    max: 4,
+    domain: 'med',
+    topical: true,
+  },
+  {
+    url: 'https://www.thelancet.com/rssfeed/landig_current.xml',
+    name: 'The Lancet Digital Health',
+    sourceType: 'academic',
+    kind: 'paper',
+    max: 4,
+    domain: 'med',
+    topical: true,
+  },
 ]
 
 function parseFeed(xml) {
@@ -375,6 +470,7 @@ async function fetchFeeds() {
           title: row.title,
           url: row.link,
           source: f.name,
+          sourceType: f.sourceType || 'official',
           kind: f.kind,
           published: row.date,
           summary: row.summary,
@@ -416,7 +512,7 @@ async function main() {
   log(`每日抓取开始：现在 ${now.toISOString()}，抓取窗口 ${DAYS} 天${SEED ? '（播种模式）' : ''}`)
   log('数据源：')
   await fetchArxiv()
-  await fetchHackerNews()
+  await fetchBiorxiv()
   await fetchFeeds()
 
   const curated = curatedUrls()
@@ -455,7 +551,8 @@ async function main() {
   }
 
   const header = `// 前沿雷达 · 每日自动收录（GitHub Actions 每天 08:00 生成，请勿手工编辑）
-// 只记录来源页面上的事实：标题、时间、来源、链接、原文摘要；未经策展，判断留给人来做。
+// 来源规则：只收学术一手（arXiv / bioRxiv / medRxiv / 同行评议期刊）与官方一手（企业研究博客与新闻室）。
+// 不收媒体、自媒体与讨论区。只记录来源页面上的事实：标题、时间、来源、链接、原文摘要；未经策展，判断留给人来做。
 // 生成时间：${now.toISOString()}｜抓取窗口：${DAYS} 天｜其中过去 24 小时 ${last24.length} 条
 
 `

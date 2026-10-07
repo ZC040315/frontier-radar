@@ -304,7 +304,7 @@ window.FRONTIER_DATA = {
       what: "把单次可处理的信息量提高到约 100 万 token，可以一次读进长视频、大代码库或上百页文档。",
       why: "上下文窗口以前是模型的天花板，现在成了可以卖的产品功能。理解这个转变，你就理解了为什么 RAG 的做法一直在变。",
       tags: ["上下文窗口", "长文本", "多模态"],
-      link: "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
+      link: "https://blog.google/innovation-and-ai/products/google-gemini-next-generation-model-february-2024/",
       related: ["lostmiddle", "rag"],
       added: "2026-10-03"
     },
@@ -595,7 +595,7 @@ window.FRONTIER_DATA = {
       what: "在眼镜里加入小尺寸显示，并配套一条靠肌电信号识别手指微小动作的腕带，用来完成选择与确认。",
       why: "眼镜要成为入口，难点一直在「怎么输入」。用腕带读手势是在绕开触摸屏和语音的尴尬场景，这是值得盯的方向。",
       tags: ["智能眼镜", "输入方式", "穿戴"],
-      link: "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses/",
+      link: "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
       related: ["visionpro", "oura"],
       added: "2026-10-03"
     },
@@ -709,12 +709,12 @@ window.FRONTIER_DATA = {
       domain: "prod",
       layer: "front",
       category: "prod-hardware",
-      date: "2025-09-23",
+      date: "2025-10-28",
       org: "1X Technologies",
       what: "面向家庭场景的双足人形机器人，主打做家务与日常协助，以预售方式对普通用户开放。",
       why: "人形机器人从演示视频走到可预订，是「能不能进家门」这件事的第一个真实测试，值得持续观察而不是看热闹。",
       tags: ["人形机器人", "消费硬件", "家庭场景"],
-      link: "https://www.1x.tech/neo",
+      link: "https://www.1x.tech/discover/neo-home-robot",
       related: ["sora", "s2hwm"],
       added: "2026-10-03"
     },
@@ -731,7 +731,7 @@ window.FRONTIER_DATA = {
       what: "以戒指形态持续采集睡眠、心率、体温等数据，没有屏幕，只在手机端呈现结论。",
       why: "它证明了一件事：可穿戴不一定要有屏幕，传感器足够好、结论足够清楚就有人戴。这条路和手表是两种答案。",
       tags: ["可穿戴", "传感器", "无屏交互"],
-      link: "https://ouraring.com/blog/introducing-oura-ring-4/",
+      link: "https://ouraring.com/blog/introducing-oura-ring-4-ceramic/",
       related: ["applehealth", "rayban", "stelo"],
       added: "2026-10-03"
     },
@@ -784,7 +784,7 @@ window.FRONTIER_DATA = {
       what: "新一代自研 AI 芯片，强调推理吞吐与能效，并支持更大规模的模型并行。",
       why: "自研芯片是云厂商摆脱单一供应商的方式。看算力格局，不能只看一家，要盯住「谁在用自己的芯片跑自己的模型」。",
       tags: ["算力", "TPU", "推理"],
-      link: "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
+      link: "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ironwood-tpu-age-of-inference/",
       related: ["blackwell", "deepseekv3"],
       added: "2026-10-03"
     },

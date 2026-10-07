@@ -6,6 +6,9 @@
 - 计划书：[网站建设计划规划书.md](网站建设计划规划书.md)
 - 首次上线：2026-10-03（48 条，全部逐条联网核实）
 - 每日自动更新：2026-10-04 起，每天早上 08:00 抓取过去 24 小时的前沿线索
+- 来源规则：**只收一手**——学术一手（预印本 + 同行评议期刊）与官方一手（企业研究博客、官方新闻室）。
+  **不收任何媒体、自媒体、聚合站与讨论区**。详见 [来源规则](#来源规则只收一手不收转载)。
+- 阅读方式：**在站内读完，不用跳转**——每日线索的原文摘要在站内展开，正式条目有站内正文，链接只用于核对。
 
 ---
 
@@ -34,6 +37,7 @@
 │   └── categories.js   ← 分类总览页的渲染
 ├── data/
 │   ├── items.js        ← 正式条目（加内容只改这里）
+│   ├── bodies.js       ← 站内正文（按条目 id 写详情面板里的正文，可只写一部分）
 │   ├── daily.js        ← 每天 08:00 自动生成的线索（请勿手工编辑）
 │   ├── categories.js   ← 类别体系（15 个类别，领域之下更具体的一层）
 │   └── map.js          ← 地图主干结构（节点 + 挂在这一节点下的条目 id）
@@ -59,22 +63,27 @@
 
 | 类型 | 源 |
 | --- | --- |
-| 论文 | arXiv（cs.AI / cs.CL / cs.LG / cs.CV / cs.RO / q-bio.QM / eess.IV） |
-| 官方实验室 | OpenAI、Google DeepMind、Microsoft Research、NVIDIA |
-| 期刊 | Nature、Nature Medicine |
-| 媒体 | Hacker News（≥200 分）、MIT Technology Review、IEEE Spectrum、STAT News、Ars Technica、The Verge、TechCrunch、量子位、IT之家 |
+| 学术一手 · 预印本 | arXiv（cs.AI / cs.CL / cs.LG / cs.CV / cs.RO / q-bio.QM / eess.IV）、bioRxiv、medRxiv |
+| 学术一手 · 期刊 | Nature、Nature Communications、Nature Medicine、Nature Biotechnology、Nature Methods、Nature Machine Intelligence、npj Digital Medicine、The Lancet Digital Health |
+| 官方一手 | OpenAI、Google DeepMind、Google AI 官方博客、Microsoft Research、Apple 机器学习研究、AWS 机器学习博客、Meta 官方新闻室、NVIDIA 官方博客 |
+
+**已移除的源**：Hacker News、MIT Technology Review、IEEE Spectrum、STAT News、Ars Technica、
+The Verge、TechCrunch、量子位、IT之家。原因见下面的「来源规则」。想加减源就改
+`scripts/fetch-daily.mjs` 里的 `FEEDS` 数组和 arXiv 分类。
 
 **过滤规则**（宁可少，不要噪音）：
 
 - 每个源按窗口时间筛选，只收窗口内的条目；
-- 综合类来源（Nature、IT之家、The Verge 等）必须在**标题**里命中四个领域的关键词才收录，
-  正文里偶然提到一次不算；
+- 综合类来源（Nature、Nature Communications、Meta 新闻室等）必须在**标题**里命中四个领域的关键词才收录，
+  正文里偶然提到一次不算；窄口径来源（npj Digital Medicine、The Lancet Digital Health、
+  Nature Machine Intelligence 等）通过关键词闸门后即可收录；
 - 消费数码上市、价格、预约、配色这类快讯直接丢掉；
 - 与正式条目（`data/items.js`）重复的链接不会重复出现；
 - 如果某次所有源都失败，脚本保留原文件不覆盖。
 
-**自动收录 ≠ 已策展**：每日线索只记录来源页面上的标题、时间、链接和原文摘要，
-不写解读、不做判断。觉得哪条值得留下，把它按下面的模板写成正式条目——
+**自动收录 ≠ 已策展**：每日线索只记录来源页面上的标题、时间、来源和原文摘要，
+不写解读、不做判断。摘要按原文保留到 1000 字，在页面上点标题就地展开，**不用点出去**。
+觉得哪条值得留下，把它按下面的模板写成正式条目——
 「为什么值得我知道」这一步永远由人来做。
 
 **手动跑一次**：
@@ -111,11 +120,56 @@ GitHub 会自动暂停定时任务——随便推一次内容就会恢复。
 }
 ```
 
-**第 2 步**：如果这条要挂进地图，打开 `data/map.js`，把它的 `id` 加到某个节点的 `items` 数组里。
+**第 2 步（可选，但强烈建议）**：打开 `data/bodies.js`，给这条写一段站内正文——
+它做了什么、怎么做到的、局限在哪。不写也能正常显示，只是详情面板里少这一段。
 
-**第 3 步**：保存 → 跑一次自检 `node scripts/check-data.mjs` → 刷新 `index.html` 看一眼 → 按下节推送上线。
+**第 3 步**：如果这条要挂进地图，打开 `data/map.js`，把它的 `id` 加到某个节点的 `items` 数组里。
 
-> 规则只有一条：**链接打不开的，不放进来**。宁可这周一条都不加，也不加自己没看懂、或没法核实的条目。
+**第 4 步**：保存 → 跑一次自检 `node scripts/check-data.mjs` → 刷新 `index.html` 看一眼 → 按下节推送上线。
+
+> 规则只有两条：**链接打不开的，不放进来**；**来源必须是学术一手或官方一手**，媒体转载一律不要。
+> 宁可这周一条都不加，也不加自己没看懂、或没法核实的条目。
+
+---
+
+## 来源规则（只收一手，不收转载）
+
+这个站只认两类来源：
+
+| 类别 | 是什么 | 例子 |
+| --- | --- | --- |
+| 学术一手 | 预印本平台与同行评议期刊，看论文本身 | arXiv、bioRxiv、medRxiv、Nature 系列、The Lancet Digital Health |
+| 官方一手 | 发布者自己的研究博客、新闻室与官方文档 | OpenAI、Google DeepMind、Microsoft Research、Apple 机器学习研究、AWS、Meta、NVIDIA |
+
+**明确排除**：科技媒体、自媒体、聚合站与讨论区——36氪、机器之心、量子位、TechCrunch、
+The Verge、Ars Technica、Hacker News 这一类。它们不是骗子，但它们是二手转述：
+标题会为了点击被改写，判断会被掺进来，「这条信息最初是谁说的」也会变模糊。
+
+**代价**：线索量会明显变少，而且明显偏论文。有的事媒体先报、官方后发，你会晚几天知道。
+这个代价是主动接受的——晚几天知道，好过一直只知道别人想让你知道的版本。
+
+**怎么落地**：
+
+- 抓取脚本里只有学术与官方源；`data/daily.js` 的每条线索都带 `sourceType`（`academic` / `official`），
+  在「每日」页显示成「学术一手」或「官方一手」。
+- 正式条目（`data/items.js`）的 `link` 必须指向一手页面，不能指向报道该事件的媒体文章。
+- 加内容前先问一句：这个链接是原始的，还是别人转述的？转述的就不加。
+
+---
+
+## 站内阅读（不用跳转）
+
+链接只用于核对，不是必经之路：
+
+- **每日线索**：抓取时把原文摘要（arXiv / bioRxiv 的 abstract）保留到 1000 字，页面上点标题就地展开。
+  收拢状态只显示前 110 字，避免一屏塞满。出处链接在右侧元信息里，标为「出处 ↗」。
+- **正式条目**：详情面板里渲染 `data/bodies.js` 里的站内正文，按「它做了什么 / 怎么做到的 / 局限在哪」分小节，
+  末尾附一行「以上是我基于一手来源写的解读，不是转载」+ 出处链接。
+- **正文的性质**：自己写的解读，不是转载，也不是翻译全文；引用只做短句转述。
+  48 条正式条目已全部有正文（161 小节）。以后新加的条目如果一时写不出正文也不影响阅读——
+  详情里的「一句话是什么 + 为什么重要」本身就是站内内容，正文是加分项。
+- **改了正文或数据之后**：跑 `node scripts/check-data.mjs` 和 `node scripts/render-check.mjs` 各一次。
+  前者查数据，后者查页面，两条都过了再推送。
 
 ---
 
