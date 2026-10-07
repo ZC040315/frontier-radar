@@ -272,6 +272,33 @@ git config --local credential.interactive false
 一旦凭据不可用就会触发授权流程，是弹窗的主要来源。判断凭据是否正常，
 改用一次 `git ls-remote origin` 计时就够了。
 
+**如果推送报 `unable to get password from user`**：先看凭据到底存在哪个键上。
+运行 `cmdkey /list`，如果看到的是
+
+```
+LegacyGeneric:target=git:https://ZC040315@github.com
+```
+
+（带用户名），而远端地址是 `https://github.com/...`（不带用户名），两边就匹配不上——
+git 按纯主机名去查，查不到，于是要求交互，而交互又被关掉了。
+
+解法是让两边对上，把远端地址也加上用户名：
+
+```powershell
+git remote set-url origin https://ZC040315@github.com/ZC040315/frontier-radar.git
+```
+
+这不会把密码写进配置——用户名不是秘密，凭据仍然存在凭据管理器里。
+
+**如果诊断命令中断了**：可能留下挂起的 `git` / `git-credential-manager` 进程，
+它们会一直等一个永远不会来的交互。用
+`Get-Process | Where-Object { $_.ProcessName -match '^git|credential-manager' }` 查一下，
+有就结束掉。
+
+**判断凭据是否正常**：不能只看 `git ls-remote`——公开仓库可以匿名读，凭据其实是坏的也能成功。
+真正需要认证的是 `git push`。判断方法：看 `cmdkey /list` 里的条目是否存在，
+再用 `git credential-manager get`（注意是 helper 本身，不是 `git credential fill`）确认能取到。
+
 ---
 
 ## 上线时的注意事项
