@@ -1,0 +1,44 @@
+name: 每日雷达更新
+
+# 每天 08:00（北京时间）自动抓取过去 24 小时的前沿线索。
+# GitHub 的 cron 用 UTC：00:00 UTC = 08:00 Asia/Shanghai（中国不实行夏令时）。
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}   # 也可以在 Actions 页面手动跑一次
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 取出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取过去 24 小时的前沿线索
+        run: node scripts/fetch-daily.mjs
+
+      - name: 有变化就提交
+        run: |
+          git config user.name "frontier-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -z "$(git status --porcelain data/daily.js)" ]; then
+            echo "data/daily.js 没有变化，跳过提交"
+            exit 0
+          fi
+          git add data/daily.js
+          git commit -m "每日雷达：更新过去 24 小时线索（$(TZ=Asia/Shanghai date +%Y-%m-%d)）"
+          git push
+          echo "已推送，GitHub Pages 会自动重新发布"

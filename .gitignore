@@ -2,6 +2,5 @@ Thumbs.db
 .DS_Store
 *.log
 
-# 定时任务文件需要带 workflow 权限的令牌才能推送；
-# 拿到权限后删掉下面这行，再 git add .github/workflows/daily.yml
-.github/
+# 注意：.github/ 不能忽略。定时任务文件（.github/workflows/daily.yml）必须被 git 跟踪，
+# GitHub Actions 才会执行它——只在本地放着的话，自动更新永远不会跑。
