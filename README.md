@@ -254,6 +254,24 @@ GitHub Actions 永远不会执行它——本地看起来一切正常，线上�
    成功返回 204，然后看 `GET /repos/{owner}/{repo}/actions/runs` 的状态。
    真正的成功标志是：仓库里出现一条 `frontier-radar-bot` 的提交。
 
+**如果浏览器被反复弹出 GitHub 登录页**：Git 凭据管理器（GCM）默认走浏览器 OAuth。
+当它认为存着的凭据不可用时，它会**打开浏览器跳到 GitHub 授权页**，而不是安静地失败。
+所以只要你连续跑几条需要认证的 git 命令，就可能被连着弹好几次。那些窗口是 GitHub 自己的
+OAuth 页面，不是攻击，直接关掉即可。
+
+不想被弹窗打扰的话，可以在本仓库关掉交互（只影响这个仓库，全局 git 不受影响）：
+
+```powershell
+git config --local credential.interactive false
+```
+
+关掉之后，认证出问题时 git 会直接报错，不会弹窗——对脚本和自动化更安全。
+想恢复交互就把它设回 `true`，或直接删掉这一行。
+
+另外有一条命令排查时别反复跑：`git credential fill`。它是主动向凭据管理器索取凭据，
+一旦凭据不可用就会触发授权流程，是弹窗的主要来源。判断凭据是否正常，
+改用一次 `git ls-remote origin` 计时就够了。
+
 ---
 
 ## 上线时的注意事项
