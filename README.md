@@ -135,11 +135,15 @@ GitHub 会自动暂停定时任务——随便推一次内容就会恢复。
 这一步的判断只能人做，但杂活可以交给脚本：
 
 ```powershell
+git pull                                     # 先拉一下，否则看到的线索是旧的本地版本
 node scripts/promote.mjs                     # 列出最近的线索（带 id）
 node scripts/promote.mjs d-5444ec49f0         # 按 id 生成草稿，直接写进 items.js
 node scripts/promote.mjs osteoporosis         # 也可以给标题关键词（唯一命中才继续）
 node scripts/promote.mjs d-5444ec49f0 --dry   # 只看草稿，不写文件
 ```
+
+`git pull` 那一步别省：`data/daily.js` 是机器人每天提交的，本地那份可能已经落后好几天，
+不拉就会对着一批过期的线索做判断。
 
 **它自动填好**：链接、原标题、日期、领域、类别、类型、入库日期。
 
