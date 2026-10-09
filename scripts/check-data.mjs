@@ -49,6 +49,14 @@ for (const item of DATA.items) {
   for (const r of item.related || []) {
     if (!DATA.items.some((x) => x.id === r)) errors.push(`${item.id} 的相关条目不存在：${r}`)
   }
+
+  // 未写完的草稿必须报错。scripts/promote.mjs 生成的条目会带【待填】占位，
+  // 补完之前不该被推到线上——宁可这里拦住，也别让「一句话是什么：待填」出现在站上。
+  for (const [k, v] of Object.entries(item)) {
+    if (typeof v === 'string' && v.includes('【待填】')) {
+      errors.push(`${item.id} 的「${k}」还是草稿占位，没写完（${v.slice(0, 40)}）`)
+    }
+  }
 }
 
 const usedCats = new Set(DATA.items.map((i) => i.category))
