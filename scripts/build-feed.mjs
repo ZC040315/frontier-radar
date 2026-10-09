@@ -56,7 +56,19 @@ const domainLabel = Object.fromEntries(DATA.domains.map((d) => [d.id, d.label]))
 const entries = []
 
 // ---------- 正式条目 ----------
-for (const it of DATA.items.slice().sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, MAX_CURATED)) {
+// 选「最近策展的 15 条」，按入库时间排，同一天入库的再按论文日期排。
+// 不能按论文日期选：否则你今天收录一条 2017 年的经典，它反而进不了订阅源。
+const curatedPick = DATA.items
+  .slice()
+  .sort((a, b) => {
+    const ka = a.added || a.date
+    const kb = b.added || b.date
+    if (ka !== kb) return ka < kb ? 1 : -1
+    return a.date < b.date ? 1 : -1
+  })
+  .slice(0, MAX_CURATED)
+
+for (const it of curatedPick) {
   const parts = []
   parts.push(`<p><strong>一句话是什么：</strong>${esc(it.what)}</p>`)
   parts.push(`<p><strong>为什么值得你知道：</strong>${esc(it.why)}</p>`)
