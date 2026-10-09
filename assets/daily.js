@@ -155,9 +155,11 @@
     var rest = last24.length - shown.length;
 
     if (sub) {
+      // 只写「每天早上」，不写死具体时间：GitHub 的定时任务会排队延迟，
+      // 写死 8:00 会变成一句站不住的话。真实生成时间放在后面。
       sub.textContent =
-        "每天早上 8:00 自动抓取 · 数据生成于 " +
-        hm(DATA.generatedAt) +
+        "每天早上自动抓取 · 数据生成于 " +
+        localDate(DATA.generatedAt) + " " + hm(DATA.generatedAt) +
         " · 近 7 天共 " +
         items.length +
         " 条";
@@ -191,13 +193,14 @@
     var host = full.querySelector(".daily-days");
     var head = document.querySelector("[data-daily-head]");
     if (head) {
+      // 本地时间（北京时间），不显示 UTC——读者在这里，不在格林尼治
       head.textContent =
-        "数据生成于 " + DATA.generatedAt.replace("T", " ").slice(0, 16) + "（UTC）" +
+        "数据生成于 " + localDate(DATA.generatedAt) + " " + hm(DATA.generatedAt) +
         " · 共 " + items.length + " 条 · 其中过去 24 小时 " + last24.length + " 条";
     }
 
     if (!items.length) {
-      host.appendChild(el("p", "daily-empty", "还没有抓取记录，等下一个 08:00。"));
+      host.appendChild(el("p", "daily-empty", "还没有抓取记录，等下一次自动抓取。"));
     } else {
       var groups = {};
       items.forEach(function (item) {

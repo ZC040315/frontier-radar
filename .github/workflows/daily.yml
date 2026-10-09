@@ -1,10 +1,15 @@
 name: 每日雷达更新
 
-# 每天 08:00（北京时间）自动抓取过去 24 小时的前沿线索。
-# GitHub 的 cron 用 UTC：00:00 UTC = 08:00 Asia/Shanghai（中国不实行夏令时）。
+# 每天早上自动抓取过去 24 小时的前沿线索。
+# GitHub 的 cron 用 UTC：00:23 UTC = 08:23 Asia/Shanghai（中国不实行夏令时）。
+#
+# 为什么不是整点 00:00：实测 2026-10-08 / 10-09 两次，00:00 档口的定时任务
+# 分别延迟到 05:11 和 05:14 UTC 才真正执行（晚了 5 个多小时）。
+# GitHub 官方就提示过整点和午夜是最拥堵的档口，所以这里错开 23 分钟。
+# 另外网页上的文案不写死具体时间，只写「每天早上」——调度延迟不由我们控制。
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '23 0 * * *'
   workflow_dispatch: {}   # 也可以在 Actions 页面手动跑一次
 
 permissions:
@@ -30,15 +35,18 @@ jobs:
       - name: 抓取过去 24 小时的前沿线索
         run: node scripts/fetch-daily.mjs
 
+      - name: 重新生成订阅源 feed.xml
+        run: node scripts/build-feed.mjs
+
       - name: 有变化就提交
         run: |
           git config user.name "frontier-radar-bot"
           git config user.email "actions@users.noreply.github.com"
-          if [ -z "$(git status --porcelain data/daily.js)" ]; then
-            echo "data/daily.js 没有变化，跳过提交"
+          if [ -z "$(git status --porcelain data/daily.js feed.xml)" ]; then
+            echo "没有变化，跳过提交"
             exit 0
           fi
-          git add data/daily.js
+          git add data/daily.js feed.xml
           git commit -m "每日雷达：更新过去 24 小时线索（$(TZ=Asia/Shanghai date +%Y-%m-%d)）"
           git push
           echo "已推送，GitHub Pages 会自动重新发布"

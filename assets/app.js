@@ -28,6 +28,23 @@
   // 「一句话是什么 + 为什么重要」本身就是站内内容，正文是加分项。
   var BODIES = window.FRONTIER_BODIES || {};
 
+  // 搜索索引：初始化时算一次，避免每敲一个字就重新拼 48 次字符串。
+  // 正文必须进索引——「KV-cache」「量化」「Virchow」这类词只出现在正文里，
+  // 不带上它就等于那 1.6 万字搜不到。
+  var searchText = {};
+  DATA.items.forEach(function (it) {
+    var body = (BODIES[it.id] || []).map(function (s) { return s.h + " " + s.p; }).join(" ");
+    searchText[it.id] = [
+      it.titleZh,
+      it.titleOrig,
+      it.what,
+      it.why,
+      it.org,
+      (it.tags || []).join(" "),
+      body
+    ].join(" ").toLowerCase();
+  });
+
   var state = { domain: "all", layer: "all", type: "all", category: "all", q: "" };
 
   // ---------- 工具 ----------
@@ -136,10 +153,7 @@
     if (state.type !== "all" && item.type !== state.type) return false;
     if (state.category !== "all" && item.category !== state.category) return false;
     if (state.q) {
-      var hay = [item.titleZh, item.titleOrig, item.what, item.why, item.org, item.tags.join(" ")]
-        .join(" ")
-        .toLowerCase();
-      if (hay.indexOf(state.q.toLowerCase()) === -1) return false;
+      if (searchText[item.id].indexOf(state.q.toLowerCase()) === -1) return false;
     }
     return true;
   }

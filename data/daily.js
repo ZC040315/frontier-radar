@@ -1,38 +1,38 @@
 // 前沿雷达 · 每日自动收录（GitHub Actions 每天 08:00 生成，请勿手工编辑）
 // 来源规则：只收学术一手（arXiv / bioRxiv / medRxiv / 同行评议期刊）与官方一手（企业研究博客与新闻室）。
 // 不收媒体、自媒体与讨论区。只记录来源页面上的事实：标题、时间、来源、链接、原文摘要；未经策展，判断留给人来做。
-// 生成时间：2026-10-09T05:14:51.104Z｜抓取窗口：7 天｜其中过去 24 小时 25 条
+// 生成时间：2026-10-09T08:40:46.940Z｜抓取窗口：7 天｜其中过去 24 小时 25 条
 
 window.FRONTIER_DAILY = {
-  "generatedAt": "2026-10-09T05:14:51.104Z",
-  "windowStart": "2026-10-02T05:14:51.104Z",
-  "last24hSince": "2026-10-08T05:14:51.104Z",
+  "generatedAt": "2026-10-09T08:40:46.940Z",
+  "windowStart": "2026-10-02T08:40:46.940Z",
+  "last24hSince": "2026-10-08T08:40:46.940Z",
   "days": 7,
   "counts": {
-    "total": 60,
+    "total": 69,
     "last24h": 25,
     "byDomain": {
-      "med": 7,
-      "infra": 3,
-      "ai": 42,
-      "prod": 8
+      "med": 28,
+      "ai": 36,
+      "prod": 5
     },
     "bySource": {
       "npj": 4,
-      "NVIDIA": 3,
-      "AWS": 6,
-      "arXiv": 28,
-      "OpenAI": 7,
+      "Nature": 17,
+      "AWS": 4,
+      "arXiv": 14,
+      "OpenAI": 6,
       "Meta": 2,
-      "Nature": 7,
-      "Apple": 1,
-      "Microsoft": 1,
+      "Apple": 3,
+      "Microsoft": 2,
+      "medRxiv": 8,
+      "bioRxiv": 8,
       "Google": 1
     }
   },
   "items": [
     {
-      "id": "d-dbe5377ae4",
+      "id": "d-3505b17ed9",
       "title": "Implementing and Scaling Artificial Intelligence in Low-Resourced Radiation Oncology: A Systematic Review of Deployments",
       "url": "https://www.nature.com/articles/s41746-026-03391-x",
       "source": "npj Digital Medicine",
@@ -45,7 +45,20 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-acf874b05f",
+      "id": "d-bb8844d798",
+      "title": "Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum",
+      "url": "https://www.nature.com/articles/s41746-026-03376-w",
+      "source": "npj Digital Medicine",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-09T00:00:00.000Z",
+      "summary": "npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03376-w Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-5444ec49f0",
       "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
       "url": "https://www.nature.com/articles/s41746-026-03333-7",
       "source": "npj Digital Medicine",
@@ -58,7 +71,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-0fd6a9f37a",
+      "id": "d-315b4ae664",
       "title": "A scoping review of digital health technologies in glycogen storage diseases",
       "url": "https://www.nature.com/articles/s41746-026-03308-8",
       "source": "npj Digital Medicine",
@@ -71,20 +84,33 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-1112027d59",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA 官方博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-08T21:06:35.000Z",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
-      "domain": "infra",
-      "category": "ai-agent",
+      "id": "d-e20e55b254",
+      "title": "Multi-omics profiling uncovers diagnostic biomarker panel, progression-associated subtypes, and prognostic signature in pediatric mitochondrial disease",
+      "url": "https://www.nature.com/articles/s41467-026-78387-y",
+      "source": "Nature Communications",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-09T00:00:00.000Z",
+      "summary": "Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78387-y Pediatric mitochondrial disease lacks reliable biomarkers. Here, the authors show that a multi-omics study identified a 7-feature diagnostic panel (AUC = 0.96), revealed two proteomic subtypes with differing outcomes, and developed a 12-transcript prognostic signature (AUC = 0.85).",
+      "domain": "med",
+      "category": "med-clinic",
       "score": 0
     },
     {
-      "id": "d-ea6ac6a92e",
+      "id": "d-3ef3da3d29",
+      "title": "Genome architecture drives antifungal resistance in Candida auris",
+      "url": "https://www.nature.com/articles/s41467-026-78280-8",
+      "source": "Nature Communications",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-09T00:00:00.000Z",
+      "summary": "Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78280-8 Antifungal resistance often results from mutations in drug target genes. However, Narayanan et al. show that segmental duplication and supernumerary chromosomes also contribute to resistance in the emerging fungal pathogen Candida auris. The work expands the genetic basis of antifungal resistance and redefines the mutation-centric paradigm.",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-25dbe6cd05",
       "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
       "url": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
       "source": "AWS 机器学习博客",
@@ -97,9 +123,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-201e0d17aa",
+      "id": "d-d5f31ccfe2",
       "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-      "url": "http://arxiv.org/abs/2610.12469v1",
+      "url": "https://arxiv.org/abs/2610.12469v1",
       "source": "arXiv cs.CV",
       "sourceType": "academic",
       "kind": "paper",
@@ -110,9 +136,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-ff6ccb8a93",
+      "id": "d-ff2470b3da",
       "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-      "url": "http://arxiv.org/abs/2610.12470v1",
+      "url": "https://arxiv.org/abs/2610.12470v1",
       "source": "arXiv cs.RO",
       "sourceType": "academic",
       "kind": "paper",
@@ -123,9 +149,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-ca0a968466",
+      "id": "d-cf84355da7",
       "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-      "url": "http://arxiv.org/abs/2610.12468v1",
+      "url": "https://arxiv.org/abs/2610.12468v1",
       "source": "arXiv cs.RO",
       "sourceType": "academic",
       "kind": "paper",
@@ -136,9 +162,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-332463a96e",
+      "id": "d-a6c26f5a89",
       "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-      "url": "http://arxiv.org/abs/2610.12465v1",
+      "url": "https://arxiv.org/abs/2610.12465v1",
       "source": "arXiv cs.RO",
       "sourceType": "academic",
       "kind": "paper",
@@ -149,9 +175,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-49a57661c6",
+      "id": "d-a2e3b7dfc4",
       "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "url": "http://arxiv.org/abs/2610.12466v1",
+      "url": "https://arxiv.org/abs/2610.12466v1",
       "source": "arXiv cs.AI",
       "sourceType": "academic",
       "kind": "paper",
@@ -162,9 +188,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-af1226efb3",
+      "id": "d-970446761c",
       "title": "CSF: Contextual Safety Filtering for Motion Generators",
-      "url": "http://arxiv.org/abs/2610.12467v1",
+      "url": "https://arxiv.org/abs/2610.12467v1",
       "source": "arXiv cs.RO",
       "sourceType": "academic",
       "kind": "paper",
@@ -175,9 +201,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-bcd195598f",
+      "id": "d-669fda7f77",
       "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-      "url": "http://arxiv.org/abs/2610.12464v1",
+      "url": "https://arxiv.org/abs/2610.12464v1",
       "source": "arXiv cs.CV",
       "sourceType": "academic",
       "kind": "paper",
@@ -188,9 +214,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-76e5394d6f",
+      "id": "d-f7e09adab1",
       "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "url": "http://arxiv.org/abs/2610.12463v1",
+      "url": "https://arxiv.org/abs/2610.12463v1",
       "source": "arXiv cs.CR",
       "sourceType": "academic",
       "kind": "paper",
@@ -201,9 +227,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-d5330a0781",
+      "id": "d-510733e846",
       "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-      "url": "http://arxiv.org/abs/2610.12461v1",
+      "url": "https://arxiv.org/abs/2610.12461v1",
       "source": "arXiv cs.CV",
       "sourceType": "academic",
       "kind": "paper",
@@ -214,9 +240,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-7246d54167",
+      "id": "d-00de1ecde2",
       "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
-      "url": "http://arxiv.org/abs/2610.12459v1",
+      "url": "https://arxiv.org/abs/2610.12459v1",
       "source": "arXiv cs.CV",
       "sourceType": "academic",
       "kind": "paper",
@@ -227,9 +253,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-58cf251ce8",
+      "id": "d-ebedac857b",
       "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-      "url": "http://arxiv.org/abs/2610.12458v1",
+      "url": "https://arxiv.org/abs/2610.12458v1",
       "source": "arXiv cs.CV",
       "sourceType": "academic",
       "kind": "paper",
@@ -240,9 +266,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-404c0675dd",
+      "id": "d-5b20e9df21",
       "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
-      "url": "http://arxiv.org/abs/2610.12457v1",
+      "url": "https://arxiv.org/abs/2610.12457v1",
       "source": "arXiv cs.RO",
       "sourceType": "academic",
       "kind": "paper",
@@ -253,9 +279,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-6e34d089b4",
+      "id": "d-9a18d7c2d3",
       "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
-      "url": "http://arxiv.org/abs/2610.12455v1",
+      "url": "https://arxiv.org/abs/2610.12455v1",
       "source": "arXiv cs.HC",
       "sourceType": "academic",
       "kind": "paper",
@@ -266,9 +292,9 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-2d01812af8",
+      "id": "d-2f6aa5444f",
       "title": "BrickBench: Evaluating Agentic Brick Design",
-      "url": "http://arxiv.org/abs/2610.12452v1",
+      "url": "https://arxiv.org/abs/2610.12452v1",
       "source": "arXiv cs.AI",
       "sourceType": "academic",
       "kind": "paper",
@@ -279,7 +305,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-d66892423b",
+      "id": "d-dbdf794bff",
       "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
       "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
       "source": "AWS 机器学习博客",
@@ -292,7 +318,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-112b5f0087",
+      "id": "d-4460c9147c",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "source": "OpenAI",
@@ -305,20 +331,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-6b3eb2e65b",
-      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-      "source": "NVIDIA 官方博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-08T13:00:46.000Z",
-      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to purchase GeForce NOW memberships directly through [&#8230;]",
-      "domain": "infra",
-      "category": "infra-compute",
-      "score": 0
-    },
-    {
-      "id": "d-f6d3626eb7",
+      "id": "d-a282385ac7",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "source": "OpenAI",
@@ -331,7 +344,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-ca1ec6c6a1",
+      "id": "d-a8064e4f07",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "url": "https://openai.com/index/pollo-ai",
       "source": "OpenAI",
@@ -344,7 +357,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-def08189a2",
+      "id": "d-0b76b152e2",
       "title": "Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
       "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
       "source": "Meta 官方新闻室",
@@ -357,33 +370,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-55c055b06a",
-      "title": "APOE2 attenuates APOE4 -associated amyloid pathology and related toxicity in a mouse model of Alzheimer’s disease",
-      "url": "https://www.nature.com/articles/s41467-026-78407-x",
-      "source": "Nature Communications",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-08T00:00:00.000Z",
-      "summary": "Nature Communications, Published online: 08 October 2026; doi:10.1038/s41467-026-78407-x Chen and colleagues use a heterozygous mouse model carrying human APOE2 and APOE4 alleles to show that APOE2 attenuates APOE4- associated effects on brain amyloid pathology and related cellular and molecular changes.",
-      "domain": "med",
-      "category": "med-imaging",
-      "score": 0
-    },
-    {
-      "id": "d-fb766e8ed1",
-      "title": "Infant neurodevelopmental impairment detection via large-scale motion screening with generative learning",
-      "url": "https://www.nature.com/articles/s41746-026-03180-6",
-      "source": "npj Digital Medicine",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-08T00:00:00.000Z",
-      "summary": "npj Digital Medicine, Published online: 08 October 2026; doi:10.1038/s41746-026-03180-6 Infant neurodevelopmental impairment detection via large-scale motion screening with generative learning",
-      "domain": "med",
-      "category": "med-clinic",
-      "score": 0
-    },
-    {
-      "id": "d-c888bd19c8",
+      "id": "d-5d384b7633",
       "title": "Tangermeme: a toolkit for understanding cis- regulatory logic using deep learning models",
       "url": "https://www.nature.com/articles/s41592-026-03254-z",
       "source": "Nature Methods",
@@ -396,7 +383,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-1a54ce3596",
+      "id": "d-461b44a4d9",
       "title": "Author Correction: Natural killer T cells and CD8 + T cells are dispensable for T cell–dependent allergic airway inflammation",
       "url": "https://www.nature.com/articles/s41591-026-04709-8",
       "source": "Nature Medicine",
@@ -409,7 +396,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-636501e9ad",
+      "id": "d-7333b3b34b",
       "title": "Will AI scoop your science? Some researchers see a gloomy future",
       "url": "https://www.nature.com/articles/d41586-026-03128-6",
       "source": "Nature",
@@ -422,7 +409,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-3eb58524a8",
+      "id": "d-ecbc1c28c6",
       "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
       "url": "https://www.nature.com/articles/s41586-026-11266-0",
       "source": "Nature",
@@ -435,7 +422,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-a0839e2334",
+      "id": "d-7a99adbbaf",
       "title": "Normalizing Trajectory Models",
       "url": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
       "source": "Apple 机器学习研究",
@@ -448,7 +435,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-077dea1e8a",
+      "id": "d-a3558e48f2",
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "source": "OpenAI",
@@ -461,7 +448,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-12cf730ba9",
+      "id": "d-9469585aeb",
       "title": "Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach",
       "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
       "source": "Meta 官方新闻室",
@@ -474,7 +461,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-524a477f27",
+      "id": "d-72e2be4fdc",
       "title": "Introducing Claude Haiku 5.5 on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
       "source": "AWS 机器学习博客",
@@ -487,20 +474,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-6f02344687",
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "source": "NVIDIA 官方博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-07T18:45:28.000Z",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you [&#8230;]",
-      "domain": "infra",
-      "category": "ai-agent",
-      "score": 0
-    },
-    {
-      "id": "d-8869352ca1",
+      "id": "d-b2d6d02bc4",
       "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
       "source": "AWS 机器学习博客",
@@ -513,189 +487,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-62a0cb6433",
-      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-      "url": "http://arxiv.org/abs/2610.10539v1",
-      "source": "arXiv cs.CV",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:59:48.000Z",
-      "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently or couple them implicitly, providing limited guidance for ensuring fine-grained spatial compatibility between neighboring objects that interact with one another. To address this, we explicitly condition the generation of each object on the geometry of surrounding objects and their physical relationships, guiding its shape and pose to remain geometrically and physically plausible within the scene. Moreover, we introduce ComOb, a physics simulation-based dataset of 1.2M scenes featuring physical interactions across diverse object categories, with per-object meshes and pairwise physical relation annotations. Comprehensive experiments on synthetic and realworld scenes show that Tetris3D recovers coherent object shapes and poses even when interacting regions are occluded, …",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-457bf79862",
-      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "url": "http://arxiv.org/abs/2610.10538v1",
-      "source": "arXiv cs.CV",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:59:41.000Z",
-      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise. Short descriptions preserve details such as an object's contents or supporting surface. It saves these records to later answer spatial questions without having to access the original images or video…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-fb492828d9",
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "url": "http://arxiv.org/abs/2610.10536v1",
-      "source": "arXiv cs.LG",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:59:26.000Z",
-      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them into a separate student policy. The student policy is then trained without a novelty bonus. We repeat the above procedure for several rounds, alternating between exploration and optimization. This de…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-588cce076f",
-      "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
-      "url": "http://arxiv.org/abs/2610.10534v1",
-      "source": "arXiv cs.RO",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:58:53.000Z",
-      "summary": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy methods enable human correction through teleoperation, but specialized hardware and operator training hinder deployment at scale. Other approaches incorporate human guidance as additional policy inputs, often requiring architectural changes and dedicated training for steerability, which limits their applicability across policies. We present RoboPrompt, a general-purpose, lightweight robot policy steering system that enables users to guide policy behavior through intuitive, sparse inputs, including drawn traces, target points, and coarse directional instructions. RoboPrompt decouples human-intention translation from the underlying policy: a reusable module converts human guidance into action drafts, which are refined through the diffusion or flow-matching dynamics of the base policy. By contro…",
-      "domain": "prod",
-      "category": "prod-tools",
-      "score": 0
-    },
-    {
-      "id": "d-de0f909ac0",
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "url": "http://arxiv.org/abs/2610.10533v1",
-      "source": "arXiv cs.CL",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:58:52.000Z",
-      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory representations that make the model predict the updated fact across multiple expressions. It then jointly updates the shared n-gram embeddings to match these targets across expressions and edits, penalizing u…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-5a45b00667",
-      "title": "Long-WAM: Scaling the Context of World-Action Models",
-      "url": "http://arxiv.org/abs/2610.10528v1",
-      "source": "arXiv cs.RO",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:58:04.000Z",
-      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pretraining further raises peak success on GR-1 and LIBERO-Long. Long-WAM also achieves the best results among compared methods on LIBERO-Long, RoboTwin 2.0, and DOMINO. Streaming observation encoding, …",
-      "domain": "prod",
-      "category": "prod-tools",
-      "score": 0
-    },
-    {
-      "id": "d-00751c51e3",
-      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-      "url": "http://arxiv.org/abs/2610.10527v1",
-      "source": "arXiv math.OC",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:57:58.000Z",
-      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smooth non-convex costs under bounded $p$-th moment noise, $p \\in (1,2]$, we show that clipped $\\mathtt{DSGD}$ achieves order-optimal rates both with high probability and in expectation. Moreover, we es…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-0e58d8d201",
-      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-      "url": "http://arxiv.org/abs/2610.10526v1",
-      "source": "arXiv cs.RO",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:57:38.000Z",
-      "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically tested single-edit swings and an oracle phrase search, which shows that phrasing alone nearly closes the 21-point gap between in-distribution and out-of-distribution tasks. We then reduce it without modifying the policy. Because the sensitivity is systematic, it can be expressed as explicit rules: we score many phrasings of a few training tasks, have a large language model distill the evidence into ten to twenty rephrasing rules, and at deployment rewrite each incoming instruction once under these …",
-      "domain": "prod",
-      "category": "infra-policy",
-      "score": 0
-    },
-    {
-      "id": "d-eb73721cc7",
-      "title": "GRACE: Generation-aware latent compression for efficient video generation",
-      "url": "http://arxiv.org/abs/2610.10524v1",
-      "source": "arXiv cs.CV",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:57:34.000Z",
-      "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challenging to train, since a higher compression ratio degrades reconstruction quality and recovering it requires more channels, which is known to slow the convergence of the DiT. The compressed latent also differs from the one the DiT was trained on, so the pretrained DiT must be either retrained from scratch or adapted at considerable cost. Compressing the autoencoder the DiT was trained with appears to preserve compatibility, yet optimizing it for reconstruction alone still shifts the latent away from the distribution the DiT has learned. To address this, we propose Generation-Aware Latent Compression for Efficient Video Generation (GRACE), a two-stage framework that compresses a pretrained video autoencoder while keeping it compatible with the pretrained DiT. Specifically, we keep a frozen …",
-      "domain": "ai",
-      "category": "ai-multimodal",
-      "score": 0
-    },
-    {
-      "id": "d-fe95446bb1",
-      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-      "url": "http://arxiv.org/abs/2610.10520v1",
-      "source": "arXiv cs.LG",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:56:01.000Z",
-      "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space. On sparse graphs, the student suffers from spectral underfit, missing high-energy teacher directions concentrated near boundary regions. On dense graphs, it suffers from spectral overfit, retaining spurious directions that the teacher has collapsed through aggregation. Motivated by an energy-weighted teacher-student alignment objective, we propose Graph Geometry-aware MLP (G^2MLP), a training-time distillation framework guided by Ollivier-Ricci curvature. Curvature identifies where the two spectral errors concentrate and is used to allocate supervision between pre…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-06114f2aae",
-      "title": "Why Forget-Only Unlearning Needs Memorization",
-      "url": "http://arxiv.org/abs/2610.10519v1",
-      "source": "arXiv cs.LG",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:55:46.000Z",
-      "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show that this depends on the learning method: different datasets can produce the same trained model but require very different outputs after the same examples are removed. Using this observation, we derive lower bounds on how accurately unlearning can match retraining and instantiate them for several standard learning algorithms. We then ask what must be true when forget-only unlearning succeeds. To this end, we derive lower bounds on what an algorithm must memorize about the training data to handle arbitrary deletion requests. For simple threshold learners, the required information can be as large …",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-060d6be6ff",
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "url": "http://arxiv.org/abs/2610.10515v1",
-      "source": "arXiv cs.AI",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:54:42.000Z",
-      "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments. We show that RoboJEPA's imagination error, the error of its latent rollouts, follows a second-order power law in compute, allowing us to predict model quality well beyond the scale at which the law is fit. We further show that downstream robotic planning performance improves predictably with compute, and that imagination error is strongly correlated with it, making it a reliable proxy for real-robot evaluation. Finally, we demonstrate that latent world models can be deployed zero-shot as robotic agents, planning toward a single goal …",
-      "domain": "ai",
-      "category": "ai-multimodal",
-      "score": 0
-    },
-    {
-      "id": "d-63030f1475",
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "url": "http://arxiv.org/abs/2610.10513v1",
-      "source": "arXiv cs.AI",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:52:52.000Z",
-      "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a published model in the same way. Across twelve agent systems, six produce models that score higher than the published model, mainly through better reconstruction and forecasting. The simplified forms o…",
-      "domain": "ai",
-      "category": "ai-agent",
-      "score": 0
-    },
-    {
-      "id": "d-29ba5936d4",
-      "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
-      "url": "http://arxiv.org/abs/2610.10512v1",
-      "source": "arXiv cs.CV",
-      "sourceType": "academic",
-      "kind": "paper",
-      "published": "2026-10-07T17:52:23.000Z",
-      "summary": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsistent. To address this problem, we propose JoHan, a unified generative framework that recovers hand motion directly from video sequences without relying on intermediate per-frame pose predictions. Trained from scratch, our model jointly generates aligned 2D and 3D local hand pose sequences by learning their temporal dynamics and cross-representation correspondence. The generated 2D trajectories exploit direct spatial and temporal cues from the 2D images to guide the following generative 3D motion reconstruction, while the learned motion prior promotes temporal consistency. Their learned 2D-3D correspondence further enables recovery of the hand's global position and orientation relative to the camera. Extensive experiments on challenging benchmarks demonstrate significantly improved accurac…",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-c7de22c7db",
+      "id": "d-2027720e7c",
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
       "source": "Microsoft Research",
@@ -708,46 +500,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-ca46a2fab5",
-      "title": "Beyond hours saved: Building the business case for agentic automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "source": "AWS 机器学习博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-07T15:50:00.000Z",
-      "summary": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate first.",
-      "domain": "ai",
-      "category": "ai-agent",
-      "score": 0
-    },
-    {
-      "id": "d-61fcf1bc1c",
-      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
-      "source": "AWS 机器学习博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-07T15:48:46.000Z",
-      "summary": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region inference and Amazon Bedrock Guardrails delivers trusted AI at global scale.",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-ea4f899dc8",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI 官方博客",
-      "sourceType": "official",
-      "kind": "product",
-      "published": "2026-10-07T12:00:00.000Z",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "domain": "ai",
-      "category": "ai-model",
-      "score": 0
-    },
-    {
-      "id": "d-ad4e14640e",
+      "id": "d-55de72e961",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
       "source": "OpenAI",
@@ -760,7 +513,7 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-04e9dc3828",
+      "id": "d-4a0a7ea468",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "url": "https://openai.com/index/radisson",
       "source": "OpenAI",
@@ -773,40 +526,404 @@ window.FRONTIER_DAILY = {
       "score": 0
     },
     {
-      "id": "d-0ca1450969",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "kind": "product",
+      "id": "d-c1c173a1d6",
+      "title": "Characterizing the role of reasoning tokens in large language models as state over tokens",
+      "url": "https://www.nature.com/articles/s42256-026-01303-y",
+      "source": "Nature Machine Intelligence",
+      "sourceType": "academic",
+      "kind": "paper",
       "published": "2026-10-07T00:00:00.000Z",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "summary": "Nature Machine Intelligence, Published online: 07 October 2026; doi:10.1038/s42256-026-01303-y When large language models ‘reason’ about a problem, they might still solve it differently from what their reasoning transcript suggest. In this Perspective, Levy et al. describe how one can start investigating the role of these reasoning tokens.",
       "domain": "ai",
       "category": "ai-model",
       "score": 0
     },
     {
-      "id": "d-27abe4300f",
-      "title": "‘When prevention disappears, infections rise’: can the world still end AIDS?",
-      "url": "https://www.nature.com/articles/d41586-026-03127-7",
+      "id": "d-c2c22d43cb",
+      "title": "Emotional optimization by newsroom AI needs behavioural evaluation",
+      "url": "https://www.nature.com/articles/s42256-026-01315-8",
+      "source": "Nature Machine Intelligence",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Nature Machine Intelligence, Published online: 07 October 2026; doi:10.1038/s42256-026-01315-8 When newsroom artificial intelligence (AI) engages in emotional packaging, it changes how a story feels, shaping whether people approach, trust and share it. As these systems are designed and deployed, AI and behavioural researchers should work together to test whether emotional packaging helps accurate information reach readers, and whether it deepens division.",
+      "domain": "ai",
+      "category": "ai-safety",
+      "score": 0
+    },
+    {
+      "id": "d-0c4f4b6a9b",
+      "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
+      "url": "https://www.nature.com/articles/d41586-026-03059-2",
       "source": "Nature",
       "sourceType": "academic",
       "kind": "paper",
       "published": "2026-10-07T00:00:00.000Z",
-      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03127-7 The United Nations’ deadline for eliminating HIV/AIDS as a public-health threat is unlikely to be met. But medical, political and social advances have raised hopes that longer-term success is still possible.",
+      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03059-2 Most LLMs cannot reliably evaluate text on the level of individual letters. A technique called byteification retrofits existing models to enable it.",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-874f299119",
+      "title": "Genome accessibility reveals disease risk that gene expression misses",
+      "url": "https://www.nature.com/articles/d41586-026-03072-5",
+      "source": "Nature",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5 Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene expression and accessibility have now been analysed simultaneously in 10 million immune cells from 1,108 people, linking disease-associated changes in accessibility to gene expression.",
       "domain": "med",
       "category": "med-clinic",
       "score": 0
     },
     {
-      "id": "d-debf587c6c",
-      "title": "The science of superintelligence and why AI is still a useful word",
-      "url": "https://www.nature.com/articles/d41586-026-03198-6",
+      "id": "d-9610fba005",
+      "title": "Semiconductors pushed into insulator territory",
+      "url": "https://www.nature.com/articles/d41586-026-02968-6",
       "source": "Nature",
       "sourceType": "academic",
       "kind": "paper",
       "published": "2026-10-07T00:00:00.000Z",
-      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03198-6 President Donald Trump wants to replace ‘artificial intelligence’ with ‘Super Intelligence’ — but there are questions about whether we’re there yet.",
+      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02968-6 A material that was previously assumed to be an electrical insulator has been shown to be a semiconductor, with potential uses in electronics and optics.",
+      "domain": "ai",
+      "category": "infra-compute",
+      "score": 0
+    },
+    {
+      "id": "d-10de27c60b",
+      "title": "Emergency Department Length of Stay, Employment Status, and Subsequent Risk of Hospitalisation: A survival analysis of linked administrative records in England",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364765v1",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Objectives To investigate the association between time spent in NHS Type 1 emergency departments (EDs, consultant led 24 hour services with full resuscitation facilities) and risk of leaving employment and hospitalisation after leaving the department alive up to two years after attendance. Methods We conducted a retrospective cohort study using linked administrative data from the NHS Emergency Care Dataset, Hospital Episode Statistics, Census 2021, and mortality records. ED length of stay was categorised from under 2 hours to 12 hours or more. Cox proportional hazards models were fitted to estimate the association between ED length of stay and subsequently leaving employment or being hospitalised over a two year follow-up period, adjusting for demographic, socioeconomic, and clinical characteristics. Results Our study population comprised 3,347,008 individuals aged 25 to 64 who attended a Type 1 ED in England between April 2021 and March 2023. For leaving employment, adjusted hazard r…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-8a3b02ab16",
+      "title": "Integrated diabetes care delivery at primary healthcare facilities in Pakistan: An economic evaluation of a pragmatic randomized controlled trial",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.06.26364849v1",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Abstract Background: In Pakistan approximately 7 million people were living with diabetes in 2014. To address the burden of diabetes, a randomized controlled trial was conducted to evaluate the effectiveness of a standardized care package in improving diabetes outcomes in health care settings of Punjab, Pakistan. A costing study was embedded within this RCT to estimate the cost-effectiveness of the standardized diabetes care package in improving diabetes outcomes. Methods: 166 patients were recruited for the costing study from 14 public health clusters in Sargodha district of Pakistan. Analyses was conducted using the societal perspective, broader societal perspective and sensitivity analyses to explore the uncertainty in analyses. Data was analysed for both 166 participants enrolled in costing study and for the 495 participants recruited in the cRCT, using multiple amputations. Results: Using the societal perspective, standardized diabetes care package was found to be cost-effective …",
+      "domain": "med",
+      "category": "ai-safety",
+      "score": 0
+    },
+    {
+      "id": "d-0974f3e252",
+      "title": "GALC variants affect Glucocerebrosidase to Galactosylceramidase activity ratio",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364651v1",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Objective: Genes within the lysosomal glycosphingolipid pathway, including GBA1 and GALC, are important genetic risk factors in Parkinson's disease (PD). We hypothesized that PD risk relates not only to individual enzyme effects but also to coordination between glucocerebrosidase (GCase) and galactosylceramidase (GalCase) activities, and examined how genetic variants influence their activity ratio. Methods: We studied 1,290 individuals from the Parkinson's Precision Medicine Initiative and Columbia University cohorts with genetic and dried-blood-spot enzymatic data. Genome-wide association analyses of the glucocerebrosidase/galactosylceramidase activity ratio were performed in the combined cohort, by sex, and per cohort, followed by meta-analysis. For lead variants, Pearson correlations between enzyme activities were compared across genotypes, and genotype-by-GCase interactions were tested. Results: The GALC locus was associated with glucocerebrosidase/galactosylceramidase activity ra…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-b0c054db74",
+      "title": "A 6-Item Diagnostic Screener for Childbirth-Related PTSD",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.05.26347629v3",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Posttraumatic stress disorder (PTSD) after traumatic childbirth is a serious maternal morbidity that affects about 20% of women following medically complicated deliveries. Yet it often goes undetected in perinatal care, in part because brief screening tools suitable for busy obstetric settings are lacking. We developed and evaluated a brief screener derived from the 20-item PTSD Checklist for DSM- 5 (PCL- 5) to detect childbirth-related PTSD. Women with traumatic childbirth experiences completed the PCL- 5 and the gold-standard Clinician-Administered PTSD Scale for DSM-5 (CAPS- 5); depression symptoms were assessed with the Edinburgh Postnatal Depression Scale (EPDS). Bootstrap resampling with LASSO regression identified the PCL- 5 items most strongly associated with PTSD, and Firth logistic regression was used to estimate diagnostic accuracy. A statistically derived 6-item version of the PCL- 5 (PCL- 5- R6) showed excellent discrimination against clinician diagnosis (AUC = 0.95; 95% …",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-76f4d3fc31",
+      "title": "Benchmarking Open-Source Vision-Language Models for Brain Metastasis Assessment on Single-Slice Contrast-Enhanced MRI",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.08.24.26361169v2",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Purpose Open-source vision-language models (VLMs) can be locally deployed without external internet access. This study aimed to evaluate the slice-level lesion-detection performance of multiple general-purpose and medical-purpose open-source VLMs for brain metastases on contrast-enhanced (CE) MRI, and to assess their accuracy in characterizing detailed imaging features on lesion-positive images. Materials and Methods One hundred lesion-positive axial CE T1-weighted images and 100 matched lesion-negative images from 100 patients were analyzed using eight evaluable VLMs: five general-purpose VLMs-InternVL3-8B, Qwen2.5-VL-7B-Instruct, MiniCPM-V-4.5, DeepSeek-VL2-tiny, and Phi-3.5-vision-instruct-and three medical-purpose VLMs-MedGemma-4B-it, LLaVA-Med v1.5, and HuatuoGPT-Vision-7B. Lesion-detection performance was assessed using sensitivity, specificity, and balanced accuracy. On lesion-positive images, accuracy was evaluated for lesion count, laterality, anatomic location, enhancement p…",
+      "domain": "med",
+      "category": "med-imaging",
+      "score": 0
+    },
+    {
+      "id": "d-6b2ab2f864",
+      "title": "The spatiotemporal distribution of substandard and falsified antimalarial medicines in Africa, 1996-2019",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.22.25342680v2",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Introduction: In 2024, an estimated 282 million malaria cases and 610,000 deaths occurred globally, many attributable to inadequate access to quality-assured and efficacious antimalarials. Africa bears the greatest burden of malaria, yet the spatial and temporal distribution of substandard and falsified (SF) antimalarials across the continent remains poorly understood. Methods: We extracted data from the Infectious Disease Data Observatory (IDDO) Medicine Quality Scientific Literature Surveyor database on SF antimalarial prevalence. We applied spatiotemporal modelling to estimate the proportion of antimalarials that were SF by country and year. We constructed three different models with identical spatial structures and covariates but different specifications of the temporal trends. We modelled spatial effects using the Besag-York-Mollie model (BYM). We fitted the models using integrated nested Laplace approximation (INLA) and compared models' predictive ability using the widely applic…",
+      "domain": "med",
+      "category": "infra-policy",
+      "score": 0
+    },
+    {
+      "id": "d-43179f5589",
+      "title": "FORGE: Functionally guided OCT Representation for Glaucoma Endophenotyping",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352729v3",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Glaucoma endophenotyping is limited by disease heterogeneity and single-modality structural imaging. We introduce FORGE (Functionally guided OCT Representation for Glaucoma Endophenotyping), a cross-modal contrastive framework that uses visual field (VF) signals as privileged supervision during training, enabling OCT-only inference through a learned null embedding. In 5,372 paired examinations at Mass Eye and Ear, FORGE resolved 15 macular RNFL endophenotypes that fuzzy c-means (FCM) clustering partitioned into 9 clinically distinct phenotypic clusters, improving clustering quality over the OCT-only baseline by 22%. Transferred without refitting to 74,077 UK Biobank (UKB) and 3,119 Mass General Brigham Biobank images, they reproduced their defining RNFL-thickness signatures (Lin's concordance 0.74). Treating each of the 15 continuous endophenotypes as a quantitative trait, genome-wide association analysis in 39,381 UKB European participants identified 53 LD-independent loci, 23 unrepo…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-ad933b6b45",
+      "title": "Multicohort assessment of plasma metabolomic measurements across the atherosclerosis continuum",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.15.26344196v2",
+      "source": "medRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Aims: Atherosclerosis develops over many years, and its underlying mechanisms are still not fully understood. Studying plasma metabolites at different stages of the disease may help identify biomarkers that clarify how it develops and improve early risk assessment. Methods: We performed untargeted plasma metabolomics with ultra-performance liquid chromatography-mass spectrometry in 8,146 participants without cardiovascular disease from the population-based SCAPIS cohort. We examined how 1,171 circulating metabolites were associated with subclinical coronary atherosclerosis. Atherosclerosis burden was measured using coronary computed tomography angiography and quantified with the segment involvement score, and associations were analyzed using multivariable models. Associated metabolites were then evaluated in independent cohorts with phenotypes representing later stages of the atherosclerotic disease continuum: myocardial infarction within six months (MIMI, n=2,018), and coronary plaqu…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-e46d8dbf43",
+      "title": "Machine learning-assisted directed evolution yields dramatic improvement on novel AAV engineering task",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.757046v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Directed evolution enables the discovery of protein mutants with improved fitness through iterative rounds of selection and has been widely applied to adeno-associated virus (AAV) capsid engineering. Machine learning (ML) can augment this process by prioritising mutants for experimental validation, but whether its benefits outweigh the added cost of ML-designed library construction remains unclear. Here, we address this question by considering improvements in manufacturing efficiency of AAV capsids in the context of exosomal encapsulation, which is a technique for improving AAV immunogenicity. We generated a directed evolution dataset comprising 53,974 mutants across three rounds of selection and an independent assessment dataset of 472 ML-designed mutants with detailed profiling. Directed evolution alone yielded a 3-fold improvement, while ML-assisted directed evolution yielded a 41-fold improvement in manufacturing efficiency, demonstrating that ML-assisted directed evolution outper…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-61245443b8",
+      "title": "Longitudinal imaging of single cells in opaque tissue with cell chirp ultrasound",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.756957v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Small numbers of cells can determine the fate of an entire organism. For example, metastatic cancer cells seed distant organs, therapy-resistant clones repopulate tumors, and T cells infiltrate and expand in tissues with matching antigens. Visualizing the activity of such cells in living organisms requires highly sensitive, specific and repeatable imaging in optically opaque tissues. Here we introduce cell chirp, an ultrasound imaging method for real-time imaging of single cells in living organs inaccessible to light. Cell chirp exploits the harmonic response of genetically encoded gas vesicles to frequency-coded ultrasound to sensitively and specifically visualize single cells in scattering background. We first develop this method in tissue-mimicking phantoms, demonstrating the ability to quantitatively detect single cells as validated by optical cell counts. We then establish the ability of cell chirp to image thousands of genetically labeled cells within a million-cell background t…",
+      "domain": "med",
+      "category": "med-imaging",
+      "score": 0
+    },
+    {
+      "id": "d-115ac956cc",
+      "title": "Achieving near single-molecule sensitivity in separation-free protein detection using engineered kinetic proofreading",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756571v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Unlike nucleic acids, proteins cannot be directly amplified. Ultrasensitive detection must therefore couple efficient analyte-to-signal conversion with strong suppression of target-independent background. Consistently detecting ~100 molecules (below which Poisson sampling noise alone causes CV to exceed 10%) across protein targets in a format as scalable and accessible as PCR remains unsolved. Separation-based ultrasensitive immunoassays require target binding stable enough to survive stringent washing and are therefore constrained by wash-induced signal loss and, more fundamentally, the relative scarcity of exceptionally tight binders. Performance consequently varies across targets; detection limits below 1,000 molecules remain rare. Conventional separation-free proximity assays avoid washing but incur background from random probe collisions, with reported detection limits frequently exceeding 100,000 molecules. Here we introduce Successive Proximity Extension Amplification Reaction …",
+      "domain": "med",
+      "category": "med-drug",
+      "score": 0
+    },
+    {
+      "id": "d-d736fa7830",
+      "title": "Human FACT complex coordinates cohesin and transcription on chromatin",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.754922v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "The spatial organisation of eukaryotic genomes is critical for coordinating DNA-dependent processes such as transcription and replication. Cohesin contributes to this organisation by extruding chromatin loops; however, how cohesin achieves processive translocation along nucleosome-dense chromatin in vivo remains poorly understood. Here, we identify the histone chaperone FACT as a regulator of cohesin dynamics in human cells. We show that the FACT subunit SUPT16H colocalises and interacts with cohesin on chromatin. Depletion of FACT impairs cohesin translocation from its loading sites, leading to reduced chromatin looping and decreased boundary strength of topologically associating domains (TADs), as revealed by Hi-C. In addition, FACT depletion results in the accumulation of cohesin within gene bodies that are not engaged in loop formation, which is associated with reduced transcription. Importantly, degradation of cohesin in FACT-depleted cells restores transcriptional output, indica…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-e77b8e5b95",
+      "title": "A modelling challenge to improve preparedness for highly pathogenicavian influenza epidemics: objectives, design and synthetic datageneration",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.756671v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Highly pathogenic avian influenza (HPAI) is among the most significant disease threats to poultry worldwide. Modelling challenges, where independent teams address a common epidemiological scenario, can support the development of response capabilities and strengthen communication between modellers and risk managers. Despite the established benefits of these exercises, they remain uncommon in animal health, and none have previously addressed avian influenza. Here Jolly Island, an artificial landscape of 9160 poultry farms with five production types, was developed and seeded with stochastic HPAI epidemics that ran their course over a three-to-four month period. From January through April 2026, 45 registered teams across five continents investigated a selected synthetic epidemic, producing probabilistic forecasts, inferring transmission drivers, and evaluating counterfactual control policies. Here the objectives, design choices, and data generation of the HPAI Modelling Challenge are desc…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-e627cc9c65",
+      "title": "Landscape restoration strategies differ in their predicted benefits for species persistence",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.756954v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Global biodiversity recovery demands restoration at landscape scales, where ecological outcomes are shaped not only by habitat amount but also spatial arrangement. Alternative landscape restoration strategies can increase habitat amount, improve quality, and alter configuration in fundamentally different ways and may therefore vary in their efficiency. Here, we conceptualise five landscape restoration strategies and use a spatially explicit metapopulation framework to compare their ability to increase predicted species persistence across heterogeneous landscapes and trait space defined by dispersal ability and specialisation. We find that restoration outcomes are strongly trait-dependent, with restoration of existing degraded habitats yielding the highest benefits - particularly for specialists. Improvement of the landscape matrix to create low-quality habitat primarily benefits generalists, while strategies creating new habitat patches or enlarging patches provide more consistent but…",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-066b588581",
+      "title": "Development of inducible genetic systems to finely tune efficacy of InhA-targeting anti-tuberculous drugs",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.25.754513v1",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), remains a leading global health threat, especially due to multidrug-resistant strains. The first-line drug isoniazid (INH) and second-line drugs ethionamide (ETH) and prothionamide (PTH), are prodrugs that target the essential enoyl-ACP reductase InhA, a key enzyme involved in mycolic acid biosynthesis. Resistance to these drugs primarily arises from genetic mutations that inactivate the enzymatic function of their respective bioactivating enzymes. While the recent development of chemical boosters has shown promising results in restoring drug susceptibility in these mutants, genetic tools to dynamically modulate these pathways and fine-tune resistance could be extremely valuable to develop the next-generation of anti-InhA drugs. In this context, we leverage CRISPR interference (CRISPRi) to develop inducible and reversible genetic systems to fine-tune antibiotic susceptibility in Mycobacterium smegmatis (Msmeg) and Mtb. By …",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-a38de4976e",
+      "title": "Aligning transformer circuit mechanisms to neural representations in relational reasoning",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.10.29.685457v4",
+      "source": "bioRxiv",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "Relational reasoning, the capacity to understand how elements relate to one another, is a defining feature of human intelligence, yet its computational basis remains unclear. Here, we combined human neuroimaging (7T fMRI) with artificial neural network modeling to identify circuit-level analogues of human reasoning computations. Using the Latin Square Task, we found that humans and transformers were able to generalize the task reliably, while standard architectures used in cognitive neuroscience could not. Analysing the transformer components revealed distinct computational roles: positional encoding captured the spatial structure of the task and aligned with representations in visual cortex, whereas attention encoded relational structure and mapped onto frontoparietal and default-mode networks. Attention weights tracked the relational complexity of the task, providing a computational analogue of reasoning demands. These results advance knowledge on the core algorithmic computations s…",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-de720254bf",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "kind": "product",
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": "",
+      "domain": "ai",
+      "category": "ai-multimodal",
+      "score": 0
+    },
+    {
+      "id": "d-19a37717cd",
+      "title": "What AI gets wrong and what failure teaches us",
+      "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "source": "Microsoft Research",
+      "sourceType": "official",
+      "kind": "paper",
+      "published": "2026-10-06T16:19:06.000Z",
+      "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us appeared first on Microsoft Research .",
+      "domain": "ai",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-83aba23ec3",
+      "title": "Decoding systemic vascular health and hypertensive disorders in pregnancy through retinal imaging and Visionary AI",
+      "url": "https://www.nature.com/articles/s41587-026-03303-0",
+      "source": "Nature Biotechnology",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Nature Biotechnology, Published online: 06 October 2026; doi:10.1038/s41587-026-03303-0 An interpretable artificial intelligence framework predicts hypertensive disorders of pregnancy using retinal images and vascular modeling.",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-f03e4b29b0",
+      "title": "High-throughput metabolic engineering in mammalian cells",
+      "url": "https://www.nature.com/articles/s41587-026-03317-8",
+      "source": "Nature Biotechnology",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Nature Biotechnology, Published online: 06 October 2026; doi:10.1038/s41587-026-03317-8 Engineering complex phenotypes into mammalian cells holds profound potential but remains a largely intractable engineering challenge. We developed shotgun genetic engineering (SGE), a multiplexed strategy that screens millions of combinatorial solutions in a single experiment. This approach uses selection strategies that reveal effective designs, facilitating rapid engineering of complex biological functions.",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-afc07db30f",
+      "title": "An open vision-language model for diverse medical applications",
+      "url": "https://www.nature.com/articles/s41591-026-04626-w",
+      "source": "Nature Medicine",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Nature Medicine, Published online: 06 October 2026; doi:10.1038/s41591-026-04626-w MedGemma, a collection of medical vision-language foundation models based on Gemma 3, demonstrates advanced medical understanding and reasoning across images and text and multiple medical imaging domains, exceeding the performance of similarly sized generative models while maintaining the general capabilities of the Gemma base models.",
+      "domain": "med",
+      "category": "ai-model",
+      "score": 0
+    },
+    {
+      "id": "d-56e3b28312",
+      "title": "MAGIC: an international network for evaluating generative artificial intelligence in global health",
+      "url": "https://www.nature.com/articles/s41591-026-04706-x",
+      "source": "Nature Medicine",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Nature Medicine, Published online: 06 October 2026; doi:10.1038/s41591-026-04706-x MAGIC: an international network for evaluating generative artificial intelligence in global health",
+      "domain": "med",
+      "category": "ai-safety",
+      "score": 0
+    },
+    {
+      "id": "d-7117140127",
+      "title": "RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation",
+      "url": "https://machinelearning.apple.com/research/rised-multi-environment-selection",
+      "source": "Apple 机器学习研究",
+      "sourceType": "official",
+      "kind": "paper",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…",
+      "domain": "ai",
+      "category": "ai-agent",
+      "score": 0
+    },
+    {
+      "id": "d-f6da0b94bf",
+      "title": "Discovery and engineering of avian R2 retrotransposons for all-RNA-mediated targeted DNA integration in human cells",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "source": "Nature Biotechnology",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-05T00:00:00.000Z",
+      "summary": "Nature Biotechnology, Published online: 05 October 2026; doi:10.1038/s41587-026-03315-w Engineered retrotransposons enable site-specific DNA integration into human cells.",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-213be1878d",
+      "title": "Behind (cell) walls",
+      "url": "https://www.nature.com/articles/s41587-026-03356-1",
+      "source": "Nature Biotechnology",
+      "sourceType": "academic",
+      "kind": "paper",
+      "published": "2026-10-05T00:00:00.000Z",
+      "summary": "Nature Biotechnology, Published online: 05 October 2026; doi:10.1038/s41587-026-03356-1 While mammalian delivery technologies are advancing to translation at an exceptional rate, delivery to plant tissues faces challenges, limiting their practical applications.",
+      "domain": "med",
+      "category": "med-clinic",
+      "score": 0
+    },
+    {
+      "id": "d-9d06707ed7",
+      "title": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
+      "url": "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+      "source": "Apple 机器学习研究",
+      "sourceType": "official",
+      "kind": "paper",
+      "published": "2026-10-05T00:00:00.000Z",
+      "summary": "Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built. Despite decades of scholarship around systems that enable such authorship, these systems are often evaluated on whether or not they are usable, useful, or technically feasible, leaving questions of ontological boundary negotiation, unexamined. We design two open-ended probes that utilize a Wizard of Oz technique to enable the experience of training a personalized machine learning…",
       "domain": "ai",
       "category": "ai-model",
       "score": 0

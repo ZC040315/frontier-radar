@@ -66,15 +66,24 @@ function idFor(url) {
   return 'd-' + crypto.createHash('sha1').update(url).digest('hex').slice(0, 10)
 }
 
+// 去重和 id 都用这个键。注意协议不参与计算——arXiv 的 Atom 接口返回 http://，
+// 而 arXiv 实际只服务 https，不统一的话同一篇论文会被当成两条。
 function normalizeUrl(u) {
   try {
     const url = new URL(u)
     url.hash = ''
     url.search = ''
-    return url.toString().replace(/\/$/, '')
+    return (url.host + url.pathname).replace(/\/$/, '')
   } catch {
     return String(u || '').trim()
   }
+}
+
+// arXiv 已经只服务 https：实测 http:// 超时 30 秒，https:// 返回 200。
+// 直接把接口给的 id 存下来，会让「每日」页里每一条 arXiv 链接都点不开
+// （2026-10-09 发现，60 条线索里 28 条是死链）。
+function toHttps(u) {
+  return String(u || '').trim().replace(/^http:\/\//i, 'https://')
 }
 
 function inRange(dateStr, from = fetchStart) {
@@ -190,6 +199,10 @@ function push(item) {
   if (!inRange(item.published)) return
   if (NOISE.test(item.title) || NOISE.test(item.summary)) return
   const title = clean(item.title)
+  // 兜底：万一以后新增的源给的是 http，至少让它在日志里露出来
+  if (/^http:\/\//i.test(item.url)) {
+    log(`  ⚠ ${item.source} 给的是 http 链接，可能点不开：${item.url}`)
+  }
   const domain = item.domain || classify(title + ' ' + clean(item.summary))
   results.push({
     id: idFor(normalizeUrl(item.url)),
@@ -234,7 +247,7 @@ async function fetchArxiv() {
         const fallback = primary.startsWith('q-bio') || primary === 'eess.IV' ? 'med' : primary === 'cs.RO' ? 'prod' : 'ai'
         collected.push({
           title,
-          url: id.trim(),
+          url: toHttps(id),
           source: 'arXiv ' + (cats2[0] || 'preprint'),
           sourceType: 'academic',
           kind: 'paper',

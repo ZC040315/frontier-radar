@@ -180,6 +180,29 @@ const EXPAND_TEST = `(() => {
   return { before, after, fullVisible, previewGone, closed, ok: fullVisible && previewGone && closed.previewHidden === false };
 })()`
 
+// 搜索必须能搜到「站内正文」里的词。
+// 「Virchow」只出现在 pathfm 这一条的正文里（items.js 里 0 次），
+// 所以它是验证正文有没有进搜索索引的干净测试词。
+const SEARCH_TEST = `(() => {
+  const input = document.getElementById("search");
+  const feed = document.getElementById("feed");
+  if (!input || !feed) return { skipped: "没有搜索框" };
+  const count = () => feed.querySelectorAll(".row").length;
+  const fire = (v) => {
+    input.value = v;
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+  };
+  const before = count();
+  fire("Virchow");
+  const hitRows = count();
+  const firstTitle = feed.querySelector(".row-title") ? feed.querySelector(".row-title").textContent : "";
+  fire("ZZQQXX肯定搜不到");
+  const emptyRows = count();
+  fire("");
+  const restored = count();
+  return { before, hitRows, firstTitle, emptyRows, restored, ok: hitRows === 1 && emptyRows === 0 && restored === before };
+})()`
+
 async function connect(target) {
   const ws = new WebSocket(target)
   let seq = 0
@@ -243,6 +266,11 @@ async function run() {
           const e = await send('Runtime.evaluate', { expression: EXPAND_TEST, returnByValue: true })
           expand = e.result.value
         }
+        let search = null
+        if (page.name === 'index' && vp.label === 'desktop') {
+          const s = await send('Runtime.evaluate', { expression: SEARCH_TEST, returnByValue: true })
+          search = s.result.value
+        }
 
         const line = `${page.name}/${vp.label}: 溢出 ${m.hOverflow}px · 高度 ${m.pageHeight} · 条目 ${m.rows} · 每日 ${m.dailyRows} · 节点 ${m.nodes} · 类别卡 ${m.catCards} · 正文 ${m.bodyCount}`
         report.push(line)
@@ -264,6 +292,13 @@ async function run() {
         }
         if (expand && !expand.skipped) {
           report.push(`  └ 展开全文：点击后全文可见 ${expand.fullVisible} · 预览已收起 ${expand.previewGone} · 再点收拢正常 ${expand.closed.previewHidden === false}`)
+        }
+        if (search && !search.skipped) {
+          report.push(
+            `  └ 搜索含正文：搜「Virchow」命中 ${search.hitRows} 条（${String(search.firstTitle).slice(0, 18)}）` +
+              ` · 无关词命中 ${search.emptyRows} 条 · 清空后恢复 ${search.restored} 条`
+          )
+          if (!search.ok) problems.push(`搜索行为异常：${JSON.stringify(search)}`)
         }
 
         if (WANT_SHOTS) {

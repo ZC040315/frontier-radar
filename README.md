@@ -5,9 +5,10 @@
 - 线上地址：https://zc040315.github.io/frontier-radar/
 - 计划书：[网站建设计划规划书.md](网站建设计划规划书.md)
 - 首次上线：2026-10-03（48 条，全部逐条联网核实）
-- 每日自动更新：**2026-10-07 起真正启用**，每天早上 08:00（北京时间）抓取过去 24 小时的前沿线索。
+- 每日自动更新：**2026-10-07 起真正启用**，每天早上自动抓取过去 24 小时的前沿线索。
   （10-04 就写好了脚本和 workflow，但因为文件没进版本控制，其实一直没跑过——见
   [为什么 workflow 推不上去](#为什么-workflow-推不上去踩过的坑)）
+- 订阅：https://zc040315.github.io/frontier-radar/feed.xml
 - 来源规则：**只收一手**——学术一手（预印本 + 同行评议期刊）与官方一手（企业研究博客、官方新闻室）。
   **不收任何媒体、自媒体、聚合站与讨论区**。详见 [来源规则](#来源规则只收一手不收转载)。
 - 阅读方式：**在站内读完，不用跳转**——每日线索的原文摘要在站内展开，正式条目有站内正文，链接只用于核对。
@@ -31,6 +32,7 @@
 ├── categories.html     ← 分类：四个领域下的 15 个类别总览
 ├── map.html            ← 地图：四个领域的技术主干树
 ├── about.html          ← 关于：这个站是什么、内容怎么选、多久更新
+├── feed.xml            ← RSS 订阅源（由 scripts/build-feed.mjs 生成，别手工编辑）
 ├── assets/
 │   ├── style.css       ← 全站样式（深空观测站主题）
 │   ├── app.js          ← 首页逻辑：筛选、搜索、详情面板、本周新增
@@ -40,11 +42,13 @@
 ├── data/
 │   ├── items.js        ← 正式条目（加内容只改这里）
 │   ├── bodies.js       ← 站内正文（按条目 id 写详情面板里的正文，可只写一部分）
-│   ├── daily.js        ← 每天 08:00 自动生成的线索（请勿手工编辑）
+│   ├── daily.js        ← 每天早上自动生成的线索（请勿手工编辑）
 │   ├── categories.js   ← 类别体系（15 个类别，领域之下更具体的一层）
 │   └── map.js          ← 地图主干结构（节点 + 挂在这一节点下的条目 id）
 ├── scripts/
 │   ├── fetch-daily.mjs ← 抓取脚本：抓源 → 过滤 → 分类 → 去重 → 写 data/daily.js
+│   ├── build-feed.mjs  ← 由 items.js / bodies.js / daily.js 生成 feed.xml
+│   ├── render-check.mjs← 渲染自检：几何、控制台报错、展开交互、详情面板
 │   └── check-data.mjs  ← 数据自检：必填字段、类别合法性、id/链接重复、日期格式
 ├── .github/workflows/
 │   └── daily.yml       ← 定时任务：每天 08:00 跑抓取并自动提交
@@ -53,11 +57,37 @@
 
 ---
 
-## 每天 08:00 自动更新（每日线索）
+## 订阅（RSS）
 
-**它做什么**：GitHub Actions 每天 00:00 UTC（北京时间 08:00）跑一次 `scripts/fetch-daily.mjs`，
+**地址**：https://zc040315.github.io/frontier-radar/feed.xml —— 加进阅读器就行。
+
+为什么要有它：这个站的定位是「替代算法推荐的信息源」。没有订阅入口的话，你只能靠「想起来才打开」，
+那它就不是信息源，是一个备忘录。
+
+**订阅源里有两类条目**，正文都直接写在条目里，**在阅读器里就能读完，不必点开网站**：
+
+| 类型 | 里面有什么 | 条数上限 |
+| --- | --- | --- |
+| 正式条目 | 一句话是什么 + 为什么值得知道 + 站内正文全文 + 一手来源 | 最近 15 条 |
+| 每日线索 | 未经策展的原文摘要（arXiv / bioRxiv 的 abstract） | 最近 20 条 |
+
+按时间倒序混排。**正式条目按「入库时间」排，不按论文发表日期**——否则 2017 年的
+Transformer 会排到最末尾，阅读器只显示最新若干条时就永远看不到。
+
+改完内容记得重新生成一次：`node scripts/build-feed.mjs`（定时任务里会自动跑）。
+
+---
+
+## 每天早上自动更新（每日线索）
+
+**它做什么**：GitHub Actions 每天早上跑一次 `scripts/fetch-daily.mjs`，
 把过去 24 小时的前沿线索写进 `data/daily.js`，自动提交，GitHub Pages 随之重新发布。
 不需要你的电脑开着，也不需要任何 API key。
+
+**时间为什么不写死**：cron 设的是 `23 0 * * *`（08:23 北京时间），但**实测会排队延迟**——
+2026-10-08 和 10-09 两次，原定 00:00 UTC 的任务分别到 05:11 和 05:14 才执行，晚了五个多小时。
+GitHub 官方提示过整点和午夜是最拥堵的档口，所以这里错开 23 分钟。
+但延迟不由我们控制，因此**网页上只写「每天早上」，不写具体时刻**，真实生成时间显示在页面上。
 
 **两层窗口**：首页顶部显示「过去 24 小时」；`daily.html` 显示近 7 天、按天分组。
 
@@ -214,6 +244,9 @@ The Verge、Ars Technica、Hacker News 这一类。它们不是骗子，但它�
 
 ```powershell
 cd "C:\Users\周超\Documents\ChatGPT\AI-SELF-TEXT\前沿雷达"
+node scripts/check-data.mjs      # 数据自检
+node scripts/render-check.mjs    # 渲染自检
+node scripts/build-feed.mjs      # 重新生成订阅源
 git add -A
 git commit -m "内容：新增 N 条"
 git push
@@ -311,6 +344,13 @@ git remote set-url origin https://ZC040315@github.com/ZC040315/frontier-radar.gi
 **换了令牌之后要重新存一次**：在 GitHub 上点 Regenerate 会**立刻作废旧值**，
 本地推送随即失败（网站和自动更新不受影响，它们不依赖这个令牌）。
 把新值用 `git credential-manager store` 写进上面两个键即可。
+
+**arXiv 链接必须转成 https**：arXiv 的 Atom 接口返回的是 `http://arxiv.org/abs/...`，
+但 arXiv 已经只服务 https——实测 `http://` 超时 30 秒、`https://` 返回 200。
+直接存接口原值，会让「每日」页里每一条 arXiv 链接都点不开：
+2026-10-09 发现时，60 条线索里有 28 条（47%）是死链。
+`scripts/fetch-daily.mjs` 里的 `toHttps()` 负责转换；同时 `normalizeUrl()` 做协议无关的去重，
+否则同一篇论文会以 http 和 https 两个身份各出现一次。
 
 ---
 
