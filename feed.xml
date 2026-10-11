@@ -5,9 +5,59 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:59:49 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>Twisted superconducting quantum diodes for high fidelity anharmonic qubits</title>
+      <link>https://www.nature.com/articles/s41467-026-78376-1</link>
+      <guid isPermaLink="false">d-6a9d20fce0</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 10 October 2026; doi:10.1038/s41467-026-78376-1 Superconducting diodes can provide nonreciprocal elements for superconducting and quantum circuits, but the role of diode efficiency in quantum-device performance remains unclear. Here, the authors demonstrate an enhanced superconducting diode effect in twisted NbSe2 and show that even a moderate degree of nonreciprocity is sufficient to stabilize anharmonic qubit circuits.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78376-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations</title>
+      <link>https://www.nature.com/articles/s41746-026-03348-0</link>
+      <guid isPermaLink="false">d-1fca8d209f</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 10 October 2026; doi:10.1038/s41746-026-03348-0 FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03348-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial intelligence across the medical education continuum: institutional, learning, readiness and safety systems</title>
+      <link>https://www.nature.com/articles/s41746-026-03362-2</link>
+      <guid isPermaLink="false">d-4d3d3b77a0</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 10 October 2026; doi:10.1038/s41746-026-03362-2 Artificial intelligence across the medical education continuum: institutional, learning, readiness and safety systems&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03362-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Longitudinal actigraphy reveals healthy maturation of preterm infants in the neonatal intensive care unit</title>
+      <link>https://www.nature.com/articles/s41746-026-03347-1</link>
+      <guid isPermaLink="false">d-553a720bb3</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 10 October 2026; doi:10.1038/s41746-026-03347-1 Longitudinal actigraphy reveals healthy maturation of preterm infants in the neonatal intensive care unit&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03347-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Six pragmatic steps to separate medical GenAI’s promise from its inherent dangers</title>
+      <link>https://www.nature.com/articles/s41746-026-03384-w</link>
+      <guid isPermaLink="false">d-0e31998446</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 10 October 2026; doi:10.1038/s41746-026-03384-w GenAI and agentic systems in medicine bring real opportunities for better diagnosis and therapy and for the development of better diagnoses and therapies. It is now increasingly being recognised that the power of these systems for good is inseparable from their power to be used for harm. Systems optimised for biomedical research are unfortunately being harnessed by malign human masters to help develop bioweapons to be targeted at humanity. Agentic systems are autonomously, unknown to their human masters, carrying out cybersecurity attacks. Frontier models are increasing anxiety and stress of medical students and threaten to reshape medical professional roles, not always for the better. Although there may currently be some over emphasis of risk by BigTech foundation model developers, and these may even be attempts at ‘regulatory capture’, there are also genuine reasons for concern. We set out action…&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03384-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ICYMI: What landed for AI builders in September 2026</title>
       <link>https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/</link>
@@ -49,163 +99,113 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Genome architecture drives antifungal resistance in Candida auris</title>
-      <link>https://www.nature.com/articles/s41467-026-78280-8</link>
-      <guid isPermaLink="false">d-3ef3da3d29</guid>
+      <title>Skeletal muscle enhancer programming of intrinsic cardiorespiratory fitness</title>
+      <link>https://www.biorxiv.org/content/10.1101/2025.10.02.679855v3</link>
+      <guid isPermaLink="false">d-df7f1b15ab</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78280-8 Antifungal resistance often results from mutations in drug target genes. However, Narayanan et al. show that segmental duplication and supernumerary chromosomes also contribute to resistance in the emerging fungal pathogen Candida auris. The work expands the genetic basis of antifungal resistance and redefines the mutation-centric paradigm.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78280-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Cardiorespiratory fitness (CRF) is a heritable trait associated with improved metabolic health and longevity. Integrating 546 transcriptomic and epigenomic profiles from skeletal muscle of 128 genetically heterogeneous rats selectively bred for high and low running capacity (HCR and LCR), a model that mirrors CRF-associated traits in humans, we identify a distributed enhancer architecture underlying their divergent transcriptomes. Line-divergent alleles were concentrated in distal enhancers: those more active in HCR were enriched for ETS-family transcription factor motifs and positively linked to hundreds of mitochondrial oxidative metabolism and angiogenesis genes, whereas those more active in LCR were enriched for Mef2 motifs and negatively linked to these genes. In 426 genotype, gene expression, and chromatin accessibility profiles from an independent HCRxLCR F2 population (n=147), we validated thousands of these genetic effects. Thus, heritable CRF reflects many enhancers cumulati…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.10.02.679855v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI-assisted scoping review of code sharing in clinical prediction model research</title>
-      <link>https://www.nature.com/articles/s41591-026-04691-1</link>
-      <guid isPermaLink="false">d-49c00b8980</guid>
+      <title>Design of Orthogonal Far-Red, Orange and Green Fluorophore-binding Proteins for Multiplex Imaging</title>
+      <link>https://www.biorxiv.org/content/10.1101/2025.08.03.668343v5</link>
+      <guid isPermaLink="false">d-5b83ee1ef9</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Medicine, Published online: 09 October 2026; doi:10.1038/s41591-026-04691-1 An analysis of code availability in the open-access published literature shows that code sharing in clinical prediction models remains limited and reveals significant variability in practices and documentation quality.&lt;/p&gt;
-&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04691-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Fluorescent proteins have transformed biological imaging, yet their limited photostability and brightness restrict their applications. We used deep learning-based de novo protein design methods to design binders to three bright, stable and cell-permeable dyes spanning the imaging spectrum: JF657 (far red), JF596 (orange-red) and JF494 (green). We obtain highly specific dye-binding proteins with low nanomolar affinities for the intended target; a crystal structure of one binder confirms close resemblance to the design model. Simultaneous labeling of mammalian cells expressing three dye-specific binders at different subcellular compartments demonstrates the utility in multiplex imaging. We further expand the functionality of the binder by incorporating an active site that carries out nucleophilic aromatic substitution to form a covalent linkage with the dye, and develop split versions which reconstitute fluorescence at subcellular locations where both halves are present towards monitori…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.08.03.668343v5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging</title>
-      <link>https://www.nature.com/articles/s41592-026-03265-w</link>
-      <guid isPermaLink="false">d-8b2b084eb6</guid>
+      <title>Dysfunctional effector programming in Foxp3-ΔE2 Tregs promotes enhanced CD8+ T cell responses</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.04.20.719728v2</link>
+      <guid isPermaLink="false">d-fdb646dfd2</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Regulatory T cells (Tregs) prevent autoimmunity through suppressive functions largely programmed by the transcription factor FOXP3. Humans express two major alternatively spliced isoforms of FOXP3: a full-length version containing all coding exons (FOXP3-FL) and a version lacking Exon 2 (FOXP3-{Delta}E2). Sole FOXP3-{Delta}E2 expression causes lethal IPEX syndrome, indicating that FOXP3 Exon 2 is essential for full Treg function. Here, we used Foxp3-{Delta}E2 mice to determine how Foxp3 Exon 2 impacts the functional differentiation of Tregs at homeostasis and during inflammation. Analysis of central and effector Foxp3-{Delta}E2 Treg populations revealed dysfunctional effector Treg programming, including reduced expression of IL-2 receptor subunits, CTLA-4, and tissue-homing chemokine receptors. During influenza infection, reduced IL-2 regulation by Foxp3-{Delta}E2 Tregs and decreased Foxp3-{Delta}E2 Treg localization to the T cell zone during priming contributed to enhanced acute and …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.20.719728v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Combined High Fat and Viral Insults in Pregnancy Disrupt Specific Placental Nutrient Transporter Systems in Mice</title>
+      <link>https://www.biorxiv.org/content/10.1101/2025.10.28.685153v4</link>
+      <guid isPermaLink="false">d-69002b48ab</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;The placenta adapts to support nutrient transport to meet the demands of the growing fetus. Maternal obesity and viral infection are associated with adverse fetoplacental development. How co-exposure affects placental morphology and nutrient transport across gestation remains unclear. We hypothesise that co-exposure would have a greater impact on placental morphology and nutrient transporter expression than either of the exposures alone. C57BL/6J mice were fed a control (CON) or high-fat (HF) diet before and throughout pregnancy and exposed to poly(I:C) or vehicle at gestational days (GD) 12.5, 15.5, or 18.5. Placental morphology, folate and fatty acid transporter mRNA expression and localisation were evaluated by haematoxylin and eosin staining, immunohistochemistry (reported as % immunoreactivity (ir)-area stained), and qPCR, respectively. At GD12.5, HF diet associated with reduced junctional zone (JZ) area and increased maternal blood space, followed by reduced fetal blood space at…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.10.28.685153v4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Structural features and conservation of the lncRNA HOTAIR in primates</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.05.18.725451v2</link>
+      <guid isPermaLink="false">d-aae62f5029</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Long noncoding RNAs (lncRNAs) regulate diverse cellular processes and are frequently implicated in disease, but their functional mechanisms often remain elusive. One such lncRNA, HOTAIR (Hox transcript antisense intergenic RNA), is a ~2.1 kb mammalian transcript whose overexpression promotes invasion and metastasis in breast cancer. However, the mechanisms by which HOTAIR influences gene regulation in cancer are poorly understood. To approach this problem through a structural lens, we predicted the full-length in cellulo secondary structure of HOTAIR using chemical probing in a metastatic breast cancer cell line. The resulting structure shows that HOTAIR adopts a multidomain architecture and has local structural features unique to the cellular context. Comparison between in vitro and in cellulo chemical probing identifies regions of differential accessibility that may indicate context-dependent molecular interactions or folding. Conservation analyses further reveal that HOTAIR is cons…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.05.18.725451v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synthetic genetic circuits that count developmental cues in plant roots</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.09.28.755210v2</link>
+      <guid isPermaLink="false">d-9c41afd3ea</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Plants explore soil environments through their roots, which branch repeatedly to access water and soil-borne nutrients. In many plants, root branches are generated by repeated developmental programs and molecular analyses have not identified markers that distinguish primary from later root branches. Consequently, efforts to engineer plant roots for improved water or nutrient acquisition are limited to changes that affect the entire root system. Here, we developed synthetic genetic circuits to count repeating root development cues and enable differential gene expression in successive root branches of the model plant Arabidopsis thaliana. The circuits use a root primordium-specific promoter to express large serine recombinases, which irreversibly invert segments of DNA each time a new lateral root is initiated. This converts repeating rounds of root formation into distinct, heritable DNA states. Because root branch specification and outgrowth occur over a ~2 day period, we tested circui…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.09.28.755210v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Molecular sterics guide tmRNA translocation on the ribosome</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757657v1</link>
+      <guid isPermaLink="false">d-2f7d94ccea</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Translation of defective mRNA transcripts can lead to the formation of stalled ``non-stop&amp;apos;&amp;apos; ribosome complexes. To rescue these ribosomes, bacteria have evolved a mechanism called trans-translation that is mediated by transfer-messenger RNA (tmRNA) and small protein B (SmpB). During the translocation step of trans-translation, the stalled mRNA is ejected and the reading frame found in the mRNA-like domain (MLD) of tmRNA is loaded into the mRNA channel. The ribosome then translates the new template, thereby tagging the nascent protein for degradation. While structures of tmRNA-SmpB on the ribosome have been available for years, little is known about the molecular factors that govern the dynamics of tmRNA translocation. Here, we use an energetically smooth model (i.e. SMOG) to simulate translocation of tmRNA-SmpB, which reveals that the structure of the ribosome gives rise to a preferred sequence of conformational substeps. Specifically, the tRNA-like domain (TLD) translocates, then the…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757657v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amide I kurtosis maps cardiac amyloid in human tissue by ultrabroadband multiplex coherent anti-Stokes Raman scattering (CARS) microscopy</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.07.757266v1</link>
+      <guid isPermaLink="false">d-420bec258f</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Cardiac amyloidosis is caused by deposits of misfolded proteins in the heart and can lead to heart failure. Histological confirmation typically involves staining tissue sections with Congo red and examining them under polarized light for apple-green birefringence; however, achieving an interpretable, label-free, and observer-independent assessment remains challenging. Here we show that Pearson kurtosis of channel intensities within the amide I window provides an interpretable, fitting-free contrast for cardiac amyloid in unstained human cardiac tissue sections from ten participants imaged by ultrabroadband multiplex coherent anti-Stokes Raman scattering (CARS). In a discovery participant, high-kurtosis regions corresponded with Congo red-positive tissue in two CARS-histology pairs of adjacent sections (descriptive spatial AUCs, 0.79 and 0.73). Across 15 fields from nine additional participants, field-level kurtosis values did not overlap between severe-deposition and Congo red-negativ…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.07.757266v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fine-mapping HLA-II haplotypes in Alzheimer&apos;s disease and healthy longevity reveals distinct associations with microglial HLA-II load and neuropathology</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.08.24.26361177v2</link>
+      <guid isPermaLink="false">d-b23fa16b18</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Human leukocyte antigen (HLA) class II variation is implicated in Alzheimer&amp;apos;s disease (AD) and longevity, but its mechanisms within the major histocompatibility complex remain unclear. We fine-mapped seven independent HLA-II haplotypes in 6,053 individuals (443 cognitively healthy centenarians [CHCs], 3,219 population controls, 2,391 AD patients). Three haplotypes overlapped previous AD and lifespan signals. Hap-B (DRB1*04subtypes) was protective, enriched in CHCs and controls versus AD, with its neuroprotective association with tau pathology replicated in an independent Netherlands Brain Bank cohort. Hap-R (DRB1*01:01) increased AD risk and reduced healthy longevity, with reduced microglial HLA-II activation. Hap-Y (DRB1*15:01) showed increased microglial HLA-II activation in post-mortem brain tissue, independent of quantitative AD neuropathology. These findings indicate distinct HLA-II haplotypes shape AD susceptibility and healthy longevity through separate mechanisms, linking HLA …&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.24.26361177v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine Learning-Supported Efficient VTE Risk Assessment using Routinely Collected Electronic Health Record Data</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.08.18.26360687v2</link>
+      <guid isPermaLink="false">d-a85d88b3e6</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Methods, Published online: 09 October 2026; doi:10.1038/s41592-026-03265-w An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging&lt;/p&gt;
-&lt;p&gt;Nature Methods · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41592-026-03265-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Objective: Venous thromboembolism (VTE) is a leading cause of preventable inpatient mortality, while the real-world performance of mandated risk assessment and the potential for automating using electronic health record (EHR) data remain unclear. We evaluated completion, concordance with structured EHR data, clinical validity, and feasibility of EHR-supported VTE risk assessment assisted by machine learning. Materials and Methods: We analysed 577,904 admissions and 726,896 VTE assessment forms across five NHS hospitals between 2015 and 2025. Concordance and clinical validity were evaluated in 87,118 completed assessments from 2023 to 2024. Machine learning models compared clinician-recorded and EHR-derived risk factors in 74,372 encounters with an assessment completed within 14 hours of admission. Results: Overall completion was 96.7%, and timely completion improved from 47.4% in 2015 to 90.5% in 2024. Agreement between forms and EHR data was good for common risk factors (e.g. age ove…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.18.26360687v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A scoping review of digital health technologies in glycogen storage diseases</title>
-      <link>https://www.nature.com/articles/s41746-026-03308-8</link>
-      <guid isPermaLink="false">d-315b4ae664</guid>
+      <title>HPV binding antibodies are associated with protection: a meta-analysis</title>
+      <link>https://www.medrxiv.org/content/10.1101/2025.11.26.25341002v2</link>
+      <guid isPermaLink="false">d-175112c79f</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03308-8 A scoping review of digital health technologies in glycogen storage diseases&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03308-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model</title>
-      <link>https://www.nature.com/articles/s41746-026-03387-7</link>
-      <guid isPermaLink="false">d-ddad17c114</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03387-7 Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03387-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial intelligence for opportunistic osteoporosis screening on chest radiographs</title>
-      <link>https://www.nature.com/articles/s41746-026-03333-7</link>
-      <guid isPermaLink="false">d-5444ec49f0</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03333-7 Artificial intelligence for opportunistic osteoporosis screening on chest radiographs&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03333-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum</title>
-      <link>https://www.nature.com/articles/s41746-026-03376-w</link>
-      <guid isPermaLink="false">d-bb8844d798</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03376-w Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03376-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Implementing and Scaling Artificial Intelligence in Low-Resourced Radiation Oncology: A Systematic Review of Deployments</title>
-      <link>https://www.nature.com/articles/s41746-026-03391-x</link>
-      <guid isPermaLink="false">d-3505b17ed9</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 09 October 2026; doi:10.1038/s41746-026-03391-x Implementing and Scaling Artificial Intelligence in Low-Resourced Radiation Oncology: A Systematic Review of Deployments&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03391-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Multi-omics profiling uncovers diagnostic biomarker panel, progression-associated subtypes, and prognostic signature in pediatric mitochondrial disease</title>
-      <link>https://www.nature.com/articles/s41467-026-78387-y</link>
-      <guid isPermaLink="false">d-e20e55b254</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78387-y Pediatric mitochondrial disease lacks reliable biomarkers. Here, the authors show that a multi-omics study identified a 7-feature diagnostic panel (AUC = 0.96), revealed two proteomic subtypes with differing outcomes, and developed a 12-transcript prognostic signature (AUC = 0.85).&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78387-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
-      <link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
-      <guid isPermaLink="false">d-155e0ac120</guid>
-      <pubDate>Thu, 08 Oct 2026 21:06:35 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/</link>
-      <guid isPermaLink="false">d-25dbe6cd05</guid>
-      <pubDate>Thu, 08 Oct 2026 18:33:29 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna&amp;apos;s agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration</title>
-      <link>https://arxiv.org/abs/2610.12470v1</link>
-      <guid isPermaLink="false">d-ff2470b3da</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:58 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not shown in the video. Alternatively, discovering a policy via reinforcement learning (RL) allows for broad generalization, but without prior guidance, it struggles with high-dimensional exploration in complex, multi-stage tasks. To address these coupled generalization and exploration challenges, we present Dex-One2Many, a real-to-sim-to-real framework that learns a generalizable dexterous manipulation policy from a single human video. Our key insight is to abstract the video into sequential scene graphs that guide RL, enabling efficient exploration while preserving broad generalizability. The graphs serve as generative constraints for sampling diverse reset states and provide dense rewards for…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.12470v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation</title>
-      <link>https://arxiv.org/abs/2610.12469v1</link>
-      <guid isPermaLink="false">d-d5f31ccfe2</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:58 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should be preserved. In this work, we strive to improve a pretrained image editor using only its own generations, without human-edited targets or an external training-time reward model. To this end, we propose a self-evolving framework, named Rubric-CEPR, that verifies the editor&amp;apos;s own samples with its internal representations through a rubric-augmented Contrastive Edit-Preservation Reward (CEPR). A Planner proposes structured edit instructions from unlabeled images, the Editor samples multiple candidate edits, and a frozen Critic scores each candidate with decomposed rubric checks for edit realization, removal of the old state, and content preservation, using features already ex…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.12469v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training</title>
-      <link>https://arxiv.org/abs/2610.12468v1</link>
-      <guid isPermaLink="false">d-cf84355da7</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:51 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibration to align these conditions with the target videos. To broaden interaction coverage, we introduce counterfactual post-training, modifying recorded action trajectories and generating future videos under a wider range of actions and contact configurations. To provide feedback on these predictions without paired ground-truth futures, we construct a human-annotated video dataset covering robot, object, and interaction defects and use it to train an embodied video reward model. Its scores guide …&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.12468v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CSF: Contextual Safety Filtering for Motion Generators</title>
-      <link>https://arxiv.org/abs/2610.12467v1</link>
-      <guid isPermaLink="false">d-970446761c</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:50 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion&amp;apos;s meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all explicit and scene-triggered unsafe cases and reduces the danger-event rate by up to 90%, while preserving 88-100% of benign motions. We demonstrate the complete system on a real-world Unitree G1, whe…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.12467v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>On the estimation and validity of AI time horizons---a statistical look at the METR plot</title>
-      <link>https://arxiv.org/abs/2610.12466v1</link>
-      <guid isPermaLink="false">d-a2e3b7dfc4</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:50 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;METR&amp;apos;s 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \emph{converts} human time to AI difficulty; it is nearly flat in a region from 2--30 min but close to linear elsewhere. Hence, a time-horizon jump from 3 min to 30 min is much easier than one from 30 min to 5 hours despite the same multiplier of $10 \times$. Overall, we contribute time-horizon point estimates that perform better under a cross-validated suite of proper scoring rules, as well as diagnostic plots for assessing time horizons&amp;apos; construct validity. We suggest that time horizons be interpreted together with the diagnostic plots, especially as new t…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.12466v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Background: Human papillomavirus (HPV) is the major cause of cervical cancer globally. Current vaccines have shown high efficacy at preventing HPV infection and other surrogate disease endpoints in randomised controlled trials (RCT). However, uptake is limited by accessibility and cost. Rapid clinical evaluation is critical for shortening time-to-market and encouraging the development and deployment of affordable vaccines. We aim to establish a validated correlate of protection that will support vaccine developers and decision makers with vaccine development, approval, dose schedules and deployment decisions. Methods: We utilised three existing Cochrane Systematic Reviews of RCTs of HPV vaccines and extended these to 1st January 2026. We identified and extracted data from trials where both efficacy and immunogenicity (HPV-specific antibodies) were reported. For HPV types where vaccine efficacy was reported but not immunogenicity (Types 31/33/45/52/58) we sourced antibody binding conce…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2025.11.26.25341002v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
