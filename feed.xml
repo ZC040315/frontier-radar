@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:54:05 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Rare genetic variants influence participation in cognitive components of the UK Biobank</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.08.26365060v1</link>
-      <guid isPermaLink="false">d-723ee98719</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Population-level biobanks are transforming health and genomic research however they are all subject to recruitment and participation biases, the impacts of which are not fully understood. The UK Biobank (UKBB) is one such cohort; it is widely used for health-related research, but its participants are not representative of the UK general population. In addition, those who complete optional components of UKBB differ from those who do not in terms of health-related exposures and outcomes. Participation in UKBB has a partly genetic basis, but the extent to which rare variants influence participation in optional study components, and how this might impact findings of rare variant association studies, is unknown. We analysed exome sequencing and array data from 398,149 UKBB participants to examine rare variant contributions to UKBB participation bias, focusing on cognitive phenotypes. We found that classes of rare variation previously shown to contribute to cognition were enriched among par…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.08.26365060v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</link>
+      <guid isPermaLink="false">d-18a1b1e57f</guid>
+      <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Worldwide diversity and geographic structure of killer-cell immunoglobulin-like receptor (KIR) gene content</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.09.26365105v1</link>
-      <guid isPermaLink="false">d-3d32868831</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Introduction: Killer-cell immunoglobulin-like receptor (KIR) gene content shapes natural killer-cell responses and varies substantially among populations. We examined whether worldwide KIR diversity reflects regional structure, isolation by distance, serial founder effects, or latitudinal gradients. Data and methods: Carrier frequencies for 11 variable KIR genes were obtained from the Allele Frequency Net Database. The primary analysis included 189 locally sampled, non-diaspora, non-mixed populations from 70 countries, comprising 25,469 individuals; 161 populations had complete 11-gene profiles. Diversity indices, ordination, clustering, permutation-based variance decomposition, Mantel tests, and regression models were used to characterize geographic structure. Serial founder effects were evaluated using four distance measures from East Africa, both globally and within the Old World. Models of latitude incorporated spatial autocorrelation. Prespecified sensitivity analyses evaluated a…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.09.26365105v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Costs of influenza-associated healthcare: an umbrella review and meta-regression analysis</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.08.26365049v1</link>
-      <guid isPermaLink="false">d-ac78dd8d83</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Abstract Background Estimates of the healthcare costs associated with influenza treatment are essential for cost-effectiveness analyses that inform preventative and treatment strategies such as vaccination and non-pharmaceutical interventions. Existing evidence varies across treatment settings, age groups, and countries and there is little data from low- and middle-income settings. Methods We conducted an umbrella review of systematic reviews and meta-analyses reporting direct admitted and non-admitted hospitalisation costs of seasonal influenza treatment in children, adults, and older people. We supplemented an evidence gap with a systematised review of studies reporting adult non-admitted treatment costs. Costs were extracted and adjusted to 2023 USD. We fitted a Bayesian mixed-effects model to estimate influenza treatment costs using national economic indicators, age group, and treatment setting as a priori predictors. We predicted admitted and non-admitted treatment costs for chil…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.08.26365049v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HCV incidence and prevalence trends among people who use drugs in France 2004 to 2023</title>
-      <link>https://www.nature.com/articles/s41467-026-78598-3</link>
-      <guid isPermaLink="false">d-7daa1d8519</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/</link>
+      <guid isPermaLink="false">d-df9b01a1dd</guid>
+      <pubDate>Mon, 12 Oct 2026 17:52:22 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78598-3 Authors show in 2013-2023 France saw a substantial reduction in hepatitis C virus prevalence and incidence among people who use drugs. Widespread treatment and harm reduction drove the decline, bringing France closer to WHO 2030 elimination targets.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78598-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Photography-based dental plaque detection and report generation among preschool children using PlaqueSAM</title>
-      <link>https://www.nature.com/articles/s41746-026-03385-9</link>
-      <guid isPermaLink="false">d-c20366ac85</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 11 October 2026; doi:10.1038/s41746-026-03385-9 Photography-based dental plaque detection and report generation among preschool children using PlaqueSAM&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03385-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents</title>
+      <link>https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</link>
+      <guid isPermaLink="false">d-65574e7d78</guid>
+      <pubDate>Mon, 12 Oct 2026 17:08:05 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks. The post Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents appeared first on Meta Newsroom .&lt;/p&gt;
+&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/10/introducing-muse-wonder-models/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>An agentic AI system for multi-framework communication coding</title>
-      <link>https://www.nature.com/articles/s41746-026-03314-w</link>
-      <guid isPermaLink="false">d-74b4c3054f</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 11 October 2026; doi:10.1038/s41746-026-03314-w An agentic AI system for multi-framework communication coding&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03314-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Simulating student learning for better AI tutoring</title>
+      <link>https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</link>
+      <guid isPermaLink="false">d-a99af6b303</guid>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .&lt;/p&gt;
+&lt;p&gt;Microsoft Research · 官方一手 · &lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bovine H5N1 influenza viruses have adapted to more efficiently use receptors abundant in cattle</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.04.02.715584v2</link>
-      <guid isPermaLink="false">d-5224edbec0</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Sustained mammal-to-mammal transmission of high pathogenicity H5N1 avian influenza viruses is reshaping the host range of these pathogens. One of the longest-running mammalian transmission chains involves the B3.13 genotype circulating in U.S. dairy cattle which was detected in early 2024. Genomic analyses revealed selection and rapid fixation of haemagglutinin mutations D104G and V147M. We demonstrate, via glycomic profiling, that bovine tissues, including the mammary gland, are enriched in N- and O-linked glycans capped with N-glycolylneuraminic acid (NeuGc), a sialic acid which is not synthesised by humans and birds, which instead express only N-acetylneuraminic acid (NeuAc). Early cattle H5 viruses poorly recognised NeuGc, but D104G and V147M enabled efficient engagement of both NeuAc- and NeuGc-containing receptors. These mutations enhanced replication in bovine mammary tissue without major attenuation of replication in human lung and primary nasal epithelial cells. NeuGc-driven …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.02.715584v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Deploy decision models with llama.cpp on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/</link>
+      <guid isPermaLink="false">d-0ce36be83d</guid>
+      <pubDate>Mon, 12 Oct 2026 15:51:46 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Inflammation-driven cellular selection impacts X-linked mosaicism in the epidermis</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757664v2</link>
-      <guid isPermaLink="false">d-64eb3c3fe6</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;In eutherian females, the choice of which X chromosome gets embryonically inactivated is thought to be random. Somatic tissues are thus assumed to comprise cells with a 50:50 ratio of maternal:paternal X active. However, a phenomenon known as X-skewing has been observed, wherein tissue composition shifts to be dominated by cells expressing one X or the other. On a gross level, such X-skewing is phenotypically silent except in the case where one X-chromosome carries a disease mutation. Here, by leveraging a mouse model of an X-linked disease called Incontinentia Pigmenti, caused by heterozygous mutations in the NF-kB effector, Nemo, we explore how X-linked cellular dynamics shape progenitor biology in the epidermis. Lineage tracing with X-linked reporters shows that at birth, the epidermis is unexpectedly skewed toward mutant cells. Within a week, as inflammation emerges, these dynamics reverse leaving surviving animals with almost entirely wild-type epithelium. The shift is driven by …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757664v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/</link>
+      <guid isPermaLink="false">d-52ffaf470a</guid>
+      <pubDate>Mon, 12 Oct 2026 15:50:14 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contrasting relationships between evolved consumer diversity and productivity for essential vs. substitutable resources</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757349v1</link>
-      <guid isPermaLink="false">d-75c4d3b2f8</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Any mechanistic biodiversity-ecosystem functioning theory must explain how biodiversity in natural communities arises, which requires an evolutionary metacommunity perspective. Using a model of adaptive evolution of competitive metacommunities in landscapes with spatially heterogeneous supply of two resources, we studied the evolution of resource-uptake specialization as a function of resource type (substitutable/essential) and trade-off shape between resource-uptake affinities (generalist-/specialist-favouring). We identified &amp;quot;critical essentiality&amp;quot; as a key phenomenon separating parameter regions with fundamentally different biodiversity--ecosystem function relationships. Specifically, while greater spatial heterogeneity in resource supply increases biodiversity, this comes at the cost of reduced productivity when resources are essential. Moreover, when resources are essential, both generalist- and specialist-favoring trade-offs select for phenotypes that prevent efficient resource …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757349v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide</title>
+      <link>https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/</link>
+      <guid isPermaLink="false">d-88d4a78574</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:25 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>WildObserve: Camera-trap image review software that learns species labels during annotation</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.06.757089v1</link>
-      <guid isPermaLink="false">d-b6921751b5</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Motion-activated camera traps are an effective tool for monitoring animals, but a single study can produce millions of images, which must be analyzed before they yield data. The burden of analyzing them has led many teams to automate the work with computer vision. These models lose accuracy on images unlike those they were trained on, however, and a general model may not use the categories a project needs. Adapting a model to a project usually requires at least one of the following: many labeled images per species, programming expertise, a graphics processing unit (GPU), or uploading images to a remote server. I describe WildObserve, a desktop application that adapts to each project without any of these requirements. Before a reviewer sees an image, MegaDetector finds animals, people, and vehicles and marks images that are likely empty, and SpeciesNet suggests a species for each animal. WildObserve keeps SpeciesNet&amp;apos;s feature vector for each animal, so as the reviewer confirms or corre…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.06.757089v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged</title>
+      <link>https://machinelearning.apple.com/research/llm-translation-quality-annotation</link>
+      <guid isPermaLink="false">d-dfdb95185c</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated across these dimensions before being reliably used as alternatives to human evaluation. In this paper, we evaluate the performance of LLMs for two prominent MT quality evaluation schemes: Multidimensional Quality Metrics (MQM) and Error Span Annotation (ESA) by comparing their agreement with human…&lt;/p&gt;
+&lt;p&gt;Apple 机器学习研究 · 官方一手 · &lt;a href=&quot;https://machinelearning.apple.com/research/llm-translation-quality-annotation&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rapid trait adaptation has contrasting effects on different dimensions of stability under environmental change</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.02.756195v1</link>
-      <guid isPermaLink="false">d-9bd05c5529</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Environmental change alters species growth rates and, through species interactions, can produce complex effects on community functioning and composition. Because functional traits mediate both environmental responses and competition, rapid trait adaptation may modify these effects, but its consequences in multispecies communities remain unclear. We used a trait-based model of competitive communities to test how adaptation affects the mean and diversity of species growth responses to environmental change, and how this influences functional and compositional resistance (how unaffected the community is by the environmental change) and resilience (how well it recovers after it has acclimated to the altered environment). Adaptation altered response variance more strongly than the mean by changing the balance between environmental optimisation and competition-driven trait divergence. As a result, adaptation strongly increased compositional stability, but had less clear effects on abundance.…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.02.756195v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices</title>
+      <link>https://machinelearning.apple.com/research/distributed-gpu-cloud</link>
+      <guid isPermaLink="false">d-c207af8abd</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with powerful GPUs that remain largely idle during normal usage. This paper presents Minions, a dynamic and distributed virtual GPU cloud that aggregates idle Apple Silicon GPUs across macOS devices to execute large-scale machine learning inference workloads. Minions enables teams to leverage existing…&lt;/p&gt;
+&lt;p&gt;Apple 机器学习研究 · 官方一手 · &lt;a href=&quot;https://machinelearning.apple.com/research/distributed-gpu-cloud&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Compatible Comma-Free Codes and the Origin of the Genetic Code</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757769v1</link>
-      <guid isPermaLink="false">d-5008031da7</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;The genetic code is the rule that (apart from minor modifications) is used by all contemporary life on Earth to translate genes into proteins. It is summarized by a 4x4x4 table which maps the 64 possible triplet RNA codons to the 20 canonical amino acids (&amp;quot;AAs&amp;quot;). Understanding the origin of this code is a fundamental open problem in biology. We review the idea of a comma-free code, and put forward a general reason to suspect the primordial code was comma-free (even though the modern code is not). We explain why this primordial code should then persist as a comma-free subcode within the modern code, and identify the five optimal candidates for such a subcode. We then introduce the idea of &amp;quot;compatible comma-free codes&amp;quot; and explain how they allow multiple codes to evolve in parallel, circumventing a standard argument suggesting that code evolution should effectively freeze when the associated genome becomes sufficiently complex. In particular, we highlight the possibility that the origin…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757769v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Self-Compacting Language Model Agents</title>
+      <link>https://machinelearning.apple.com/research/self-compacting-language-agents</link>
+      <guid isPermaLink="false">d-2e6711c64c</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajectory structure, risking discard of partial results mid-derivation or mid-search. We propose SELFCOMPACT, a scaffold that allows the model itself to decide when and how to compact. Specifically, it pairs two inference-time elements: (i) a compaction tool the model invokes to summarize the accumulated…&lt;/p&gt;
+&lt;p&gt;Apple 机器学习研究 · 官方一手 · &lt;a href=&quot;https://machinelearning.apple.com/research/self-compacting-language-agents&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Organelle intergenic DNA is preferentially distributed between opposite-polarity gene pairs.</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757646v1</link>
-      <guid isPermaLink="false">d-cc2a7a270a</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Across eukaryotes, mitochondrial and plastid genomes vary enormously in size and noncoding content. This variation is often attributed to diverging mutation rates, DNA repair mechanisms, and the power of genetic drift. Although these processes can help explain how much noncoding DNA an organelle genome may retain, they do not explain how this noncoding DNA is distributed throughout the genome. We analyzed over 2.6 million intergenic regions (IGRs) from ~37,000 mitochondrial and plastid genomes to test whether gene-pair polarity marks local differences in the distribution of organelle intergenic DNA. Taxonomy-structured mixed models, controlling for flanking-gene length and type, showed that IGRs between opposite-polarity gene pairs were 1.1-3.2-fold longer than those between same-polarity genes. IGRs between convergent (+-) and divergent (-+) gene pairs showed distinct residual-dispersion patterns, indicating that they are not homogeneous in their length distribution. The prevalence o…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757646v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Award-winning microscopy image disqualified over AI use</title>
+      <link>https://www.nature.com/articles/d41586-026-03240-7</link>
+      <guid isPermaLink="false">d-bd12e7ee88</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03240-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Additive in size, synergistic in composition: selection across the eastern oyster larval genome under coastal acidification and sewage effluent</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757713v1</link>
-      <guid isPermaLink="false">d-4244f635d6</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Coastal organisms experience natural and anthropogenic stressors simultaneously, yet the interactive effects of multiple stressors are largely unknown. In urbanized estuaries, coastal acidification (CA) is coupled to sewage effluent (SE): nutrient loading from SE stimulates microbial CO2 production, and this lowers the pH. The genomic targets of selection of CA and SE have been characterized separately but never together in early life stages of marine organisms. Here, we exposed eastern oyster (Crassostrea virginica) larvae to control, CA (~2800 atm pCO2), SE (5% by volume), and the combination (CASE) for 24 h across independent spawns, and used expressed exome capture sequencing to measure allele-frequency change before and after exposure, removing loci that also shifted in controls. CASE generally produced the lowest survival, although mortality was driven primarily by effluent and did not exceed the additive expectation. The size of allele-frequency change under CASE stayed close t…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.08.757713v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Private, offline and yours: how to search the literature with local AI systems</title>
+      <link>https://www.nature.com/articles/d41586-026-03227-4</link>
+      <guid isPermaLink="false">d-d04c8d278d</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03227-4 Concerns about privacy, reproducibility and cost are prompting scientists to use models on their computers rather than in the cloud.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03227-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Renin, Major Adverse Cardiovascular Outcomes, and the Use of Mineralocorticoid Receptor Antagonists in Hypertension</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.05.11.26352940v2</link>
-      <guid isPermaLink="false">d-0f9f6b049e</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: The prognostic significance of renin activity and its role in identifying patients who may benefit from mineralocorticoid receptor antagonists (MRAs) remain incompletely defined. Methods: In a multicentre retrospective cohort of 16,600 adults with hypertension, we evaluated associations between baseline plasma renin activity and major adverse cardiovascular events (MACE), comprising ischaemic stroke, intracranial haemorrhage, myocardial infarction, and all-cause death. Renin was analysed using restricted cubic splines and categories. Time-dependent Cox models assessed associations between MRA use and outcomes across renin strata, treating MRA exposure as time-varying. Findings: Renin showed a U-shaped association with MACE, with the lowest estimated risk at 1.17 ng/mL/h. Compared with renin 0.3-.0 ng/mL/h, both low renin ( 3.0 ng/mL/h; HR 1.19, 1.06-1.33) were associated with higher MACE risk. MRA use was associated with lower MACE risk when renin was low ( 3.0 ng/mL/h [1.…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.05.11.26352940v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Continuous-time noise mitigation in analogue quantum simulation</title>
+      <link>https://www.nature.com/articles/s41467-026-78310-5</link>
+      <guid isPermaLink="false">d-781dfc5440</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 12 October 2026; doi:10.1038/s41467-026-78310-5 Mitigating errors in analogue quantum simulators - that is, reducing noise-induced bias in expectation values - would greatly improve their operation and scalability. Here, the authors propose a time-continuous error cancellation protocol, based on introducing an auxiliary system and engineering the joint dissipation of the new, extended system.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78310-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>WALK for Freezing of Gait in Parkinson&apos;s Disease: A Sham-Controlled Home Rehabilitation Trial</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.05.14.26352486v2</link>
-      <guid isPermaLink="false">d-1b65694218</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Freezing of gait (FOG) in Parkinson disease often persists despite dopaminergic treatment. WALK is a bilateral thigh-worn device that delivers local muscle-tendon vibration during walking. We examined whether WALK could be incorporated into supervised home rehabilitation and explored differences in freezing severity between active and sham treatment. Methods: In this single-centre pilot randomised clinical trial, adults with Parkinson disease and neurologist-confirmed FOG were assigned to Active or Sham-WALK. Both groups completed the same 16-session, six-week supervised home programme; mZ-FOG was assessed in the medication OFF state at baseline and after sessions 8 and 16. At each follow-up, assessment without the device preceded assessment with the assigned device. The complete-case analysis tested the Group X Condition interaction across the five conditions. Trial registration: Clinical Trials Registry-India, CTRI/2022/01/039256, https://ctri.nic.in/; registered 7 Janua…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.05.14.26352486v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Block-fitness modeling of the global air mobility network</title>
+      <link>https://www.nature.com/articles/s41467-026-78115-6</link>
+      <guid isPermaLink="false">d-ed2a8d412c</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 12 October 2026; doi:10.1038/s41467-026-78115-6 Origin-destination data on air travel are essential for studying global mobility and epidemic risk but are often proprietary. Here, authors introduce a maximum-entropy network method that reconstructs air passenger flows from open data and enables accurate reproduction of epidemic dynamics.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78115-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Zero-Shot Decision Model (Jev) Matches a Trained Classifier but Ranks Its Own Errors Worse: Calibrated, Split-Conformal Next-Procedure Recommendation in General Dentistry</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.05.07.26352635v5</link>
-      <guid isPermaLink="false">d-454f28475e</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;On real-world dental records, procedure history predicts the next procedure category well, and a simple history-aware classical model beats every large-language-model (LLM) design we tested. We study the question that follows every dental diagnosis: given a patients chart and most recent procedure, what should the dentist do next? Commercial dental artificial intelligence in 2026 is overwhelmingly diagnostic, and the closest published system for this sequencing task, MultiTP (Chen et al., 2024b), offers neither calibrated uncertainty, structured rationale, nor an evaluation as decision support. We introduce DentaCoPilot, a recommender that returns a calibrated top-K distribution over Current Dental Terminology (CDT) codes, a verbalised confidence label, an explicit abstain flag, and a chart-grounded rationale, and we compare four classical baselines with six LLM variants. On an apples-to-apples synthetic evaluation, classical baselines reach 0.567 top-1 while pure LLM variants trail a…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.05.07.26352635v5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo</title>
+      <link>https://www.nature.com/articles/s41467-026-78635-1</link>
+      <guid isPermaLink="false">d-7425243355</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 12 October 2026; doi:10.1038/s41467-026-78635-1 Ionizable-lipid discovery remains largely empirical. Here, the authors integrate interpretable machine learning with modular degradable lipid chemistry to prioritize candidates for experimental testing and identify a lead lipid for hepatic mRNA delivery.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78635-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>PRE-CISE: A PRE-calibration Coverage, Identifiability, and SEnsitivity analysis workflow to streamline model calibration</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3</link>
-      <guid isPermaLink="false">d-154541e28f</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Genome editing</title>
+      <link>https://www.nature.com/articles/s41587-026-03324-9</link>
+      <guid isPermaLink="false">d-9b2be2f78f</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;PurposeWe introduce PRE-CISE, a pre-calibration workflow integrating coverage analysis, local sensitivity, and collinearity diagnostics to streamline model calibration. We demonstrate PRE-CISEs benefits using two testbeds (a Sick-Sicker Markov model and an SIR transmission model) and a COVID-19 case study. MethodsPRE-CISE uses coverage analysis to verify that model outputs generated from the prior distribution span calibration targets, followed by local sensitivities to quantify parameter influence, guiding the resizing of prior bounds to improve coverage. Identifiability is assessed via collinearity analysis; large indices indicate practical nonidentifiability. Bayesian calibration was used: for the testbed models (3 and 2 parameters, respectively) to match their targets; for the COVID-19 model (11 parameters) to match daily confirmed incident cases. ResultsCoverage analyses flagged initial misfits; local sensitivities identified that the Sick-to-Sicker transition probability has a g…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Biotechnology, Published online: 12 October 2026; doi:10.1038/s41587-026-03324-9 Recent patents relating to systems, methods and compositions for use in genome editing.&lt;/p&gt;
+&lt;p&gt;Nature Biotechnology · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41587-026-03324-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The lingering legacy: Resilience as a pathway linking retrospective organisational support and police retirement adjustment</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.04.08.26349526v2</link>
-      <guid isPermaLink="false">d-6848bb5422</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Tracing the origins of CRISPR–Cas</title>
+      <link>https://www.nature.com/articles/s41587-026-03353-4</link>
+      <guid isPermaLink="false">d-ce890a1b88</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;This study evaluated retirement adjustment in UK retired police officers (N = 289) across two analytical models. The moderation model revealed a non-significant overall interaction, though exploratory Johnson-Neyman analysis identified an emergent region at 32.07 years post-retirement, where perceived organisational support significantly predicted adjustment. This suggests a long-term organisational legacy effect, wherein retrospective perceptions of service value serve as a durable psychological resource in later life. Conversely, the mediation model confirmed psychological resilience as a significant statistical mediator directly linking support to adjustment. The findings support lifelong post-service wellbeing strategies, as organisational relationships influence adjustment decades after retirement.&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.04.08.26349526v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Biotechnology, Published online: 12 October 2026; doi:10.1038/s41587-026-03353-4 Tracing the origins of CRISPR–Cas&lt;/p&gt;
+&lt;p&gt;Nature Biotechnology · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41587-026-03353-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations</title>
-      <link>https://www.nature.com/articles/s41746-026-03348-0</link>
-      <guid isPermaLink="false">d-1fca8d209f</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <title>FDA nod for rare neurology drug</title>
+      <link>https://www.nature.com/articles/s41587-026-03349-0</link>
+      <guid isPermaLink="false">d-1b92af7309</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 10 October 2026; doi:10.1038/s41746-026-03348-0 FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03348-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Biotechnology, Published online: 12 October 2026; doi:10.1038/s41587-026-03349-0 FDA nod for rare neurology drug&lt;/p&gt;
+&lt;p&gt;Nature Biotechnology · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41587-026-03349-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RevMed’s pancreatic cancer drug first</title>
+      <link>https://www.nature.com/articles/s41587-026-03363-2</link>
+      <guid isPermaLink="false">d-4dc1f65d74</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Biotechnology, Published online: 12 October 2026; doi:10.1038/s41587-026-03363-2 RevMed’s pancreatic cancer drug first&lt;/p&gt;
+&lt;p&gt;Nature Biotechnology · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41587-026-03363-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI-based hourly prediction of emergency department demand integrating social determinants of health</title>
+      <link>https://www.nature.com/articles/s41746-026-03378-8</link>
+      <guid isPermaLink="false">d-aa438ea383</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 12 October 2026; doi:10.1038/s41746-026-03378-8 AI-based hourly prediction of emergency department demand integrating social determinants of health&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03378-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
