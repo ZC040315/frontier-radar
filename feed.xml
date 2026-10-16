@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:42:52 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
-      <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
-      <guid isPermaLink="false">d-ed17e1caef</guid>
-      <pubDate>Thu, 15 Oct 2026 00:50:50 GMT</pubDate>
+      <title>Structural basis for loop-dependent inhibition by AcrIIC1 anti-CRISPR proteins</title>
+      <link>https://www.nature.com/articles/s41467-026-78817-x</link>
+      <guid isPermaLink="false">d-5c16c28524</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance appeared first on Meta Newsroom .&lt;/p&gt;
-&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-78817-x Anti-CRISPR proteins inhibit bacterial CRISPR immunity, but how auxiliary structural elements enhance inhibition is unclear. Here, authors show that an extended AcrIIC1 loop supports HNH-domain engagement and modulates sgRNA positioning and R-loop formation to strengthen Cas9 inhibition.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78817-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Can Learning to Answer Spatial Questions Improve Novel-View Generation?</title>
-      <link>https://arxiv.org/abs/2610.20610v1</link>
-      <guid isPermaLink="false">d-604cf9cf9f</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:58 GMT</pubDate>
+      <title>Bringing GPT-Rosalind to academic research labs</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+      <guid isPermaLink="false">d-edb4612730</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture. Our model incorporates camera geometry into both VAE and ViT representations and leverages understanding features during generation through joint self-attention with a modality-aware attention masking strategy. Experiments demonstrate strong image quality and geometric consistency in novel-view generation, alongside competitive 3D language understanding. Further analysis shows that joint training improves cross-view corr…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20610v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/introducing-the-rosalind-academic-plan&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving</title>
-      <link>https://arxiv.org/abs/2610.20609v1</link>
-      <guid isPermaLink="false">d-d5d50b0c0c</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:56 GMT</pubDate>
+      <title>LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</title>
+      <link>https://arxiv.org/abs/2610.22372v1</link>
+      <guid isPermaLink="false">d-9bc3589d0c</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:59 GMT</pubDate>
       <category>数字产品与交互</category>
-      <description>&lt;p&gt;Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed command set to free-form natural-language instructions. However, this open-ended interface exposes a new vulnerability surface: an inattentive driver may issue instructions that are unsafe given the current scene, and a malicious user may issue dangerous ones on purpose. We present the first benchmark suite that evaluates navigation following and conflict awareness together, along with adversarial robustness. Existing VLAs fall short on both: SimLingo completes no language-instructed lane change in closed loop, and all models degrade sharply under conflicting signals. We propose SafeDriveVLA, the first driving VLA that (1) explicitly predicts a three-level navigation-compliance mode to decouple conflict reasoning from action generation, and (2) uses navigation-conditioned world model dreaming…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20609v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation and taxonomy of observable preferences in simulation, covering motion, skill, and user-profile choices. This formulation is restricted to language-expressible preferences that can be instantiated in L…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22372v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion</title>
-      <link>https://arxiv.org/abs/2610.20606v1</link>
-      <guid isPermaLink="false">d-7c04bdb572</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:52 GMT</pubDate>
+      <title>Gen4P: Video Generators are 4D Perceivers</title>
+      <link>https://arxiv.org/abs/2610.22371v1</link>
+      <guid isPermaLink="false">d-0158d9df99</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:48 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-performing humanoid control networks can be generatively modeled directly through their weights. We adopt a latent diffusion framework that couples a linear autoencoder with a Diffusion Transformer. The autoencoder compresses actor network parameters into a compact latent space, and the Diffusion Transformer models the distribution of these latents. Trained on networks collected from reinforcement learning for the Unitree G1 robot, our approach generates deployable networks that perform various motions in the real world, including walking, danci…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20606v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-time queries further provide temporal flexibility. To strengthen geometric knowledge, we propose a straightforward plug-in solution by incorporating a pretrained video-depth LoRA as a frozen geometry prior, improving overall performance without adding extra trainable parameters. Gen4P achieves state-of-the-art or competitive performance on tasks of 3D point tracking, video depth and camera pose estimation. Qualitative results on in-the-wild videos illustrate its capability of tracking complex mot…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22371v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Representation Conditioning for Generation</title>
-      <link>https://arxiv.org/abs/2610.20608v1</link>
-      <guid isPermaLink="false">d-1a890451b9</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:52 GMT</pubDate>
+      <title>Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation</title>
+      <link>https://arxiv.org/abs/2610.22370v1</link>
+      <guid isPermaLink="false">d-79de1ac779</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:35 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion backbone. While this objective is achieved at early layers by back-propagating the alignment loss, there is no guarantee that later layers, supervised by the velocity prediction loss alone, can well access such semantics. We propose a simple solution, representation conditioning (RECON), to improve semantics in later layers. During training, we feed the pretrained vision encoder tokens into later layers; during inference, because we no longer have the clean image, we reuse the MLP head (as a proxy to the vision encoder) and project its output tokens to the later layers. Our method adds no parameters and leads to much faster convergence: RECON is $63\times$ faster than SiT and …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20608v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22370v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance</title>
-      <link>https://arxiv.org/abs/2610.20607v1</link>
-      <guid isPermaLink="false">d-4b0b5c5363</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:52 GMT</pubDate>
+      <title>SoftCache: Adaptive Step Size Caching for Diffusion Transformers</title>
+      <link>https://arxiv.org/abs/2610.22369v1</link>
+      <guid isPermaLink="false">d-c4ba984a2b</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:34 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal and spending a fresh evaluation once it crosses a threshold. They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size. We observe that the signal carries much more than this switch. How far it sits below the threshold, its headroom, predicts the error induced by reuse. We propose SoftCache, which performs soft caching: instead of a binary switch, the headroom sets how far each cached step goes. Where the headroom is large, the sampler jumps past several scheduled nodes, and as a refresh nears, its steps shrink …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22369v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Value as Memory: Online Value-Guided Post-training for General Robot Policies</title>
+      <link>https://arxiv.org/abs/2610.22368v1</link>
+      <guid isPermaLink="false">d-77d16196a0</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:31 GMT</pubDate>
       <category>数字产品与交互</category>
-      <description>&lt;p&gt;Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems. At its core, HiRe-MoMa adopts a Hierarchical Residual Architecture that fine-tunes a frozen base policy. A Policy-Agnostic Residual learns additive corrections atop the base policy, while Hierarchical Decoupling splits the residual into mobile-base and manipulator-arm heads with unidirectional conditioning, mitigating gradient interference and aligning corrections with the platform&amp;apos;s physical hierarchy. To improve sample efficiency in data-expensive real-world settings, we propose Expert-Guided Value Alignment, which leverages sparse human interventions with under 20% training co…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20607v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We present Value as Memory (VaM), a framework that addresses these challenges through value caching and online real-world reinforcement learning (RL). Value caching conditions actions on recent value predictions as task-progress memory, while online updates enable timely policy improvement by combining offline demonstrations, off-policy interventions, and on-policy rollouts for sample-efficient adaptation. As a result, VaM transitions from offline RL warmup to online autonomous learning with sparse rewards. Across long-horizon tasks involving deformable objects and contact-rich manipulation, VaM yields a mean absolute success-rate gain of $29.4\%$ with value caching, while achieving a $32.8\%$ gain with online autonomous learning over matched offline training. The evaluated onl…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22368v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>VITAL: From Visual Motion to Precise Action</title>
-      <link>https://arxiv.org/abs/2610.20604v1</link>
-      <guid isPermaLink="false">d-c5bfe80df2</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:49 GMT</pubDate>
+      <title>Discovering state-of-the-art quantum circuits with large language models</title>
+      <link>https://arxiv.org/abs/2610.22367v1</link>
+      <guid isPermaLink="false">d-14bfab3986</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:20 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are reconstructed from recorded future images. Even without the need for future prediction, reconstruction captures the dominant maneuver but leaves centimeter-scale errors. We therefore introduce VITAL (Vision-Induced Tokens for Action Learning), an action tokenizer that couples a visually derived motion scaffold with a compact residual encoding the trajectory error left by that scaffold. This representation makes visual motion the principal prediction target and gives small metric corrections a separate, normalized learning scale. Using flow matching, the action expert jointly predicts both components from the current image, ego state, and navigation command, without generating fu…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20604v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here we introduce an evolutionary framework in which large language models (LLMs) propose circuit designs and an independent evaluator verifies and scores them. We apply this framework to tasks spanning numerical computation, chemistry, optimization, quantum simulation, and number theory. In seven of the eight tasks, the discovered circuits significantly reduce both Toffoli and qubit counts relative to the state of the art. In the eighth, the search discovers a new reversible architecture for prime-…&lt;/p&gt;
+&lt;p&gt;arXiv quant-ph · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22367v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation</title>
-      <link>https://arxiv.org/abs/2610.20603v1</link>
-      <guid isPermaLink="false">d-b875179274</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:48 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of information extraction, semantic rewriting, and multi-condition generation: Prompt-Eval-Refine-Loop Agent (PERL-Agent) distills heterogeneous SKU metadata into concise selling-point text lists through an iterative closed loop of VLM and LLM roles scored by a reference-free rubric. Layout Thinker Optimization (LTO) aligns the rewriter with both caption and rendered-image quality via alternating domain-specific policy optimization. SKU-DiT, trained under Reinforce-Distill-Reinforce (RDR) progressive training, conditions jointly on the white-background product image, the trademark crop, and the structured layout to hold subject fidelity, trademark integrity, and character-level text accuracy together. The framework runs in production at a scale of millions of main images per day with a late…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20603v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning</title>
-      <link>https://arxiv.org/abs/2610.20598v1</link>
-      <guid isPermaLink="false">d-a7cecb8430</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:31 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken dynamic understanding, while 4D-specialized models often lack strong static 3D reasoning. Our analysis reveals that this spatial--dynamic interference is highly non-uniform across parameter groups, with the balance between static and dynamic capabilities particularly sensitive to changes in late-layer MLPs. To address this interference, we propose DynThinker, a unified framework for jointly strengthening static and dynamic spatial reasoning. Decoupled Exponential Moving Average (D-EMA) applies configurable group-wise averaging to constrain drift in interference-sensitive pretrained parameters while preserving flexibility for capability enhancement. Spatial-Dynamic Fusion (SDF) complements D-EMA by selectively integrating spatial and temporal priors from a dynamic geometry encoder into inte…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20598v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Co-Evolving Acting and Forecasting for Language Agents</title>
-      <link>https://arxiv.org/abs/2610.20597v1</link>
-      <guid isPermaLink="false">d-2ac0e56978</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:28 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets that estimate per-step success probabilities or observation targets that fit environment response. Both are hard to construct well: (1) value targets come from the same single scalar signal for each step in the trajectory, and (2) observation targets, such as web pages and terminal logs, are long and noisy and reach only one step ahead. We propose \name, which adds a third kind of multi-step action targets. On successful on-policy trajectories, \name trains the policy backbone to generate the action sequences that follows each history. Each action is also supervised when forecast from the preceding histories, forming a temporal ensemble that the shared backbone absorbs during training, and thi…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20597v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices</title>
-      <link>https://arxiv.org/abs/2610.20596v1</link>
-      <guid isPermaLink="false">d-3317336607</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:19 GMT</pubDate>
+      <title>T2-z: Test-Time Optimization of Environment Latents for Robotic World Models</title>
+      <link>https://arxiv.org/abs/2610.22364v1</link>
+      <guid isPermaLink="false">d-40641d19df</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:11 GMT</pubDate>
       <category>数字产品与交互</category>
-      <description>&lt;p&gt;Consumer smart devices observe the same human motion from different body locations, yet existing inertial-localization benchmarks rarely provide synchronized heterogeneous wearables with device-specific motion ground truth. We present CoWear, a dataset and reference framework for collaborative inertial localization using a smartphone, smartwatch, and smart glasses. The dataset contains over 30 participants, over 300 walking sessions, and more than 30 hours and 100 km of aggregate device trajectories, with each device individually tracked by motion capture. To enable collaboration across distinct body motions, we train role-specific estimators to predict the displacement of a common reference device over synchronized temporal windows. Their predictions are transformed to the world frame using gyroscope integration and fused according to learned uncertainty. Experiments using phone, glasses, and watch as reference targets show that multi-device fusion consistently improves both displace…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20596v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they take. During training, T2-Z alternates between two stages: a world-model optimization stage that fixes the latents and learns general action-conditioned dynamics across environments; and an environment-latent optimization stage that freezes the world model and optimizes the conditioning latents, allowing latent structure to emerge purely through world prediction. At test time, the world model remains…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22364v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence</title>
-      <link>https://arxiv.org/abs/2610.20592v1</link>
-      <guid isPermaLink="false">d-17b1678093</guid>
-      <pubDate>Wed, 14 Oct 2026 17:59:03 GMT</pubDate>
+      <title>Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation</title>
+      <link>https://arxiv.org/abs/2610.22363v1</link>
+      <guid isPermaLink="false">d-296c9e8b74</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:07 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Existing geometry-aware Multimodal Large Language Models (MLLMs) increasingly rely on external 3D encoders to provide structural priors, but executing these additional encoder paths at inference introduces substantial latency and computational overhead. We propose GeoThinker-$F$, an efficient framework that internalizes spatiotemporal perception by transforming causal MLLM hidden states into predictive latent world representations. Our key insight is that intermediate semantic representations contain sufficient information to predict useful representations of current geometry and future semantics, without requiring an exact reproduction of features from a dedicated 3D encoder. To realize this idea, GeoThinker-$F$ adopts a decoupled two-stage training strategy. In the first stage, the MLLM backbone is frozen while lightweight Latent Frame Prediction (LFP) heads learn from an offline 3D geometry expert and next-frame semantic targets. In the second stage, the external expert is removed,…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20592v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceive, which reconstructs articulated hand motion and camera trajectories from video; Predict, which generates visual futures under prescribed actions; and Plan, which jointly generates action trajectories and their anticipated visual consequences conditioned on an initial image, a language instruction, and an optional visual goal. Our model integrates a compact, structured 3D action representation into a pretrained video diffusion transformer through a mixture-of-transformers architecture with shared base weights, modality-specific adaptation, and bidirectional visual-action attention. Randomized modality visibility lets video and 3D actions serve as either conditioning context or prediction targets across the three modes. Experiments show that unified training improves a…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22363v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting</title>
-      <link>https://arxiv.org/abs/2610.20590v1</link>
-      <guid isPermaLink="false">d-53bb56f61a</guid>
-      <pubDate>Wed, 14 Oct 2026 17:58:28 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Feed-forward 3D Gaussian Splatting (3DGS) methods enable efficient reconstruction of 3D scenes from sparse multi-view images in a single forward pass, without scene-specific optimization. However, existing feed-forward scene-coding pipelines first generate a complete Gaussian representation and then encode its geometry and appearance attributes separately, often involving non-differentiable operations. The resulting &amp;apos;generate-then-compress&amp;apos; pipeline requires complex attribute-specific codec designs and limits rate-distortion performance by restricting the exploitation of cross-attribute redundancy. We propose multi-view feature coding for Gaussian splatting (MFGS), an end-to-end feed-forward framework for scene coding. Instead of compressing an explicit Gaussian representation, MFGS extracts multi-view features from the input images and encodes them into a compact bitstream. Through end-to-end rate-distortion training, MFGS learns compact multi-view features that jointly represent geo…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20590v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>CoDA: Co-Evolution of Data Engines and Action Policies</title>
+      <link>https://arxiv.org/abs/2610.22362v1</link>
+      <guid isPermaLink="false">d-81d7e75187</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:02 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy&amp;apos;s failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagnoses from a vision-language critic into generation programs that recreate difficulties and training programs that help the policy overcome them. We further propose Text2potential to convert these diagnoses into staged potentials for action-chunk value learning, providing dense supervision for policy updates while preserving the task&amp;apos;s optimal policy under standard shaping assumptions. Measured learning progress guides further generation and program refinement. Across four manipulation task fami…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22362v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Your Transformer Is Secretly Elastic</title>
-      <link>https://arxiv.org/abs/2610.20588v1</link>
-      <guid isPermaLink="false">d-d343e5ada0</guid>
-      <pubDate>Wed, 14 Oct 2026 17:58:08 GMT</pubDate>
+      <title>Grounding Generative Verification in 3D Content</title>
+      <link>https://arxiv.org/abs/2610.22360v1</link>
+      <guid isPermaLink="false">d-da7a51b6fd</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:01 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem: unlike prior work, which optimizes a single importance weight per MLP block or attention head, we rank every individual MLP neuron and attention head jointly, on a common scale, by minimizing the model&amp;apos;s loss under soft pruning across many sparsity targets, all at once. Across 27 vision and text transformer encoders ranging from 22M to 8B parameters, our method yields smooth degradation up to 60% …&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20588v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a major challenge. We argue that building reliable 3D systems requires not only stronger generation and reasoning, but also verification feedback that identifies unmet requirements and explains their violations, allowing systems to reflect on and refine their outputs. Such feedback must integrate multi-view observations and distinguish genuine inconsistencies from projection-dependent appearances. We make three contributions. First, we introduce 3DVerifierBench, a benchmark spanning 10 tasks that evaluates decisions, rejection explanations, and responses to controlled changes in specifications and candidates. A human study reveals a 21.6 percentage-point gap between humans and the strongest tested model, GPT-6 Astra, while explanation-aware analysis exposes weaknesses in re…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22360v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Price of Anarchy of First-Price Auctions in Agentic Markets</title>
-      <link>https://arxiv.org/abs/2610.20587v1</link>
-      <guid isPermaLink="false">d-e07e06e4a3</guid>
-      <pubDate>Wed, 14 Oct 2026 17:57:57 GMT</pubDate>
+      <title>PathFM: Fast Generative Forecasting of Multivariate Trajectories</title>
+      <link>https://arxiv.org/abs/2610.22358v1</link>
+      <guid isPermaLink="false">d-a4e09f4bd1</guid>
+      <pubDate>Thu, 15 Oct 2026 17:58:45 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent&amp;apos;s bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest bidder pays its bid and receives the prompt, are a natural way to allocate prompts in such a market, since they are simple and transparent to run, and do not require central knowledge of private capabilities and costs. However, FPAs are not truthful: participants may bid less than their true value in the hope of a larger profit, and the prompt may then be allocated to someone other than the bidder who values it the most. This welfare loss is quantified by the $\textit{price-of-anarchy}$ (PoA). In this paper, we argue that agentic markets are likely to possess features that reduce the price-of-anarchy. The first is a $\textit{competitive floor}$, which occurs when multiple bidders usually val…&lt;/p&gt;
-&lt;p&gt;arXiv cs.GT · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.20587v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantities such as cumulative demand, peak load, and event timing, yet point and marginal scores do not reveal it. To model this dependence, we introduce PathFM, a trajectory-based forecasting model that uses flow matching to generate complete future paths. We further distill the model to one or two steps and share history attention cache across draws. Together, these enable PathFM to generate multiple paths for a single series in roughly the time needed for one query to a quantile model. The distilled sampler also makes it practical to optimize a calibration loss directly. PathFM achieves competitive marginal accuracy on the established forecasting benchmarks fev-bench and TIME. To complement these evaluations, we i…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22358v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Build self-improving document processing using Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-372f749e73</guid>
-      <pubDate>Wed, 14 Oct 2026 16:24:07 GMT</pubDate>
+      <title>DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models</title>
+      <link>https://arxiv.org/abs/2610.22356v1</link>
+      <guid isPermaLink="false">d-da88640b47</guid>
+      <pubDate>Thu, 15 Oct 2026 17:58:15 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features with pretrained semantic representations remains challenging under limited spatial supervision. We propose DK-VLM with Dual-Kernel Attention, which computes attention from both a visual token&amp;apos;s input position and its geometric position in the scene. A semantic kernel retains the pretrained model&amp;apos;s native attention and positional encoding, while a separate geometric kernel uses estimated 3D points and camera poses to directly modulate attention through point displacements and relative view transformations. Then, a learned gate fuses their outputs. Geometry thus enters attention as position rather than as fused reconstruction features. We further introduce Reference-Frame Composition (RC) supervision to train the model to update its reference frame acros…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22356v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Generate presentations with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-e092bff9bd</guid>
-      <pubDate>Wed, 14 Oct 2026 13:58:43 GMT</pubDate>
+      <title>OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling</title>
+      <link>https://arxiv.org/abs/2610.22355v1</link>
+      <guid isPermaLink="false">d-c8b33b5dc0</guid>
+      <pubDate>Thu, 15 Oct 2026 17:58:04 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond conventional binary verifiers that produce only True/False discrete judgments and introduce a verifier that automatically decomposes complex prompts or environmental rules into fine-grained components and assigns pointwise scores to provide a continuous and more informative critique signal. Our experiments further demonstrate that these structured and interpretable outputs improve the verifier&amp;apos;s generalization to out-of-domain multimodal critic tasks. To train this verifier, we introduce a Decoupled RL training strategy that jointly optimizes sub-question-level binary judgment and global alignment scoring, using precise local feedback to develop fine-grained verification capabilities that provide a foundation for reliable continuous scoring at the global level. Under a ge…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22355v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/</link>
-      <guid isPermaLink="false">d-b2497c3ddb</guid>
-      <pubDate>Wed, 14 Oct 2026 13:53:33 GMT</pubDate>
+      <title>Rethinking Routing Exploration in Modern Mixture-of-Experts</title>
+      <link>https://arxiv.org/abs/2610.22353v1</link>
+      <guid isPermaLink="false">d-c3261bcf2c</guid>
+      <pubDate>Thu, 15 Oct 2026 17:58:02 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed activation ratio, and the latter introduces experts that are active for every token. We identify an exploration dilemma between these designs: shared experts can make routing less exploratory by reducing the variability of token representations. This conflicts with the greater need for exploration induced by fine-grained expert segmentation due to the combinatorially enlarged routing space. Consequently, the additional expressiveness offered by fine-grained segmentation may not be fully realized in practice. MirrorMoE is proposed to reconcile this exploration dilemma by shrinking the exploration space through token-adaptive suppression of unnecessary experts. MirrorMoE consistently improves …&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22353v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Deploy and evaluate models with Amazon SageMaker JumpStart</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/</link>
-      <guid isPermaLink="false">d-c54d7f3160</guid>
-      <pubDate>Wed, 14 Oct 2026 13:14:36 GMT</pubDate>
+      <title>Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/</link>
+      <guid isPermaLink="false">d-8ba39ee05a</guid>
+      <pubDate>Thu, 15 Oct 2026 17:43:35 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Muse Spark Open, Meta&amp;apos;s coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <guid isPermaLink="false">d-937149fa91</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <title>Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/</link>
+      <guid isPermaLink="false">d-c29d43bb89</guid>
+      <pubDate>Thu, 15 Oct 2026 17:00:23 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+      <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+      <guid isPermaLink="false">d-cbc7643dde</guid>
+      <pubDate>Thu, 15 Oct 2026 16:08:03 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/amp-beyond-coding&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.&lt;/p&gt;
+&lt;p&gt;Google DeepMind · 官方一手 · &lt;a href=&quot;https://deepmind.google/blog/accelerating-antimicrobial-discovery/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trust in Depth: Giving agents more autonomy without losing control</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/</link>
+      <guid isPermaLink="false">d-718a34ddca</guid>
+      <pubDate>Thu, 15 Oct 2026 15:05:35 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Enterprise leaders want AI agents to take on more work but don&amp;apos;t fully trust them to act correctly every time. Trust in Depth is AWS&amp;apos;s layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the decisions that need it.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
