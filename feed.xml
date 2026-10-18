@@ -5,9 +5,49 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 04:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:45:44 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
+      <guid isPermaLink="false">d-145e91d47a</guid>
+      <pubDate>Sat, 17 Oct 2026 21:00:13 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Large language models for depression assessment from brief daily diaries</title>
+      <link>https://www.nature.com/articles/s41746-026-03388-6</link>
+      <guid isPermaLink="false">d-0f3635f8b7</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 17 October 2026; doi:10.1038/s41746-026-03388-6 Large language models for depression assessment from brief daily diaries&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03388-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GWDRO-Lung: Gromov–Wasserstein distributionally robust learning for calibrated pulmonary nodule malignancy prediction across imaging cohorts</title>
+      <link>https://www.nature.com/articles/s41746-026-03323-9</link>
+      <guid isPermaLink="false">d-6f1b6222b8</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 17 October 2026; doi:10.1038/s41746-026-03323-9 GWDRO-Lung: Gromov–Wasserstein distributionally robust learning for calibrated pulmonary nodule malignancy prediction across imaging cohorts&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03323-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI-supported first consultation preparation in oncology: a real-world clinical usability study</title>
+      <link>https://www.nature.com/articles/s41746-026-03396-6</link>
+      <guid isPermaLink="false">d-7b3da8e215</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 17 October 2026; doi:10.1038/s41746-026-03396-6 AI-supported first consultation preparation in oncology: a real-world clinical usability study&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03396-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore</title>
       <link>https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/</link>
@@ -39,173 +79,133 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">d-1232aa5aa2</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/stack-overflow-chatgpt-plugin&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PhD students who write dissertation with AI less likely to stay in academia</title>
-      <link>https://www.nature.com/articles/d41586-026-03253-2</link>
-      <guid isPermaLink="false">d-531c56742e</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03253-2 US PhD graduates who used artificial intelligence were more likely to work in industry.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03253-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>History’s long-secret codes are being cracked by amateurs using AI</title>
-      <link>https://www.nature.com/articles/d41586-026-03338-y</link>
-      <guid isPermaLink="false">d-a2200f3d67</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-y Cryptographers’ inboxes are being flooded with requests to validate cipher solutions.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03338-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Conversational brain AI for adaptive epilepsy care</title>
-      <link>https://www.nature.com/articles/s41591-026-04719-6</link>
-      <guid isPermaLink="false">d-10f8edd19f</guid>
+      <title>Localization accuracy in single-molecule fluorescence microscopy</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.759109v1</link>
+      <guid isPermaLink="false">d-9421b98648</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04719-6 A small study shows that patients can help fine-tune their own seizure detectors by chatting with an AI agent. However, the more difficult challenge ahead is to build AI that responds appropriately.&lt;/p&gt;
-&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04719-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The two prevalent methods to determine the position of individual fluorophores in the focal plane of a microscope rely either on the centroid of the fluorescence pattern produced by the fluorophore on a camera or on targeting the fluorophore&amp;apos;s coordinate with a spatially controlled illumination minimum, as realized in MINFLUX. In both methods, (sub)nanometer localization precisions have been reached, but little is known about their accuracy, i.e., the deviation of the obtained coordinate from its ground truth. Here we report a theoretical and experimental comparison of the accuracy provided by these two strategies. We quantify substantial systematic errors in camera-based localization due to the interplay of two difficult-to-control parameters: the orientation of the fluorophore in space and its axial deviation from the focal plane (defocus). For example, within an axial range of {+/-}120 nm around the focus, the median distance between two fluorophores on a nanobody measured by camer…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.759109v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women</title>
-      <link>https://www.nature.com/articles/s41591-026-04687-x</link>
-      <guid isPermaLink="false">d-7752799966</guid>
+      <title>Targeting TMPRSS2-ERG Fusion-Driven Prostate Cancer using Novel HBS-α-Helicomimics</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.759088v1</link>
+      <guid isPermaLink="false">d-d869ad2852</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04687-x At 6 months, a cohort of 8,127 women in the UK initiating GLP-1 receptor agonist therapy via a digital platform showed mean weight reduction comparable to that in randomized clinical trials.&lt;/p&gt;
-&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04687-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Gene fusions between the androgen receptor (AR)-responsive gene TMPRSS2 and ERG occur in approximately 50% of prostate cancers (PCa), thereby promoting tumorigenesis through aberrant ERG expression. Therapeutic targeting of transcription factor-DNA interfaces remains a formidable challenge, largely owing to the entropic penalty associated with peptide folding during target engagement. Here, we describe the structure-guided design and preclinical evaluation of hydrogen-bond surrogate (HBS)-constrained alpha-helicomimics targeting the ERG-DNA recognition interface. Structural analysis of ERG-DNA complex revealed that DNA binding induces elongation of recognition helix H4 from approximately 2.5 to 4.0 helical turns. To stabilize the bioactive conformation, we incorporated an N-terminal HBS macrocycle, introduced D363E and S366E mutations to enhance DNA binding and structural stability, and added dual NLS-TAT tags to facilitate cellular delivery. Biochemical and cellular assays demonstrat…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.759088v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Large-scale iontronic skins with neural-hierarchical processing architecture</title>
-      <link>https://www.nature.com/articles/s42256-026-01325-6</link>
-      <guid isPermaLink="false">d-f06389e3d5</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Machine Intelligence, Published online: 16 October 2026; doi:10.1038/s42256-026-01325-6 Li et al. introduce a neural-hierarchical skin that combines high-density iontronic sensor array, fast readout and data compression, enabling humanoid robots to perceive fine textures, manipulate delicate objects and respond to nociceptive stimuli.&lt;/p&gt;
-&lt;p&gt;Nature Machine Intelligence · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s42256-026-01325-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sycophantic AI, critical-feedback tolerance, and the case for productive friction in medical training</title>
-      <link>https://www.nature.com/articles/s41746-026-03389-5</link>
-      <guid isPermaLink="false">d-fc17868774</guid>
+      <title>Elucidation of the second-phase freezing acclimation mechanism: plants accumulate sugars via photosynthesis under frozen conditions</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.756911v1</link>
+      <guid isPermaLink="false">d-8d49270766</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 16 October 2026; doi:10.1038/s41746-026-03389-5 Sycophantic AI, critical-feedback tolerance, and the case for productive friction in medical training&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03389-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Overwintering plants increase their tolerance to freezing in two phases: the first-phase, known as cold acclimation (CA), occurs at chilling temperatures, followed by second-phase acclimation at sub-zero temperatures. We previously showed that second-phase freezing acclimation (2PFA), in which cold-acclimated Arabidopsis is exposed to -2{degrees}C with extracellular ice formation under light, confers the highest freezing tolerance (LT50 below -20{degrees}C) through a pathway requiring photosynthetic electron transport, possibly independent of the CBF-COR pathway. However, how light enhances freezing tolerance in frozen plants remains unclear. Here, we developed a system to measure chlorophyll fluorescence in intact plants maintained in a frozen state, and found that PSII retained substantial photochemical capacity (Fv/Fm) in frozen leaves. Comparative transcriptomics revealed that 2PFA under light induced genes involved in starch, sucrose and galactose metabolism. Consistently, solubl…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.756911v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Automated differentiation for parkinsonism using clinical structural MRI: A multicenter study</title>
-      <link>https://www.nature.com/articles/s41746-026-03357-z</link>
-      <guid isPermaLink="false">d-9ffc601331</guid>
+      <title>C3 gas-exchange analyses read bundle-sheath refixation in C3-C4 intermediate leaves as negative day respiration</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.12.758566v1</link>
+      <guid isPermaLink="false">d-abf38f7fdc</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 16 October 2026; doi:10.1038/s41746-026-03357-z Automated differentiation for parkinsonism using clinical structural MRI: A multicenter study&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03357-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;C3-C4 intermediate (C2) plants decarboxylate photorespiratory glycine in the bundle sheath, where Rubisco refixes some of the released CO2, yet researchers analyze their gas exchange with methods built for C3 leaves. I calibrated the C3-C4 model of von Caemmerer against published compensation points and Laisk measurements on C3 and C2 Flaveria and relatives at 36 {degrees}C, and analyzed the resulting leaf as an experimenter would. With its true Rubisco kinetics and mesophyll conductance, Farquhar-von Caemmerer-Berry fits described its CO2 response closely but returned a day respiration (Rd) of -5.4 mol m-2 s-1 against a true 1.2, and underestimated maximum carboxylation and electron transport rates by 12% and 11%. The Rd deficit equaled net bundle-sheath CO2 fixation where mesophyll CO2 equals the photorespiratory compensation point ({Gamma}*), within 5.3% in every leaf. The Laisk method gave {Gamma}* = 42 bar after mesophyll correction, compared with a true 65 bar, and the oxygen-sl…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.12.758566v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A generalist model for diverse text-guided medical image synthesis</title>
-      <link>https://www.nature.com/articles/s41746-026-03381-z</link>
-      <guid isPermaLink="false">d-1cdaeb6516</guid>
+      <title>Decoding plant x environment interactions through spatial gradients in leaf physiology and metabolism</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.759099v1</link>
+      <guid isPermaLink="false">d-d5e1789591</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 16 October 2026; doi:10.1038/s41746-026-03381-z A generalist model for diverse text-guided medical image synthesis&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03381-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Succulent leaves are well known to combine photosynthesis, carbon storage and hydraulic buffering. However, their metabolic responses to heat and drought may differ along the same leaf axis. We investigated spatial and temporal changes in leaf tissue water content, photosynthetic performance and central carbon metabolism in the CAM plant Sansevieria cylindrica across three experimental phases: (i) heat, (ii) combined heat and drought, and (iii) rewatering under continued heat. Apical, middle and basal leaf sections were sampled at midday, and chlorophyll fluorescence was monitored near the leaf tip. Fresh-weight-to-dry-weight ratios declined significantly in basal tissues under drought, whereas apical tissues showed a significant decrease only during rewatering indicating a considerable delay in tissue water supply along the leaf axis. Apical photosystem II quantum yield decreased during combined heat and drought, and sucrose accumulated transiently during heat exposure, particularly …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.759099v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A multi-stage validation framework for trustworthy large-scale clinical information extraction using large language models</title>
-      <link>https://www.nature.com/articles/s41746-026-03341-7</link>
-      <guid isPermaLink="false">d-037dddfff3</guid>
+      <title>Growth costs of protein allocation in models of growing cells</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.04.21.719900v3</link>
+      <guid isPermaLink="false">d-99c9c16f92</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 16 October 2026; doi:10.1038/s41746-026-03341-7 A multi-stage validation framework for trustworthy large-scale clinical information extraction using large language models&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03341-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Microbial growth depends on how cells allocate their limited proteome among competing functions. Although many proteins are expressed near levels that maximize growth, deviations from these optima are common and can impose substantial fitness costs. Modeling the growth costs of suboptimal protein allocation remains challenging because protein expression influences growth through multiple interacting mechanisms, including biosynthetic demands, enzyme kinetics, and limits on cellular density. Here we analyze these effects using growth balance analysis (GBA), a nonlinear framework that predicts steady-state growth and biomass composition of coarse-grained microbial models from basic cellular constraints. The optimal biomass compositions predicted for these models include not only protein concentrations but also the reactant concentrations required to saturate enzymes through nonlinear rate laws, thereby capturing more complex resource trade-offs than in conventional linear resource alloc…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.21.719900v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Structural basis for loop-dependent inhibition by AcrIIC1 anti-CRISPR proteins</title>
-      <link>https://www.nature.com/articles/s41467-026-78817-x</link>
-      <guid isPermaLink="false">d-5c16c28524</guid>
+      <title>A Mechanistic Model of Caspase-mediated Apoptosis Signaling Reveals Regulators of Drug Resistance in Prostate Cancer Cells</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.03.09.710645v2</link>
+      <guid isPermaLink="false">d-cbb82b71b7</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-78817-x Anti-CRISPR proteins inhibit bacterial CRISPR immunity, but how auxiliary structural elements enhance inhibition is unclear. Here, authors show that an extended AcrIIC1 loop supports HNH-domain engagement and modulates sgRNA positioning and R-loop formation to strengthen Cas9 inhibition.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78817-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Anticancer drug resistance remains a major barrier to effective treatment because both intrinsic and acquired resistance mechanisms can suppress apoptotic cell death. The growing incidence of castration-resistant prostate cancer highlights the need for therapeutic strategies that remain effective, independent of hormonal signaling. Here, we developed a parsimonious, data-calibrated ordinary differential equation model of caspase-mediated apoptosis signaling in prostate cancer. Rather than representing the full complexity of the apoptotic network, the model incorporates a reduced set of key apoptotic regulators required to capture experimentally-observed apoptotic responses. Model parameters were estimated using published data from three pro-apoptotic agents (Tocopheryloxybutyrate, Narciclasine, and Celecoxib), and global sensitivity analysis was used to identify determinants of treatment response and resistance. The model accurately reproduced experimental observations and revealed th…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.09.710645v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bringing GPT-Rosalind to academic research labs</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <guid isPermaLink="false">d-edb4612730</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/introducing-the-rosalind-academic-plan&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Childhood Trauma and Cortical Thickness in Bipolar Disorder with and without Psychosis: Effects by Diagnostic Group and Trauma Subtype</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.13.758917v1</link>
+      <guid isPermaLink="false">d-0220fcd74d</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Abstract Background Bipolar disorder affects about 2-3% of the population and is associated with cortical abnormalities, with bipolar disorder with psychosis (BDP) reported to show more pronounced changes. It remains unclear whether childhood trauma is associated with cortical thickness differences across bipolar disorder subgroups, particularly in BDP. Methods Using the publicly available PARDIP (Psychosis and Affective Research Domains and Intermediate Phenotypes) data set, we examined whether childhood trauma was associated with cortical thickness differences among 120 individuals: 33 with bipolar disorder without psychosis (BD; 36% male), 38 with bipolar disorder with psychosis (BDP; 47% male), and 49 healthy controls (HC; 61% male). Participants completed the Childhood Trauma Questionnaire-Short Form (CTQ-SF), and T1-weighted MRI scans were processed with FreeSurfer to extract cortical thickness across the 68 Desikan-Killiany regions. Linear mixed effects models tested associatio…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.13.758917v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</title>
-      <link>https://arxiv.org/abs/2610.22372v1</link>
-      <guid isPermaLink="false">d-9bc3589d0c</guid>
-      <pubDate>Thu, 15 Oct 2026 17:59:59 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation and taxonomy of observable preferences in simulation, covering motion, skill, and user-profile choices. This formulation is restricted to language-expressible preferences that can be instantiated in L…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22372v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Burden and factors associated with hospitalization among patients with chronic Diseases at a tertiary Hospital in Wolaita Zone, South Ethiopia: A Cross-sectional study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.14.26365506v1</link>
+      <guid isPermaLink="false">d-00e0864b01</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Chronic diseases are the leading causes of illness, disability, and death worldwide, with a disproportionate burden in low- and middle-income countries. Hospitalization is a critical outcome in chronic disease management, reflecting disease severity, treatment failure, and healthcare utilization. However, data on hospitalization burden and its associated factors among chronic disease patients in Ethiopia, are limited. This study aimed to determine the rate of hospitalization and its associated factors among patients with chronic diseases attending a tertiary hospital in Wolaita Zone, South Ethiopia. Methods A facility-based cross-sectional study was conducted among 321 patients with chronic diseases attending the chronic follow-up clinic at Wolaita Sodo University Comprehensive Specialized Hospital from November to December 2022. Consecutive recruitment was used, with unique medical record numbers tracked to prevent double recruitment. Data were collected through structured…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.14.26365506v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gen4P: Video Generators are 4D Perceivers</title>
-      <link>https://arxiv.org/abs/2610.22371v1</link>
-      <guid isPermaLink="false">d-0158d9df99</guid>
-      <pubDate>Thu, 15 Oct 2026 17:59:48 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-time queries further provide temporal flexibility. To strengthen geometric knowledge, we propose a straightforward plug-in solution by incorporating a pretrained video-depth LoRA as a frozen geometry prior, improving overall performance without adding extra trainable parameters. Gen4P achieves state-of-the-art or competitive performance on tasks of 3D point tracking, video depth and camera pose estimation. Qualitative results on in-the-wild videos illustrate its capability of tracking complex mot…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22371v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Pixel-Level Quantification of Subcutaneous Shear-Wave Velocity Heterogeneity for Grading Lymphatic Obstruction in Breast Cancer-Related Lymphedema</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.25.26364003v2</link>
+      <guid isPermaLink="false">d-75ab1ec382</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Objectives: To develop and validate pixel data analysis (PDA) for reconstructing pixel-level shear-wave velocity (SWV) from saved Holder-Optimized Elastography (HOE) elastograms and to determine whether whole-field subcutaneous heterogeneity provides a quantitative signature of lymphatic obstruction compared with visual high-velocity-area (HVA) counting and sparse manual region-of-interest (ROI) sampling. Materials and Methods: In this cross-sectional study, 110 women after breast cancer surgery underwent lymphoscintigraphy and HOE, a pressure-minimized acquisition framework that preserves conventionally captured SWV information while additionally revealing spatial abnormalities attenuated by handheld acquisition. Reconstruction validation used 200 paired ROIs from 49 PACS-retrieved images spanning nearly the full displayed SWV range; reproducibility was assessed across 96 matched anatomical sites from 6 participants undergoing independently reacquired HOE examinations. PDA, visual HV…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.25.26364003v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation</title>
-      <link>https://arxiv.org/abs/2610.22370v1</link>
-      <guid isPermaLink="false">d-79de1ac779</guid>
-      <pubDate>Thu, 15 Oct 2026 17:59:35 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22370v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Professional Identity and Its Influencing Factors Among Nursing Interns: The Mediating Role of Career Adaptability Between Social Support and Professional Identity</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.14.26365571v1</link>
+      <guid isPermaLink="false">d-10e48b0157</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Purpose: The internship period is a critical stage for nursing students to develop professional values. This study aimed to investigate the current status of professional identity among nursing interns, analyze the effects of social support, perceived stress, psychological resilience, and career adaptability on professional identity, and explore the mediating role of career adaptability between social support and professional identity, so as to provide empirical evidence for enhancing professional identity and optimizing nursing talent training systems. Methods: Using convenience sampling, 407 nursing interns from a tertiary hospital in Quanzhou were selected as participants from May to July 2025. Data were collected using a general information questionnaire, the Social Support Scale, the Perceived Stress Scale, the Psychological Resilience Scale, the Professional Identity Questionnaire for Nursing Students, the Career Adaptability Scale, and the Questionnaire for Nurse Intention to R…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.14.26365571v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SoftCache: Adaptive Step Size Caching for Diffusion Transformers</title>
-      <link>https://arxiv.org/abs/2610.22369v1</link>
-      <guid isPermaLink="false">d-c4ba984a2b</guid>
-      <pubDate>Thu, 15 Oct 2026 17:59:34 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal and spending a fresh evaluation once it crosses a threshold. They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size. We observe that the signal carries much more than this switch. How far it sits below the threshold, its headroom, predicts the error induced by reuse. We propose SoftCache, which performs soft caching: instead of a binary switch, the headroom sets how far each cached step goes. Where the headroom is large, the sampler jumps past several scheduled nodes, and as a refresh nears, its steps shrink …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22369v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Mechanisms of action of a community-led HIV prevention and treatment programme for female sex workers in Zimbabwe: a mixed-method analysis</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.08.26365041v1</link>
+      <guid isPermaLink="false">d-e9061d9531</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Community-led interventions for female sex workers (FSW) can improve HIV prevention and treatment outcomes by lowering self-stigma and strengthening social cohesion to improve service uptake. In Zimbabwe, the AMETHIST intervention trial integrated peer-led microplanning with self-help groups for FSW and demonstrated improved HIV treatment outcomes. We investigated the role of social cohesion and self-stigma in explaining these findings. Method We conducted a mixed-method analysis of data collected during AMETHIST. We re-analysed qualitative data from interviews and group discussions to identify narratives linking self-stigma, engagement with microplanners and/or self-help groups and HIV service use. We analysed quantitative data from endline respondent-driven sampling surveys for differences in self-reported measures of social cohesion and self-stigma between trial arms, and between those who did and did not participate in intervention activities or access services. Results…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.08.26365041v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Value as Memory: Online Value-Guided Post-training for General Robot Policies</title>
-      <link>https://arxiv.org/abs/2610.22368v1</link>
-      <guid isPermaLink="false">d-77d16196a0</guid>
-      <pubDate>Thu, 15 Oct 2026 17:59:31 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We present Value as Memory (VaM), a framework that addresses these challenges through value caching and online real-world reinforcement learning (RL). Value caching conditions actions on recent value predictions as task-progress memory, while online updates enable timely policy improvement by combining offline demonstrations, off-policy interventions, and on-policy rollouts for sample-efficient adaptation. As a result, VaM transitions from offline RL warmup to online autonomous learning with sparse rewards. Across long-horizon tasks involving deformable objects and contact-rich manipulation, VaM yields a mean absolute success-rate gain of $29.4\%$ with value caching, while achieving a $32.8\%$ gain with online autonomous learning over matched offline training. The evaluated onl…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.22368v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>DAMPA: compositionally optimised probe panel design for targeted metagenomics</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.05.15.26352859v2</link>
+      <guid isPermaLink="false">d-ed567fb0b2</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Probe-based enrichment enables highly sensitive direct-from-sample sequencing, and is being rapidly adopted for clinical metagenomics. Targeted metagenomics requires probe panels that capture hundreds of pathogens at comparable efficiency. However, as target sets expand, existing design methods often fail to account for genomic diversity, leading to overrepresentation of conserved sequences. The resulting composition bias reduces sensitivity precisely at the most clinically important and fast-evolving loci, such as antigenic regions, while increasing redundancy and sequencing cost. Here we show that panel composition bias can be minimised through biologically informed sequence compression. We implement the solution in DAMPA, a computationally efficient tool for metagenomic panel design. DAMPA uses pangenome graphs to compress conserved sequences while retaining genetic diversity, then designs probes from graph-node consensuses. In matched tests on six species, DAMPA successfully minim…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.05.15.26352859v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
