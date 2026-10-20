@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:00:35 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>A randomized trial of supported versus self-fitting over-the-counter hearing aids in older adults</title>
-      <link>https://www.nature.com/articles/s41467-026-78833-x</link>
-      <guid isPermaLink="false">d-f089f08534</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Three-photon population imaging of subcortical brain regions</title>
+      <link>https://www.nature.com/articles/s41467-026-78585-8</link>
+      <guid isPermaLink="false">d-8d5f6941de</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78833-x In a multicenter pragmatic trial, structured primary care physician or remote audiologist support improved the benefits and sustained use of over-the-counter hearing aids in older adults compared with self-fitting.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78833-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78585-8 Imaging large cell populations below the cortex in the intact brain is key for understanding brain function. LIFT, a multiscale three-photon microscope, tracks activity in over 1,500 cells across the hippocampus and adjacent regions in behaving mice.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78585-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rapid assessment of chemical complementarity of ligands for protein design</title>
-      <link>https://www.nature.com/articles/s41467-026-78764-7</link>
-      <guid isPermaLink="false">d-6f6c8a04ab</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78764-7 Here the authors present RASSCCoL, a rapid physics-based method for designing small-molecule-binding proteins. It yields robust binders for a range of fluorophores to enable controlled energy transfer and live-cell imaging.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78764-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Structured outputs for Anthropic Claude models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/</link>
+      <guid isPermaLink="false">d-d97ccae615</guid>
+      <pubDate>Mon, 19 Oct 2026 23:32:19 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
-      <guid isPermaLink="false">d-145e91d47a</guid>
-      <pubDate>Sat, 17 Oct 2026 21:00:13 GMT</pubDate>
+      <title>Developers can now access SageMaker Studio through the new AWS experience</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/</link>
+      <guid isPermaLink="false">d-823ea05dae</guid>
+      <pubDate>Mon, 19 Oct 2026 22:39:24 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</link>
+      <guid isPermaLink="false">d-6bc360467e</guid>
+      <pubDate>Mon, 19 Oct 2026 21:14:44 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help</title>
+      <link>https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</link>
+      <guid isPermaLink="false">d-76da373c49</guid>
+      <pubDate>Mon, 19 Oct 2026 19:27:08 GMT</pubDate>
       <category>交叉与基础设施</category>
-      <description>&lt;p&gt;NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Neuroelectrophysiological correlates of extended cessation of consciousness in advanced meditators: A multimodal EEG and MEG study</title>
-      <link>https://www.biorxiv.org/content/10.1101/2025.09.19.677455v3</link>
-      <guid isPermaLink="false">d-62783191ef</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Text-to-Image Generative Modeling Without Language Pretraining</title>
+      <link>https://arxiv.org/abs/2610.26863v1</link>
+      <guid isPermaLink="false">d-a393858998</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:59 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;In some contemplative traditions, &amp;apos;extended cessation&amp;apos; (EC) refers to a state of advanced meditation in which the meditator self-reports intentionally suppressing their own consciousness and re-emerging with a profound sense of clarity and equanimity. Here, we present the first electrophysiological study of EC, in which five meditators underwent concurrent electroencephalography (EEG) and magnetoencephalography (MEG) recording. EC significantly increased high-frequency global coherence in all five of the participants, yet it did not consistently affect Lempel-Ziv complexity or power across participants. Our results provide preliminary evidence that the neural signatures of EC may be distinct from other states that are characterized by a loss of consciousness, including deep sleep and anesthesia. EC may not be simply &amp;apos;switching off&amp;apos; consciousness but rather reorganizing the neural dynamics that underlie consciousness.&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.09.19.677455v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the same pretraining budget. We show that strong T2I systems can be trained from scratch without internet-scale language pretraining. Code and models are available at https://cs.stanford.edu/~keshik/halcyon&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26863v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ethmoid bone marrow region modulates lymphoid activation and differentiation with distinct myeloid profile in neuroinflammation</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.03.755016v3</link>
-      <guid isPermaLink="false">d-40fcc730de</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;The skull bone marrow axis has recently emerged as an important source of immune cells during neuroinflammation, including in the experimental autoimmune encephalomyelitis (EAE) , the mouse model of multiple sclerosis. The cribriform plate bone marrow (cpBM), is a portion of the ethmoid bone of the skull of mice, and is positioned next to nasal regions. At the cribriform plate olfactory nerves pass through the skull and recent evidence supports that it represents an important immune niche with links to CSF outflow and connections to cpBM. Previous data supports cellular composition of the ethmoid bone marrow in mice is altered in neuroinflammation suggesting it senses inflammatory cues, but the exact nature of these changes is still unclear. Here using scRNAseq and flow cytometry of the ethmoid bone marrow region we test how the region responds to EAE. In addition we also compare the cpBM region with systemic bone marrow in the femur to understand region specific differences. We repor…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.03.755016v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory</title>
+      <link>https://arxiv.org/abs/2610.26860v1</link>
+      <guid isPermaLink="false">d-9eb2abaa40</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retained across reasoning steps. We introduce OpenVLHarness, a multimodal reasoning harness organized around a capability layer and persistent multimodal memory. The capability layer combines task-level tool interfaces with evidence rendering, providing consistent access to heterogeneous backends and converting their outputs into model-readable observations. Persistent multimodal memory retains the corresponding images, structured data, and web references as addressable artifacts throughout each que…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26860v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Structure-informed evolutionary analysis of the meiotic recombination machinery</title>
-      <link>https://www.biorxiv.org/content/10.1101/2025.11.07.687317v2</link>
-      <guid isPermaLink="false">d-4bec947128</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Despite being essential for fertility, many proteins involved in meiotic homologous recombination have diverged rapidly. The evolutionary forces driving this divergence remain mostly unknown, in part because of challenges in accounting for the interplay of sequence changes with constraints imposed by proteins&amp;apos; structures and physiological roles. Here, we explore strategies to more sensitively detect signatures of positive or relaxed selection by integrating evolutionary analyses with structural and functional information, using meiotic recombination proteins in four taxa--primates, rodents, birds and budding yeasts. By mapping selection rate estimates onto predicted protein structures, we characterized protein regions likely to have experienced positive selection. We further identified subtle sequence variation within protein domains that are well conserved generally because of structural constraints. To detect sequence variation masked by these constraints, we analyzed selection at s…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.11.07.687317v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Can It Actually Work? Synthesizing Functional CAD Mechanisms</title>
+      <link>https://arxiv.org/abs/2610.26861v1</link>
+      <guid isPermaLink="false">d-b4f1fe6864</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating sequences. To bridge this gap, we propose FunCAD-Harness, a framework that translates abstract requirements into candidate-specific physical tests and uses simulation feedback to guide design revisions. To systematically evaluate this capability, we introduce FunCADBench, a benchmark spanning 46 mechanism families with interdependent and multi-step operations. Experiments across frontier LLM agents show that FunCAD-Harness exposes subtle mechanical failures invisible to visual inspection, subs…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26861v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Spatial Single-Cell Mapping of Transcriptional Differences Across Genetic Backgrounds in Mouse Brains</title>
-      <link>https://www.biorxiv.org/content/10.1101/2024.10.08.617260v3</link>
-      <guid isPermaLink="false">d-36705f79b2</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Genetic variation can alter organ structure and, in turn, function. Comparative statistical analysis of organs across genetic backgrounds requires spatial, single-cell, atlas-scale data in replicates, which current technologies do not provide at scale. We introduce Atlas-scale Transcriptome Localization using Aggregate Signatures (ATLAS), a scalable tissue mapping method. ATLAS learns transcriptional signatures from scRNAseq data, encodes them in situ with tens of thousands of oligonucleotide probes, and decodes them to infer cell types and imputed transcriptomes. We validated ATLAS in the mouse brain by comparing its cell type inferences with direct MERFISH measurements of marker genes and quantitative comparisons to four other technologies. Using ATLAS, we mapped the central brains of five male and five female C57BL/6J (B6) mice and five male BTBR T+ tf/J (BTBR) mice, an idiopathic model of autism, collectively profiling 40 million cells across over 400 coronal sections. Our analysi…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.10.08.617260v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Reinforcement Learning with Visually Attributable On-Policy Self-Distillation</title>
+      <link>https://arxiv.org/abs/2610.26856v1</link>
+      <guid isPermaLink="false">d-b344940359</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:56 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level correction is contaminated when its update direction cannot be consistently attributed to the privileged visual evidence. Directly distilling contaminated corrections may therefore reinforce erroneous token-level updates. To address this issue, we propose reinforcement learning with visually attributable on-policy self-distillation, an evidence-consistent paradigm that augments task-level RLVR supe…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26856v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Maize and wild relatives show distinct patterns of genome downsizing following polyploidy</title>
-      <link>https://www.biorxiv.org/content/10.1101/2024.12.24.630189v2</link>
-      <guid isPermaLink="false">d-756fc58691</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Repeated cycles of polyploidy and gene loss during diploidization have shaped plant genomes over evolutionary time. This loss of gene sequence post-polyploidy is known as fractionation. Gene duplicates (i.e., homoeologs) from each ancestral diploid genome (i.e., subgenome) may fractionate differently, resulting in one subgenome being preferentially retained. Previous work suggests fractionation occurs shortly after a polyploidy event. Yet, few studies have explicitly compared genome-wide fractionation patterns across genera sharing the same whole genome duplication (WGD) to clarify how patterns of fractionation distinguish species over time. The Tripsacinae subtribe of grasses, which includes the genera Tripsacum and Zea, share an ancient allotetraploidy event ~5-12 MYA. Using publicly available genome assemblies for the Tripsacinae subtribe including wild lineages and the domesticate maize, we investigate patterns of fractionation. Across genomes, the majority of fractionation is sha…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.12.24.630189v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token</title>
+      <link>https://arxiv.org/abs/2610.26857v1</link>
+      <guid isPermaLink="false">d-85d8156651</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:56 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However, the heavy compute of these diffusion backbones limits inference to a short chunk of just 6 to 24 frames, so even ordinary videos span multiple chunks. Because each chunk is matted independently from coarse mask guidance, existing methods fail to maintain consistency across chunk boundaries, producing flickering edges and discontinuous transparency. We address this with a mask-guided diffusion-matting framework built on two ideas. The RGB and mask conditioning are represented as separate token streams that interact through full spatio-temporal self-attention, letting the model adaptively combine fine RGB texture with coarse mask layout rather than committing to a fixed channel-wise fusion. On top of this, we propose a novel pair of learnable embeddings, the preserve to…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26857v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BTK dynamics and function are differentially influenced by distinct covalent inhibitor warhead chemistries.</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.05.07.723540v2</link>
-      <guid isPermaLink="false">d-8ea3b643f8</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Covalent inhibitors are rapidly becoming the standard of care for treatment of a range of disease states. Covalent inhibitors bind irreversibly to their target using a reactive electrophile (or warhead). Acrylamide and 2-butynamide are the most commonly used cysteine targeting electrophiles. These warheads are chosen for their efficient and selective modification of the protein and are presumed to be otherwise functionally inert. Using a panel of BTK covalent inhibitors (Tirabrutinib, Acalabrutinib, Ibrutinib and Zanubrutinib), we show that the 2-butynamide warhead on Tirabrutinib and Acalabrutinib, unlike the acrylamide warhead on Ibrutinib and Zanubrutinib, induces conformational heterogeneity in key regions required for BTK signaling. Tirabrutinib or Acalabrutinib bound BTK adopt multiple conformational states that are in dynamic exchange, show increased binding to the substrate PLC{gamma} and are less effective at inhibiting PLC{gamma} signaling when compared to Ibrutinib. Swappin…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.05.07.723540v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience</title>
+      <link>https://arxiv.org/abs/2610.26855v1</link>
+      <guid isPermaLink="false">d-29a044a073</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:55 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation world foundation model spanning humans and robots with diverse embodiments. We curate Xp-Data, comprising 10k hours of egocentric human data and 3k hours of robot data with unified multimodal annotations and systematic quality control. A unified kinematic representation encodes locomotion through camera poses and manipulation through projected skeletons, with robot skeletons combining embodiment-specific forward kinematics with extensive manual keypoint annotation and correction. We also introduce Xp-Teleop, a long-horizon loco-manipulation benchmark based on high-quality dexterous humanoid teleoperation data. Evaluations demonstrate state-of-the-art performance across five cross-embodiment…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26855v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mapping the spatial architecture of glioblastoma from core to edge delineates niche-specific tumor cell states and intercellular interactions</title>
-      <link>https://www.biorxiv.org/content/10.1101/2025.04.04.647096v3</link>
-      <guid isPermaLink="false">d-389d698d1d</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Treatment resistance in glioblastoma (GBM) is largely driven by the extensive multi-level heterogeneity that typifies this disease. Despite significant progress toward elucidating GBM&amp;apos;s genomic and transcriptional heterogeneity, a critical knowledge gap remains in defining this heterogeneity at the spatial level. To address this, we employed spatial transcriptomics to map the architecture of the GBM ecosystem. This revealed tumor cell states that are jointly defined by gene expression and spatial localization, and multicellular niches whose composition varies along the tumor core-edge axis. Ligand-receptor interaction analysis uncovered a complex network of intercellular communication, including niche- and region-specific interactions. Finally, we found that CD8+GZMK+ T cells colocalize with LYVE1+ CD163+ myeloid cells in vascular regions, suggesting a potential mechanism for immune evasion. These findings provide novel insights into the GBM tumor microenvironment, highlighting previo…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.04.04.647096v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation</title>
+      <link>https://arxiv.org/abs/2610.26854v1</link>
+      <guid isPermaLink="false">d-0daee87dee</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:54 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physical dynamics, while latent reasoning models future state evolution but offers limited structure for organizing these dynamics into reusable reasoning primitives. To bridge this gap, we introduce PhysWord, a reasoning-before-acting foundation model built on Physical Words, which use atomic action verbs as shared semantic anchors for continuous representations of physical dynamics. Specifically, PhysWord predicts upcoming atomic action words and directly aligns their contextual hidden states with latent targets derived from the corresponding future observations. Building on these primitives, we construct a temporally structured PhysWord space with visual and optional tactile variants of each action word. Autoregressively predicting Physical Words across future timesteps …&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26854v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Directed evolution of L-DOPA sensing and production enables efficient incorporation of an expanded genetic code into proteins</title>
-      <link>https://www.biorxiv.org/content/10.1101/2025.06.26.661824v2</link>
-      <guid isPermaLink="false">d-419603d0a3</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;L-3,4-dihydroxyphenylalanine (L-DOPA), is a versatile catechol-containing amino acid derived from L-tyrosine that is both a key metabolite for the production of many valuable natural products and a naturally occurring post-translational modification in proteins. While advances in microbial natural product biosynthesis and site-specific incorporation of L-DOPA have both paved the way for relevant applications of L-DOPA, progress has been stifled by a lack of robust in vivo detection tools and high-efficiency biosynthetic enzymes. Here, we report and engineer a LysR-family transcription factor, PP_2251, that can serve as a transcriptional regulator for L-DOPA with a dynamic range of &amp;gt;100-fold when coupled with a fluorescent reporter. Leveraging this improved regulator in conjunction with compartmentalized partnered replication (CPR), we engineered a promiscuous E. coli flavin-dependent monooxygenase (HpaB) for enhanced L-DOPA biosynthesis. This represents the first use of high-throughpu…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.06.26.661824v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation</title>
+      <link>https://arxiv.org/abs/2610.26853v1</link>
+      <guid isPermaLink="false">d-56933aa42d</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:51 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation often produces relatively simple 3D assets, while sophisticated photorealistic procedural systems require extensive manual development. Existing VLM-guided procedural methods remain largely constrained by predefined factories and APIs, limiting their ability to create novel asset types. We introduce InfiniDream, a VLM-driven framework for open-ended procedural 3D world generation. First, we propose Symbolically Constrained Asset Generation, which leverages existing procedural algorithms to create novel, photorealistic assets while preserving editability and seed-based diversity. Second, we develop an end-to-end text-to-world pipeline that combines semantic scene planning with Deterministic Frustum-Guided Grid Placement to construct large-scale 3D worlds with precise obje…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26853v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>High Intensity Focused Ultrasound (HIFU) Thalamotomy as a Safe and Effective Treatment of Essential Tremor (ET) in Older Populations and those with Comorbidities</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.14.26365548v2</link>
-      <guid isPermaLink="false">d-d79ab7fece</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Magnetic Resonance guided High Intensity Focused Ultrasound (MRgHIFU) has been demonstrated to be a safe and effective minimally invasive therapy for essential tremor (ET). However, it is not clear whether older adults ([&amp;amp;ge;]70 years old) or individuals with comorbidities exhibit similar safety and efficacy. This IRB approved project collected EPIC EMR data on patients that underwent MRgHIFU at Parkview Regional Medical Center from January 2023 to November 2025. 68 patients were assessed for tremor severity using Clinical Rating Scale for Tremor (CRST), quality of life using Quality of life in ET Questionnaire (QUEST), and safety profile via reported post-procedure side effects. CRST and QUEST scores improved up to 1 year from baseline in our patient cohort and efficacies in older ([&amp;amp;ge;]70 years of age) and younger (&amp;lt;70 years of age) patients up to 3 months post MRgHIFU were not statistically different. Effects of comorbidities on CRST or QUEST scores improvements were all transient…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.14.26365548v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
+      <link>https://arxiv.org/abs/2610.26852v1</link>
+      <guid isPermaLink="false">d-4b70604f96</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:49 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge. We propose CoopUQ, a multi-robot social navigation framework that bridges uncertainty-aware cooperative occupancy forecasting and robust decision making. CoopUQ predicts future occupancy grid maps through cross-robot spatiotemporal feature fusion and further leverages forecasts and their uncertainty to guide policy via constrained multi-agent reinforcement learning, where the cost penalizes navigation through regions predicted to be occupied or highly uncertain. This design enables the po…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26852v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Patient and Surgeon Willingness to Participate in a Randomized Trial of Surgery Versus Observation for Mild Cervical Spondylotic Myelopathy: A Cross-Sectional Survey Study</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.08.18.26360719v2</link>
-      <guid isPermaLink="false">d-7289c5e5dc</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;BackgroundCervical spondylotic myelopathy (CSM) is the most common cause of nontraumatic spinal cord dysfunction in adults. For mild disease, guidelines recommend shared decision-making between surgery and structured rehabilitation based on clinical equipoise, yet no comparative effectiveness study has reported outcomes in this population. Whether a randomized trial is feasible is unknown. MethodsWe conducted two cross-sectional surveys between December 2025 and July 2026: one of patients with surgeon-confirmed CSM recruited from academic outpatient spine clinics, and one of practicing neurosurgical and orthopedic spine surgeons. Respondents rated willingness to participate in (1) a randomized trial of early surgery versus observation and (2) a prospective observational study in which treatment was patient selected. Responses of likely or very likely were classified as willing. Groups were compared using Fisher exact tests, designs within respondents using exact McNemar tests, and pre…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.18.26360719v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning</title>
+      <link>https://arxiv.org/abs/2610.26851v1</link>
+      <guid isPermaLink="false">d-b609a0cae5</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:46 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its characters and art style, or feed manga pages directly into video generation models, which misinterpret the manga&amp;apos;s structure and produce incorrect storylines. In this paper, we propose Manga2Animate, a multi-agent framework that grounds every stage of generation in the source manga. We decompose the task into two intermediate representations, an animation script and a visual storyboard. Each representation is produced by a creator agent and reviewed against the source panels by a paired reviewer agent. We tailor representation-specific selection and dual-level feedback to progressively refine both before synthesizing the final animation. Extensive experiments and a user study demonstrate that Manga2Animate produces animations more faithful to the source manga and more consistent across shots than…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26851v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Benchmarking Recording-Level Clinical Speech De-identification for Privacy-Preserving Clinical Audio</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.04.13.26349911v2</link>
-      <guid isPermaLink="false">d-bf9d70a598</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Transcript-based de-identification protects textual records but leaves sensitive health information (SHI) directly audible in source recordings, limiting trustworthy reuse of clinical audio. However, standardized evaluations of recording-level SHI detection remain limited. We established the SREDH-AICUP 2025 benchmark to evaluate recording-level SHI detection systems and characterize the approaches. All 22 qualifying systems combined automatic speech recognition with downstream SHI detection, whereas we additionally evaluated end-to-end detection from audio. Pipeline baselines outperformed the end-to-end baseline in transcription (MER, 0.123 vs 0.155) and SHI detection (macro-F1, 0.507-0.653 vs 0.422). Synthetic Mandarin speech-text augmentation enabled the end-to-end model to detect Mandarin SHI that was not identified without augmentation (macro-F1, 0.171 vs 0). Foundation models showed category-specific differences in SHI recognition, and type-aware adaptive routing improved macro-…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.04.13.26349911v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries</title>
+      <link>https://arxiv.org/abs/2610.26850v1</link>
+      <guid isPermaLink="false">d-d26690c555</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:41 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We introduce GenOlympiad, a benchmark which provides the most challenging text prompts from nine capability axes for stress-testing frontier text-to-image models. The assessed capabilities include generating large quantities, performing deep reasoning, ensuring hard physical consistency, following complex rules and so on. The prompts are designed such that prompt alignment is visually verifiable (e.g., counting) instead of relying on subjectiveness (e.g., style). Based on this, we develop an automated evaluation framework which decomposes the prompt into easy and hard questions, and for most hard questions, draws help lines to ground evidence for accurate grading. We evaluate 20+ strong text-to-image models, including Nano Banana Pro, GPT-Image-2.5, Seedream-5.0 and so on. We report that even t…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26850v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BanglaDiaHallu: Hallucinations of large language models and the effect of guideline-grounded retrieval-augmented generation in Bangla diabetes question answering</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.14.26365587v2</link>
-      <guid isPermaLink="false">d-fe33c1fcc8</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Large language models (LLMs) are increasingly consulted for health advice, but they can produce fluent statements that are false or unsupported, known as hallucinations, and this risk is poorly characterised in low-resource languages such as Bangla. We measured hallucinations of locally deployable open-weight LLMs in Bangla diabetes question answering and tested whether retrieval-augmented generation (RAG) grounded in Bangladeshs National Guideline on Diabetes Mellitus reduces them. Forty patient questions spanning six clinical sub-domains were each answered twice, under zero-shot prompting, by Qwen3.5-9B, TigerLLM-9B, Qwen3.6-35B-A3B and Gemma-4-26B-A4B, and by BanglaDiaRAG, which adds hybrid dense (BGE-M3) and sparse (BM25) retrieval from a physician-reviewed Bangla guideline knowledge base to Qwen3.5-9B. Two physicians rated the 400 de-identified responses by consensus for medical accuracy, completeness, safety, readability and reliability on a 0-1 scale, and responses with accurac…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.14.26365587v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy</title>
+      <link>https://arxiv.org/abs/2610.26848v1</link>
+      <guid isPermaLink="false">d-e1bcc4f54d</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:30 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may constrain different parts of improvement. The five-axis metrics also distinguish systems with close public benchmark averages and show that high scores need not come with early or efficient gains. We study observational scaling from two perspectives: predicting the relative performance of VLM agents from their public capabilities, and forecasting later progress from early physical feedback. Together, these analyses ask how quickly and how far an agent can improve. Moreover, we conduct workspace int…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26848v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trends in incidence and antimicrobial resistance for five major causes of bacteraemia in a Canadian metropolitan area, 2006-22: a genomic and antimicrobial use cohort study</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.08.27.26361471v2</link>
-      <guid isPermaLink="false">d-2614987c36</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background Using a population-based cohort from the Calgary Health Zone (CHZ), Canada, we integrated longitudinal antimicrobial susceptibility and prescribing data with the whole genome sequences of five major pathogens. We aimed to assess how antimicrobial resistance (AMR) responds to prescribing changes and determine which bacterial strains shape these dynamics. Methods We analysed antibiotic prescribing rates, clinical and genomic data from 7,271 Staphylococcus aureus, 1,609 Enterococcus faecalis, 801 Enterococcus faecium, 11,363 Escherichia coli, and 2,319 Klebsiella pneumoniae isolates, associated with bacteraemia episodes in the CHZ between 2006-2022. Genomic clusters (referred to as strains) were identified using StrainGST and assigned to known sequence types (STs) or clonal complexes (CCs). Strain-level incidence, stratified by community-onset (isolates collected [&amp;amp;le;]48h after admission) and hospital-onset (&amp;gt;48h after admission), AMR phenotypes, and prescribing rates were mo…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.27.26361471v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>WeAct: Dynamic Weight Switching as Agent Actions</title>
+      <link>https://arxiv.org/abs/2610.26847v1</link>
+      <guid isPermaLink="false">d-6d8e995ff6</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:19 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet conventional joint training and static adapter merging maintain a fixed parameter configuration throughout execution. We introduce WeAct (Weight-level Internal Actions), which trains independent capability-specific LoRA adapters over a frozen backbone and adds adapter selection to the agent&amp;apos;s action space. These internal actions use the model&amp;apos;s native tool-calling interface for on-demand capability composition in a shared context. Across eight deep-research benchmarks, Qwen3-32B with WeAct improves average accuracy by 6.2% relative to full fine-tuning counterparts despite using less compute, and by 27.5% relative to the strongest static LoRA-merging method. WeAct also supports modular conti…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26847v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Interpreting variants associated with congenital heart disease with a regulatory map of the human fetal heart</title>
-      <link>https://www.medrxiv.org/content/10.1101/2024.11.20.24317557v3</link>
-      <guid isPermaLink="false">d-9ae87c3bc3</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Congenital heart defects (CHD) arise in part due to inherited genetic variants that alter genes and noncoding regulatory elements in the human genome. These variants are thought to act during fetal development to influence the formation of different heart structures. However, identifying the genes, pathways, and cell types that mediate these effects has been challenging due to the diversity of cell types involved in heart development as well as the superimposed complexities of interpreting noncoding sequences. As such, understanding the molecular functions of both noncoding and coding variants remains paramount to our fundamental understanding of cardiac development and CHD. Here, we created a gene regulation map of the healthy human fetal heart across developmental time and applied it to interpret the functions of variants associated with CHD and quantitative cardiac traits. We collected multiomic data from 734,078 single cells sampled from 41 fetal hearts spanning post-conception we…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2024.11.20.24317557v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation</title>
+      <link>https://arxiv.org/abs/2610.26846v1</link>
+      <guid isPermaLink="false">d-09bdbb70ec</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:17 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Recent advances in multimodal models have enabled GPT-6 Astra to perform robotic manipulation through in-context learning. Yet contact-rich control and tactile perception are often regarded as strengths of specialist policies, leaving open whether Astra can directly understand and use tactile observations. We provide, to our knowledge, the first demonstration that Astra directly interprets vision-based tactile images and uses their contact cues for manipulation. Tactile RGB images enter through its existing visual interface, enabling few-shot closed-loop control on nineteen simulated UniVTAC and OpenViTac tasks with 210 sampled scene seeds per setting. With visuo-tactile input, Astra achieves mean success rates of 93.8% and 81.8%, exceeding the strongest reported specialist baselines in our comparison by 22.9 and 13.1 percentage points, respectively. Vision-only performance also leads these baselines, reaching 76.3% and 80.6%. Trajectory analysis reveals active probing, cautious grasp…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.26846v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A prospective, comparative cohort analysis of influenza antibody waning in Michigan and Hong Kong during periods of low influenza circulation</title>
-      <link>https://www.medrxiv.org/content/10.1101/2025.05.26.25328346v2</link>
-      <guid isPermaLink="false">d-88fa063ec5</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Reduced influenza transmission during the COVID-19 pandemic prompted concern about waning of population immunity that could lead to subsequent surges in circulation. We compared longitudinal influenza antibody titers in Michigan and Hong Kong, two regions with reduced influenza transmission during the COVID-19 pandemic. Methods: In two prospective cohort studies (HIVE, Michigan; EPI-HK, Hong Kong), we analyzed longitudinal serum samples collected from 2020 through 2023 from participants without influenza infection or vaccination. Sera were tested using hemagglutination inhibition assays (HAI) and microneutralization (MN) against vaccine strains. Two-year fold changes in titers were estimated using multivariable power-law models adjusted for age and baseline titer. Results: We analyzed 173 sera from 57 HIVE participants and 259 sera from 60 EPI-HK participants. Initial HAI geometric mean titers ranged from 12.3-123.4 in HIVE and 6.3-40.9 in EPI-HK. Among those with &amp;gt;1:40 ba…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2025.05.26.25328346v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resistance Training Frequency and Muscle Hypertrophy: A Systematic Review and Meta-Analysis of Volume-Equated Trials</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.07.26365015v2</link>
-      <guid isPermaLink="false">d-7cd9a024d5</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Weekly training volume is the primary driver of resistance-training hypertrophy, but the independent role of frequency can be isolated only when weekly volume is equated. We quantified the effect of training frequency on hypertrophy across one to three volume-equated sessions per muscle per week. Following PRISMA 2020, five databases were searched to October 2026 for trials of at least six weeks that equated weekly volume between per-muscle frequencies and measured muscle size. One change-score standardized mean difference per trial (Hedges g; negative favoring higher frequency) was pooled with a random-effects model, and certainty was rated with GRADE. Sixteen trials (380 participants) were pooled. The frequency effect was trivial and non-significant (g = -0.02; 95% CI -0.21 to 0.16; I{superscript 2} = 0%; prediction interval -0.23 to 0.18); the interval admits at most a small effect favoring the higher frequency. Contrast-specific estimates were similarly trivial, and no moderator w…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.07.26365015v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Large language models for depression assessment from brief daily diaries</title>
-      <link>https://www.nature.com/articles/s41746-026-03388-6</link>
-      <guid isPermaLink="false">d-0f3635f8b7</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 17 October 2026; doi:10.1038/s41746-026-03388-6 Large language models for depression assessment from brief daily diaries&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03388-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/</link>
+      <guid isPermaLink="false">d-b46476fa92</guid>
+      <pubDate>Mon, 19 Oct 2026 16:49:19 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with reference images, and on-the-fly processing of up to two hours of video.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
