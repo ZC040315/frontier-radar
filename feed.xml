@@ -5,9 +5,39 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:55:42 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>Predicting protein electrostatics with protein language models</title>
+      <link>https://www.nature.com/articles/s41467-026-78406-y</link>
+      <guid isPermaLink="false">d-ea00a9f0fc</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78406-y Ionization states are crucial to protein function, yet predicting their equilibrium constants remains challenging. Shen et al. developed KaML-ESMs, sequence-based models that predict pKa values with accuracy rivaling experiment.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78406-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phylogenomics of captured Cryptosporidium sequenced directly from patient samples identifies clade-specific genomic architecture and host-adapted lineages</title>
+      <link>https://www.nature.com/articles/s41467-026-78927-6</link>
+      <guid isPermaLink="false">d-4915155f97</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78927-6 The authors developed a method to sequence Cryptosporidium directly from patient samples. They identified genetic differences among parasite populations, which provide new insight into how these parasites spread between humans and animals.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78927-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial</title>
+      <link>https://www.nature.com/articles/s41591-026-04756-1</link>
+      <guid isPermaLink="false">d-9ed5cb03cb</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Medicine, Published online: 24 October 2026; doi:10.1038/s41591-026-04756-1 As presented at the ESMO Congress 2026: In a 5 year follow-up of survival and correlative data from the pivotal phase 3 RELATIVITY-047 trial comparing relatlimab plus nivolumab versus nivolumab alone in patients with metastatic or unresectable melanoma, statistically significant differences in progression-free survival, overall survival and melanoma-specific survival were seen with high baseline levels of LAG3 high CD8+ T cells associated with improved response in the combination arm.&lt;/p&gt;
+&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04756-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Spin-adapted neural network wavefunctions in real space</title>
       <link>https://www.nature.com/articles/s41467-026-78600-y</link>
@@ -89,123 +119,93 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <guid isPermaLink="false">d-587ea99968</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/openai-nask-ai-safety-security-partnership&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Neural subspaces encode sequential working memory without detectable neural sequences</title>
-      <link>https://www.nature.com/articles/s41467-026-78895-x</link>
-      <guid isPermaLink="false">d-bff3776854</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-78895-x This study finds that the brain maintains sequences in working memory by organizing items according to their position in a low-dimensional neural subspaces, rather than by repeatedly replaying individual items in order.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78895-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Putting conversational AI to the test in primary care</title>
-      <link>https://www.nature.com/articles/d41591-026-00054-y</link>
-      <guid isPermaLink="false">d-d15dd010a5</guid>
+      <title>Testing The Protective Function of Flash Coloration Using Wild Avian Predators</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.15.759298v2</link>
+      <guid isPermaLink="false">d-e34dc8d666</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Medicine, Published online: 23 October 2026; doi:10.1038/d41591-026-00054-y A patient-facing conversational AI showed promising feasibility and safety in a single-center primary care setting, providing a basis for larger-scale evaluation.&lt;/p&gt;
-&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41591-026-00054-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Many prey reveal conspicuous color patches during movement that become concealed when they stop. Such abrupt changes in appearance have been proposed to disrupt predator tracking and make prey more difficult to relocate, providing the basis of the flash coloration hypothesis. However, empirical support remains inconsistent and comes largely from experiments using human observers or simplified artificial prey. Here, we used touchscreen-equipped operant chambers to test the flash coloration hypothesis with wild blue tits (Cyanistes caeruleus) searching for moving digital prey modelled on Catocala moths. The digital prey revealed either conspicuous or cryptic hindwings during flight before adopting a cryptic resting appearance. Contrary to predictions, conspicuous hindwings neither increased prey survival nor delayed prey relocation compared to moths with cryptic hindwings. However, conspicuous hindwings also did not incur detectable predation costs. In contrast, background strongly affe…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.15.759298v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Guidelines for evaluating structure-based methods for protein–ligand binding prediction</title>
-      <link>https://www.nature.com/articles/s42256-026-01331-8</link>
-      <guid isPermaLink="false">d-6769dfc47c</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Machine Intelligence, Published online: 23 October 2026; doi:10.1038/s42256-026-01331-8 Ballester and Tran-Nguyen advocate for transparency in data, code and experimental procedures in the evaluation of protein–ligand predictions. They discuss good practices for preventing data leakage and bias, enabling fair, reproducible and meaningful comparisons across different scoring methods.&lt;/p&gt;
-&lt;p&gt;Nature Machine Intelligence · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s42256-026-01331-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Efficient equivariant framework for universal charge density prediction</title>
-      <link>https://www.nature.com/articles/s42256-026-01326-5</link>
-      <guid isPermaLink="false">d-9424392a02</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Machine Intelligence, Published online: 23 October 2026; doi:10.1038/s42256-026-01326-5 Li et al. introduce EdenGNN-Uni, a universal charge density model for the periodic table that is over an order of magnitude faster than some existing methods, facilitating efficient and accurate electronic structure calculations of materials.&lt;/p&gt;
-&lt;p&gt;Nature Machine Intelligence · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s42256-026-01326-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis</title>
-      <link>https://www.nature.com/articles/s41746-026-03408-5</link>
-      <guid isPermaLink="false">d-65930e186a</guid>
+      <title>Self-extending DNA recording with stochastic and programmed writing</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.759016v2</link>
+      <guid isPermaLink="false">d-3cfa80ca34</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 23 October 2026; doi:10.1038/s41746-026-03408-5 Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03408-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Recording cellular histories requires continued information accumulation while retaining earlier records. Infinite Printer couples DNA self-extension to regeneration of a writable terminal context. A single self-targeting prime-editing guide directs repeat extension, while base editing diversifies the accessible sequence in situ. A separate configuration uses auxiliary guides for specified payload writing. After three rounds of payload input, 4,436 distinct complete records contained identities from all three pools. Extended AC/AT records retained shared upstream marks, and complete-sequence readout distinguished endpoints sharing initial prefixes. Joint single-cell readout recovered 1,549 records and 7,669 combinations across 12,302 transcriptome-linked cell labels; spatial readout linked records to 11,330 capture spots. These results establish a resource for self-extending stochastic and programmed DNA recording with joint cellular and tissue readout, providing a foundation for futu…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.759016v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Technology-based structural racism and telehealth video usage among primary care patients</title>
-      <link>https://www.nature.com/articles/s41746-026-03342-6</link>
-      <guid isPermaLink="false">d-9c272e533f</guid>
+      <title>Metabolic blueprints of monocultures enable prediction and design of synthetic microbial consortia</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.01.11.698878v2</link>
+      <guid isPermaLink="false">d-dd4e84ecfc</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 23 October 2026; doi:10.1038/s41746-026-03342-6 Technology-based structural racism and telehealth video usage among primary care patients&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03342-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Synthetic microbial ecology aims at understanding complex microbial dynamics and designing communities with desired properties, often based on mathematical models of individual organisms. However, it is unclear whether simplified models harbor enough detail to predict the composition of synthetic communities, especially in metabolically complex environments. Here, we use longitudinal exometabolite data of monocultures for 15 rhizosphere bacteria to parametrize a consumer-resource model, which we use to predict pairwise co-cultures and higher order communities. The capacity to artificially switch off cross-feeding interactions in the model demonstrates their importance in ecosystem structure. Leave-one-out and leave-two-out experiments reveal that pairwise co-cultures do not necessarily capture inter-species interactions within larger communities and broadly highlight the nonlinearity of interactions. Finally, we illustrate that our model can be used to identify new sub-communities of …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.11.698878v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Clinical AI governance for scalable innovation in value based healthcare systems</title>
-      <link>https://www.nature.com/articles/s41746-026-03409-4</link>
-      <guid isPermaLink="false">d-22b28b9504</guid>
+      <title>Connexins are essential for the contribution of latent progenitors to healing after spinal cord injury</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.01.16.699895v2</link>
+      <guid isPermaLink="false">d-6250c18ae4</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 23 October 2026; doi:10.1038/s41746-026-03409-4 Clinical AI governance for scalable innovation in value based healthcare systems&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03409-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Gap junctions are important regulators of the biology of neural stem cells. Both in vertebrates with regenerative abilities and neonatal rodents, ependymal cells communicate via connexin (Cx) 43 and Cx26. Gap junction coupling and Cx26 are down-regulated as the ependyma becomes quiescent in adulthood, but injury overrules this developmental down-regulation suggesting a role for Cx signaling in the reactivation of ependymal cells. However, direct evidence of the involvement of these Cxs in the reactivation of the ependymal stem cell niche is lacking. Here, we aim to explore the role of Cx26 and Cx43 in the response of ependymal cells to injury by means of specific genetic deletion. We find that Cx26 is critical for the proliferative response of ependymal cells to injury. The reduced response of ependymal cells by Cx26 deletion increased the extension of the lesion because of impaired healing resulting from a weak contribution of the ependymal stem cell niche. On the other hand, Cx43 -v…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.16.699895v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>From simulation to pedagogy: multi-model and randomized evaluation of structured AI standardized patients</title>
-      <link>https://www.nature.com/articles/s41746-026-03372-0</link>
-      <guid isPermaLink="false">d-eee9d0f901</guid>
+      <title>Sequential coupling of sleep oscillations enables concept-neuron reactivation and supports information flow across the human hippocampal-cortical circuit</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.01.15.699122v2</link>
+      <guid isPermaLink="false">d-e2c3aa1774</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 23 October 2026; doi:10.1038/s41746-026-03372-0 From simulation to pedagogy: multi-model and randomized evaluation of structured AI standardized patients&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03372-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Effective memory consolidation during sleep is thought to rely on the transfer of reactivated memory traces from the hippocampus to the cortex. However, the mechanisms supporting this essential dialogue across brain areas remain poorly understood. Here, we recorded single-neuron activity (n = 1097) in the medial temporal lobe (MTL) of 10 epilepsy patients across 21 nights of sleep. Before sleep, patients engaged in a memory task with stimuli eliciting concept-neuron responses. During non-rapid eye movement (NREM) sleep, neuronal firing locked to sharp wave-ripples (SWR) revealed a directed flow of information from the hippocampus to cortical targets. Notably, within SWR-driven activity, experience-dependent concept neurons exhibited elevated co-activation both within and across MTL regions, indicating selective reactivation of behaviorally relevant information. Cross-regional co-activation of concept cells was markedly enhanced when hippocampal SWRs coincided with cortical slow oscill…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.15.699122v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Build more responsive apps with the Decisions API</title>
-      <link>https://openai.com/index/decisions-api</link>
-      <guid isPermaLink="false">d-dcda7f1730</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Fast, focused, low-cost decisions for any application.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/decisions-api&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>A non-invasive approach to study localized forced in 3D epithelia</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.04.01.715811v2</link>
+      <guid isPermaLink="false">d-c0cece3578</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Epithelial tissue integrity and remodelling rely on mechanical coupling between cytoskeletal organization and adhesion complexes, but their orchestration in three-dimensional (3D) epithelia remains unresolved. Here, we introduced a non-invasive strategy to locally probe forces within 3D epithelial tissues. We engineered elastic polyacrylamide (PAAm) microbeads with cell-like size and mechanical properties, enabling their integration into tissues. PAAm microbeads were spontaneously engulfed by the tissue, establishing an intrinsic interface. This allowed bead deformation to be directly correlated with local cytoskeletal architecture and adhesion organization, visualized through high-resolution imaging and quantitative 3D computational reconstruction. Using this approach, we demonstrated that localized mechanical perturbations trigger cytoskeletal remodelling while preserving tissue polarity. We further identified extracellular matrix composition as a key determinant of bead-tissue inte…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.01.715811v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Amazon Polly delivers a major upgrade to its Generative engine</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</link>
-      <guid isPermaLink="false">d-d8797b71b3</guid>
-      <pubDate>Thu, 22 Oct 2026 18:06:35 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Comparative genomics of zooxanthellate and azooxanthellate Palythoa (Cnidaria: Zoantharia) provides insights into symbiosis evolution and the origin of palytoxin</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2</link>
+      <guid isPermaLink="false">d-54edd0a5bf</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Zoantharians (Cnidaria) are globally distributed from shallow reefs to the deep sea, yet their genomic resources remain scarce. Within the zoantharian genus Palythoa, most species harbor photosymbiotic dinoflagellates, whereas some have secondarily lost this symbiosis, allowing genomic changes associated with symbiotic status to be examined. Palythoa is also the original source of palytoxin, one of the most potent marine toxins known, but whether it is produced by the host or by associated microorganisms remains unresolved. Here we generated high-quality genome assemblies of two zooxanthellate Palythoa species and compared five Palythoa genomes spanning both symbiotic states with those of other anthozoans. Across anthozoans, genome size scaled with transposable element content, particularly retrotransposons. The azooxanthellate lineage carries substitutions in conserved domains of the symbiosis-related proteins LePin and NPC2 and shows rapid evolution of the lectin gene CLEC4A, wherea…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</link>
-      <guid isPermaLink="false">d-2bbc160d15</guid>
-      <pubDate>Thu, 22 Oct 2026 18:01:53 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Cytoplasmic localization of 5hmC reveals RNA hydroxymethylation in breast cancer</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.21.760667v2</link>
+      <guid isPermaLink="false">d-8e8a8cb425</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;DNA methylation (5-methylcytosine, 5mC) is a major repressive epigenetic mark that can be iteratively oxidized by ten-eleven-translocation (TET) enzymes to 5-hydroxymethylcytosine (5hmC); beyond DNA, modifications of RNA can also affect transcript stability and processing, yet RNA hydroxymethylation remains unexplored in breast cancer (BC). Here, we identify a quantifiable cytoplasmic 5hmC signal in BC cell lines and, more prominently, in human BC tissue, using immunoassays and digital pathology, and confirm with an adapted, RNase-sensitive, RNA-specific ELISA that this signal reflects hydroxymethylation of total RNA and mRNA. Cytoplasmic 5hmC was significantly enriched in triple-negative (ER-/PR-/HER2-) and grade 3 tumors, and correlated with increased cytoplasmic TET2/TET3 in tissue and TET3 upregulation in TCGA. As a leading candidate mechanism, TET3 expression was associated with RNA-processing/spliceosomal transcripts, and TET3 knockdown in three TNBC cell lines reduced a subset …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.21.760667v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drug Gene-Set Analysis Identifies Established and Emerging Therapeutic Mechanisms</title>
+      <link>https://www.medrxiv.org/content/10.1101/2022.09.06.22279660v3</link>
+      <guid isPermaLink="false">d-865d22057f</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Developing novel disease therapies is challenging, especially for central nervous system (CNS) disorders, which have a clinical approval rate of 6.2%. Genetic evidence is associated with higher success rates in drug development, but systematically translating genome-wide association study (GWAS) signals into actionable therapeutic hypotheses remains difficult. Here, we present DRUGSETS, a framework that tests whether drug (n = 8,136) and mechanism-of-action (MoA; n = 384) gene sets are enriched for GWAS associations. We applied DRUGSETS to five CNS and five non-CNS phenotypes using competitive gene-set analysis with both the standard MAGMA gene-level statistic and Polygenic Priority Scores (PoPS). Both implementations were enriched for approved treatments, and drug gene set significance was associated with further progression in clinical trials. Across all ten phenotypes, we identified 69 MoA and 589 drug gene set-associations that were study-wide significant, finding both established…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2022.09.06.22279660v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
