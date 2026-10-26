@@ -5,27 +5,187 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 04:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:58:49 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Predicting protein electrostatics with protein language models</title>
-      <link>https://www.nature.com/articles/s41467-026-78406-y</link>
-      <guid isPermaLink="false">d-ea00a9f0fc</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78406-y Ionization states are crucial to protein function, yet predicting their equilibrium constants remains challenging. Shen et al. developed KaML-ESMs, sequence-based models that predict pKa values with accuracy rivaling experiment.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78406-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Neural limits of temporal feature binding in human visual cortex</title>
+      <link>https://www.nature.com/articles/s41467-026-78974-z</link>
+      <guid isPermaLink="false">d-b4d15cac6b</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 26 October 2026; doi:10.1038/s41467-026-78974-z The speed of binding color and orientation in an alternating stream is limited by the duration of a recurrent process in visual cortex. Binding is accomplished by a gradual attentional bias of this process, causing a form of stroboscopic stationarity.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78974-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phylogenomics of captured Cryptosporidium sequenced directly from patient samples identifies clade-specific genomic architecture and host-adapted lineages</title>
-      <link>https://www.nature.com/articles/s41467-026-78927-6</link>
-      <guid isPermaLink="false">d-4915155f97</guid>
+      <title>Emergence of diffusion models from associative memory through memorization and generalization</title>
+      <link>https://www.nature.com/articles/s41467-026-78727-y</link>
+      <guid isPermaLink="false">d-4ca665e260</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 25 October 2026; doi:10.1038/s41467-026-78727-y Viewing Diffusion Models through the lens of Dense Associative Memory theory reveals that spurious states, traditionally viewed as memory errors, are in fact a critical intermediate phase of generalization. Here, authors demonstrate their existence across a wide range of architectures and datasets.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78727-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VIOLIN: A modular framework for scalable reconciliation of heterogeneous interaction graphs</title>
+      <link>https://www.biorxiv.org/content/10.1101/2024.07.21.604448v4</link>
+      <guid isPermaLink="false">d-c10a2d3abc</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78927-6 The authors developed a method to sequence Cryptosporidium directly from patient samples. They identified genetic differences among parasite populations, which provide new insight into how these parasites spread between humans and animals.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78927-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Automated extraction of molecular interactions from scientific literature has outpaced the development of systematic methods for integrating this information with curated models and knowledge graphs. Here we present VIOLIN (Versatile Interaction Organizing to Leverage Information in Networks), a configurable, attribute-aware reconciliation framework that formally compares newly extracted interaction lists against structured baseline graphs. VIOLIN classifies each interaction as a corroboration, contradiction, flagged case, or extension, and supports configurable attribute inclusion strategies and mismatch semantics to adjust reconciliation strictness. We evaluate VIOLIN using interaction lists generated by two traditional NLP systems (REACH, INDRA) and two large language models (GPT-4.1, Llama 3) across multiple literature corpora and structurally distinct baseline graphs. Across all conditions, reconciliation outcomes were stable and interpretable, with extensions dominating and corr…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.07.21.604448v4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bacterial metabolites alter the consequences of reduced insulin signaling in C. elegans via increasing the expression of the acid sphingomyelinase asm-3.</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.03.04.709558v2</link>
+      <guid isPermaLink="false">d-cb701c101a</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Individuals consuming an identical diet often exhibit vast differences in their physiological response to the same nutrients. Studies of identical twins and genetically identical laboratory animals have both shown that much of this variability cannot be explained by differences in genetics. Differences in gut microbes and local microflora have emerged as a leading potential source of this variability, but mechanistic investigations of three-way host-microbe-diet interactions are difficult in most animals. Here, we find that dietary sugar availability suppresses the longevity, dauer formation and gene expression changes of daf-2 (insulin-like receptor) mutants fed Escherichia coli OP50, but not daf-2 mutants fed many other bacteria. To determine how sugar availability and bacteria intersect to affect C. elegans insulin signaling we conducted transposon mutagenesis screens and found that the effects of sugar availability on C. elegans insulin signaling depend on bacterial pyruvate dehyd…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.04.709558v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficient permuted intron-exon RNA circularization system based on the LtrB group II Intron from Lactococcus lactis</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.20.760490v2</link>
+      <guid isPermaLink="false">d-d5d67c75ff</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Circular RNAs (circRNAs) have emerged as promising platforms for stable RNA expression and therapeutic applications, but methods for their generation remain limited. Here, we engineered the Lactococcus lactis LtrB group II intron into a permuted intron-exon (PIE) configuration to enable efficient circRNA formation (circLtrB). Among the tested split designs, LtrB domain IV cleavage yielded the highest circularization efficiency. Although LtrB encodes LtrA maturase required for efficient in vivo splicing, in vitro application of LtrA to the PIE constructs resulted in lower circularization efficiency than self-splicing conditions. We further examined circularization under distinct salt conditions and showed that NH4Cl- and KCl-based splicing buffers independently support high circularization efficiencies (&amp;gt;80%), while producing distinct splicing intermediates, indicating ion-specific mechanistic effects on circularization. Extending outer homology arms did not enhance circularization eff…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.20.760490v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Plasmodium falciparum Pangenome Resource to Drive Structural Variant Discovery and to assist Malaria Control</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.05.19.726271v2</link>
+      <guid isPermaLink="false">d-162c8c67d9</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Plasmodium falciparum, the deadliest causative agent of malaria, harbours extensive structural variation that underlies key biological processes including drug resistance and diagnostic evasion. Here, we present PfPan, a P. falciparum pangenome constructed from 13 geographically diverse high-quality reference genomes using Minigraph-Cactus, adding 4.77 Mb of sequence beyond the 3D7 linear reference. We identify over 5,000 structural variants (SVs) across the reference genomes and demonstrate improved genotyping using the vg toolkit compared to linear reference-based approaches, with comparable performance for small variant discovery. Benchmarking against assembly-derived truth sets confirms pangenome superiority for structural variant detection, particularly at complex and hypervariable loci. Applying PfPan to 878 globally sampled P. falciparum whole-genome sequences, we characterise biologically and clinically relevant SVs, including the complex drug resistance-linked gch1 locus, and…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.05.19.726271v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novel retinoic acid receptor-related orphan receptor gamma inverse agonist enhances checkpoint blockade in hepatocellular carcinoma: a preclinical mouse study</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.13.758999v2</link>
+      <guid isPermaLink="false">d-5bb9799d49</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background and Aims: Neutrophil-associated inflammation is associated with poor outcomes in hepatocellular carcinoma (HCC), but tumour-intrinsic regulators of neutrophil recruitment and checkpoint response remain unclear. We evaluated whether inhibiting retinoic acid receptor-related orphan receptor gamma (RORgamma) alters neutrophil recruitment, programmed death-ligand 1 (PD-L1) expression, and response to PD-L1 blockade. Approach and Results: Survival associations were analysed in The Cancer Genome Atlas HCC cohort. Neutrophil migration toward HCC cells and PD-L1 expression were assessed after RORC silencing or TF-S10 treatment. Immunocompetent mice bearing orthotopic Hep-55.1c tumours received vehicle, TF-S10, anti-PD-L1, or combination treatment. Higher S100A9 and CXCL8 expression was associated with shorter survival (P = 0.000459 and P = 0.0004413, respectively), and tumour-bearing mice had higher neutrophil-to-lymphocyte ratios (P &amp;lt; 0.0001). RORgamma targeting reduced neutrophil…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.13.758999v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spatial uncoupling of endothelial calcium signaling from phosphatidylserine externalization in vascular injury</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.22.760917v2</link>
+      <guid isPermaLink="false">d-56c9617988</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Ca2+ is both the signal that spreads injury information through the endothelium and the trigger for phospholipid scrambling that makes a membrane procoagulant. How a blood vessel can disseminate the first without broadcasting the second is unknown. Here, we combine single-cell laser injury in endothelial monolayers with imaging of intact mesenteric vessels in vitro and intravital Ca2+ imaging in vivo. Injury generated a coherent Ca2+ wavefront that spread rapidly before progressively slowing and terminating at a reproducible boundary 197 {+/-} 7 m from the wound, engaging 50 {+/-} 8 cells. The first ring of neighboring cells exhibited a distinct response that was prevented by carbenoxolone, whereas propagation beyond this ring required extracellular ATP, purinergic receptor activation, and IP3-dependent Ca2+ release. Wavefront kinematics were consistent with ATP diffusion. In vivo, injury elicited vasoconstriction and bidirectional Ca2+ waves propagating 205 {+/-} 28 m before terminat…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.22.760917v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Partial lesions of hypocretin neurons of the rat lateral hypothalamus affect wake and sleep regulation under increased sleep pressure</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.19.759695v1</link>
+      <guid isPermaLink="false">d-04156bd9f5</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Hypocretin(orexin)-producing neurons in the lateral hypothalamic area are important for sleep and wake regulation in mammals and their damage in humans manifests clinically as narcolepsy. While in previous studies experimentally induced massive loss of these neurons revealed their physiological importance, small lesions and their manifestations can uncover more subtle features of sleep regulation and help understand the delicate processes in early stages of pathogenesis of narcolepsy. We studied the effects of partial lesions (approximately 30%) of hypocretin producing neurons in the lateral hypothalamus on sleep patterns and EEG in rats. The lesions did not change the normal sleep and wake pattern in undisturbed rats. The effects of lesions manifested under increased sleep pressure after six hours of sleep deprivation, when they led to accelerated dynamics of compensatory slow wave sleep. The lesions also led to a slight decrease in theta frequency in wakefulness and in REM sleep, wh…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.19.759695v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial hibernation uncovers distinct interaction dynamics in functional and pathological state change</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.19.759973v1</link>
+      <guid isPermaLink="false">d-4d8895aa43</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Neural population activity can reorganize without disrupting function, but how such changes differ from those associated with pathology remains unknown. Artificial hibernation, Q-neuron-induced hypothermia and hypometabolism (QIH), causes extensive synaptic remodeling in the hippocampus without erasing established memories, allowing us to examine how extensive network reorganization can occur without lasting functional impairment. Longitudinal calcium imaging showed that hippocampal activity recovered after QIH without returning to its pre-hibernation population configuration. Instead, QIH reorganized neuronal activity patterns and coactivity beyond representational drift. Electrophysiological recordings revealed that this reorganization of neuronal interactions depended on the preceding network state. In mice subjected to kainic acid-induced status epilepticus, QIH reduced seizure-associated increases in neuronal interactions and spike coactivity during sharp-wave ripples. Over the f…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.19.759973v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A proteomic polygenic score to identify IL-18 driven inflammatory bowel disease</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.05.18.26353508v2</link>
+      <guid isPermaLink="false">d-1469b7bb52</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;High levels of IL-18 have been causally implicated in IBD risk and may represent a unique mechanism driving IBD yet to be therapeutically targeted. To identify individuals predisposed to increased levels of IL-18, we implemented a polygenic approach to predict IL-18 plasma protein levels. Using a dataset with over 50,000 individuals with both genetic and plasma protein levels from Olink, we developed a 27 SNP polygenic score that predicts IL-18 levels and IBD risk. Further, we identified a threshold to classify patients as &amp;apos;IL-18 High&amp;apos; using a data-driven approach that optimized prediction of both IL-18 and IBD risk. We show that ~30% of the overall IBD patient population is &amp;apos;IL-18 High&amp;apos;, meaning a genetic predisposition towards higher protein levels. The IL-18 PGS and corresponding threshold have the potential to identify IBD patients with IL-18-driven IBD that may respond more effectively to a therapy targeting this mechanism.&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.05.18.26353508v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Identifying cohorts at elevated risk of cancers using generative modeling of patient health states</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.09.26362676v4</link>
+      <guid isPermaLink="false">d-a60f14ac76</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;While large language models are powerful generators of new text, forecasting disease progression from longitudinal health histories remains a challenging problem. We introduce GenEHR, an autoregressive generative model trained on electronic health records (EHRs) from millions of patients in diverse health systems. The model learns from real-world multimodal patient histories, including diagnoses, medications, lab values, and procedures while explicitly representing irregular intervals between visits to forecast future clinical events. We combine the general-purpose patient representation learned during foundational training with parameter-efficient supervised adaptation for the task of risk stratification for 17 cancer types. In five large EHR cohorts, supervised adaptation substantially improved prediction performance of a first cancer diagnosis within a five year horizon window. Our retrospective results support the prospective evaluation of GenEHR-CancerRisk as a clinical decision-…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.09.26362676v4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coordinated Cytokine Responses Are Associated With Rapid HIV Reservoir Decay During Acute Treated HIV Infection</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.08.18.26360728v2</link>
+      <guid isPermaLink="false">d-9d9156e10b</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: The HIV reservoir is established within days of infection and persists despite antiretroviral therapy (ART). Host immune responses associated with early reservoir decay remain poorly defined. Methods: We analyzed &amp;gt;500 longitudinal blood samples from 67 individuals treated during acute HIV infection. Plasma cytokines and HIV reservoir size (intact and defective DNA) were quantified longitudinally. Cytokine-reservoir relationships were assessed using unsupervised clustering and complementary mixed-effects nonlinear and linear spline models; counterfactual modeling examined how cytokine concentrations at defined timepoints related to subsequent reservoir trajectories. Results: TNF-, IL-17A, and IL-10 were significantly associated with intact HIV DNA during the first 24 weeks of ART after false-discovery-rate correction. TNF- showed one of the strongest associations with intact reservoir decay, whereas IL-10 showed the most consistent association across intact and defective HI…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.18.26360728v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Community burden of diphtheria during the 2023-24 epidemic in Kano State, Nigeria: a population-based household survey</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.04.10.26348327v3</link>
+      <guid isPermaLink="false">d-cd3e8219d2</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Since late 2022, Nigeria has experienced one of its largest recorded diphtheria epidemics, centred on Kano State, where facility-based surveillance documented over 18,000 cases between February 2022 and April 2024. The true community burden remains unknown. We conducted a population-based household survey to estimate community attack rates, mortality, vaccination coverage, and determinants of infection and death. Methods and Findings We performed a retrospective household survey (September-October 2024) in four Local Government Areas (LGAs) using spatially randomised cluster sampling (78 clusters; recall from January 2023). Survey-weighted logistic regression adjusted for age group, sex, vaccination, LGA, socioeconomic quintile, and household size. We enrolled 7,998 individuals from 1,068 households (cooperation rate 98.6%). Among 7,889 with known diphtheria status, the community attack rate was 1.1% (95% confidence interval [CI] [0.7,1.4]). The attack rate was 3.1 times (9…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.04.10.26348327v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semaglutide and non-arteritic anterior ischaemic optic neuropathy: a 121-fold reporting signal and a bounded genetic null</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.06.26362369v2</link>
+      <guid isPermaLink="false">d-23dfc5003e</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background. A cohort study on 3 July 2024 linked semaglutide to non-arteritic anterior ischaemic optic neuropathy (NAION), and in June 2025 the European Medicines Agency (EMA) accepted NAION as a very rare side effect, about one additional case per 10,000 person-years. Objective. To measure how much of the signal the reporting system generates itself, test whether three reporting systems are independent, and let a genetic instrument adjudicate rather than corroborate. Methods. FAERS (12,305,041 reports, 2018Q1 to 2026Q2), JADER (1,054,239 reports), and VigiAccess counts were analysed with reporting odds ratios, covariate-adjusted regression, and pre-specified probes. Six cis-eQTL variants for GLP1R expression instrumented anterior ischaemic optic neuropathy (AION, 244 cases) and five AION-spectrum traits, with colocalisation. Results. Semaglutide carried 879 NAION reports and a reporting odds ratio of 120.8 (95% CI 110.6 to 132.0), about sixty times the relative risk the EMA accepted,…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.06.26362369v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Social and behavioral risk factors are associated with age-related differences in sustained attention: A cross-sectional GradCPT analysis of the All of Us dataset</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.01.26364102v2</link>
+      <guid isPermaLink="false">d-645ca4e1b7</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Attentional control declines with normal aging, yet the role of modifiable lifestyle factors in accelerating this decline remains incompletely characterised in large, diverse populations. We examined associations between four modifiable risk factors (smoking intensity, alcohol binge drinking, social satisfaction and blood pressure) and sustained attention performance in 13,866 adults drawn from the All of Us Research Program. Methods Cognitive performance was assessed using the Gradual-Onset Continuous Performance Task (GradCPT). A composite cognitive efficiency score was derived via principal component analysis of four GradCPT metrics: d&amp;apos; (perceptual sensitivity), response criterion, median reaction time and reaction time variability. Associations between cognitive efficiency and each risk factor were examined using multiple linear regression adjusted for age, sex and race/ethnicity. Effect sizes were expressed as age-equivalent years of cognitive aging (age-equivalent yea…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.01.26364102v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patient-specific finite element modeling of image-derived shell morphoelastic growth: A general framework and application to stented aortic dissection</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.21.26366142v1</link>
+      <guid isPermaLink="false">d-3be1586ee1</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Vascular pathology often manifests in complex shape evolution visualized by longitudinal computed tomography (CT) imaging. Growth and remodeling (G&amp;amp;R) frameworks have been integrated into finite element (FE) modeling to probe the mechanics underlying this progression, extending into patient-specific approaches. Their scalability and translatability, however, are limited by the computational burden associated with heterogeneous, anisotropic growth fields and through-thickness meshing. While existing shell growth formulations can mitigate this burden, they require nontrivial FE implementation especially in commercial softwares (e.g., Abaqus) and their efficacy in patient-specific geometries under complex loading is unclear. In this work, we present a general computational framework to implement shell morphoelastic growth computed directly from registered patient-specific CT images. This shell implementation is validated against solid 3D formulations, allows thickness tunability, and inc…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.21.26366142v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Factors Associated with Stunting, Underweight, and Wasting Among Children Under Five in Bangladesh: Evidence from the MICS 2025 Survey</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.21.26366175v1</link>
+      <guid isPermaLink="false">d-7ee201bc81</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: Childhood malnutrition remains a major public health concern in Bangladesh despite two decades of progress. Using the latest nationally representative data from Multiple Indicator Cluster Survey (MICS) 2025, this study assesses the prevalence of stunting, underweight, and wasting among children under five and examines their association with child, maternal, household, and regional characteristics.. Methods: We analyzed data on 21,736 children under five years of age from MICS 2025. Rao-Scott chi-squared tests and survey-weighted multivariable logistic regression were used to examine associations between socio-demographic factors and each malnutrition outcome. Results: Weighted prevalence was 24% for stunting, 23% for underweight, and 13% for wasting. Stunting peaked at 12-35 months (AOR = 2.13, 95% CI: 1.82-2.50 for 12-23 months), whereas underweight was highest at 48-59 months (AOR = 1.88, 95% CI: 1.60-2.22). Girls had lower odds than boys of stunting (AOR = 0.92, 95% CI:…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.21.26366175v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -46,166 +206,6 @@
       <category>AI 与智能体</category>
       <description>&lt;p&gt;Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78600-y The authors introduce a general framework that embeds exact spin symmetry directly into the neural network wavefunction, guaranteeing spin-pure states by construction. This design enables accurate resolution of near-degenerate spin states in challenging chemical systems.&lt;/p&gt;
 &lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78600-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/</link>
-      <guid isPermaLink="false">d-5ec46955db</guid>
-      <pubDate>Fri, 23 Oct 2026 17:48:54 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-      <guid isPermaLink="false">d-73d538c2dc</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/scaling-storage-one-billion-users-part-two&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</link>
-      <guid isPermaLink="false">d-f10a940bb8</guid>
-      <pubDate>Fri, 23 Oct 2026 16:30:10 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</link>
-      <guid isPermaLink="false">d-3c2a41bb3f</guid>
-      <pubDate>Fri, 23 Oct 2026 16:24:55 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/</link>
-      <guid isPermaLink="false">d-3e992be3a6</guid>
-      <pubDate>Fri, 23 Oct 2026 16:21:36 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid isPermaLink="false">d-cb844255fe</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/securing-our-frontier-model-training-environment&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kazakhstan Expands Compute for Its AI Future</title>
-      <link>https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/</link>
-      <guid isPermaLink="false">d-a9446fab1c</guid>
-      <pubDate>Fri, 23 Oct 2026 02:00:13 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Testing The Protective Function of Flash Coloration Using Wild Avian Predators</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.15.759298v2</link>
-      <guid isPermaLink="false">d-e34dc8d666</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Many prey reveal conspicuous color patches during movement that become concealed when they stop. Such abrupt changes in appearance have been proposed to disrupt predator tracking and make prey more difficult to relocate, providing the basis of the flash coloration hypothesis. However, empirical support remains inconsistent and comes largely from experiments using human observers or simplified artificial prey. Here, we used touchscreen-equipped operant chambers to test the flash coloration hypothesis with wild blue tits (Cyanistes caeruleus) searching for moving digital prey modelled on Catocala moths. The digital prey revealed either conspicuous or cryptic hindwings during flight before adopting a cryptic resting appearance. Contrary to predictions, conspicuous hindwings neither increased prey survival nor delayed prey relocation compared to moths with cryptic hindwings. However, conspicuous hindwings also did not incur detectable predation costs. In contrast, background strongly affe…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.15.759298v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Self-extending DNA recording with stochastic and programmed writing</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.759016v2</link>
-      <guid isPermaLink="false">d-3cfa80ca34</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Recording cellular histories requires continued information accumulation while retaining earlier records. Infinite Printer couples DNA self-extension to regeneration of a writable terminal context. A single self-targeting prime-editing guide directs repeat extension, while base editing diversifies the accessible sequence in situ. A separate configuration uses auxiliary guides for specified payload writing. After three rounds of payload input, 4,436 distinct complete records contained identities from all three pools. Extended AC/AT records retained shared upstream marks, and complete-sequence readout distinguished endpoints sharing initial prefixes. Joint single-cell readout recovered 1,549 records and 7,669 combinations across 12,302 transcriptome-linked cell labels; spatial readout linked records to 11,330 capture spots. These results establish a resource for self-extending stochastic and programmed DNA recording with joint cellular and tissue readout, providing a foundation for futu…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.759016v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Metabolic blueprints of monocultures enable prediction and design of synthetic microbial consortia</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.01.11.698878v2</link>
-      <guid isPermaLink="false">d-dd4e84ecfc</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Synthetic microbial ecology aims at understanding complex microbial dynamics and designing communities with desired properties, often based on mathematical models of individual organisms. However, it is unclear whether simplified models harbor enough detail to predict the composition of synthetic communities, especially in metabolically complex environments. Here, we use longitudinal exometabolite data of monocultures for 15 rhizosphere bacteria to parametrize a consumer-resource model, which we use to predict pairwise co-cultures and higher order communities. The capacity to artificially switch off cross-feeding interactions in the model demonstrates their importance in ecosystem structure. Leave-one-out and leave-two-out experiments reveal that pairwise co-cultures do not necessarily capture inter-species interactions within larger communities and broadly highlight the nonlinearity of interactions. Finally, we illustrate that our model can be used to identify new sub-communities of …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.11.698878v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Connexins are essential for the contribution of latent progenitors to healing after spinal cord injury</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.01.16.699895v2</link>
-      <guid isPermaLink="false">d-6250c18ae4</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Gap junctions are important regulators of the biology of neural stem cells. Both in vertebrates with regenerative abilities and neonatal rodents, ependymal cells communicate via connexin (Cx) 43 and Cx26. Gap junction coupling and Cx26 are down-regulated as the ependyma becomes quiescent in adulthood, but injury overrules this developmental down-regulation suggesting a role for Cx signaling in the reactivation of ependymal cells. However, direct evidence of the involvement of these Cxs in the reactivation of the ependymal stem cell niche is lacking. Here, we aim to explore the role of Cx26 and Cx43 in the response of ependymal cells to injury by means of specific genetic deletion. We find that Cx26 is critical for the proliferative response of ependymal cells to injury. The reduced response of ependymal cells by Cx26 deletion increased the extension of the lesion because of impaired healing resulting from a weak contribution of the ependymal stem cell niche. On the other hand, Cx43 -v…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.16.699895v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sequential coupling of sleep oscillations enables concept-neuron reactivation and supports information flow across the human hippocampal-cortical circuit</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.01.15.699122v2</link>
-      <guid isPermaLink="false">d-e2c3aa1774</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Effective memory consolidation during sleep is thought to rely on the transfer of reactivated memory traces from the hippocampus to the cortex. However, the mechanisms supporting this essential dialogue across brain areas remain poorly understood. Here, we recorded single-neuron activity (n = 1097) in the medial temporal lobe (MTL) of 10 epilepsy patients across 21 nights of sleep. Before sleep, patients engaged in a memory task with stimuli eliciting concept-neuron responses. During non-rapid eye movement (NREM) sleep, neuronal firing locked to sharp wave-ripples (SWR) revealed a directed flow of information from the hippocampus to cortical targets. Notably, within SWR-driven activity, experience-dependent concept neurons exhibited elevated co-activation both within and across MTL regions, indicating selective reactivation of behaviorally relevant information. Cross-regional co-activation of concept cells was markedly enhanced when hippocampal SWRs coincided with cortical slow oscill…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.15.699122v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A non-invasive approach to study localized forced in 3D epithelia</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.04.01.715811v2</link>
-      <guid isPermaLink="false">d-c0cece3578</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Epithelial tissue integrity and remodelling rely on mechanical coupling between cytoskeletal organization and adhesion complexes, but their orchestration in three-dimensional (3D) epithelia remains unresolved. Here, we introduced a non-invasive strategy to locally probe forces within 3D epithelial tissues. We engineered elastic polyacrylamide (PAAm) microbeads with cell-like size and mechanical properties, enabling their integration into tissues. PAAm microbeads were spontaneously engulfed by the tissue, establishing an intrinsic interface. This allowed bead deformation to be directly correlated with local cytoskeletal architecture and adhesion organization, visualized through high-resolution imaging and quantitative 3D computational reconstruction. Using this approach, we demonstrated that localized mechanical perturbations trigger cytoskeletal remodelling while preserving tissue polarity. We further identified extracellular matrix composition as a key determinant of bead-tissue inte…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.01.715811v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comparative genomics of zooxanthellate and azooxanthellate Palythoa (Cnidaria: Zoantharia) provides insights into symbiosis evolution and the origin of palytoxin</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2</link>
-      <guid isPermaLink="false">d-54edd0a5bf</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Zoantharians (Cnidaria) are globally distributed from shallow reefs to the deep sea, yet their genomic resources remain scarce. Within the zoantharian genus Palythoa, most species harbor photosymbiotic dinoflagellates, whereas some have secondarily lost this symbiosis, allowing genomic changes associated with symbiotic status to be examined. Palythoa is also the original source of palytoxin, one of the most potent marine toxins known, but whether it is produced by the host or by associated microorganisms remains unresolved. Here we generated high-quality genome assemblies of two zooxanthellate Palythoa species and compared five Palythoa genomes spanning both symbiotic states with those of other anthozoans. Across anthozoans, genome size scaled with transposable element content, particularly retrotransposons. The azooxanthellate lineage carries substitutions in conserved domains of the symbiosis-related proteins LePin and NPC2 and shows rapid evolution of the lectin gene CLEC4A, wherea…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cytoplasmic localization of 5hmC reveals RNA hydroxymethylation in breast cancer</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.21.760667v2</link>
-      <guid isPermaLink="false">d-8e8a8cb425</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;DNA methylation (5-methylcytosine, 5mC) is a major repressive epigenetic mark that can be iteratively oxidized by ten-eleven-translocation (TET) enzymes to 5-hydroxymethylcytosine (5hmC); beyond DNA, modifications of RNA can also affect transcript stability and processing, yet RNA hydroxymethylation remains unexplored in breast cancer (BC). Here, we identify a quantifiable cytoplasmic 5hmC signal in BC cell lines and, more prominently, in human BC tissue, using immunoassays and digital pathology, and confirm with an adapted, RNase-sensitive, RNA-specific ELISA that this signal reflects hydroxymethylation of total RNA and mRNA. Cytoplasmic 5hmC was significantly enriched in triple-negative (ER-/PR-/HER2-) and grade 3 tumors, and correlated with increased cytoplasmic TET2/TET3 in tissue and TET3 upregulation in TCGA. As a leading candidate mechanism, TET3 expression was associated with RNA-processing/spliceosomal transcripts, and TET3 knockdown in three TNBC cell lines reduced a subset …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.21.760667v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Drug Gene-Set Analysis Identifies Established and Emerging Therapeutic Mechanisms</title>
-      <link>https://www.medrxiv.org/content/10.1101/2022.09.06.22279660v3</link>
-      <guid isPermaLink="false">d-865d22057f</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Developing novel disease therapies is challenging, especially for central nervous system (CNS) disorders, which have a clinical approval rate of 6.2%. Genetic evidence is associated with higher success rates in drug development, but systematically translating genome-wide association study (GWAS) signals into actionable therapeutic hypotheses remains difficult. Here, we present DRUGSETS, a framework that tests whether drug (n = 8,136) and mechanism-of-action (MoA; n = 384) gene sets are enriched for GWAS associations. We applied DRUGSETS to five CNS and five non-CNS phenotypes using competitive gene-set analysis with both the standard MAGMA gene-level statistic and Polygenic Priority Scores (PoPS). Both implementations were enriched for approved treatments, and drug gene set significance was associated with further progression in clinical trials. Across all ten phenotypes, we identified 69 MoA and 589 drug gene set-associations that were study-wide significant, finding both established…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2022.09.06.22279660v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
