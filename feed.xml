@@ -5,206 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:00:42 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Probing spin order via magnon transmission across quantum Hall ferromagnet heterojunctions</title>
-      <link>https://www.nature.com/articles/s41467-026-79281-3</link>
-      <guid isPermaLink="false">d-5683e01f0b</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 29 October 2026; doi:10.1038/s41467-026-79281-3 Magnons in quantum Hall ferromagnets can be used as a very sensitive probe of magnetic order. Thus far, this technique has only been applied to single material systems. Here, Lee et al extend this to a heterostructure, using magnons generated in a monolayer of graphene to detect spin order in bilayer graphene.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79281-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CryoET imaging reveals that mitotic spindles are locally organized by microtubule density and Eg5 activity</title>
-      <link>https://www.nature.com/articles/s41467-026-78938-3</link>
-      <guid isPermaLink="false">d-8cec69fe07</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 29 October 2026; doi:10.1038/s41467-026-78938-3 Conway et al. utilize recent advances in cellular cryo-electron tomography to image the human mitotic spindle at nanometer resolution and reveal the mesoscale principles by which cells build complex architectures from nanoscale building blocks.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78938-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building an Agentic AI Platform on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-4f8e2dc861</guid>
-      <pubDate>Wed, 28 Oct 2026 18:28:26 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Distributed training with Ray Train DLCs and EFA on EKS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/</link>
-      <guid isPermaLink="false">d-60725b9ca1</guid>
-      <pubDate>Wed, 28 Oct 2026 18:19:54 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</link>
-      <guid isPermaLink="false">d-8c58f0321a</guid>
-      <pubDate>Wed, 28 Oct 2026 18:12:13 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon: Our next frontier model</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="false">d-66698da7b3</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:58 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Google DeepMind · 官方一手 · &lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
-      <guid isPermaLink="false">d-6fe86b37a6</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:46 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <guid isPermaLink="false">d-787ac04373</guid>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/openai-servicenow-partnership-expansion&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The future of the firm</title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <guid isPermaLink="false">d-c333bed377</guid>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;How AI might enter the org chart—beneath, beside, and between us.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/the-future-of-the-firm&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora</link>
-      <guid isPermaLink="false">d-b0a7d305f4</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/legora&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone</title>
-      <link>https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/</link>
-      <guid isPermaLink="false">d-c7551f008b</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:03 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .&lt;/p&gt;
-&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preprint-centric publishing model gets major boost</title>
-      <link>https://www.nature.com/articles/d41586-026-03445-w</link>
-      <guid isPermaLink="false">d-2edddad11e</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03445-w European funders put weight behind emerging ‘publish, review, curate’ approach for preprints.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03445-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Delayed electron–hole recombination in a pseudo-direct semiconductor</title>
-      <link>https://www.nature.com/articles/s41586-026-11223-x</link>
-      <guid isPermaLink="false">d-898e6fe16e</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11223-x Pseudo-direct bandgap character in bismuth sulfide retards bimolecular electron–hole recombination while preserving strong light absorption.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41586-026-11223-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presynaptic homeostasis mediated by exocytosis of a SNARE protein</title>
-      <link>https://www.nature.com/articles/s41586-026-11201-3</link>
-      <guid isPermaLink="false">d-f4e168d3d4</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <title>B7-H4‒directed antibody-drug conjugate AZD8205 (puxitatug samrotecan) in patients with advanced/metastatic solid tumors: the Phase 1/2a (BLUESTAR), first-in-human study</title>
+      <link>https://www.nature.com/articles/s41467-026-78925-8</link>
+      <guid isPermaLink="false">d-c2c1bab78c</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11201-3 Experiments show that when subjected to high-frequency stimulation, excitatory neurons exhibit a presynaptic form of homeostatic plasticity mediated by the exocytosis of v-SNARE protein VAMP7 and the resulting inhibition of P/Q-type calcium channels.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41586-026-11201-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; doi:10.1038/s41467-026-78925-8 B7-H4 is a promising therapeutic target in solid tumors because of its frequent expression in cancer cells, limited normal tissue distribution, and immunosuppressive functions. In this first-in-human trial, the authors report safety and efficacy outcomes for B7-H4–directed antibody-drug conjugate AZD8205 (puxitatug samrotecan) in patients with heavily pretreated ovarian, endometrial, and breast cancers, and cholangiocarcinoma.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78925-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection</title>
-      <link>https://www.nature.com/articles/s41587-026-03343-6</link>
-      <guid isPermaLink="false">d-96697272f0</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Biotechnology, Published online: 28 October 2026; doi:10.1038/s41587-026-03343-6 Dairy cows are protected from H5N1 influenza by an mRNA vaccine.&lt;/p&gt;
-&lt;p&gt;Nature Biotechnology · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41587-026-03343-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thyra: bridging mass spectrometry imaging and SpatialData for unified multimodal analysis</title>
-      <link>https://www.nature.com/articles/s41592-026-03305-5</link>
-      <guid isPermaLink="false">d-ed79b08d06</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <title>How the UK Amazon Quick User Group grew in 2026</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/</link>
+      <guid isPermaLink="false">d-5d5580edc1</guid>
+      <pubDate>Thu, 29 Oct 2026 20:16:40 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03305-5 Thyra: bridging mass spectrometry imaging and SpatialData for unified multimodal analysis&lt;/p&gt;
-&lt;p&gt;Nature Methods · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41592-026-03305-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The UK Amazon Quick User Group&amp;apos;s 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Cellular-resolution three-photon ultra-deep imaging (TrUDI) of neuronal population activity at 2-mm depth in the mammalian brain</title>
-      <link>https://www.nature.com/articles/s41592-026-03251-2</link>
-      <guid isPermaLink="false">d-6cc50e92c8</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Building intent-driven UI testing with Amazon Nova Act</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/</link>
+      <guid isPermaLink="false">d-1aeb2a1a8e</guid>
+      <pubDate>Thu, 29 Oct 2026 18:20:27 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03251-2 TrUDI is an optimized three-photon imaging approach that allows structural and functional imaging of neuroactivity up to a depth of 2 mm in the mouse brain.&lt;/p&gt;
-&lt;p&gt;Nature Methods · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41592-026-03251-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Epsilon&amp;apos;s Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A physics-informed peripheral hemodynamic digital twin for personalized estimation of arterial stiffness</title>
-      <link>https://www.nature.com/articles/s41746-026-03431-6</link>
-      <guid isPermaLink="false">d-0377fa2775</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 28 October 2026; doi:10.1038/s41746-026-03431-6 A physics-informed peripheral hemodynamic digital twin for personalized estimation of arterial stiffness&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03431-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</link>
-      <guid isPermaLink="false">d-26f70c8fb3</guid>
-      <pubDate>Tue, 27 Oct 2026 18:03:12 GMT</pubDate>
+      <title>Build a repeatable PHP-to-Java migration engine with Kiro</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</link>
+      <guid isPermaLink="false">d-495061d3c2</guid>
+      <pubDate>Thu, 29 Oct 2026 18:14:17 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what&amp;apos;s possible in customer experience.&amp;amp;nbsp;&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction</title>
-      <link>https://arxiv.org/abs/2610.37668v1</link>
-      <guid isPermaLink="false">d-5bdb309ae1</guid>
-      <pubDate>Tue, 27 Oct 2026 17:59:59 GMT</pubDate>
+      <title>Elucidating the Design Space of LM Data Attribution</title>
+      <link>https://arxiv.org/abs/2610.40655v1</link>
+      <guid isPermaLink="false">d-d1f5a75a89</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:53 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. Their hexagonal support provides an area- and boundary-efficient domain, while the local color field captures appearance variation within each primitive. Across 34 scenes, Hexels improve PSNR over memory-matched 2DGS by 4.53-7.38 dB across datasets while requiring lower training VRAM. We further ablate Hexels by showing that per primitive, Hexels outperform 2DGS by upto 4.74 dB while using lower training VRAM and having 2.31 times faster FPS. Even in unconstrained settings, Hexels offers complementary quality-memory trade-offs. For efficient 3D…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.37668v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token a…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40655v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering</title>
+      <link>https://arxiv.org/abs/2610.40654v1</link>
+      <guid isPermaLink="false">d-598749bcc7</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:49 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40654v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro-Edits: Computational Support for Fine-Scale Edits in Film</title>
+      <link>https://arxiv.org/abs/2610.40653v1</link>
+      <guid isPermaLink="false">d-06b8c4e422</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:49 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character&amp;apos;s reactions to important moments. These small, detailed edits are slow and tedious to make in standard editing tools because users have to map high-level narrative goals to low-level frame-by-frame adjustments. At the same time, these fine-scale adjustments, which we call micro-edits, can be nuanced and expressive, with different choices serving different creative goals. In this work, we start by conducting a formative study with professional editors to understand the structure of micro-edits and how they are used. We then derive a mathematical formalization for this structure to develop tools that leverage AI and optimization to make exploring micro-…&lt;/p&gt;
+&lt;p&gt;arXiv cs.HC · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40653v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking Neural Thickets Without Weight Perturbations</title>
+      <link>https://arxiv.org/abs/2610.40649v1</link>
+      <guid isPermaLink="false">d-067d142dff</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:29 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analys…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40649v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers</title>
+      <link>https://arxiv.org/abs/2610.40647v1</link>
+      <guid isPermaLink="false">d-7920e6a9de</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:21 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40647v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing</title>
+      <link>https://arxiv.org/abs/2610.40646v1</link>
+      <guid isPermaLink="false">d-9acc20a15a</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:20 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement using different tools under contact-rich interaction. Thus, the ability to autonomously swap and use task-appropriate tools is important for tool-centric manipulation. We introduce SwapBot, a modular, tool-centric end effector system featuring low-cost adapters that quickly convert common household tools into robot end effectors. Rather than pursuing a single universal gripper, SwapBot adopts a unified design principle that combines a fixed robot-side coupling interface with low-cost, tool-side adapters, enabling compatibility with diverse tools, including articulated ones, and multiple robot platforms. Each adapter integrates compact tactile sensors, supports fast autonomous swapping, and interfaces with an intuitive teleoperation system for efficient demonstration c…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40646v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adaptive Scenario Generation for KL-DRO Around a Learned Density Model</title>
+      <link>https://arxiv.org/abs/2610.40644v1</link>
+      <guid isPermaLink="false">d-995a70ca57</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:01 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case conce…&lt;/p&gt;
+&lt;p&gt;arXiv eess.SY · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40644v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Luggage re-identification: A study of strategies towards a real-world application</title>
+      <link>https://arxiv.org/abs/2610.40643v1</link>
+      <guid isPermaLink="false">d-28ad26053c</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:59 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and crowded scenes which significantly degrade performance. Yet, strategies leveraging the complementarity of multiple shots and views from different video streams is overlooked. In this paper, we study strategies for an end-to-end pipeline that operates from multiple video streams to detect and re-identify luggage. We evaluate different variants on a benchmark dataset acquired in real-world environme…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40643v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From extreme weather to agricultural consequences with agentic AI</title>
+      <link>https://arxiv.org/abs/2610.40641v1</link>
+      <guid isPermaLink="false">d-fd7ea189b6</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:53 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model calibrated on insurance records for each, and the same procedure extends to other hazards and areas. Three checks show reliability: the hurricane index detects recorded cyclone days with an AUC of 0.98, recorded losses in held-out years are reproduced to within 2%, and independent production records confirm the county rankings (rank correlation 0.63). Users ask the agent for each crop group&amp;apos;s loss …&lt;/p&gt;
+&lt;p&gt;arXiv physics.ao-ph · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40641v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization</title>
+      <link>https://arxiv.org/abs/2610.40640v1</link>
+      <guid isPermaLink="false">d-f3ae29c1ae</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:45 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video into an explorable, time-varying 4D audio-visual scene, and present the SonoWorld4D framework for this task. Given a monocular video, our method generates a 360 static background, reconstructs explicit motion trajectories of dynamic, sound-emitting foreground objects, and synthesizes a physically-grounded sound field consistent across multiple sources through dual-space audio diffusion synchronization. The resulting 4D scene supports real-time novel-view visual and spatial audio rendering. Evaluation on real-world dynamic scenes and a user study demonstrates SonoWorld4D generates 4D audio-visual scenes with perceptually realistic, phy…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40640v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>world2vec: Mechanistic world models through latent dynamics learning</title>
+      <link>https://arxiv.org/abs/2610.40637v1</link>
+      <guid isPermaLink="false">d-89d366a405</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:23 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true system over long prediction horizons, with at least one order of magnitude fewer parameters than DreamerV3, TD-MPC2 and LeWM. This enables state of the art performance in controlling continuous environments from pixels and accurate system identification across a benchmark of 71 attractors, demonstrating how world models are amenable to scientific discovery.&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40637v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Probing Spatial State Representations in Visual Foundation Models</title>
+      <link>https://arxiv.org/abs/2610.40636v1</link>
+      <guid isPermaLink="false">d-753c9a2ec3</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:16 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update, and actionability---using frozen-feature probes on ten representations under streaming egocentric observations of static indoor environments. The resulting capability profiles vary across tasks, network layers, and prefix lengths: strong readout of the visible scene does not ensure accurate object persistence or future-feature retrieval. Matched controls separate readout accuracy from reliance on visual history and motion. Native future prediction retains recoverable spatial structure, but a …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40636v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors</title>
+      <link>https://arxiv.org/abs/2610.40632v1</link>
+      <guid isPermaLink="false">d-9b9a283f8a</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:00 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symbolic priors offer a structured alternative. To this end, we introduce SymAnt, a novel neuro-symbolic approach that unifies the expressiveness of neural networks with the structured reasoning of scene and knowledge graphs. Given a short video, SymAnt performs a joint-search over both graphs to construct a symbolic context, enabling unified reasoning over spatial relationships, object attributes, affordances, and associated actions. This symbolic context serves as a prior for an iterative refinement process that progressively generates and improves the sequence of future actions. By grounding predictions in symbolic context, SymAnt anticipates long-horizon actions from short observation windows …&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40632v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender</title>
+      <link>https://arxiv.org/abs/2610.40627v1</link>
+      <guid isPermaLink="false">d-3272427e78</guid>
+      <pubDate>Thu, 29 Oct 2026 17:56:53 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mechanistic root: Alignment is shallow, with safety behavior concentrated in a model&amp;apos;s first few output tokens, and existing defenses inherit the weakness, supervising the surface form of the response without ever giving the model an explicit safety decision to learn. We take the opposite view of shallowness: if a short span determines the trajectory of an entire response, that span is the highest-leverage place to intervene, and the defender can occupy it first. We propose Assess $\to$ Decide $\to$ Respond, a framework in which the defender assesses the user&amp;apos;s intent, commits to an explicit, parseable safety decision, and only then generates a reply conditioned on it, with the commitment trained by reinforcement learning at the payload turn. Because the decision is a toke…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2610.40627v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="false">d-65fd81c1d3</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/updated-model-spec&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/</link>
+      <guid isPermaLink="false">d-80665c9e77</guid>
+      <pubDate>Thu, 29 Oct 2026 16:58:57 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
