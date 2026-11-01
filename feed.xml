@@ -5,9 +5,59 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:24:54 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions</title>
+      <link>https://www.nature.com/articles/s41467-026-78680-w</link>
+      <guid isPermaLink="false">d-389cdd1505</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 31 October 2026; doi:10.1038/s41467-026-78680-w The authors report the control of electric quadrupole rovibrational transitions in single trapped molecules using a quantum-logic spectroscopy protocol. This allows identification of hyperfine components of the fundamental vibrational transition of N2+ ions and coherent population transfer.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78680-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generation of synthetic clinical text: a systematic review</title>
+      <link>https://www.nature.com/articles/s41746-026-03438-z</link>
+      <guid isPermaLink="false">d-5284a2e2c4</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03438-z Generation of synthetic clinical text: a systematic review&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03438-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding clinical reasoning variability in medical large language models: a mechanistic interpretability study</title>
+      <link>https://www.nature.com/articles/s41746-026-03423-6</link>
+      <guid isPermaLink="false">d-d57ab9cc42</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03423-6 Understanding clinical reasoning variability in medical large language models: a mechanistic interpretability study&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03423-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B</title>
+      <link>https://www.nature.com/articles/s41746-026-03439-y</link>
+      <guid isPermaLink="false">d-0cc8704554</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03439-y Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03439-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach</title>
+      <link>https://www.nature.com/articles/s41746-026-03449-w</link>
+      <guid isPermaLink="false">d-158f306350</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03449-w Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03449-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
       <link>https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</link>
@@ -89,123 +139,73 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Fair use benefits everyone</title>
-      <link>https://openai.com/index/fair-use-benefits-everyone</link>
-      <guid isPermaLink="false">d-fe68976997</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/fair-use-benefits-everyone&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Genomic heterogeneity inflates the performance of variant pathogenicity predictions</title>
-      <link>https://www.nature.com/articles/s41467-026-78623-5</link>
-      <guid isPermaLink="false">d-130f646ba7</guid>
+      <title>Comparative analysis of protease-inhibitor gene family counts under different counting units and genome annotations</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.09.22.753331v2</link>
+      <guid isPermaLink="false">d-76284e1be6</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; doi:10.1038/s41467-026-78623-5 Evaluations of AI models predicting disease-causing single nucleotide variants reveal that the performance of genome-wide predictions is inflated by mixing variant types, e.g. canonical splice and 5’ UTR variants. The authors introduce a stratified benchmark to accurately identify the most robust models.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78623-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Background: Gene family sizes are often compared across species using the protein sets released with genome assemblies. However, counts of domain-positive protein entries can differ from counts of genes when an annotation contains several entries per gene, and genomes are annotated by different pipelines. In this study, we measured how these two factors change the counts of protease-inhibitor domain families. Results: Seven protease-inhibitor families were counted in eight animal genomes. Collapsing protein entries to genes reduced the counts in 36 of 48 species-family combinations, by up to 4.6-fold (Kunitz/BPTI in Aedes aegypti, 23 entries in 5 genes), and reversed the order of two species in 9 of 196 pairwise comparisons. In 218 of 223 gene-family records with several positive entries, all entries shared CDS coordinates with the representative entry. Two annotations of the same leech (Hirudinaria manillensis) assembly differed in a family-specific way. In the published annotation, …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.09.22.753331v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>IDPForge: deep learning of proteins with global and local regions of disorder</title>
-      <link>https://www.nature.com/articles/s41467-026-79191-4</link>
-      <guid isPermaLink="false">d-50fb91f747</guid>
+      <title>VoroTIDE: Protein domain segmentation through independent hierarchical searches using Voronoi tessellation and physical self-containment</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.18.759833v2</link>
+      <guid isPermaLink="false">d-23693e893f</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; doi:10.1038/s41467-026-79191-4 Intrinsically disordered proteins and regions (IDPs/IDRs) are defined by diverse structural ensembles. We present IDPForge that exploits a transformer protein language diffusion model to create all-atom IDP and IDR ensembles that maintain folded domains with options to conform to experimental data.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79191-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Protein domains are commonly regarded as structurally separated, functionally relevant, and evolutionarily separable units. Although classification systems may assign different domain boundaries to the same structure, structural separation remains a shared criterion, and many domain parsers assess it through inter-residue distances, contact numbers, or contact densities. However, the Voronoi contact area, which is widely used to study protein-protein interactions and predict contact sites, has seen limited use in domain parsing. There are two potential challenges to this problem. First, unlike in protein-protein interaction, partitions are not known in advance and must be identified before their interface can be evaluated. Second, the contact area depends on fragment size and internal packing, making it difficult to compare candidate partitions. Here, we introduce VoroTIDE (Voronoi-based Two-way Independent Domain Exploration), a domain parser based on all-heavy-atom Voronoi contact a…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.18.759833v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ancestry-specific and multi-ancestry genome-wide association studies of restless legs syndrome</title>
-      <link>https://www.nature.com/articles/s41467-026-78592-9</link>
-      <guid isPermaLink="false">d-2491d34179</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; doi:10.1038/s41467-026-78592-9 The genetics of restless legs syndrome have mostly been studied in European populations. Here, the authors perform a multi-ancestry genetic study of the condition, revealing differences in genetic risk across populations with different ancestries.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78592-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Foundation models unlock robust phenotypic representations from Cell Painting images</title>
-      <link>https://www.nature.com/articles/s41592-026-03271-y</link>
-      <guid isPermaLink="false">d-518f3d4132</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Methods, Published online: 30 October 2026; doi:10.1038/s41592-026-03271-y We pretrained and systematically benchmarked a suite of self-supervised foundation models on the largest public Cell Painting dataset, enabling robust morphological feature extraction directly from multichannel high-content images without cell segmentation or feature engineering. These models outperformed classical methods and demonstrated generalizability across cell types.&lt;/p&gt;
-&lt;p&gt;Nature Methods · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41592-026-03271-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accuracy and impact of an AI safety system for missed specialist referrals in primary care</title>
-      <link>https://www.nature.com/articles/s41746-026-03444-1</link>
-      <guid isPermaLink="false">d-05f76fe89f</guid>
+      <title>Integrative structure determination of a human mitochondrial contact site and cristae organizing system (MICOS) sub-assembly</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.19.739404v2</link>
+      <guid isPermaLink="false">d-930de15dc1</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 30 October 2026; doi:10.1038/s41746-026-03444-1 Accuracy and impact of an AI safety system for missed specialist referrals in primary care&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03444-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The Mitochondrial contact site and Cristae Organizing System (MICOS) complex is an inner mitochondrial membrane (IMM) assembly present at the cristae junction. It is responsible for regulating cristae formation and remodeling. However, its structure is not known. We applied Bayesian integrative structure determination to characterize the structure of the Mic60, Mic19, Mic10, and Mic13-containing MICOS sub-assembly combining AlphaFold predictions with data from crosslinking mass spectrometry, biochemical assays, electron tomography, homology modeling, and sequence alignments. The integrative structure revealed novel mutual interfaces among Mic10N,C, Mic60LBS1,LBS2,mitofilin, and Mic13central,C. Several likely-pathogenic missense mutations also localize to these novel interfaces, highlighting their importance. Further, we investigated some of these interactions using binding assays on purified proteins and demonstrated direct interactions among Mic10-Mic13-Mic60. Our results support a b…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.19.739404v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Interpretable graph learning of spatial TME patterns in digital pathology for gastric cancer prognosis</title>
-      <link>https://www.nature.com/articles/s41746-026-03398-4</link>
-      <guid isPermaLink="false">d-5c60a576ee</guid>
+      <title>Continuous, high-speed 3D topographic profiling of living tissue monolayers</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.23.740215v2</link>
+      <guid isPermaLink="false">d-ddd35e37e6</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 30 October 2026; doi:10.1038/s41746-026-03398-4 Interpretable graph learning of spatial TME patterns in digital pathology for gastric cancer prognosis&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03398-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Tissue monolayers are active living matter whose three-dimensional (3D) architecture and mechanical remodeling regulate tissue function, yet fast and continuous topographic monitoring remains difficult. Here, we present FLuorescence EXclusion microscopy fOr Monolayers (FLEXOM), a microfluidic platform that combines multilayer micropillar arrays with negative-staining optics to convert wide-field images into self-calibrated 3D height maps. Geometry-anchored reference cavities maintain in-frame calibration standards even in fully confluent monolayer fields, enabling continuous 3D profiling from isolated cells to confluent sheets with sub-second temporal resolution (~250 ms), sub-micrometer axial precision (~0.37 m), and multi-day biocompatibility and operational stability (&amp;gt;96 h). FLEXOM reveals two distinct anisotropic signatures in tissue monolayers. First, monolayers of different cell types show distinct vertical thickness profiles despite comparable lateral footprints. Only two vert…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.23.740215v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Implementation strategies for digital relapse prevention in schizophrenia identified during a randomized controlled trial</title>
-      <link>https://www.nature.com/articles/s41746-026-03435-2</link>
-      <guid isPermaLink="false">d-1773228fff</guid>
+      <title>Somatostatin-excitatory coordination emerges with dexterous motor skill learning</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.28.762594v1</link>
+      <guid isPermaLink="false">d-25fe9c66aa</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 30 October 2026; doi:10.1038/s41746-026-03435-2 Implementation strategies for digital relapse prevention in schizophrenia identified during a randomized controlled trial&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03435-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Motor skill-learning increases spatio-temporal consistency in neuronal activity in primary motor cortex (M1), and Somatostatin-expressing (SST) interneurons are causally involved in these learning-related activity changes. Yet, how SST-excitatory interactions shape population level activity changes during motor skill acquisition is still unknown. Here, we imaged large populations of excitatory neurons and identified SST or parvalbumin-expressing (PV) interneurons across successive days as mice learned a dexterous, persistently M1-dependent reach-to-grasp task. Sparse, temporally coordinated, trial-resolved, and rate-controlled functional interactions between SST neurons and skill-modulated excitatory neurons emerged with learning and were stronger than those in excitatory-excitatory or PV-excitatory pairs. Interactions strengthened as neurons were recruited to the skill-modulated ensemble and weakened when skill modulation was lost. SST activity also became temporally reliable earlier…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.28.762594v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Platform evaluation and lessons learned with IT-supported patient recruitment</title>
-      <link>https://www.nature.com/articles/s41746-026-03366-y</link>
-      <guid isPermaLink="false">d-dca2558030</guid>
+      <title>Differential endothelial cell remodeling in Down syndrome and APP duplication drives distinct blood brain barrier dysfunction</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1</link>
+      <guid isPermaLink="false">d-aa4d93aab5</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 30 October 2026; doi:10.1038/s41746-026-03366-y Platform evaluation and lessons learned with IT-supported patient recruitment&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03366-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;An extra copy of the amyloid precursor protein gene (APP) is present in Down syndrome (DS) and APP duplication (APPdup), increasing the risk of Alzheimer disease (AD) and cerebral amyloid angiopathy (CAA). However, we reported greater vascular A{beta} deposition in APPdup than in DS with AD, suggesting that other triplicated chromosome 21 genes may mitigate CAA severity. We investigated endothelial cell (EC) function and blood brain barrier (BBB) integrity in DS and APPdup using human induced pluripotent stem cell-derived ECs (iECs), assessing their morphology, junctional proteins, A{beta} peptide secretion, barrier function, and transcriptomic profiles. Both DS and APPdup iECs secreted more A{beta}40 A{beta}42 compared with their respective isogenic controls but exhibited distinct A{beta} peptide profiles. DS iECs showed increased junctional protein expression and reduced permeability, whereas APPdup iECs displayed increased permeability. Transcriptomic analysis revealed extensive dy…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>B7-H4‒directed antibody-drug conjugate AZD8205 (puxitatug samrotecan) in patients with advanced/metastatic solid tumors: the Phase 1/2a (BLUESTAR), first-in-human study</title>
-      <link>https://www.nature.com/articles/s41467-026-78925-8</link>
-      <guid isPermaLink="false">d-c2c1bab78c</guid>
+      <title>Algorithmic Geometry Shapes the Biological Meaning of Thalamocortical Structural Covariance</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.27.762356v1</link>
+      <guid isPermaLink="false">d-e0fe6672d9</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; doi:10.1038/s41467-026-78925-8 B7-H4 is a promising therapeutic target in solid tumors because of its frequent expression in cancer cells, limited normal tissue distribution, and immunosuppressive functions. In this first-in-human trial, the authors report safety and efficacy outcomes for B7-H4–directed antibody-drug conjugate AZD8205 (puxitatug samrotecan) in patients with heavily pretreated ovarian, endometrial, and breast cancers, and cholangiocarcinoma.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78925-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How the UK Amazon Quick User Group grew in 2026</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/</link>
-      <guid isPermaLink="false">d-5d5580edc1</guid>
-      <pubDate>Thu, 29 Oct 2026 20:16:40 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;The UK Amazon Quick User Group&amp;apos;s 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building intent-driven UI testing with Amazon Nova Act</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/</link>
-      <guid isPermaLink="false">d-1aeb2a1a8e</guid>
-      <pubDate>Thu, 29 Oct 2026 18:20:27 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Epsilon&amp;apos;s Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Neuroimaging studies often derive and discuss structural covariance (SC) as a representation of underlying brain circuitry that reflects coordinated maturation, anatomical connectivity, transcriptional similarity, and shared genetic influences. These associations motivate its use to study brain organization across development, aging, and disease. However, the algorithms used to derive SC networks impose constraints that may shape their biological interpretation. To understand the impact of algorithm choice, we used the thalamocortical system as an example and compared five common representations of voxelwise SC, namely, principal component analysis (PCA), independent component analysis (ICA), non-negative matrix factorization (NMF), orthogonal projective NMF (OPNMF), and \textit{k}-means clustering, in 755 participants aged 8--22 years from the Philadelphia Neurodevelopmental Cohort (PNC). SC networks derived from deformation-based morphometry (DBM) were evaluated against three comple…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.27.762356v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
