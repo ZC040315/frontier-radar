@@ -5,17 +5,167 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 06:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:25:21 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions</title>
-      <link>https://www.nature.com/articles/s41467-026-78680-w</link>
-      <guid isPermaLink="false">d-389cdd1505</guid>
+      <title>Chronic unpredictable stress induces negative cognitive bias in rats with sex-specific changes in neurogenesis and functional connectivity</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762765v1</link>
+      <guid isPermaLink="false">d-7deead0449</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 31 October 2026; doi:10.1038/s41467-026-78680-w The authors report the control of electric quadrupole rovibrational transitions in single trapped molecules using a quantum-logic spectroscopy protocol. This allows identification of hyperfine components of the fundamental vibrational transition of N2+ ions and coherent population transfer.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78680-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: Females are more likely to be diagnosed with major depressive disorder (MDD) than males. Cognitive symptoms of MDD include negative cognitive bias, the perception of ambiguous situations as negative, which predicts MDD episode onset and severity. MDD is associated with changes to functional connectivity between regions involved in cognition, emotion, attention, and memory. Methods: Here we examined the impact of chronic unpredictable stress (CUS) on negative cognitive bias in male (n=18) and female (n=22) Sprague-Dawley rats. We assessed hippocampal neurogenesis and c-Fos expression in response to an ambiguous context across 15 regions of the frontal cortex, amygdala, nucleus accumbens, and hippocampus, including in newborn dentate gyrus (DG) neurons, to examine functional connectivity during cognitive bias testing. We conducted a graph-based network analysis and constructed linear models to predict freezing in the ambiguous context based on regional activation. Results: C…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762765v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MRI-free OPM-MEG recovers medial temporal lobe theta during scene imagination</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.08.10.743897v2</link>
+      <guid isPermaLink="false">d-d7828dbf2d</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Optically pumped magnetometer magnetoencephalography (OPM-MEG) offers a wearable, movement-tolerant alternative to conventional cryogenic MEG, placing sensors closer to the scalp and, in principle, improving sensitivity to deep sources. This is advantageous for examining subcortical structures that are affected by ageing, disorders and disease, such as the hippocampus. However, it remains unclear whether well-established activity (such as the attenuation of theta oscillations during the imagination of novel scenes) can be recovered from the medial temporal lobe (MTL) with OPM-MEG, and whether an individual structural MRI is required. Here, fifteen adults completed a scene imagination task. Initially we applied a 12-parameter template warping coregistration pipeline to the full sample. Following source reconstruction, we recovered the expected attenuation of theta (4-8 Hz) power during scene imagination compared to a counting baseline, with a significant cluster of activity peaking in …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.08.10.743897v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conserved Laminar-Cellular Architecture Predicts the Spectrolaminar Motif</title>
+      <link>https://www.biorxiv.org/content/10.1101/2024.03.27.587084v2</link>
+      <guid isPermaLink="false">d-16ed9494f6</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;We recently identified the spectrolaminar motif, a layer-resolved pattern of local field potential (LFP) power, which is preserved across many areas of the primate cortex. It remains unclear which specific cytoarchitectonic features can explain the spectrolaminar motif. To investigate this, we performed histological and neurophysiological analyses of 11 brain areas spanning the macaque cortical hierarchy to examine the relationship between the laminar patterns of LFP power and the laminar distributions of cellular density for parvalbumin, calbindin, and calretinin interneurons, and pyramidal neurons. We tested whether cellular distributions are conserved and if they predict the corresponding variation in LFP power comprising the spectrolaminar motif. We found that the cytoarchitectonic and spectrolaminar data were intrinsically low-dimensional, with two-component patterns conserved across areas, and that the spectrolaminar motif could be predicted from these laminar cellular gradients…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.03.27.587084v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fixel-wise Differences in White Matter Fiber-bundle Cross-section identified in Children who Stutter</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762844v1</link>
+      <guid isPermaLink="false">d-95b874888c</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Developmental stuttering has been repeatedly linked to decreased white matter integrity and structural connectivity differences in major white matter tracts. Prior diffusion-weighted MRI studies reporting such white matter structural differences involved voxel-averaged tensor measures (e.g., fractional anisotropy (FA)). A well-acknowledged limitation of this approach, however, has been that it cannot resolve distinct fiber populations within crossing-fiber regions. Fixel-based analysis addresses this limitation by quantifying individual fiber populations within a voxel and providing complementary measures of fiber density (FD), fiber-bundle cross-section (FC), and their combined measure (FDC).Here we applied Fixel-based analysis to diffusion MRI data from 171 children aged 3 - 13 years, including 84 children who stutter and 87 typically developing controls, to test whether white-matter differences associated with developmental stuttering were expressed as differences in FD, FC, and FD…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762844v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mitochondrial genome editing reveals the impact of complex I heteroplasmic variants on human neurogenesis</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.28.762518v2</link>
+      <guid isPermaLink="false">d-10117355de</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Mitochondrial DNA (mtDNA) variants, whether maternally inherited or acquired somatically during aging, can be particularly detrimental to cells that rely on mitochondrial metabolism such as neurons. The functional consequences of mtDNA variants are thought to depend on their heteroplasmy, defined as the proportion of mtDNA molecules carrying that variant. However, investigating the specific effects of heteroplasmic mtDNA variants on human neuronal function has been challenging. Studies using patient-derived cells cannot conclusively attribute observed phenotypes to a single mtDNA variant, while conventional genome editing approaches are not applicable to mtDNA. Here, we use DddA-derived cytosine base editor (DdCBE) to introduce pathogenic heteroplasmic mtDNA variants into Neurogenin 2 (NGN2)-inducible human induced pluripotent stem cells (iPSCs). We focus on two variants in the genes MT-ND1 and MT-ND5 belonging to complex I (CI), the largest component of the mitochondrial respiratory …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.28.762518v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Desmin Mutations Disrupt Filament Elongation and Drive Polymorphic Aggregation</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.22.740046v2</link>
+      <guid isPermaLink="false">d-674f0a9fd9</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;In muscle cells, desmin intermediate filaments form a cytoskeletal network that maintains the structural integrity and mechanical coupling of myofibrils. Dominant missense mutations in desmin cause myopathies characterized by intracellular protein aggregation. To explore the process of aggregate formation, we investigate the assembly kinetics of wild-type desmin and four disease-associated variants (N342D, L345P, R350P, and R406W) using dual-wavelength stopped-flow spectroscopy, complemented by atomic force microscopy and molecular dynamics simulations. At low ionic strength, all proteins form uniform tetramers. Increasing the ionic strength initiates assembly by rapid lateral association of tetramers into unit-length filaments (ULFs), followed by longitudinal elongation and radial filament compaction. R406W forms ULFs with wild-type-like kinetics, whereas N342D, L345P, and R350P exhibit delayed lateral assembly. After short filaments have formed, all four mutants diverge from product…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.22.740046v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>THERAPY RESISTANCE IN MELANOMA DRIVES CILIOGENESIS AND GLUTAMINE/ASPARTATE METABOLISM DEPENDENCY</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.13.758838v2</link>
+      <guid isPermaLink="false">d-77cb9cf188</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Despite the remarkable success of new therapeutic approaches, a considerable number of melanoma patients still relapse on conventional therapies within two years and develop resistance. Alterations in metabolism, including amino acid availability and regulation of metabolic processes, have been implicated in acquired drug resistance. In this study, we developed in vitro and in vivo models of target therapy resistance (TTR) and identified a translational program that supports primary ciliogenesis in drug-resistant BRAF melanoma. We established that drug resistance enhances primary ciliogenesis, which is needed to respond and survive to combination therapy (CT). Mechanistically, impairing cilia formation (IFT88KO) rewires glutamine and aspartate metabolism. Overall, we provide a new molecular mechanism underlying therapy resistance that should be considered to tailored therapeutic strategies.&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.13.758838v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rev-erb-alpha inhibits vascular calcification by repressing osteogenic reprogramming in atherosclerosis</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.758688v2</link>
+      <guid isPermaLink="false">d-fe1be5357f</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Atherosclerotic plaque rupture is the leading cause of fatal atherothrombotic events, including myocardial infarction. Intimal microcalcification is a major determinant of plaque instability, but its pathogenic mechanisms remain poorly understood. The nuclear receptor Rev-erb-alpha regulates lipoprotein metabolism and inflammation. We hypothesized that it modulates atherogenesis by also controlling arterial calcification. Methods To identify regulators of vascular calcification, transcriptomic analysis of CD14+CD16- monocytes from diabetic patients with different calcium scores (ANGIOSAFE cohort) was combined with targeted analysis in calcified and non-calcified atherosclerotic plaques from diabetic and non-diabetic patients (AtheroPortal cohort) and in calcified and non-calcified areas of human endarterectomies isolated by laser capture microdissection (OPAL Cohort). Functional relevance was evaluated in 18-month-old Ldlr-/- mouse and in primary aortic vascular smooth musc…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.758688v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risk Omission and Limited Disclosure in Dietary Supplement Promotion by Social Media Influencers</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.27.26366588v2</link>
+      <guid isPermaLink="false">d-df50f19484</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Importance: Dietary supplements carry risks including adverse effects, drug interactions, and contamination-related harms, yet are frequently marketed without premarket requirements for efficacy or safety. Social media influencers have become a primary source through which people encounter and make decisions about supplements, but whether they communicate clinically relevant risks alongside claimed benefits remains unclear. Objective: To investigate how dietary supplements are presented by Instagram influencers, focusing on supplement types, advertising disclosure, persuasive strategies, and communication of benefits and harms. Design, Setting, and Participants: Cross-sectional content analysis of 1,120 dietary supplement presentations in 727 Instagram posts by 84 influencer accounts identified through audience-centered purposive sampling from two independent youth-focused studies in Switzerland and Austria. Main Outcomes and Measures: Main outcomes were supplement types, overall tone…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.27.26366588v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Biological age uncertainty reveals discordant aging and predicts human healthspan</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.26.26364091v2</link>
+      <guid isPermaLink="false">d-b9496e06f3</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Biological aging clocks typically summarize complex biological profiles as a single age estimate, yet how uncertain these estimates are and whether this uncertainty represents a distinct, biologically meaningful dimension of human aging remain unclear. Here, we develop a probabilistic framework across nuclear magnetic resonance (NMR) metabolomic, plasma proteomic and routine blood test (RBT) profiles in more than 450,000 UK Biobank participants to derive biological age gap (BAG) and biological age uncertainty (BAU) from the mean and width of predicted-age distributions. BAU was weakly correlated with BAG and increased with age-signal disagreement across individual molecules and organs, linking uncertainty to discordant aging across biological systems. Higher BAU predicted mortality, loss of healthspan and multimorbidity independently of BAG, with mortality hazard ratios of 1.24 (95% CI, 1.23-1.26) and 1.40 (95% CI, 1.37-1.43) per standard deviation for NMR- and proteomic-derived BAU, …&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.26.26364091v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Treatment patterns and outcomes of pediatric rhabdomyosarcoma in a resource-limited setting: A retrospective study from a tertiary hospital in Ethiopia</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366799v1</link>
+      <guid isPermaLink="false">d-463f74e52c</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: Rhabdomyosarcoma (RMS) is the most common pediatric soft tissue sarcoma. Despite excellent survival in high-income countries, data on treatment and outcomes remain limited in resource-limited settings. The aim of this study was to assess treatment patterns and survival outcomes of pediatric RMS in Ethiopia. Methods: We conducted a retrospective study of newly diagnosed pediatric RMS patients evaluated at Tikur Anbessa Specialized Hospital from January 2021 to September 2025. Data were extracted from medical records, and treatment patterns and survival were assessed using descriptive and Kaplan-Meier analyses. Results: A total of 94 pediatric patients with rhabdomyosarcoma were included. The median age at diagnosis was 4.0 years (IQR: 3.0-6.3 years). Of these patients, 23.4% were classified as low-risk, 61.7% as intermediate-risk, and 14.9% as high-risk. Multimodality treatment was delivered to 59.6% of patients, while 33.0% received chemotherapy alone and 7.4% received no …&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366799v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine Learning Based Detection of Chronic Kidney Disease using Full Blood Count from a Ghanaian Hospital Population with an Integrated Web Application</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.27.26366677v1</link>
+      <guid isPermaLink="false">d-4afe220ba6</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Chronic kidney disease (CKD) is usually silent until advanced, and the tests confirming it are frequently unaffordable in sub-Saharan Africa, whereas the full blood count (FBC) is inexpensive and widely performed. We assessed whether machine learning applied to the FBC can detect CKD, and how far its reported performance depends on where synthetic minority oversampling (SMOTE) is applied. Records of 155 patients at the Ho Technical University Hospital, Ghana, 43 (27.7%) with CKD, yielded ten features: age, cardiovascular disease and eight raw FBC parameters. Eleven algorithms, six resampling strategies and thirteen ensembles were compared under repeated stratified cross-validation. With SMOTE applied before the train-test split, the protocol under which the deployed models were fitted, Random Forest and Extra Trees both reached an accuracy of 83.9%, with sensitivities of 0.893 and 0.857 and areas under the curve (AUC) of 0.925 and 0.939; repeated cross-validation gave an accuracy of 0…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.27.26366677v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baseline Physical Activity Guideline Attainment and Mortality Across Cardiovascular-Kidney-Metabolic Syndrome Stages</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.28.26366776v1</link>
+      <guid isPermaLink="false">d-f5e88b5512</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background The 2023 American Heart Association cardiovascular-kidney-metabolic (CKM) staging framework supports risk stratification, but evidence on guideline-level physical activity across stages remains limited. Methods We emulated a target-trial protocol using NHANES 2007-2018 and National Death Index linkage through December 31, 2019. Adults aged 20 to 79 years with CKM stages 1 to 4, estimated glomerular filtration rate of at least 15 mL/min/1.73 m2, complete activity data, no cancer history, and eligible follow-up were included. Baseline activity was classified as meeting or not meeting the guideline. Within-stage propensity-score weights were used in weighted Cox models. All-cause and cardiovascular mortality were the primary and secondary outcomes; 5-year risks used weighted survival curves, with competing-risk cumulative incidence also estimated for cardiovascular mortality. Results Among 19,654 participants, 1,190 all-cause deaths occurred during 134,037 person-years. Baseli…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.28.26366776v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Non-contact fingertip video to differentiate dengue haemorrhagic fever in plasma leakage from dengue fever: A prospective proof-of-concept cohort study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.30.26366674v1</link>
+      <guid isPermaLink="false">d-3bc0ec544f</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Most patients with dengue recover without intervention, but a minority develop plasma leakage that threatens the circulation, and differentiating them is the central problem in dengue care. Platelet count is the marker in routine serial use and is itself one of the four defining criteria of dengue haemorrhagic fever (DHF), so thrombocytopenia in dengue fever (DF) can overlap with DHF on the very marker used to distinguish them. We asked whether a non-contact optical signal carries discriminative information beyond platelet count. We conducted a prospective observational cohort study at a national dengue referral centre. All DHF recordings were obtained at or after plasma-leakage onset, so the analysis compares established clinical states rather than pre-leakage risk. Serial non-contact fingertip videos were recorded with contemporaneous clinical and haematological measurements. In a held-out set of 50 recordings (20 DHF, 30 DF), video-derived probability separated the groups with an a…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.30.26366674v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prevalence, Awareness and Correlates of Self-Reported Hypoglycemia Among Adults with Type 2 Diabetes in Northern Jordan: A Cross-Sectional Study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366815v1</link>
+      <guid isPermaLink="false">d-0c2e9fb6e1</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Hypoglycemia is a frequent and potentially dangerous adverse effect of glucose-lowering therapy in type 2 diabetes mellitus (T2DM), yet data on its prevalence, patient awareness and correlates in Jordan are limited. We conducted a cross-sectional study of 326 adults with T2DM attending family medicine outpatient clinics at a tertiary teaching hospital (King Abdullah University Hospital, KAUH) and a university-affiliated primary healthcare center (JUST PHC) in northern Jordan between 2025 and 2026. Trained interviewers administered a structured questionnaire, and laboratory results were verified from electronic medical records. Hypoglycemia was defined as a glucose level below 70 mg/dL or symptoms relieved by fast-acting carbohydrate during the preceding six months. Prevalence was estimated with 95% confidence intervals, and associated factors were examined using chi-square tests and multivariable logistic regression. The prevalence of self-reported hypoglycemia was 79.1% (258/326; 95%…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366815v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Antimicrobial resistance patterns among urinary isolates from long-term care residents in Canada: findings from an AMRNet pilot</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366712v1</link>
+      <guid isPermaLink="false">d-0dc86e5192</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: Antimicrobial resistance is a growing concern in long-term care facilities (LTCs), where residents are often older, have chronic health conditions, and are frequently prescribed antimicrobials. Historically, antimicrobial resistance data from Canadian LTCs have been limited. This study explores the use of lab-based surveillance data from the Public Health Agency of Canada&amp;apos;s AMRNet program to describe antimicrobial resistance in LTCs. Methods: Antimicrobial susceptibility data for clinical bacterial specimens were submitted from public and private laboratories across Canada. Where feasible, LTC patients were identified by submitting jurisdictions. Data on urinary isolates from identified LTC patients were analysed using the first isolate per patient per species per calendar year. The data were described by distribution of age group, sex, species and antimicrobial susceptibility. Antimicrobials were classified by the World Health Organization&amp;apos;s &amp;apos;Access, Watch and Reserve&amp;apos; (A…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366712v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -56,156 +206,6 @@
       <category>医疗健康</category>
       <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03449-w Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach&lt;/p&gt;
 &lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03449-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</link>
-      <guid isPermaLink="false">d-b6f66f6512</guid>
-      <pubDate>Fri, 30 Oct 2026 22:42:24 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</link>
-      <guid isPermaLink="false">d-c184b77c9c</guid>
-      <pubDate>Fri, 30 Oct 2026 21:40:03 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
-      <guid isPermaLink="false">d-4692c15f0b</guid>
-      <pubDate>Fri, 30 Oct 2026 17:32:20 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/</link>
-      <guid isPermaLink="false">d-8cce9416fc</guid>
-      <pubDate>Fri, 30 Oct 2026 17:27:45 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
-      <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
-      <guid isPermaLink="false">d-e9043df215</guid>
-      <pubDate>Fri, 30 Oct 2026 15:00:10 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
-      <link>https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</link>
-      <guid isPermaLink="false">d-7e82629706</guid>
-      <pubDate>Fri, 30 Oct 2026 13:05:28 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .&lt;/p&gt;
-&lt;p&gt;Microsoft Research · 官方一手 · &lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Making it easier for websites to express AI training preferences</title>
-      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-      <guid isPermaLink="false">d-e4822c713d</guid>
-      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/helping-websites-express-ai-training-preferences&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Community safety report and new protections for teens</title>
-      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-      <guid isPermaLink="false">d-be87813a96</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/community-safety-report-and-new-protections-for-teens&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comparative analysis of protease-inhibitor gene family counts under different counting units and genome annotations</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.09.22.753331v2</link>
-      <guid isPermaLink="false">d-76284e1be6</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Gene family sizes are often compared across species using the protein sets released with genome assemblies. However, counts of domain-positive protein entries can differ from counts of genes when an annotation contains several entries per gene, and genomes are annotated by different pipelines. In this study, we measured how these two factors change the counts of protease-inhibitor domain families. Results: Seven protease-inhibitor families were counted in eight animal genomes. Collapsing protein entries to genes reduced the counts in 36 of 48 species-family combinations, by up to 4.6-fold (Kunitz/BPTI in Aedes aegypti, 23 entries in 5 genes), and reversed the order of two species in 9 of 196 pairwise comparisons. In 218 of 223 gene-family records with several positive entries, all entries shared CDS coordinates with the representative entry. Two annotations of the same leech (Hirudinaria manillensis) assembly differed in a family-specific way. In the published annotation, …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.09.22.753331v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VoroTIDE: Protein domain segmentation through independent hierarchical searches using Voronoi tessellation and physical self-containment</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.18.759833v2</link>
-      <guid isPermaLink="false">d-23693e893f</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Protein domains are commonly regarded as structurally separated, functionally relevant, and evolutionarily separable units. Although classification systems may assign different domain boundaries to the same structure, structural separation remains a shared criterion, and many domain parsers assess it through inter-residue distances, contact numbers, or contact densities. However, the Voronoi contact area, which is widely used to study protein-protein interactions and predict contact sites, has seen limited use in domain parsing. There are two potential challenges to this problem. First, unlike in protein-protein interaction, partitions are not known in advance and must be identified before their interface can be evaluated. Second, the contact area depends on fragment size and internal packing, making it difficult to compare candidate partitions. Here, we introduce VoroTIDE (Voronoi-based Two-way Independent Domain Exploration), a domain parser based on all-heavy-atom Voronoi contact a…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.18.759833v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Integrative structure determination of a human mitochondrial contact site and cristae organizing system (MICOS) sub-assembly</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.19.739404v2</link>
-      <guid isPermaLink="false">d-930de15dc1</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;The Mitochondrial contact site and Cristae Organizing System (MICOS) complex is an inner mitochondrial membrane (IMM) assembly present at the cristae junction. It is responsible for regulating cristae formation and remodeling. However, its structure is not known. We applied Bayesian integrative structure determination to characterize the structure of the Mic60, Mic19, Mic10, and Mic13-containing MICOS sub-assembly combining AlphaFold predictions with data from crosslinking mass spectrometry, biochemical assays, electron tomography, homology modeling, and sequence alignments. The integrative structure revealed novel mutual interfaces among Mic10N,C, Mic60LBS1,LBS2,mitofilin, and Mic13central,C. Several likely-pathogenic missense mutations also localize to these novel interfaces, highlighting their importance. Further, we investigated some of these interactions using binding assays on purified proteins and demonstrated direct interactions among Mic10-Mic13-Mic60. Our results support a b…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.19.739404v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Continuous, high-speed 3D topographic profiling of living tissue monolayers</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.23.740215v2</link>
-      <guid isPermaLink="false">d-ddd35e37e6</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Tissue monolayers are active living matter whose three-dimensional (3D) architecture and mechanical remodeling regulate tissue function, yet fast and continuous topographic monitoring remains difficult. Here, we present FLuorescence EXclusion microscopy fOr Monolayers (FLEXOM), a microfluidic platform that combines multilayer micropillar arrays with negative-staining optics to convert wide-field images into self-calibrated 3D height maps. Geometry-anchored reference cavities maintain in-frame calibration standards even in fully confluent monolayer fields, enabling continuous 3D profiling from isolated cells to confluent sheets with sub-second temporal resolution (~250 ms), sub-micrometer axial precision (~0.37 m), and multi-day biocompatibility and operational stability (&amp;gt;96 h). FLEXOM reveals two distinct anisotropic signatures in tissue monolayers. First, monolayers of different cell types show distinct vertical thickness profiles despite comparable lateral footprints. Only two vert…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.23.740215v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Somatostatin-excitatory coordination emerges with dexterous motor skill learning</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.28.762594v1</link>
-      <guid isPermaLink="false">d-25fe9c66aa</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Motor skill-learning increases spatio-temporal consistency in neuronal activity in primary motor cortex (M1), and Somatostatin-expressing (SST) interneurons are causally involved in these learning-related activity changes. Yet, how SST-excitatory interactions shape population level activity changes during motor skill acquisition is still unknown. Here, we imaged large populations of excitatory neurons and identified SST or parvalbumin-expressing (PV) interneurons across successive days as mice learned a dexterous, persistently M1-dependent reach-to-grasp task. Sparse, temporally coordinated, trial-resolved, and rate-controlled functional interactions between SST neurons and skill-modulated excitatory neurons emerged with learning and were stronger than those in excitatory-excitatory or PV-excitatory pairs. Interactions strengthened as neurons were recruited to the skill-modulated ensemble and weakened when skill modulation was lost. SST activity also became temporally reliable earlier…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.28.762594v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Differential endothelial cell remodeling in Down syndrome and APP duplication drives distinct blood brain barrier dysfunction</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1</link>
-      <guid isPermaLink="false">d-aa4d93aab5</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;An extra copy of the amyloid precursor protein gene (APP) is present in Down syndrome (DS) and APP duplication (APPdup), increasing the risk of Alzheimer disease (AD) and cerebral amyloid angiopathy (CAA). However, we reported greater vascular A{beta} deposition in APPdup than in DS with AD, suggesting that other triplicated chromosome 21 genes may mitigate CAA severity. We investigated endothelial cell (EC) function and blood brain barrier (BBB) integrity in DS and APPdup using human induced pluripotent stem cell-derived ECs (iECs), assessing their morphology, junctional proteins, A{beta} peptide secretion, barrier function, and transcriptomic profiles. Both DS and APPdup iECs secreted more A{beta}40 A{beta}42 compared with their respective isogenic controls but exhibited distinct A{beta} peptide profiles. DS iECs showed increased junctional protein expression and reduced permeability, whereas APPdup iECs displayed increased permeability. Transcriptomic analysis revealed extensive dy…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Algorithmic Geometry Shapes the Biological Meaning of Thalamocortical Structural Covariance</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.27.762356v1</link>
-      <guid isPermaLink="false">d-e0fe6672d9</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Neuroimaging studies often derive and discuss structural covariance (SC) as a representation of underlying brain circuitry that reflects coordinated maturation, anatomical connectivity, transcriptional similarity, and shared genetic influences. These associations motivate its use to study brain organization across development, aging, and disease. However, the algorithms used to derive SC networks impose constraints that may shape their biological interpretation. To understand the impact of algorithm choice, we used the thalamocortical system as an example and compared five common representations of voxelwise SC, namely, principal component analysis (PCA), independent component analysis (ICA), non-negative matrix factorization (NMF), orthogonal projective NMF (OPNMF), and \textit{k}-means clustering, in 755 participants aged 8--22 years from the Philadelphia Neurodevelopmental Cohort (PNC). SC networks derived from deformation-based morphometry (DBM) were evaluated against three comple…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.27.762356v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
