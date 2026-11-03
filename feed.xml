@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:58:38 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Chronic unpredictable stress induces negative cognitive bias in rats with sex-specific changes in neurogenesis and functional connectivity</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762765v1</link>
-      <guid isPermaLink="false">d-7deead0449</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Predicting different dimensions of fatigue from speech data: a longitudinal study in shift workers</title>
+      <link>https://www.nature.com/articles/s41746-026-03437-0</link>
+      <guid isPermaLink="false">d-3b132fdb8f</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Females are more likely to be diagnosed with major depressive disorder (MDD) than males. Cognitive symptoms of MDD include negative cognitive bias, the perception of ambiguous situations as negative, which predicts MDD episode onset and severity. MDD is associated with changes to functional connectivity between regions involved in cognition, emotion, attention, and memory. Methods: Here we examined the impact of chronic unpredictable stress (CUS) on negative cognitive bias in male (n=18) and female (n=22) Sprague-Dawley rats. We assessed hippocampal neurogenesis and c-Fos expression in response to an ambiguous context across 15 regions of the frontal cortex, amygdala, nucleus accumbens, and hippocampus, including in newborn dentate gyrus (DG) neurons, to examine functional connectivity during cognitive bias testing. We conducted a graph-based network analysis and constructed linear models to predict freezing in the ambiguous context based on regional activation. Results: C…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762765v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 03 November 2026; doi:10.1038/s41746-026-03437-0 Predicting different dimensions of fatigue from speech data: a longitudinal study in shift workers&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03437-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>MRI-free OPM-MEG recovers medial temporal lobe theta during scene imagination</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.08.10.743897v2</link>
-      <guid isPermaLink="false">d-d7828dbf2d</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Optically pumped magnetometer magnetoencephalography (OPM-MEG) offers a wearable, movement-tolerant alternative to conventional cryogenic MEG, placing sensors closer to the scalp and, in principle, improving sensitivity to deep sources. This is advantageous for examining subcortical structures that are affected by ageing, disorders and disease, such as the hippocampus. However, it remains unclear whether well-established activity (such as the attenuation of theta oscillations during the imagination of novel scenes) can be recovered from the medial temporal lobe (MTL) with OPM-MEG, and whether an individual structural MRI is required. Here, fifteen adults completed a scene imagination task. Initially we applied a 12-parameter template warping coregistration pipeline to the full sample. Following source reconstruction, we recovered the expected attenuation of theta (4-8 Hz) power during scene imagination compared to a counting baseline, with a significant cluster of activity peaking in …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.08.10.743897v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Rewarding defenders with bigger bug bounties</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">d-3c84be3588</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Conserved Laminar-Cellular Architecture Predicts the Spectrolaminar Motif</title>
-      <link>https://www.biorxiv.org/content/10.1101/2024.03.27.587084v2</link>
-      <guid isPermaLink="false">d-16ed9494f6</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;We recently identified the spectrolaminar motif, a layer-resolved pattern of local field potential (LFP) power, which is preserved across many areas of the primate cortex. It remains unclear which specific cytoarchitectonic features can explain the spectrolaminar motif. To investigate this, we performed histological and neurophysiological analyses of 11 brain areas spanning the macaque cortical hierarchy to examine the relationship between the laminar patterns of LFP power and the laminar distributions of cellular density for parvalbumin, calbindin, and calretinin interneurons, and pyramidal neurons. We tested whether cellular distributions are conserved and if they predict the corresponding variation in LFP power comprising the spectrolaminar motif. We found that the cytoarchitectonic and spectrolaminar data were intrinsically low-dimensional, with two-component patterns conserved across areas, and that the spectrolaminar motif could be predicted from these laminar cellular gradients…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.03.27.587084v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Preparing our next security sprint to harden OpenAI</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">d-090392424f</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Fixel-wise Differences in White Matter Fiber-bundle Cross-section identified in Children who Stutter</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.29.762844v1</link>
-      <guid isPermaLink="false">d-95b874888c</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Developmental stuttering has been repeatedly linked to decreased white matter integrity and structural connectivity differences in major white matter tracts. Prior diffusion-weighted MRI studies reporting such white matter structural differences involved voxel-averaged tensor measures (e.g., fractional anisotropy (FA)). A well-acknowledged limitation of this approach, however, has been that it cannot resolve distinct fiber populations within crossing-fiber regions. Fixel-based analysis addresses this limitation by quantifying individual fiber populations within a voxel and providing complementary measures of fiber density (FD), fiber-bundle cross-section (FC), and their combined measure (FDC).Here we applied Fixel-based analysis to diffusion MRI data from 171 children aged 3 - 13 years, including 84 children who stutter and 87 typically developing controls, to test whether white-matter differences associated with developmental stuttering were expressed as differences in FD, FC, and FD…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.29.762844v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>The latest AI news we announced in October 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</link>
+      <guid isPermaLink="false">d-0885eecb21</guid>
+      <pubDate>Mon, 02 Nov 2026 17:45:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Here are Google’s latest AI updates from October 2026&lt;/p&gt;
+&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mitochondrial genome editing reveals the impact of complex I heteroplasmic variants on human neurogenesis</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.28.762518v2</link>
-      <guid isPermaLink="false">d-10117355de</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Mitochondrial DNA (mtDNA) variants, whether maternally inherited or acquired somatically during aging, can be particularly detrimental to cells that rely on mitochondrial metabolism such as neurons. The functional consequences of mtDNA variants are thought to depend on their heteroplasmy, defined as the proportion of mtDNA molecules carrying that variant. However, investigating the specific effects of heteroplasmic mtDNA variants on human neuronal function has been challenging. Studies using patient-derived cells cannot conclusively attribute observed phenotypes to a single mtDNA variant, while conventional genome editing approaches are not applicable to mtDNA. Here, we use DddA-derived cytosine base editor (DdCBE) to introduce pathogenic heteroplasmic mtDNA variants into Neurogenin 2 (NGN2)-inducible human induced pluripotent stem cells (iPSCs). We focus on two variants in the genes MT-ND1 and MT-ND5 belonging to complex I (CI), the largest component of the mitochondrial respiratory …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.28.762518v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/</link>
+      <guid isPermaLink="false">d-fdd0c9976a</guid>
+      <pubDate>Mon, 02 Nov 2026 17:11:21 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Desmin Mutations Disrupt Filament Elongation and Drive Polymorphic Aggregation</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.22.740046v2</link>
-      <guid isPermaLink="false">d-674f0a9fd9</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;In muscle cells, desmin intermediate filaments form a cytoskeletal network that maintains the structural integrity and mechanical coupling of myofibrils. Dominant missense mutations in desmin cause myopathies characterized by intracellular protein aggregation. To explore the process of aggregate formation, we investigate the assembly kinetics of wild-type desmin and four disease-associated variants (N342D, L345P, R350P, and R406W) using dual-wavelength stopped-flow spectroscopy, complemented by atomic force microscopy and molecular dynamics simulations. At low ionic strength, all proteins form uniform tetramers. Increasing the ionic strength initiates assembly by rapid lateral association of tetramers into unit-length filaments (ULFs), followed by longitudinal elongation and radial filament compaction. R406W forms ULFs with wild-type-like kinetics, whereas N342D, L345P, and R350P exhibit delayed lateral assembly. After short filaments have formed, all four mutants diverge from product…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.22.740046v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Build efficient agents with knowledge distillation on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/</link>
+      <guid isPermaLink="false">d-54931643ba</guid>
+      <pubDate>Mon, 02 Nov 2026 17:01:31 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher&amp;apos;s agentic behavior into a small, lower-cost student on Amazon SageMaker AI.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>THERAPY RESISTANCE IN MELANOMA DRIVES CILIOGENESIS AND GLUTAMINE/ASPARTATE METABOLISM DEPENDENCY</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.13.758838v2</link>
-      <guid isPermaLink="false">d-77cb9cf188</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Despite the remarkable success of new therapeutic approaches, a considerable number of melanoma patients still relapse on conventional therapies within two years and develop resistance. Alterations in metabolism, including amino acid availability and regulation of metabolic processes, have been implicated in acquired drug resistance. In this study, we developed in vitro and in vivo models of target therapy resistance (TTR) and identified a translational program that supports primary ciliogenesis in drug-resistant BRAF melanoma. We established that drug resistance enhances primary ciliogenesis, which is needed to respond and survive to combination therapy (CT). Mechanistically, impairing cilia formation (IFT88KO) rewires glutamine and aspartate metabolism. Overall, we provide a new molecular mechanism underlying therapy resistance that should be considered to tailored therapeutic strategies.&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.13.758838v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/</link>
+      <guid isPermaLink="false">d-aa1aaf3883</guid>
+      <pubDate>Mon, 02 Nov 2026 17:01:16 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rev-erb-alpha inhibits vascular calcification by repressing osteogenic reprogramming in atherosclerosis</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.14.758688v2</link>
-      <guid isPermaLink="false">d-fe1be5357f</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background Atherosclerotic plaque rupture is the leading cause of fatal atherothrombotic events, including myocardial infarction. Intimal microcalcification is a major determinant of plaque instability, but its pathogenic mechanisms remain poorly understood. The nuclear receptor Rev-erb-alpha regulates lipoprotein metabolism and inflammation. We hypothesized that it modulates atherogenesis by also controlling arterial calcification. Methods To identify regulators of vascular calcification, transcriptomic analysis of CD14+CD16- monocytes from diabetic patients with different calcium scores (ANGIOSAFE cohort) was combined with targeted analysis in calcified and non-calcified atherosclerotic plaques from diabetic and non-diabetic patients (AtheroPortal cohort) and in calcified and non-calcified areas of human endarterectomies isolated by laser capture microdissection (OPAL Cohort). Functional relevance was evaluated in 18-month-old Ldlr-/- mouse and in primary aortic vascular smooth musc…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.14.758688v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/</link>
+      <guid isPermaLink="false">d-d06d0e7fbb</guid>
+      <pubDate>Mon, 02 Nov 2026 17:00:58 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Circle K&amp;apos;s DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Risk Omission and Limited Disclosure in Dietary Supplement Promotion by Social Media Influencers</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.27.26366588v2</link>
-      <guid isPermaLink="false">d-df50f19484</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Importance: Dietary supplements carry risks including adverse effects, drug interactions, and contamination-related harms, yet are frequently marketed without premarket requirements for efficacy or safety. Social media influencers have become a primary source through which people encounter and make decisions about supplements, but whether they communicate clinically relevant risks alongside claimed benefits remains unclear. Objective: To investigate how dietary supplements are presented by Instagram influencers, focusing on supplement types, advertising disclosure, persuasive strategies, and communication of benefits and harms. Design, Setting, and Participants: Cross-sectional content analysis of 1,120 dietary supplement presentations in 727 Instagram posts by 84 influencer accounts identified through audience-centered purposive sampling from two independent youth-focused studies in Switzerland and Austria. Main Outcomes and Measures: Main outcomes were supplement types, overall tone…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.27.26366588v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <guid isPermaLink="false">d-006ec733ab</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/scaling-git-at-openai&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Biological age uncertainty reveals discordant aging and predicts human healthspan</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.09.26.26364091v2</link>
-      <guid isPermaLink="false">d-b9496e06f3</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Biological aging clocks typically summarize complex biological profiles as a single age estimate, yet how uncertain these estimates are and whether this uncertainty represents a distinct, biologically meaningful dimension of human aging remain unclear. Here, we develop a probabilistic framework across nuclear magnetic resonance (NMR) metabolomic, plasma proteomic and routine blood test (RBT) profiles in more than 450,000 UK Biobank participants to derive biological age gap (BAG) and biological age uncertainty (BAU) from the mean and width of predicted-age distributions. BAU was weakly correlated with BAG and increased with age-signal disagreement across individual molecules and organs, linking uncertainty to discordant aging across biological systems. Higher BAU predicted mortality, loss of healthspan and multimorbidity independently of BAG, with mortality hazard ratios of 1.24 (95% CI, 1.23-1.26) and 1.40 (95% CI, 1.37-1.43) per standard deviation for NMR- and proteomic-derived BAU, …&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.26.26364091v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Introducing the Grid Protectors Program</title>
+      <link>https://openai.com/index/grid-protectors-program</link>
+      <guid isPermaLink="false">d-d26c078b06</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/grid-protectors-program&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Treatment patterns and outcomes of pediatric rhabdomyosarcoma in a resource-limited setting: A retrospective study from a tertiary hospital in Ethiopia</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366799v1</link>
-      <guid isPermaLink="false">d-463f74e52c</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Rhabdomyosarcoma (RMS) is the most common pediatric soft tissue sarcoma. Despite excellent survival in high-income countries, data on treatment and outcomes remain limited in resource-limited settings. The aim of this study was to assess treatment patterns and survival outcomes of pediatric RMS in Ethiopia. Methods: We conducted a retrospective study of newly diagnosed pediatric RMS patients evaluated at Tikur Anbessa Specialized Hospital from January 2021 to September 2025. Data were extracted from medical records, and treatment patterns and survival were assessed using descriptive and Kaplan-Meier analyses. Results: A total of 94 pediatric patients with rhabdomyosarcoma were included. The median age at diagnosis was 4.0 years (IQR: 3.0-6.3 years). Of these patients, 23.4% were classified as low-risk, 61.7% as intermediate-risk, and 14.9% as high-risk. Multimodality treatment was delivered to 59.6% of patients, while 33.0% received chemotherapy alone and 7.4% received no …&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366799v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs</title>
+      <link>https://arxiv.org/abs/2611.03152v1</link>
+      <guid isPermaLink="false">d-675b47ca77</guid>
+      <pubDate>Mon, 02 Nov 2026 13:59:15 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;This paper reviews control architectures for building heating, ventilation and air-conditioning (HVAC) systems, addressing the tension among energy demand, occupant comfort and equipment operability, and situating proportional-integral-derivative (PID) regulation within a layered control stack that also includes rule-based and model-based supervisory control and data-driven reinforcement learning (RL). It examines the thermostat-PID layer from two-position and scheduled setpoint control through proportional, PI and PID regulation and their tuning, then formulates RL for building control as a Markov decision process. Its central contribution is a taxonomy of where RL meets PID: RL as a gain tuner for an existing loop, as a direct replacement for the regulatory controller, as a hybrid with model predictive control, and as supervisory setpoint and schedule generation. Across these classes, the review establishes that the physical loop remains invariant while the intervention point change…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03152v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Machine Learning Based Detection of Chronic Kidney Disease using Full Blood Count from a Ghanaian Hospital Population with an Integrated Web Application</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.27.26366677v1</link>
-      <guid isPermaLink="false">d-4afe220ba6</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Chronic kidney disease (CKD) is usually silent until advanced, and the tests confirming it are frequently unaffordable in sub-Saharan Africa, whereas the full blood count (FBC) is inexpensive and widely performed. We assessed whether machine learning applied to the FBC can detect CKD, and how far its reported performance depends on where synthetic minority oversampling (SMOTE) is applied. Records of 155 patients at the Ho Technical University Hospital, Ghana, 43 (27.7%) with CKD, yielded ten features: age, cardiovascular disease and eight raw FBC parameters. Eleven algorithms, six resampling strategies and thirteen ensembles were compared under repeated stratified cross-validation. With SMOTE applied before the train-test split, the protocol under which the deployed models were fitted, Random Forest and Extra Trees both reached an accuracy of 83.9%, with sensitivities of 0.893 and 0.857 and areas under the curve (AUC) of 0.925 and 0.939; repeated cross-validation gave an accuracy of 0…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.27.26366677v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction</title>
+      <link>https://arxiv.org/abs/2611.03150v1</link>
+      <guid isPermaLink="false">d-92aae12aee</guid>
+      <pubDate>Mon, 02 Nov 2026 13:58:18 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Battery degradation remains a central challenge in the development and broad application of sustainable energy technologies. Accurate degradation prediction is challenging, as battery aging emerges from complex and heterogeneous interactions among cycling behavior, operating conditions, and cell chemistry. Existing machine-learning approaches typically focus on deterministic end-of-life predictions or modeling degradation curves within fixed chemistry settings, leaving probabilistic state of health (SOH) trajectory modeling across heterogeneous chemistries underexplored. We introduce FlowBatt, a use-inspired conditional generative framework that adapts flow matching with a diffusion transformer (DiT) backbone to battery degradation trajectory modeling. FlowBatt models full SOH trajectories as probabilistic degradation processes conditioned on early-cycle capacity data. To strengthen this conditioning pathway, we use explainable AI analysis to diagnose and improve the encoder that maps…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03150v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Baseline Physical Activity Guideline Attainment and Mortality Across Cardiovascular-Kidney-Metabolic Syndrome Stages</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.28.26366776v1</link>
-      <guid isPermaLink="false">d-f5e88b5512</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background The 2023 American Heart Association cardiovascular-kidney-metabolic (CKM) staging framework supports risk stratification, but evidence on guideline-level physical activity across stages remains limited. Methods We emulated a target-trial protocol using NHANES 2007-2018 and National Death Index linkage through December 31, 2019. Adults aged 20 to 79 years with CKM stages 1 to 4, estimated glomerular filtration rate of at least 15 mL/min/1.73 m2, complete activity data, no cancer history, and eligible follow-up were included. Baseline activity was classified as meeting or not meeting the guideline. Within-stage propensity-score weights were used in weighted Cox models. All-cause and cardiovascular mortality were the primary and secondary outcomes; 5-year risks used weighted survival curves, with competing-risk cumulative incidence also estimated for cardiovascular mortality. Results Among 19,654 participants, 1,190 all-cause deaths occurred during 134,037 person-years. Baseli…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.28.26366776v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Controlling Sharpening in LLM Post-Training</title>
+      <link>https://arxiv.org/abs/2611.03146v1</link>
+      <guid isPermaLink="false">d-e4dda9f7be</guid>
+      <pubDate>Mon, 02 Nov 2026 13:54:45 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;LLM post-training via reinforcement learning has shown consistent improvements in accuracy at the cost of reducing behavioral coverage - a phenomenon known as sharpening that can stall progress on difficult tasks. Repeated sampling objectives such as $\mathrm{pass@k}$ and $\mathrm{max@k}$ are known to mitigate sharpening, but the mechanism behind it remains poorly understood. Moreover, existing approaches for $\mathrm{@k}$ optimization use dedicated algorithms, and no general framework exists for adapting established policy optimization methods from $\mathrm{@}1$ to $\mathrm{@k}$. We derive the optimal policies for KL-regularized $\mathrm{pass@k}$ and $\mathrm{max@k}$ objectives in closed form. Our explicit solutions reveal that $\mathrm{@k}$ optimization naturally redistributes learning pressure based on prompt difficulty, directing it toward harder problems. Crucially, we show that standard $\mathrm{@}1$ objectives achieve these exact same optimal policies through prompt-adaptive re…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03146v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Non-contact fingertip video to differentiate dengue haemorrhagic fever in plasma leakage from dengue fever: A prospective proof-of-concept cohort study</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.30.26366674v1</link>
-      <guid isPermaLink="false">d-3bc0ec544f</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Most patients with dengue recover without intervention, but a minority develop plasma leakage that threatens the circulation, and differentiating them is the central problem in dengue care. Platelet count is the marker in routine serial use and is itself one of the four defining criteria of dengue haemorrhagic fever (DHF), so thrombocytopenia in dengue fever (DF) can overlap with DHF on the very marker used to distinguish them. We asked whether a non-contact optical signal carries discriminative information beyond platelet count. We conducted a prospective observational cohort study at a national dengue referral centre. All DHF recordings were obtained at or after plasma-leakage onset, so the analysis compares established clinical states rather than pre-leakage risk. Serial non-contact fingertip videos were recorded with contemporaneous clinical and haematological measurements. In a held-out set of 50 recordings (20 DHF, 30 DF), video-derived probability separated the groups with an a…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.30.26366674v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Visual-to-Executable Procedural Reconstruction of Buildings</title>
+      <link>https://arxiv.org/abs/2611.03143v1</link>
+      <guid isPermaLink="false">d-250d5ffa2c</guid>
+      <pubDate>Mon, 02 Nov 2026 13:52:45 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Procedural modeling offers compact, editable, and reusable representations for architectural content, but building such models still depends heavily on manually authored grammars. We study image-based procedural building reconstruction from in-the-wild images, with the goal of recovering an executable procedural description that can be instantiated as an editable 3D building asset. Because a single image provides only partial and view-dependent evidence, we focus on recovering the dominant visible facade(s) and attach the recovered facade program to a simple mass model for building-level instantiation. Our method decomposes this task into two structured prediction stages. First, a Global Structure Layout Tree recovers facade-scale split-and-repeat organization through a fine-tuned layout model with render-guided visual-symbolic reflection. Second, a Component Parameterization schema maps representative facade tiles to structured procedural attributes for local architectural component …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03143v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Prevalence, Awareness and Correlates of Self-Reported Hypoglycemia Among Adults with Type 2 Diabetes in Northern Jordan: A Cross-Sectional Study</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366815v1</link>
-      <guid isPermaLink="false">d-0c2e9fb6e1</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Hypoglycemia is a frequent and potentially dangerous adverse effect of glucose-lowering therapy in type 2 diabetes mellitus (T2DM), yet data on its prevalence, patient awareness and correlates in Jordan are limited. We conducted a cross-sectional study of 326 adults with T2DM attending family medicine outpatient clinics at a tertiary teaching hospital (King Abdullah University Hospital, KAUH) and a university-affiliated primary healthcare center (JUST PHC) in northern Jordan between 2025 and 2026. Trained interviewers administered a structured questionnaire, and laboratory results were verified from electronic medical records. Hypoglycemia was defined as a glucose level below 70 mg/dL or symptoms relieved by fast-acting carbohydrate during the preceding six months. Prevalence was estimated with 95% confidence intervals, and associated factors were examined using chi-square tests and multivariable logistic regression. The prevalence of self-reported hypoglycemia was 79.1% (258/326; 95%…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366815v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction</title>
+      <link>https://arxiv.org/abs/2611.03142v1</link>
+      <guid isPermaLink="false">d-0f5cc20a26</guid>
+      <pubDate>Mon, 02 Nov 2026 13:52:03 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Scaling depth is a key route to stronger large language models, but Pre-LN architectures often suffer from depth-wise information dilution, limiting the effective use of deep layers. While cross-layer connectivity has proven effective at mitigating this problem, existing designs usually introduce additional computation or memory access. We revisit cross-layer KV sharing as an efficient form of such connectivity. Beyond cache compression, each KV reuse edge creates a direct gradient path from deep layers to source KV projections, turning KV sharing into an implicit structural regularizer for KV representation geometry. We provide a systematic analysis of this mechanism, showing that proper sharing topologies sharpen key retrieval directions while enriching the value content subspace, whereas existing adjacent or global-anchor designs do not fully exploit this effect. Motivated by this, we propose DepthGraft, a hierarchical KV-sharing architecture that reconstructs deep-layer KV from st…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03142v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Antimicrobial resistance patterns among urinary isolates from long-term care residents in Canada: findings from an AMRNet pilot</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.10.29.26366712v1</link>
-      <guid isPermaLink="false">d-0dc86e5192</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Antimicrobial resistance is a growing concern in long-term care facilities (LTCs), where residents are often older, have chronic health conditions, and are frequently prescribed antimicrobials. Historically, antimicrobial resistance data from Canadian LTCs have been limited. This study explores the use of lab-based surveillance data from the Public Health Agency of Canada&amp;apos;s AMRNet program to describe antimicrobial resistance in LTCs. Methods: Antimicrobial susceptibility data for clinical bacterial specimens were submitted from public and private laboratories across Canada. Where feasible, LTC patients were identified by submitting jurisdictions. Data on urinary isolates from identified LTC patients were analysed using the first isolate per patient per species per calendar year. The data were described by distribution of age group, sex, species and antimicrobial susceptibility. Antimicrobials were classified by the World Health Organization&amp;apos;s &amp;apos;Access, Watch and Reserve&amp;apos; (A…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.10.29.26366712v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>When Optimization Meets Human Intent: Human-Centered Diffusion Model Optimization</title>
+      <link>https://arxiv.org/abs/2611.03140v1</link>
+      <guid isPermaLink="false">d-b215d1d3df</guid>
+      <pubDate>Mon, 02 Nov 2026 13:50:55 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Diffusion models are evolving from general tools into personalized systems that adapt to user needs through fine-tuning and guidance. However, diffusion optimization mainly targets measurable objectives such as aesthetics, rarely examining whether they align with human intent. Human needs are multidimensional, contextual, and dynamic, whereas existing methods approximate them with fixed metrics. Because these metrics capture human needs only partially and may amplify deviations from true intent during optimization, higher scores need not yield results better matching human expectations. To understand how human needs enter and influence optimization, we systematically analyze how human intent is expressed, translated into optimizable objectives, applied to model behavior or generation, and evaluated through outputs. We further discuss trade-offs affecting human-intent alignment in personalized image generation and gaps between automated metrics and real user judgments. This human-cente…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03140v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Generation of synthetic clinical text: a systematic review</title>
-      <link>https://www.nature.com/articles/s41746-026-03438-z</link>
-      <guid isPermaLink="false">d-5284a2e2c4</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03438-z Generation of synthetic clinical text: a systematic review&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03438-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL</title>
+      <link>https://arxiv.org/abs/2611.03138v1</link>
+      <guid isPermaLink="false">d-a56345a409</guid>
+      <pubDate>Mon, 02 Nov 2026 13:49:53 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Progress in robot learning, particularly physical multi-agent reinforcement learning (MARL), is currently challenged by a limited availability of accessible, standardized benchmarks. While simulation-based MARL has produced remarkable emergent behaviors, from coordinated team play to complex tool use, translating these advances to physical systems remains difficult. A key barrier is infrastructural: physical platforms are often prohibitively expensive, require specialized facilities, or lack open mechanisms and designs for reproducibility. We introduce KlaskTron, an open-source, low-cost (&amp;lt;\$2500 USD), desktop-scale robotic testbed for adversarial MARL based on the dynamic tabletop game KLASK. The platform features dual CoreXY gantries with high-torque brushless motors, enabling the high-speed, precise manipulation required for competitive play. Crucially, we provide a complete ecosystem: hardware designs (CAD, BOM), a GPU-native digital twin in NVIDIA Isaac Lab for high-fidelity mode…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03138v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Understanding clinical reasoning variability in medical large language models: a mechanistic interpretability study</title>
-      <link>https://www.nature.com/articles/s41746-026-03423-6</link>
-      <guid isPermaLink="false">d-d57ab9cc42</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03423-6 Understanding clinical reasoning variability in medical large language models: a mechanistic interpretability study&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03423-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Znaki: A Russian Fingerspelling Recognition Dataset</title>
+      <link>https://arxiv.org/abs/2611.03136v1</link>
+      <guid isPermaLink="false">d-0f2761846a</guid>
+      <pubDate>Mon, 02 Nov 2026 13:48:03 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Fingerspelling - the sequential signing of letters that compose proper names, technical terms, and out-of-vocabulary words - is an integral component of any sign language. Despite Russian Sign Language (RSL) being used by more than 150,000 native signers, no public fingerspelling dataset for RSL exists, in contrast to American, British, German, and several other sign languages. We introduce Znaki the first open RSL fingerspelling dataset: 37,252 video recordings (35.4 hours) of 1,593 unique sequences - proper names sampled from 16 domain categories - recorded by 68 native RSL signers (37 Deaf, 29 hard-of-hearing, and 2 certified interpreters) through a crowdsourcing pipeline with a two-stage signer qualification procedure and expert validation. The dataset covers all 33 Cyrillic handshapes, and its letter-frequency distribution matches the Russian National Corpus. As reference points for future research, we establish two baselines adapted from American Sign Language fingerspelling rec…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03136v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B</title>
-      <link>https://www.nature.com/articles/s41746-026-03439-y</link>
-      <guid isPermaLink="false">d-0cc8704554</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03439-y Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03439-y&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Meet Students Where They Are: Student-Prefix Teacher Adaptation for On-Policy Distillation</title>
+      <link>https://arxiv.org/abs/2611.03133v1</link>
+      <guid isPermaLink="false">d-7ee31d6d8e</guid>
+      <pubDate>Mon, 02 Nov 2026 13:45:23 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;On-policy distillation (OPD) mitigates the student&amp;apos;s exposure bias by optimizing on student-generated trajectories. However, student-generated prefixes may contain reasoning errors or follow patterns unfamiliar to the teacher, undermining the reliability of its token-level supervision. This degradation becomes more pronounced as prefixes grow longer. To address this teacher-side distribution mismatch, we propose Student-Prefix Teacher Adaptation (SPTA), which adapts the teacher to the states on which it is queried during distillation. Specifically, before OPD starts, we collect student rollout prefixes with random lengths and continually train the teacher to continue from the prefixes using reinforcement learning with verifiable rewards (RLVR). By treating each prefix as context and rewarding correct final answers, the teacher learns to recover from student-induced states rather than imitate the student&amp;apos;s reasoning. Then, the adapted teacher is used for standard OPD, with no changes t…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03133v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach</title>
-      <link>https://www.nature.com/articles/s41746-026-03449-w</link>
-      <guid isPermaLink="false">d-158f306350</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 31 October 2026; doi:10.1038/s41746-026-03449-w Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03449-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Behavioral Affinity Transduction for Zero-Shot Vision-Language Classification</title>
+      <link>https://arxiv.org/abs/2611.03132v1</link>
+      <guid isPermaLink="false">d-7e62647646</guid>
+      <pubDate>Mon, 02 Nov 2026 13:43:33 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;An image that is hard to classify on its own may have a helpful neighbor in the same unlabeled batch. Zero-shot vision-language models (VLMs) score images independently and leave this evidence unused. We study small unlabeled query batches with no labeled examples. Visual similarity can reflect pose or background, so it may connect images from different classes. Each image&amp;apos;s scores over the class vocabulary offer another way to choose neighbors. We introduce Behavioral Affinity Transduction (BAT), which builds a sparse graph from these class-response profiles. The graph supplies neighbor evidence during prediction. For EM-Dirichlet, it also screens candidate classes and initializes assignments. BAT plugs into direct and iterative readouts of a frozen VLM. Across diverse datasets, BAT improves the mean accuracy of every tested readout. In the main RN50 comparison, soft and hard EM-Dirichlet gain $4.22$ and $2.72$ percentage points.&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03132v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
