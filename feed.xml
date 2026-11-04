@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:40:46 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Predicting different dimensions of fatigue from speech data: a longitudinal study in shift workers</title>
-      <link>https://www.nature.com/articles/s41746-026-03437-0</link>
-      <guid isPermaLink="false">d-3b132fdb8f</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <title>DreamX: Video Diffusion Model is a Universal Latent Action Learner</title>
+      <link>https://arxiv.org/abs/2611.05377v1</link>
+      <guid isPermaLink="false">d-779b03fa56</guid>
+      <pubDate>Tue, 03 Nov 2026 18:59:56 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model&amp;apos;s rich spatiotemporal features, compressing each latent video frame by $\boldsymbol{300\times}$ ($\boldsymbol{1{,}200 \rightarrow 4}$ tokens). In addition, by leveraging the video model&amp;apos;s generative prior, these latent actions capture action-relevant dynamics disentangled from visual appearance. The resulting latent space serves as a shared action interface across embodiments (human and robot), environments, an…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05377v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence</title>
+      <link>https://arxiv.org/abs/2611.05376v1</link>
+      <guid isPermaLink="false">d-eaa23402d0</guid>
+      <pubDate>Tue, 03 Nov 2026 18:59:52 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person&amp;apos;s behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history, because the machine that could help stands outside the situation. As AI moves into the physical world, attention has settled on one kind of intelligent individual, the embodied robot; we argue that the era of Physical AI holds a second kind of equal importance, the person augmented by AI. Alongside artificial general intelligence, which asks how intelligent a machine can be, stands AI-augmented human intelligence (AHI), which asks how much intelligence a machine can enable in a particular person. Realizing it calls for a new kind of system, a cognitive symbiont: a lifelong, embedded, real-time, priv…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05376v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation</title>
+      <link>https://arxiv.org/abs/2611.05374v1</link>
+      <guid isPermaLink="false">d-411b8b9f3c</guid>
+      <pubDate>Tue, 03 Nov 2026 18:59:45 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 03 November 2026; doi:10.1038/s41746-026-03437-0 Predicting different dimensions of fatigue from speech data: a longitudinal study in shift workers&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03437-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state, high-fidelity signals in the alpha band. Recent work has pursued deep learning architectures, while individualized classical bandpass filter tuning remains underexplored. This study characterizes the spectral and temporal properties of non-anticipative bandpass filtering and demonstrates the performance gains achieved through individualized tuning. We present a Bayesian-Optimized Biquad Filter-Burg (BOB) model evaluated on EEG recorded during peripheral vibrotactile stimulation of the left median nerve (theta, N=20 healthy subjects) and on resting-state recordings from the Max Planck Institute&amp;apos;s LEMON dataset (alpha, N=20 healthy subjects). BOB was benchmarked against the Deep Dual-Branch Complex Neural Network (DBCNN), EEG Phase Prediction Network (EPN)…&lt;/p&gt;
+&lt;p&gt;arXiv q-bio.QM · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05374v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">d-3c84be3588</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <title>Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization</title>
+      <link>https://arxiv.org/abs/2611.05373v1</link>
+      <guid isPermaLink="false">d-1fa180d425</guid>
+      <pubDate>Tue, 03 Nov 2026 18:59:15 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher&amp;apos;s gold response, large-margin preference-pair selection and a DPO-style contrastive update. We re-implement DNO-Prct independently and study it on two open-weight instruct models, Llama 3.1 8B Instruct and Mistral 7B Instruct v0.1, with GPT-4o or a larger open-weight model of the same family as the annotator. On AlpacaEval 2.0 with GPT-4o as judge, three iterations raise the length-controlled (LC) win rate against GPT-4o from 31.7% to 45.3% for Llama and from 6.8% to 18.4% for Mistral, and the tuned 8B model scores above Llama 3.1 70B Instruct on every reported win rate. With same-family open-weight annotators, the runs retain 62% (Llama) and 82% (Mistral) of the LC gain achieved with GPT-4o as annotator, so the …&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05373v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">d-090392424f</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <title>PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2611.05372v1</link>
+      <guid isPermaLink="false">d-2815d0f29b</guid>
+      <pubDate>Tue, 03 Nov 2026 18:59:14 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned controllers, and training data on physical robots are costly to collect. We present PolicyIK, a goal-conditioned reinforcement learning policy for high-precision IK. It updates joint-position references from pose feedback and observes its accumulated reference relative to the measured joints, so it can retain the offset that the position controller needs at rest. Two-scale pose errors with an error-dependent action gain resolve millimeter residuals while preserving large motions. Progress and dwell rewards teach it to both reach the tolerance and stay within it. In simulation, a single attempt by the trained PPO policy keeps the mean errors over the final second within 1 m…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05372v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The latest AI news we announced in October 2026</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</link>
-      <guid isPermaLink="false">d-0885eecb21</guid>
-      <pubDate>Mon, 02 Nov 2026 17:45:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Here are Google’s latest AI updates from October 2026&lt;/p&gt;
-&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>GUILD: Guided Iterative Data Collection for Imitation Learning</title>
+      <link>https://arxiv.org/abs/2611.05368v1</link>
+      <guid isPermaLink="false">d-100efdc4a9</guid>
+      <pubDate>Tue, 03 Nov 2026 18:57:35 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator&amp;apos;s intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such unguided datasets can substantially improve policy performance, but these approaches operate by filtering existing datasets after collection and therefore do not prevent the acquisition of uninformative data. In this work, we propose GUILD, a novel Guided Data Collection (GDC) method that actively reasons about which data should be collected to maximize downstream policy performance. We introduce an iterative framework that alternates between 1) task proposal and data collection and 2) data evaluation to close the loop. For task proposal, we leverage semantic priors from vision-language models to identify relevant environments, object configurations, and goals for data col…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05368v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/</link>
-      <guid isPermaLink="false">d-fdd0c9976a</guid>
-      <pubDate>Mon, 02 Nov 2026 17:11:21 GMT</pubDate>
+      <title>Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments</title>
+      <link>https://arxiv.org/abs/2611.05361v1</link>
+      <guid isPermaLink="false">d-4dab558384</guid>
+      <pubDate>Tue, 03 Nov 2026 18:54:52 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward visual-geometry models alongside conventional structure-from-motion (SfM) methods. The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor localization datasets to generate per-view depth maps and visible reference point clouds. To address visibility errors in accumulated LiDAR scans, we introduce the LargeDepth-Gap Visibility Score (LDGVS) for point-wise visibility filtering and automatic scale selection in Hidden Point Removal(HPR). Experiments on TartanAirV2 and TartanGround show that, compared with Poisson surface reconstruction, which is an approach suited to completed scan surveys, the combined HPR and LDGVS filtering retains …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05361v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Build efficient agents with knowledge distillation on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/</link>
-      <guid isPermaLink="false">d-54931643ba</guid>
-      <pubDate>Mon, 02 Nov 2026 17:01:31 GMT</pubDate>
+      <title>GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs</title>
+      <link>https://arxiv.org/abs/2611.05359v1</link>
+      <guid isPermaLink="false">d-85d4e95420</guid>
+      <pubDate>Tue, 03 Nov 2026 18:54:29 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher&amp;apos;s agentic behavior into a small, lower-cost student on Amazon SageMaker AI.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This paper presents GSCV++, a lightweight pipeline for 3D {G}aussian {S}platting (GS) sequences {C}ompression with standard {V}ideo codecs. To meet the requirements of low-complexity and hardware compatibility from the industry, GSCV++ jointly improves preprocessing, 3D-to-2D mapping, and practical video compression configuration of GS compression. First, for preprocessing, energy-adaptive inter-frame spherical harmonic (SH) alternative current (AC) dimensionality reduction (EA-SHDR) is proposed to produces a compact and stable temporal SH AC feature space. It can reduce the data volume of following mapping and practical compression, as well as less complexity while eliminating redundant information. Second, for 3D-to-2D mapping, prior-based Inter-MiniPLAS (P-MiniPLAS) is designed to generate smooth 2D feature maps through prior-based weighting factor inference and small scale remapping. Compared with vanilla Parallel Linear Assignment Sorting (PLAS) and Morton scan, P-MiniPLAS ensure…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05359v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-aa1aaf3883</guid>
-      <pubDate>Mon, 02 Nov 2026 17:01:16 GMT</pubDate>
+      <title>Suppressing Misaligned Behaviors in Language Models, Durably</title>
+      <link>https://arxiv.org/abs/2611.05358v1</link>
+      <guid isPermaLink="false">d-8a3c5e3bca</guid>
+      <pubDate>Tue, 03 Nov 2026 18:54:08 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--language models deliberately trained to exhibit a specific misalignment--that differ in what triggers the behavior. The narrow-trigger organism misbehaves only when the prompt contains a specific cue: it cheats on multiple-choice questions by following a planted hint that points to a wrong answer, and behaves normally otherwise. The broad-trigger organism has no such cue: after fine-tuning on insecure code, it gives harmful responses across a wide range of open-ended prompts. We then formalize post-hoc behavioral suppression and evaluate methods along three criteria: immediate suppression of the target behavior, durability under further training, and preservation of general capability. We compare standard methods--SFT, GRPO, and gradient-ascent unlearning--along these dimensions. Building on pri…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05358v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/</link>
-      <guid isPermaLink="false">d-d06d0e7fbb</guid>
-      <pubDate>Mon, 02 Nov 2026 17:00:58 GMT</pubDate>
+      <title>Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits</title>
+      <link>https://arxiv.org/abs/2611.05355v1</link>
+      <guid isPermaLink="false">d-5a200dab95</guid>
+      <pubDate>Tue, 03 Nov 2026 18:52:44 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Circle K&amp;apos;s DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\langle q|k\rangle|^4$ normalised over each row, a measured product in place of the feed-forward nonlinearity, and a Born readout. With its denominators held at their values for the input, each class probability is a polynomial in the word amplitudes, so its integrated-gradient evidence is computed by a finite quadrature with no quadrature error: the words&amp;apos; contributions sum to the class probability above its no-information share, to $10^{-11}$ or better. On e-SNLI natural language inference, with about 98k parameters outside the embedding, the model reaches $76.98 \pm 0.17$% test accuracy, level with a softmax transformer of the same size ($76.62 \pm 0.36$%). Deleting the word its evidence ranks first changes the answer in 45% of test pairs, out of the 53% any single deletion can change, against 32% for the softmax model explained the same wa…&lt;/p&gt;
+&lt;p&gt;arXiv quant-ph · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05355v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scaling Git at OpenAI</title>
-      <link>https://openai.com/index/scaling-git-at-openai</link>
-      <guid isPermaLink="false">d-006ec733ab</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <title>OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation</title>
+      <link>https://arxiv.org/abs/2611.05348v1</link>
+      <guid isPermaLink="false">d-b47b22ad14</guid>
+      <pubDate>Tue, 03 Nov 2026 18:47:53 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/scaling-git-at-openai&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Automatic tools can now generate whole-brain MRI parcellations at cohort scale, but generated-label releases often provide little evidence about which cases are reliable enough to reuse. We introduce OpenBrain, a confidence-aware release of 35,838 provenance-verified OpenNeuro T1w cases from 607 source datasets. OpenBrain is organized as an auditable case-record release rather than a directory of standalone segmentation files: each record links a primary parcellation, two committee parcellations, source/license provenance, raw QC-7 measurements, percentile risks, a combined risk score R, and a confidence tier. QC-7 is a reference-free reliability panel over label geometry, image-label consistency, and committee disagreement, so users can filter, weight, audit, or re-threshold generated labels without rerunning inference. We evaluate this released evidence under a frozen protocol. Across external cohorts, lower QC-7 risk corresponds to higher generated-label quality; in fixed-budget tr…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05348v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing the Grid Protectors Program</title>
-      <link>https://openai.com/index/grid-protectors-program</link>
-      <guid isPermaLink="false">d-d26c078b06</guid>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <title>Agnostic Learning by Imitating</title>
+      <link>https://arxiv.org/abs/2611.05346v1</link>
+      <guid isPermaLink="false">d-af565e85bf</guid>
+      <pubDate>Tue, 03 Nov 2026 18:45:38 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/grid-protectors-program&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive and negative labels as well as the best member of the class, or training a generative model whose outputs are indistinguishable from real data by all members of the class? We prove that these two fundamental tasks in computational learning theory are not just closely related, but actually equivalent to each other in complexity. One direction of this equivalence was previously known. Indeed, the powerful regularity lemma in complexity theory gives an efficient oracle reduction from the indistinguishability task (a.k.a. multiaccuracy) to the distinguishing task (a.k.a. agnostic learning) in the style of boosting algorithms. Our main contribution is an efficient oracle reduction in the other direction. Taking this idea further, we show that a multiaccuracy oracle is a remarkably powerful primi…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05346v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs</title>
-      <link>https://arxiv.org/abs/2611.03152v1</link>
-      <guid isPermaLink="false">d-675b47ca77</guid>
-      <pubDate>Mon, 02 Nov 2026 13:59:15 GMT</pubDate>
+      <title>Adversarial Speculative Reasoning Improves Long Horizon Agents</title>
+      <link>https://arxiv.org/abs/2611.05345v1</link>
+      <guid isPermaLink="false">d-228f5a7d46</guid>
+      <pubDate>Tue, 03 Nov 2026 18:45:23 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;This paper reviews control architectures for building heating, ventilation and air-conditioning (HVAC) systems, addressing the tension among energy demand, occupant comfort and equipment operability, and situating proportional-integral-derivative (PID) regulation within a layered control stack that also includes rule-based and model-based supervisory control and data-driven reinforcement learning (RL). It examines the thermostat-PID layer from two-position and scheduled setpoint control through proportional, PI and PID regulation and their tuning, then formulates RL for building control as a Markov decision process. Its central contribution is a taxonomy of where RL meets PID: RL as a gain tuner for an existing loop, as a direct replacement for the regulatory controller, as a hybrid with model predictive control, and as supervisory setpoint and schedule generation. Across these classes, the review establishes that the physical loop remains invariant while the intervention point change…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03152v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train better draft models has been focused solely on acceptance rate. We argue that this view does not hold true for long-horizon agent reasoning. Measuring frontier open-weight models on complex agentic tasks with different speculative decoding approaches, we found that numerical noise grows within verification windows, and the draft acceptance results of the thinking process can change the output distribution of the model after 30 steps, thus noticeably influencing the reasoning accuracy of long-horizon agents in random directions. In this work, we improve the reasoning capability of target models by controlling such noise. While we cannot change the overall token distribution verified by the target model, we can encode critical reasoning with highest precision by training the draft model to be…&lt;/p&gt;
+&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05345v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction</title>
-      <link>https://arxiv.org/abs/2611.03150v1</link>
-      <guid isPermaLink="false">d-92aae12aee</guid>
-      <pubDate>Mon, 02 Nov 2026 13:58:18 GMT</pubDate>
+      <title>A Circuit for In-Context Learning</title>
+      <link>https://arxiv.org/abs/2611.05344v1</link>
+      <guid isPermaLink="false">d-b53a61a142</guid>
+      <pubDate>Tue, 03 Nov 2026 18:44:34 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Battery degradation remains a central challenge in the development and broad application of sustainable energy technologies. Accurate degradation prediction is challenging, as battery aging emerges from complex and heterogeneous interactions among cycling behavior, operating conditions, and cell chemistry. Existing machine-learning approaches typically focus on deterministic end-of-life predictions or modeling degradation curves within fixed chemistry settings, leaving probabilistic state of health (SOH) trajectory modeling across heterogeneous chemistries underexplored. We introduce FlowBatt, a use-inspired conditional generative framework that adapts flow matching with a diffusion transformer (DiT) backbone to battery degradation trajectory modeling. FlowBatt models full SOH trajectories as probabilistic degradation processes conditioned on early-cycle capacity data. To strengthen this conditioning pathway, we use explainable AI analysis to diagnose and improve the encoder that maps…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03150v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping it cannot have memorized, so the learning happens within a single forward pass. Prior work found candidate parts but not how they compose. We give the composition for few-shot sentence classification with arbitrary labels in three 3-4B-parameter transformers. The model implements a key-value memory over label-token positions: each label token&amp;apos;s residual stream encodes the label&amp;apos;s identity, and middle-layer attention heads write into it the class of the preceding demonstration as its key. At the query, upper-layer heads match the query&amp;apos;s class against the stored keys and copy out the matching labels. An early-layer signal encoding whether any label has repeated gates this readout; in its absence the readers attend to the start of the prompt and no label is favored. A separate set of heads s…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.05344v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Controlling Sharpening in LLM Post-Training</title>
-      <link>https://arxiv.org/abs/2611.03146v1</link>
-      <guid isPermaLink="false">d-e4dda9f7be</guid>
-      <pubDate>Mon, 02 Nov 2026 13:54:45 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;LLM post-training via reinforcement learning has shown consistent improvements in accuracy at the cost of reducing behavioral coverage - a phenomenon known as sharpening that can stall progress on difficult tasks. Repeated sampling objectives such as $\mathrm{pass@k}$ and $\mathrm{max@k}$ are known to mitigate sharpening, but the mechanism behind it remains poorly understood. Moreover, existing approaches for $\mathrm{@k}$ optimization use dedicated algorithms, and no general framework exists for adapting established policy optimization methods from $\mathrm{@}1$ to $\mathrm{@k}$. We derive the optimal policies for KL-regularized $\mathrm{pass@k}$ and $\mathrm{max@k}$ objectives in closed form. Our explicit solutions reveal that $\mathrm{@k}$ optimization naturally redistributes learning pressure based on prompt difficulty, directing it toward harder problems. Crucially, we show that standard $\mathrm{@}1$ objectives achieve these exact same optimal policies through prompt-adaptive re…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03146v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Agentic cheminformatics with Google Antigravity</title>
+      <link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
+      <guid isPermaLink="false">d-e404b37228</guid>
+      <pubDate>Tue, 03 Nov 2026 17:01:49 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.&lt;/p&gt;
+&lt;p&gt;Google DeepMind · 官方一手 · &lt;a href=&quot;https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Visual-to-Executable Procedural Reconstruction of Buildings</title>
-      <link>https://arxiv.org/abs/2611.03143v1</link>
-      <guid isPermaLink="false">d-250d5ffa2c</guid>
-      <pubDate>Mon, 02 Nov 2026 13:52:45 GMT</pubDate>
+      <title>Bring structured and unstructured data together with Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/</link>
+      <guid isPermaLink="false">d-050c6e6bfd</guid>
+      <pubDate>Tue, 03 Nov 2026 16:49:29 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Procedural modeling offers compact, editable, and reusable representations for architectural content, but building such models still depends heavily on manually authored grammars. We study image-based procedural building reconstruction from in-the-wild images, with the goal of recovering an executable procedural description that can be instantiated as an editable 3D building asset. Because a single image provides only partial and view-dependent evidence, we focus on recovering the dominant visible facade(s) and attach the recovered facade program to a simple mass model for building-level instantiation. Our method decomposes this task into two structured prediction stages. First, a Global Structure Layout Tree recovers facade-scale split-and-repeat organization through a fine-tuned layout model with render-guided visual-symbolic reflection. Second, a Component Parameterization schema maps representative facade tiles to structured procedural attributes for local architectural component …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03143v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction</title>
-      <link>https://arxiv.org/abs/2611.03142v1</link>
-      <guid isPermaLink="false">d-0f5cc20a26</guid>
-      <pubDate>Mon, 02 Nov 2026 13:52:03 GMT</pubDate>
+      <title>ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/</link>
+      <guid isPermaLink="false">d-730a1ae619</guid>
+      <pubDate>Tue, 03 Nov 2026 16:47:40 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Scaling depth is a key route to stronger large language models, but Pre-LN architectures often suffer from depth-wise information dilution, limiting the effective use of deep layers. While cross-layer connectivity has proven effective at mitigating this problem, existing designs usually introduce additional computation or memory access. We revisit cross-layer KV sharing as an efficient form of such connectivity. Beyond cache compression, each KV reuse edge creates a direct gradient path from deep layers to source KV projections, turning KV sharing into an implicit structural regularizer for KV representation geometry. We provide a systematic analysis of this mechanism, showing that proper sharing topologies sharpen key retrieval directions while enriching the value content subspace, whereas existing adjacent or global-anchor designs do not fully exploit this effect. Motivated by this, we propose DepthGraft, a hierarchical KV-sharing architecture that reconstructs deep-layer KV from st…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03142v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user&amp;apos;s identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>When Optimization Meets Human Intent: Human-Centered Diffusion Model Optimization</title>
-      <link>https://arxiv.org/abs/2611.03140v1</link>
-      <guid isPermaLink="false">d-b215d1d3df</guid>
-      <pubDate>Mon, 02 Nov 2026 13:50:55 GMT</pubDate>
+      <title>How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/</link>
+      <guid isPermaLink="false">d-75d7802335</guid>
+      <pubDate>Tue, 03 Nov 2026 16:43:20 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Diffusion models are evolving from general tools into personalized systems that adapt to user needs through fine-tuning and guidance. However, diffusion optimization mainly targets measurable objectives such as aesthetics, rarely examining whether they align with human intent. Human needs are multidimensional, contextual, and dynamic, whereas existing methods approximate them with fixed metrics. Because these metrics capture human needs only partially and may amplify deviations from true intent during optimization, higher scores need not yield results better matching human expectations. To understand how human needs enter and influence optimization, we systematically analyze how human intent is expressed, translated into optimizable objectives, applied to model behavior or generation, and evaluated through outputs. We further discuss trade-offs affecting human-intent alignment in personalized image generation and gaps between automated metrics and real user judgments. This human-cente…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03140v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL</title>
-      <link>https://arxiv.org/abs/2611.03138v1</link>
-      <guid isPermaLink="false">d-a56345a409</guid>
-      <pubDate>Mon, 02 Nov 2026 13:49:53 GMT</pubDate>
+      <title>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/</link>
+      <guid isPermaLink="false">d-8d2f8a0966</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:13 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Progress in robot learning, particularly physical multi-agent reinforcement learning (MARL), is currently challenged by a limited availability of accessible, standardized benchmarks. While simulation-based MARL has produced remarkable emergent behaviors, from coordinated team play to complex tool use, translating these advances to physical systems remains difficult. A key barrier is infrastructural: physical platforms are often prohibitively expensive, require specialized facilities, or lack open mechanisms and designs for reproducibility. We introduce KlaskTron, an open-source, low-cost (&amp;lt;\$2500 USD), desktop-scale robotic testbed for adversarial MARL based on the dynamic tabletop game KLASK. The platform features dual CoreXY gantries with high-torque brushless motors, enabling the high-speed, precise manipulation required for competitive play. Crucially, we provide a complete ecosystem: hardware designs (CAD, BOM), a GPU-native digital twin in NVIDIA Isaac Lab for high-fidelity mode…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03138v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Znaki: A Russian Fingerspelling Recognition Dataset</title>
-      <link>https://arxiv.org/abs/2611.03136v1</link>
-      <guid isPermaLink="false">d-0f2761846a</guid>
-      <pubDate>Mon, 02 Nov 2026 13:48:03 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Fingerspelling - the sequential signing of letters that compose proper names, technical terms, and out-of-vocabulary words - is an integral component of any sign language. Despite Russian Sign Language (RSL) being used by more than 150,000 native signers, no public fingerspelling dataset for RSL exists, in contrast to American, British, German, and several other sign languages. We introduce Znaki the first open RSL fingerspelling dataset: 37,252 video recordings (35.4 hours) of 1,593 unique sequences - proper names sampled from 16 domain categories - recorded by 68 native RSL signers (37 Deaf, 29 hard-of-hearing, and 2 certified interpreters) through a crowdsourcing pipeline with a two-stage signer qualification procedure and expert validation. The dataset covers all 33 Cyrillic handshapes, and its letter-frequency distribution matches the Russian National Corpus. As reference points for future research, we establish two baselines adapted from American Sign Language fingerspelling rec…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03136v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meet Students Where They Are: Student-Prefix Teacher Adaptation for On-Policy Distillation</title>
-      <link>https://arxiv.org/abs/2611.03133v1</link>
-      <guid isPermaLink="false">d-7ee31d6d8e</guid>
-      <pubDate>Mon, 02 Nov 2026 13:45:23 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;On-policy distillation (OPD) mitigates the student&amp;apos;s exposure bias by optimizing on student-generated trajectories. However, student-generated prefixes may contain reasoning errors or follow patterns unfamiliar to the teacher, undermining the reliability of its token-level supervision. This degradation becomes more pronounced as prefixes grow longer. To address this teacher-side distribution mismatch, we propose Student-Prefix Teacher Adaptation (SPTA), which adapts the teacher to the states on which it is queried during distillation. Specifically, before OPD starts, we collect student rollout prefixes with random lengths and continually train the teacher to continue from the prefixes using reinforcement learning with verifiable rewards (RLVR). By treating each prefix as context and rewarding correct final answers, the teacher learns to recover from student-induced states rather than imitate the student&amp;apos;s reasoning. Then, the adapted teacher is used for standard OPD, with no changes t…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03133v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Behavioral Affinity Transduction for Zero-Shot Vision-Language Classification</title>
-      <link>https://arxiv.org/abs/2611.03132v1</link>
-      <guid isPermaLink="false">d-7e62647646</guid>
-      <pubDate>Mon, 02 Nov 2026 13:43:33 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;An image that is hard to classify on its own may have a helpful neighbor in the same unlabeled batch. Zero-shot vision-language models (VLMs) score images independently and leave this evidence unused. We study small unlabeled query batches with no labeled examples. Visual similarity can reflect pose or background, so it may connect images from different classes. Each image&amp;apos;s scores over the class vocabulary offer another way to choose neighbors. We introduce Behavioral Affinity Transduction (BAT), which builds a sparse graph from these class-response profiles. The graph supplies neighbor evidence during prediction. For EM-Dirichlet, it also screens candidate classes and initializes assignments. BAT plugs into direct and iterative readouts of a frozen VLM. Across diverse datasets, BAT improves the mean accuracy of every tested readout. In the main RN50 comparison, soft and hard EM-Dirichlet gain $4.22$ and $2.72$ percentage points.&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.03132v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It</title>
+      <link>https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</link>
+      <guid isPermaLink="false">d-151e1bb0de</guid>
+      <pubDate>Tue, 03 Nov 2026 16:00:45 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/ai-semiconductor-fabs/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
