@@ -5,17 +5,17 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 06:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:18:37 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Mapping Future Energy Journeys Through Modeling the Global Transport of Synthetic Energy Carriers</title>
-      <link>https://www.nature.com/articles/s41467-026-78710-7</link>
-      <guid isPermaLink="false">d-05645b86d7</guid>
+      <title>Fully Integrated Deep-Ocean Flexible Temperature–Depth Sensor with Neural Network Compensation</title>
+      <link>https://www.nature.com/articles/s41467-026-78009-7</link>
+      <guid isPermaLink="false">d-f5153ab4eb</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78710-7 This study maps cost-efficient global supply routes for renewable hydrogen and related fuels. It shows that infrastructure is as important as low hydrogen production costs, because pipelines, ports and coastal access enable affordable imports.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78710-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78009-7 Marine pressure monitoring helps reveal ocean dynamics and assess human impacts. This work reports a self-contained low-power flexible marine temperature depth (FMTD) sensor featuring wide range, high precision and restrained temperature drift.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78009-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -36,6 +36,16 @@
       <category>医疗健康</category>
       <description>&lt;p&gt;npj Digital Medicine, Published online: 07 November 2026; doi:10.1038/s41746-026-03450-3 MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography&lt;/p&gt;
 &lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03450-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mapping Future Energy Journeys Through Modeling the Global Transport of Synthetic Energy Carriers</title>
+      <link>https://www.nature.com/articles/s41467-026-78710-7</link>
+      <guid isPermaLink="false">d-05645b86d7</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78710-7 This study maps cost-efficient global supply routes for renewable hydrogen and related fuels. It shows that infrastructure is as important as low hydrogen production costs, because pipelines, ports and coastal access enable affordable imports.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78710-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -99,113 +109,103 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Measuring how AI agents handle everyday wet-lab science</title>
-      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-      <guid isPermaLink="false">d-18f7bd5e51</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>These AI agents design your perfect robot-powered lab — and run it for you</title>
-      <link>https://www.nature.com/articles/d41586-026-03587-x</link>
-      <guid isPermaLink="false">d-8ace9e13d1</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03587-x A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace’s operations.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03587-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic AI needs a science of interaction</title>
-      <link>https://www.nature.com/articles/s41467-026-78879-x</link>
-      <guid isPermaLink="false">d-595bd79612</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 06 November 2026; doi:10.1038/s41467-026-78879-x Here, the authors argue that agentic AI requires a shift from evaluating individual agents alone to analyzing interaction architectures, proposing a framework that links agent interactions, collective configurations and time-dependent outcomes.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78879-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bistable origami robot for adaptive multimodal motion actuated by nonuniform magnetic fields</title>
-      <link>https://www.nature.com/articles/s41467-026-79010-w</link>
-      <guid isPermaLink="false">d-7895468219</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 06 November 2026; doi:10.1038/s41467-026-79010-w Miniature magnetic robots often need precise, uniform fields, limiting operation across large spaces. Here, the authors show that a bistable origami robot uses nonuniform fields to switch shape, grasp objects and navigate varied terrain through multiple motion modes.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79010-w&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion</title>
-      <link>https://www.nature.com/articles/s41591-026-04724-9</link>
-      <guid isPermaLink="false">d-23fdb9df1b</guid>
+      <title>Temporal Progression of Prior Precision, Surprisal, Model Updating and Tone Adaptation in Human Auditory Cortices</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.25.761658v2</link>
+      <guid isPermaLink="false">d-bd68337213</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Medicine, Published online: 06 November 2026; doi:10.1038/s41591-026-04724-9 A gait foundation model, developed using three-dimensional skeletal motion data from 3,328 adults, predicts a wide array of clinical characteristics and diagnoses, including cardiometabolic, mental health and frailty phenotypes.&lt;/p&gt;
-&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04724-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Auditory perception emerges from the continuous integration of incoming acoustic signals with statistical predictions, a process complemented by simpler local adaptation. Yet, how all these concurrent mechanisms unfold in time remains underexplored. Using magnetoencephalography (MEG) in participants listening to stochastic tone sequences with periodically shifting inferential statistics, we modelled the temporal, spatial, and spectral dynamics of stimulus-specific repetition suppression, surprisal, model updating, and prior precision. By concurrently tracking these computational parameters within this dynamic auditory environment, we revealed a distinct chronological hierarchy governing predictive and adaptive processing. Prior precision states - reflecting expectations - emerged earliest, followed by rapid and concurrent repetition suppression and surprisal - reflecting local acoustic attenuation and global mismatch detection. These initial dynamics culminated in subsequent, distribu…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.25.761658v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Towards ecologically meaningful foundation models</title>
-      <link>https://www.nature.com/articles/s42256-026-01317-6</link>
-      <guid isPermaLink="false">d-9b56dee3fa</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Machine Intelligence, Published online: 06 November 2026; doi:10.1038/s42256-026-01317-6 Ecology struggles to make broad predictions, as ecological data and theories are scattered across many different sources, scales and approaches. Gardiner et al. propose to create ecological foundation models, which combine large, multi-modal ecological datasets with ecological theory, as a way to create more generalizable and predictive models.&lt;/p&gt;
-&lt;p&gt;Nature Machine Intelligence · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s42256-026-01317-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Effective trialing of digital interventions in daily life – the mental health perspective</title>
-      <link>https://www.nature.com/articles/s41746-026-03414-7</link>
-      <guid isPermaLink="false">d-40ea633ce4</guid>
+      <title>Ranging and territoriality in African Apes</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.03.763879v2</link>
+      <guid isPermaLink="false">d-01c4e030af</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 06 November 2026; doi:10.1038/s41746-026-03414-7 Effective trialing of digital interventions in daily life – the mental health perspective&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03414-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Intergroup relations vary strikingly among African apes, with only chimpanzees showing intense, often lethal territoriality. The economic defendability hypothesis proposes that such territorial behaviour is favored where home ranges can be economically defended, as indexed by the ratio of daily travel distance to home range diameter. To test this idea, we compiled and analyzed comparable data on yearly home range size, daily travel distance and defendability indices from one population of each nonhuman African ape species and integrated these with comparable published data. We find that bonobos had substantially larger home ranges and longer daily travel distances than chimpanzees and gorillas, contradicting a prevailing assumption that bonobos experience higher or more reliable food abundance. Defendability indices were higher in chimpanzees and bonobos than in mountain gorillas, but did not differ significantly between chimpanzees, bonobos, and western gorillas. Overall, our results…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.03.763879v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Evaluation of PainWaive: a consumer-grade EEG headset for remote EEG monitoring and neurofeedback research in chronic pain</title>
-      <link>https://www.nature.com/articles/s41746-026-03424-5</link>
-      <guid isPermaLink="false">d-23cec37774</guid>
+      <title>Structural Basis for Human Milk Oligosaccharides Recognition by Evolutionarily Dominant Norovirus Genogroup II Genotypes</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.764187v2</link>
+      <guid isPermaLink="false">d-7afc95a10e</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 06 November 2026; doi:10.1038/s41746-026-03424-5 Evaluation of PainWaive: a consumer-grade EEG headset for remote EEG monitoring and neurofeedback research in chronic pain&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03424-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Human noroviruses are a major cause of acute gastroenteritis. Human milk oligosaccharides (HMOs) contain glycan motifs similar to histo-blood group antigens and may act as soluble decoys that reduce viral attachment. However, the molecular basis of HMO recognition by the P domain of the major capsid protein VP1 of different norovirus genotypes is not fully understood. Here, we combined ligand-based and protein-based NMR experiments with X-ray crystallography to study HMO binding to the P domain of the latent GII.2, dominant GII.4 and emerging GII.17 noroviruses genotypes. Screening of 12 HMOs by STD NMR showed binding of all fucosylated HMOs to GII.4 and GII.17 and none for non-fucosylated HMOs. In contrast, GII.2 showed little or no detectable binding under the same conditions. Seven crystal structures of GII.4 or GII.17 with complexed HMOs supported fucose anchoring via five conserved residues. The remaining sugar moieties formed genotype-specific secondary interactions with an exte…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.764187v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Getting started with Web Answer on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-8b2a3cec4e</guid>
-      <pubDate>Thu, 05 Nov 2026 21:04:24 GMT</pubDate>
+      <title>PREMISE: A Quality-Aware Probabilistic Framework for High-Resolution Source Assignment in Metagenomic Sequencing</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2</link>
+      <guid isPermaLink="false">d-066fa7de5b</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Metagenomic applications, from influenza A virus (IAV) subtype tracking to bacterial strain resolution, frequently require sub-species resolution.However, traditional $k$-mer-based methods fragment reads into short $k$-mers and discard per-base quality scores.By omitting both intra-read linkage and error information, these methods confound closely related genomic variants, thereby impeding real-time pathogen surveillance and containment.We introduce \premise (Pathogen Resolution via Expectation-Maximization In Sequencing Experiments), a probabilistic, alignment-based framework implemented in Rust for high-resolution source assignment against near-complete reference databases.\premise aligns whole reads using a bidirectional run-length FM-index and quantifies reference abundances with a quality-aware Expectation-Maximization algorithm mapped over a taxonomy.This framework applies an optional sparsity penalty to resolve ambiguous assignments, which is particularly important when sparse …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mathematical model of phenotypic plasticity predicts interconversion is a drug target for neuroblastoma.</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.764313v1</link>
+      <guid isPermaLink="false">d-31a41830f7</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Neuroblastoma is a paediatric cancer arising from the sympathetic nervous system as neural crest cells, made up of noradrenergic (NOR/ADRN/N), mesenchymal like (MES/S), and intermediate (I-type/I) cell types. These cells can interconvert between types, contributing to treatment resistance and relapse. We developed a mathematical model to investigate how interconversion patterns affect the efficacy of phenotype-specific inhibitors. We used three ordinary differential equations to describe the dynamics of the three populations, including logistic growth, interconversion, and drug-induced death. Of the 64 possible interconversion patterns, five reduced the target population: two for N cells and three for S cells. N targeting patterns were more effective with higher interconversion rates, while mesenchymal targeting patterns were more effective with lower interconversion rates. Stability analysis revealed that natural tumour growth was always unstable, but during treatment, N-suppressing …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.764313v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residual Hearing Loss After Chronic Cochlear Implantation in Guinea Pigs is Primarily Conductive</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.763992v1</link>
+      <guid isPermaLink="false">d-287d99a9c6</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;It is desirous to preserve residual low-frequency hearing in cochlear implant recipients, as dual stimulation using electrical and acoustic signals results in superior speech-in-noise processing and musicality. However, cochlear implant recipients commonly lose their residual acoustic hearing gradually following surgical placement of the array. The governing mechanism is not understood and is likely due to multiple factors including surgical trauma, inflammation, and the foreign body induced immune response to the array, including formation of intracochlear fibrosis. Normal mechanical function of the cochlea is expected to underpin residual hearing but has not been directly studied. This function includes efficient transmission of sound to the cochlea via the middle ear, sound propagation via the basilar membrane travelling wave, mechanical tuning characteristics, and the non-linear cochlear amplification of responses to low-frequency stimulation. Here, we examined these features in c…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.763992v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>β-cell NCK1 is reduced in type 2 diabetes, impairing the unfolded protein response and insulin secretion while revealing sex-specific adaptation</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.18.739339v2</link>
+      <guid isPermaLink="false">d-33664a296a</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Type 2 diabetes is characterized by failure of pancreatic {beta} cells to adapt insulin secretion to metabolic demand, causing {beta} cell function and reduced {beta} cell mass. The unfolded protein response (UPR) is central to adaptation by maintaining endoplasmic reticulum homeostasis and supporting insulin biosynthesis, secretion, proliferation, and survival. NCK1, is an adaptor protein that regulates insulin biosynthesis and UPR activation, positioning it at the crossroads of several processes essential for {beta} cell function. We found in mouse and human islets that NCK1 expression was upregulated by glucose and reduced in individuals living with type 2 diabetes. We thus explored the importance of {beta} cell NCK1 in endocrine function and glucose homeostasis using INS 1 cells, mouse and human islets, and {beta} cell specific knockout male and female mice (NCK1{beta}KO). Loss of {beta} cell NCK1 disrupted the UPR and impaired insulin gene expression, insulin content, and glucose…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.18.739339v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secondary growth in the tomato stem is suppressed by the flowering regulators FUL2 and STM3</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1</link>
+      <guid isPermaLink="false">d-c051f7e75a</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Herbaceous eudicot crops such as tomato accumulate substantial amounts of secondary xylem in their stems, particularly in the basal part. As plants progress from the vegetative phase to flowering and fruit development, secondary growth continues to provide mechanical support and facilitate transport. To uncover how secondary growth is regulated in the tomato stem, we used laser capture microdissection RNA-seq to establish tissue-specific transcriptomic profiles. This revealed that key regulators associated with wood formation in poplar are also acting in tomato. Furthermore, we found that the flowering regulators FUL2 and STM3 are substantially expressed in xylem tissue. Subsequent functional analysis identified FUL2 and STM3 as key repressors of secondary growth, with ful2 or stm3 knock-out mutants exhibiting strongly increased secondary growth in older tomato stems. Notably, a higher order mutant in which both ful2 and stm3 were knocked out displays a similar non-additive phenotype,…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-agent LLM teams improve differential recall on curated cases but underperform on emergency working-label matching: a two-cohort, two-family evaluation</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.24.26363897v4</link>
+      <guid isPermaLink="false">d-3ea3ac77e1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Background. Whether multi-agent large language model (LLM) pipelines help, add nothing, or underperform a single call may depend on the input and scoring contract rather than the architecture; these boundary conditions are unmapped. Methods. We compared a single direct call (Ax1), five personas in one context (P), and five isolated roles integrated by a moderator (MDT) across curated corpora (87 clinicopathological cases, 406 MedCaseReasoning cases, 392 replication vignettes) and two disjoint emergency cohorts from one repository (364 mixed-label encounters; a protocol-frozen 400-encounter disease-label-only replacement, one local serving stack). Scoring was judge-mediated top-k working-label matching. A completed factorial isolated the active ingredient; a symptom-permissive output-contract arm tested contract fit; three physicians rated discordant cases. Findings. On curated corpora MDT improved differential-list recall (top-3: +5.5 points, p = 0.0079; +3.0, p = 0.0079; +3.3, p = 0.…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.24.26363897v4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
-      <guid isPermaLink="false">d-45946927d5</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:41 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cult.fit builds operational muscle with Codex</title>
-      <link>https://openai.com/index/cultfit-builds-with-codex</link>
-      <guid isPermaLink="false">d-9a3f75153b</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/cultfit-builds-with-codex&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Beyond Perinatal Mood: Breadth of Psychiatric Symptoms and Delay Discounting as Correlates of Mothers&apos; Relational Reports from Pregnancy Through Adult Children</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.04.26367299v1</link>
+      <guid isPermaLink="false">d-5de6cbdefc</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Maternal mental illness affects roughly one in five mothers in the United States, yet most evidence linking it to the mother-child relationship comes from the first postpartum year and relies on self-report measures of depression, anxiety, and stress. In 613 women spanning five family contexts - pregnancy and mothers whose youngest child was aged 0-2, 3-12, 13-17, or 18 and older - we examined twelve psychological constructs as correlates of mothers&amp;apos; relational reports. Eleven were associated with relational reports individually; entered together, only three retained independent associations surviving false discovery rate correction: cross-domain psychiatric symptom burden (beta = 0.38), delay discounting (beta = -0.11), and orienting sensitivity (beta = 0.10). To our knowledge, this is the first peer-reviewed study linking delay discounting to maternal relational reports. Depression, anxiety, anger, perceived stress, and negative affect fell to non-significance, and the symptom compo…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.04.26367299v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
