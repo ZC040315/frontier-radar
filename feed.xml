@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:51:45 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Fully Integrated Deep-Ocean Flexible Temperature–Depth Sensor with Neural Network Compensation</title>
-      <link>https://www.nature.com/articles/s41467-026-78009-7</link>
-      <guid isPermaLink="false">d-f5153ab4eb</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78009-7 Marine pressure monitoring helps reveal ocean dynamics and assess human impacts. This work reports a self-contained low-power flexible marine temperature depth (FMTD) sensor featuring wide range, high precision and restrained temperature drift.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78009-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wrist photoplethysmography encodes dietary information</title>
-      <link>https://www.nature.com/articles/s41746-026-03425-4</link>
-      <guid isPermaLink="false">d-f1514e142b</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 07 November 2026; doi:10.1038/s41746-026-03425-4 Wrist photoplethysmography encodes dietary information&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03425-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography</title>
-      <link>https://www.nature.com/articles/s41746-026-03450-3</link>
-      <guid isPermaLink="false">d-25347d3adc</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 07 November 2026; doi:10.1038/s41746-026-03450-3 MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03450-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mapping Future Energy Journeys Through Modeling the Global Transport of Synthetic Energy Carriers</title>
-      <link>https://www.nature.com/articles/s41467-026-78710-7</link>
-      <guid isPermaLink="false">d-05645b86d7</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78710-7 This study maps cost-efficient global supply routes for renewable hydrogen and related fuels. It shows that infrastructure is as important as low hydrogen production costs, because pipelines, ports and coastal access enable affordable imports.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78710-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</link>
-      <guid isPermaLink="false">d-bb9dfc1885</guid>
-      <pubDate>Fri, 06 Nov 2026 18:01:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Taxonomy of agentic primitives in Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</link>
-      <guid isPermaLink="false">d-6a222acf23</guid>
-      <pubDate>Fri, 06 Nov 2026 17:34:45 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Serverless MCP server for AI agent data lake access on Amazon ECS Fargate</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</link>
-      <guid isPermaLink="false">d-b6931e5d9a</guid>
-      <pubDate>Fri, 06 Nov 2026 17:13:13 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</link>
-      <guid isPermaLink="false">d-f4e3ce010a</guid>
-      <pubDate>Fri, 06 Nov 2026 17:09:23 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta&amp;apos;s grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta&amp;apos;s log in Amazon CloudWatch.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
-      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
-      <guid isPermaLink="false">d-d851607d56</guid>
-      <pubDate>Fri, 06 Nov 2026 16:00:35 GMT</pubDate>
+      <title>Korea Advances Physical AI Across Industries With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
+      <guid isPermaLink="false">d-ea0f53a418</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:40 GMT</pubDate>
       <category>交叉与基础设施</category>
-      <description>&lt;p&gt;A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-      <link>https://openai.com/index/partnering-with-hacktron</link>
-      <guid isPermaLink="false">d-c91345e607</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/partnering-with-hacktron&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
+      <guid isPermaLink="false">d-a16fb780f5</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-secure-agentic-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Temporal Progression of Prior Precision, Surprisal, Model Updating and Tone Adaptation in Human Auditory Cortices</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.25.761658v2</link>
-      <guid isPermaLink="false">d-bd68337213</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+      <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
+      <guid isPermaLink="false">d-eef1ad1c59</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
+      <guid isPermaLink="false">d-87e3446841</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A multi-scale cell-type resolved map of trans-regulatory architecture in the aging human brain</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367384v1</link>
+      <guid isPermaLink="false">d-5ad9c6158a</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Auditory perception emerges from the continuous integration of incoming acoustic signals with statistical predictions, a process complemented by simpler local adaptation. Yet, how all these concurrent mechanisms unfold in time remains underexplored. Using magnetoencephalography (MEG) in participants listening to stochastic tone sequences with periodically shifting inferential statistics, we modelled the temporal, spatial, and spectral dynamics of stimulus-specific repetition suppression, surprisal, model updating, and prior precision. By concurrently tracking these computational parameters within this dynamic auditory environment, we revealed a distinct chronological hierarchy governing predictive and adaptive processing. Prior precision states - reflecting expectations - emerged earliest, followed by rapid and concurrent repetition suppression and surprisal - reflecting local acoustic attenuation and global mismatch detection. These initial dynamics culminated in subsequent, distribu…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.25.761658v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Mapping genetic effects on distal genes and regulatory programs is essential for understanding how genetic variation influences complex diseases; yet trans-QTL discovery remains limited by weak effect sizes, extensive multiple testing and poor reproducibility. Here, we introduce TransMap, a generalizable computational framework that combines multi-scale trans-QTL mapping with multi-phenotype genetic colocalization to improve the discovery and interpretation of distal regulatory variants. Beyond individual trans-eGenes, TransMap constructs local co-regulatory program phenotypes that account for background expression variation to improve the detection of weak, coordinated distal genetic effects. Across a broad range of simulation settings, TransMap achieved 9.2-36.7% higher trans-QTL discovery power than existing methods while maintaining well-controlled type I error rates. We applied TransMap to bulk and single-nucleus transcriptomic profiles from the aging human brain in the ADSP Func…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367384v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ranging and territoriality in African Apes</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.03.763879v2</link>
-      <guid isPermaLink="false">d-01c4e030af</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Computational Modeling of the Acoustic Radiation Force and Viscoelastic Displacement for Transcranial Focused Ultrasound Neuromodulation</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.06.26367432v1</link>
+      <guid isPermaLink="false">d-45d873eea9</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Intergroup relations vary strikingly among African apes, with only chimpanzees showing intense, often lethal territoriality. The economic defendability hypothesis proposes that such territorial behaviour is favored where home ranges can be economically defended, as indexed by the ratio of daily travel distance to home range diameter. To test this idea, we compiled and analyzed comparable data on yearly home range size, daily travel distance and defendability indices from one population of each nonhuman African ape species and integrated these with comparable published data. We find that bonobos had substantially larger home ranges and longer daily travel distances than chimpanzees and gorillas, contradicting a prevailing assumption that bonobos experience higher or more reliable food abundance. Defendability indices were higher in chimpanzees and bonobos than in mountain gorillas, but did not differ significantly between chimpanzees, bonobos, and western gorillas. Overall, our results…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.03.763879v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Objective: In transcranial ultrasound neuromodulation (TUS), simulations of the harmonic pressure are often used for treatment planning. However, other mechanisms of energy transfer, such as acoustic radiation force (ARF) and the resulting tissue displacement, are reported less frequently. Furthermore, there is limited guidance on how these mechanisms should be simulated. This study evaluates the numerical convergence and accuracy of different ARF formulations and investigates the simulation of ultrasound-induced tissue displacement in the context of TUS. Approach: Two simulations steps are used in k-Wave to first simulate the first order acoustic pressure and velocity fields. Subsequently, these fields are used to calculate the ARF using the momentum-flux density tensor, Reynolds stress force, and attenuation force formulations. The ARF is then applied as input for a second viscoelastic simulation to estimate the tissue displacement induced by the ultrasound field. Numerical accuracy…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.06.26367432v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Structural Basis for Human Milk Oligosaccharides Recognition by Evolutionarily Dominant Norovirus Genogroup II Genotypes</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.764187v2</link>
-      <guid isPermaLink="false">d-7afc95a10e</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Investigating the potential effect of topiramate on anorexia nervosa and binge eating behaviour using drug-target Mendelian randomization</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367397v1</link>
+      <guid isPermaLink="false">d-079bb29312</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Human noroviruses are a major cause of acute gastroenteritis. Human milk oligosaccharides (HMOs) contain glycan motifs similar to histo-blood group antigens and may act as soluble decoys that reduce viral attachment. However, the molecular basis of HMO recognition by the P domain of the major capsid protein VP1 of different norovirus genotypes is not fully understood. Here, we combined ligand-based and protein-based NMR experiments with X-ray crystallography to study HMO binding to the P domain of the latent GII.2, dominant GII.4 and emerging GII.17 noroviruses genotypes. Screening of 12 HMOs by STD NMR showed binding of all fucosylated HMOs to GII.4 and GII.17 and none for non-fucosylated HMOs. In contrast, GII.2 showed little or no detectable binding under the same conditions. Seven crystal structures of GII.4 or GII.17 with complexed HMOs supported fucose anchoring via five conserved residues. The remaining sugar moieties formed genotype-specific secondary interactions with an exte…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.764187v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Topiramate is an antiseizure medication used to treat epilepsy and migraine and is commonly prescribed for appetite suppression and weight loss. However, whether its pharmacological actions influence eating disorder risk remains unclear. We applied drug-target Mendelian randomization (MR) to investigate potential causal effects of topiramate on the risk of anorexia nervosa (AN; 24,223 cases and 1,243,971 controls) and binge-eating behaviour (BE; 39,279 cases and 1,227,436 controls) and, exploratorily, eight other psychiatric disorders: attention-deficit/hyperactivity disorder, anxiety disorders, alcohol use disorder, bipolar disorder, major depressive disorder, panic disorder, post-traumatic stress disorder, and schizophrenia. We used summary-data-based Mendelian randomization (SMR) to investigate genetically predicted pharmacological actions of topiramate using brain- and blood-derived cis-expression quantitative trait loci for genes encoding its molecular targets. Five genetic instr…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367397v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>PREMISE: A Quality-Aware Probabilistic Framework for High-Resolution Source Assignment in Metagenomic Sequencing</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2</link>
-      <guid isPermaLink="false">d-066fa7de5b</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Molecular typing and characterisation of antimicrobial resistance determinants of Neisseria gonorrhoeae among symptomatic individuals in the Eastern Cape, South Africa</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.06.26367404v1</link>
+      <guid isPermaLink="false">d-f803fd90e5</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Metagenomic applications, from influenza A virus (IAV) subtype tracking to bacterial strain resolution, frequently require sub-species resolution.However, traditional $k$-mer-based methods fragment reads into short $k$-mers and discard per-base quality scores.By omitting both intra-read linkage and error information, these methods confound closely related genomic variants, thereby impeding real-time pathogen surveillance and containment.We introduce \premise (Pathogen Resolution via Expectation-Maximization In Sequencing Experiments), a probabilistic, alignment-based framework implemented in Rust for high-resolution source assignment against near-complete reference databases.\premise aligns whole reads using a bidirectional run-length FM-index and quantifies reference abundances with a quality-aware Expectation-Maximization algorithm mapped over a taxonomy.This framework applies an optional sparsity penalty to resolve ambiguous assignments, which is particularly important when sparse …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;ABSTRACT Background. Antimicrobial resistance in Neisseria gonorrhoeae threatens gonorrhoea treatment, while surveillance is constrained by limited culture capacity. We evaluated multi-antigen sequence typing (NG-MAST) and targeted real-time PCR for molecular epidemiology and detection of antimicrobial resistance-associated determinants directly from clinical specimens. Methods. We analysed 235 N. gonorrhoeae-positive stored DNA extracts from symptomatic individuals in South Africa. NG-MAST sequence types were obtained directly or from whole-genome sequences (WGS) of paired cultured isolates. Real-time PCR targeted quinolone resistance-associated mutations (RAMs) in parC and gyrA and macrolide RAMs in the 23S rRNA gene. Results were compared with WGS and with phenotypic susceptibility results from paired isolates. Results. NG-MAST sequence types were obtained for 200/235 (85.1%) specimens and were diverse, with ST21253 predominating (n=26). At least one gyrA or parC mutation was detec…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.06.26367404v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mathematical model of phenotypic plasticity predicts interconversion is a drug target for neuroblastoma.</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.764313v1</link>
-      <guid isPermaLink="false">d-31a41830f7</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>A subtype-specific gene regulatory program controls differential circuit integration of deep CA3 pyramidal neurons</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.03.763963v2</link>
+      <guid isPermaLink="false">d-5ae7e4c779</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Neuroblastoma is a paediatric cancer arising from the sympathetic nervous system as neural crest cells, made up of noradrenergic (NOR/ADRN/N), mesenchymal like (MES/S), and intermediate (I-type/I) cell types. These cells can interconvert between types, contributing to treatment resistance and relapse. We developed a mathematical model to investigate how interconversion patterns affect the efficacy of phenotype-specific inhibitors. We used three ordinary differential equations to describe the dynamics of the three populations, including logistic growth, interconversion, and drug-induced death. Of the 64 possible interconversion patterns, five reduced the target population: two for N cells and three for S cells. N targeting patterns were more effective with higher interconversion rates, while mesenchymal targeting patterns were more effective with lower interconversion rates. Stability analysis revealed that natural tumour growth was always unstable, but during treatment, N-suppressing …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.764313v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;How closely related neuronal subtypes integrate into different circuits remains poorly understood. Deep and superficial hippocampal CA3 pyramidal neurons (PNs) differ in intrinsic firing and mossy fiber (MF) input at specialized postsynaptic structures termed thorny excrescences (TEs). Combining developmental single-nucleus multiomics with genetic targeting, morphological analysis and electrophysiology, we identify the transcription factor ST18 as a regulator of deep CA3 subtype identity. ST18 marks sparsely thorny and burst-firing neurons, and gene regulatory analyses predict that it represses a superficial-associated program involved in dendritic spine development, synaptic organization, and electrophysiological properties. Postnatal ST18 loss shifts the transcriptional and chromatin landscape of deep CA3 PNs toward a superficial-like state. These molecular changes are accompanied by increased TE elaboration approaching superficial levels, enhanced excitatory synaptic activity, and …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.03.763963v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Residual Hearing Loss After Chronic Cochlear Implantation in Guinea Pigs is Primarily Conductive</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.763992v1</link>
-      <guid isPermaLink="false">d-287d99a9c6</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Learning to play with spikes: characterizing, predicting, and engineering unsupervised plasticity rules for spiking reservoir computing</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.09.15.751573v2</link>
+      <guid isPermaLink="false">d-f42aa59293</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;It is desirous to preserve residual low-frequency hearing in cochlear implant recipients, as dual stimulation using electrical and acoustic signals results in superior speech-in-noise processing and musicality. However, cochlear implant recipients commonly lose their residual acoustic hearing gradually following surgical placement of the array. The governing mechanism is not understood and is likely due to multiple factors including surgical trauma, inflammation, and the foreign body induced immune response to the array, including formation of intracochlear fibrosis. Normal mechanical function of the cochlea is expected to underpin residual hearing but has not been directly studied. This function includes efficient transmission of sound to the cochlea via the middle ear, sound propagation via the basilar membrane travelling wave, mechanical tuning characteristics, and the non-linear cochlear amplification of responses to low-frequency stimulation. Here, we examined these features in c…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.763992v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Spiking reservoir computing, and reservoir computing more generally, is a powerful and efficient framework for neuromorphic and biological applications, in which a fixed random reservoir drives a trained readout. Its performance depends critically on the reservoir initialization, so that enriching the reservoir with adaptive, unsupervised plasticity rules offers a natural solution to this limitation. However, it is unclear which rules work, or why, and how to find the best-suited rules for specific tasks without exhaustive and expensive search. Here, we learn how to play the Atari game Pong in a plastic spiking reservoir network. We systematically characterize a large family of local plasticity rules that were meta-learned in prior work. We then show that their performance is predictable and structured: high-scoring rules are characterized by strong differentiation between neurons encoding the ball trajectory and the background, with stable weight dynamics, and consistent readout alig…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.09.15.751573v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>β-cell NCK1 is reduced in type 2 diabetes, impairing the unfolded protein response and insulin secretion while revealing sex-specific adaptation</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.18.739339v2</link>
-      <guid isPermaLink="false">d-33664a296a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>FMRP safeguards long mRNA expression by opposing repressive RNP states</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.23.739932v2</link>
+      <guid isPermaLink="false">d-7ef72dddd9</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Type 2 diabetes is characterized by failure of pancreatic {beta} cells to adapt insulin secretion to metabolic demand, causing {beta} cell function and reduced {beta} cell mass. The unfolded protein response (UPR) is central to adaptation by maintaining endoplasmic reticulum homeostasis and supporting insulin biosynthesis, secretion, proliferation, and survival. NCK1, is an adaptor protein that regulates insulin biosynthesis and UPR activation, positioning it at the crossroads of several processes essential for {beta} cell function. We found in mouse and human islets that NCK1 expression was upregulated by glucose and reduced in individuals living with type 2 diabetes. We thus explored the importance of {beta} cell NCK1 in endocrine function and glucose homeostasis using INS 1 cells, mouse and human islets, and {beta} cell specific knockout male and female mice (NCK1{beta}KO). Loss of {beta} cell NCK1 disrupted the UPR and impaired insulin gene expression, insulin content, and glucose…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.18.739339v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Fragile X messenger ribonucleoprotein (FMRP) is widely viewed as a translational repressor, yet its loss paradoxically compromises expression of exceptionally long, dosage-sensitive neurodevelopmental mRNAs. First shown in Drosophila oocytes, this selective loss extends to mouse cortex and hippocampus, but its mechanism remains unknown. Here, we uncover a protective function for FMRP: shielding long mRNAs from repression by Me31B/DDX6, a conserved RNA helicase that organizes repressive RNP complexes. In Drosophila oocytes, FMRP loss redirects target mRNAs into Me31B-marked P-bodies. Transcriptome-wide binding maps reveal extensive FMRP-Me31B co-occupancy, preferentially concentrated on long coding sequences whose translation depends on FMRP. Strikingly, disrupting Me31B-dependent repression preferentially enhances translation of FMRP targets in FMRP-deficient oocytes. We identify Rin/G3BP, Caprin, and Lig/UBAP2L as FMRP-associated cofactors supporting expression of distinct targets. T…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.23.739932v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Secondary growth in the tomato stem is suppressed by the flowering regulators FUL2 and STM3</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1</link>
-      <guid isPermaLink="false">d-c051f7e75a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Integrated genomics and transcriptomics reveal molecular insights into extreme dietary adaptation in vampire bats</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.24.740446v2</link>
+      <guid isPermaLink="false">d-dabdd32372</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Herbaceous eudicot crops such as tomato accumulate substantial amounts of secondary xylem in their stems, particularly in the basal part. As plants progress from the vegetative phase to flowering and fruit development, secondary growth continues to provide mechanical support and facilitate transport. To uncover how secondary growth is regulated in the tomato stem, we used laser capture microdissection RNA-seq to establish tissue-specific transcriptomic profiles. This revealed that key regulators associated with wood formation in poplar are also acting in tomato. Furthermore, we found that the flowering regulators FUL2 and STM3 are substantially expressed in xylem tissue. Subsequent functional analysis identified FUL2 and STM3 as key repressors of secondary growth, with ful2 or stm3 knock-out mutants exhibiting strongly increased secondary growth in older tomato stems. Notably, a higher order mutant in which both ful2 and stm3 were knocked out displays a similar non-additive phenotype,…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Vampire bats are the only tetrapods that feed exclusively on blood. To uncover the molecular changes associated with this extreme dietary specialization, we generated six new reference genomes, including genomes of all three vampire bat species, and integrated comparative analyses of gene sequence evolution (selection signatures, duplications, and losses) with transcriptomic data from six major organs to identify shifts in gene expression. Our integrative analyses reveal sequence or expression changes in 150 genes that provide insights into the molecular biology of sanguivory. Through comparative analyses and experiments, we show that the enlarged vampire bat stomach has increased connective tissue content, likely facilitating extreme expansion, is pH-neutral, and exhibits reduced mucus production, together providing molecular insights into its shift from a digestive to an absorptive organ for water, electrolytes, and vitamins. We further uncover pathway-level molecular changes associ…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.24.740446v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Multi-agent LLM teams improve differential recall on curated cases but underperform on emergency working-label matching: a two-cohort, two-family evaluation</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.09.24.26363897v4</link>
-      <guid isPermaLink="false">d-3ea3ac77e1</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Background. Whether multi-agent large language model (LLM) pipelines help, add nothing, or underperform a single call may depend on the input and scoring contract rather than the architecture; these boundary conditions are unmapped. Methods. We compared a single direct call (Ax1), five personas in one context (P), and five isolated roles integrated by a moderator (MDT) across curated corpora (87 clinicopathological cases, 406 MedCaseReasoning cases, 392 replication vignettes) and two disjoint emergency cohorts from one repository (364 mixed-label encounters; a protocol-frozen 400-encounter disease-label-only replacement, one local serving stack). Scoring was judge-mediated top-k working-label matching. A completed factorial isolated the active ingredient; a symptom-permissive output-contract arm tested contract fit; three physicians rated discordant cases. Findings. On curated corpora MDT improved differential-list recall (top-3: +5.5 points, p = 0.0079; +3.0, p = 0.0079; +3.3, p = 0.…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.24.26363897v4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Beyond Perinatal Mood: Breadth of Psychiatric Symptoms and Delay Discounting as Correlates of Mothers&apos; Relational Reports from Pregnancy Through Adult Children</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.04.26367299v1</link>
-      <guid isPermaLink="false">d-5de6cbdefc</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Open-source benchmarking of dairy and dairy-free products</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.08.14.744929v2</link>
+      <guid isPermaLink="false">d-ead5d73067</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Maternal mental illness affects roughly one in five mothers in the United States, yet most evidence linking it to the mother-child relationship comes from the first postpartum year and relies on self-report measures of depression, anxiety, and stress. In 613 women spanning five family contexts - pregnancy and mothers whose youngest child was aged 0-2, 3-12, 13-17, or 18 and older - we examined twelve psychological constructs as correlates of mothers&amp;apos; relational reports. Eleven were associated with relational reports individually; entered together, only three retained independent associations surviving false discovery rate correction: cross-domain psychiatric symptom burden (beta = 0.38), delay discounting (beta = -0.11), and orienting sensitivity (beta = 0.10). To our knowledge, this is the first peer-reviewed study linking delay discounting to maternal relational reports. Depression, anxiety, anger, perceived stress, and negative affect fell to non-significance, and the symptom compo…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.04.26367299v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Dairy-free products offer opportunities to reduce the environmental impact of food. However, they must reproduce the diverse sensory and functional properties of conventional dairy, from foam stabilization in a latte to acid-gel structure in yogurt and melt--stretch behavior in mozzarella. Yet, large-scale, open-source sensory benchmarks across dairy product categories remain scarce. Here we show that the sensory gap between dairy and dairy-free products varies substantially across ten categories: barista milk, butter, cheddar, cream cheese, creamer, ice cream, fluid milk, mozzarella, sour cream, and Greek-style yogurt. We analyze the NECTAR Taste of the Industry 2026 dataset, which includes 1,437 respondents, 3,220 overall-liking ratings, and 79,027 recorded survey responses, including 35,762 product-linked responses. Leading dairy-free beverages, barista milk ($+0.17$), fluid milk ($+0.02$), and creamer ($-0.06$), closely approach their dairy benchmarks in overall liking on a seven-…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.08.14.744929v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zero-Shot Protein-Ligand Binding Site Prediction from Protein Sequence and SMILES</title>
+      <link>https://www.biorxiv.org/content/10.1101/2025.09.28.679103v2</link>
+      <guid isPermaLink="false">d-2af63f8b35</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Accurate identification of protein-ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training. Using a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling pr…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.09.28.679103v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CryoSHIELDs: tunable amphipathic peptide additives for cryo-EM</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.01.755993v2</link>
+      <guid isPermaLink="false">d-b30b27657f</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;While cryogenic electron microscopy (cryo-EM) has transformed structural biology, sample preparation remains a major determinant of success. Specifically, the air-water interface (AWI) can damage complexes, impose preferred orientation, and reduce particle density. Here, we introduce cryoSHIELDs, a library of peptide additives designed to modulate the AWI and improve cryo-EM grid preparation. Across 24 diverse protein systems, cryoSHIELDs improved particle distribution, angular sampling, complex integrity, and, in selected cases, map quality and resolution. CryoSHIELDs enabled structure determination of the OSMR{beta}-Vixarelimab complex, the multi-subunit CCAN kinetochore complex without chemical cross-linking, and membrane proteins including ABCC6 and the -opioid receptor-Gi complex, the latter resolved at 2.3 A using tenfold lower protein concentration without compromising map quality. CryoSHIELDs provide a simple, tunable, and broadly applicable platform for more reliable cryo-EM …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.01.755993v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The methionine cycle sustains the mesenchymal phenotype of tumor cells and drives PDA progression</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.05.764593v1</link>
+      <guid isPermaLink="false">d-b0e631085c</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Mesenchymal traits are associated with poor prognosis in Pancreatic Ductal Adenocarcinoma (PDA), but direct targeting of mesenchymal tumor cells remains a challenge. Metabolic profiling of tumor cells isolated from murine PDA and liver metastases (LM) revealed that LM rely more on the methionine cycle than does primary PDA. This metabolic shift was specifically associated with increased activation of the methionine cycle in mesenchymal tumor cells compared to differentiated tumor cells. We show that the targeting of the key enzyme of the methionine cycle S-adenosylhomocysteine hydrolase (SAHH) in mesenchymal cells lowers the levels of homocysteine (Hcy) and glutathione, resulting in reduced antioxidant capacity, deregulated intracellular calcium homeostasis, and ultimately loss of mesenchymal markers. Together, these events decrease cell proliferation and invasion, blunting the tumorigenic and metastatic potential of SAHH-deficient cells, eventually impeding tumor growth and progressi…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.05.764593v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diagnostic Value in Discarded Reads: Re-evaluating Multi-Mapping cfDNA Fragmentomics and GC Bias in Early-Stage Cancer.</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367150v2</link>
+      <guid isPermaLink="false">d-1641cbfedf</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background. Low-coverage plasma cell-free DNA (cfDNA) sequencing is an inexpensive substrate for cancer detection. Standard pipelines discard fragments with low mapping quality, which originate mostly from repetitive DNA, although pericentromeric satellite repeats are frequently hypomethylated in cancer. We asked whether the fraction of multi-mapping cfDNA fragments differs between early-stage cancer and matched healthy controls, and how it compares with conventional fragmentomic features under strict control of technical factors. Methods. We analysed public plasma cfDNA whole-genome sequencing from 25 patients with stage I to III breast cancer and 25 healthy controls matched 1:1 for age, sex, smoking and alcohol use, each pair processed in the same library and sequencing batch, and from 8 early-stage hepatocellular carcinoma (HCC) cases with 8 matched controls. For every sample we computed the fraction of autosomal fragments with MAPQ &amp;lt; 30 and the share of these fragments located in …&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367150v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ShortKit-ML: an open toolkit for measuring shortcut potential in medical imaging embeddings</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v2</link>
+      <guid isPermaLink="false">d-f8b97db1d1</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background and Objective: A classifier trained on frozen embeddings can take a shortcut through a sensitive attribute only if the embedding carries information about it beyond what the task label explains: its shortcut potential. We asked whether this can be measured on the embedding alone with a known false positive rate, and whether it predicts how strongly a classifier trained on confounded data relies on the attribute. Methods: ShortKit-ML tests whether an embedding E and a sensitive attribute A are dependent given a task label Y. The primary test is a condi- tional probe: a logistic regression that predicts A from E and Y, scored by out-of-fold AUROC and calibrated by permuting A within levels of Y, be- tween patients. Five secondary detectors share this null. We audited sex, age and race for seven frozen encoders on CheXpert and four on MIMIC-CXR, and trained heads on confounded CheXpert splits. Results: Under the null the probe rejected in 0.02 of synthetic data sets. With A an…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dense Breast Tissue Segmentation under Limited Annotation: Comparing CNNs, Transformers, Self-Supervision, and Prompting</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.02.23.26346855v2</link>
+      <guid isPermaLink="false">d-5fd1a8cb34</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Dense breast tissue reduces the sensitivity of mammographic screening and is an important risk factor for breast cancer, making accurate dense-tissue segmentation particularly important when expert pixel-level annotations are limited. We empirically study dense breast tissue segmentation under limited pixel-level supervision using a small expert-annotated dataset (596 images) together with an in-domain unlabeled mammography dataset (20{,}000 images). We compare classical pixel-level segmentation methods, CNN and U-Net encoder--decoder models, transformer-based models, self-supervised pre-training, fine-tuning strategies, loss functions, and prompt-based MedSAM variants under a unified evaluation protocol. CNN-based models achieve the best standalone segmentation performance while providing the most favorable balance between accuracy and computational cost. In contrast, the adaptive fuzzy c-means + SVM baseline and transformer-based models perform worse in this low-label setting. Our a…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.02.23.26346855v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing the internal validity of the maintenance/discontinuation study design for antidepressant medications in depression using simulations</title>
+      <link>https://www.medrxiv.org/content/10.1101/2025.10.02.25337182v2</link>
+      <guid isPermaLink="false">d-9cce46e3b1</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background: Evidence for longer-term antidepressant use in major depressive disorder comes largely from maintenance/discontinuation trials. Among patients who remit on antidepressants, approximately 20% relapse within one year when treatment is maintained, compared with 40% when treatment is discontinued. This apparent benefit exceeds what might be expected from the modest effects observed in acute-phase trials, raising questions about the internal validity of maintenance/discontinuation trials. By randomizing only patients who improve during initial treatment, these trials may enrich for patients who benefit from medication. Whether this enrichment is sufficient to explain the observed maintenance benefit remains unclear. Objective: To test whether enrichment can account for the apparently larger treatment effects in maintenance/discontinuation trials. Methods: We simulated maintenance/discontinuation trials using design parameters averaged across nine trials, symptom fluctuations de…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2025.10.02.25337182v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
