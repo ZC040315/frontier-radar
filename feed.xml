@@ -5,207 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:29:35 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Korea Advances Physical AI Across Industries With NVIDIA</title>
-      <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
-      <guid isPermaLink="false">d-ea0f53a418</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:40 GMT</pubDate>
+      <title>How skills and agents work in AWS Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/</link>
+      <guid isPermaLink="false">d-0a24f9c20b</guid>
+      <pubDate>Tue, 10 Nov 2026 00:21:34 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/</link>
+      <guid isPermaLink="false">d-d0a449f099</guid>
+      <pubDate>Mon, 09 Nov 2026 20:13:18 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Claude Fable 5.2 on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/</link>
+      <guid isPermaLink="false">d-bc90876a79</guid>
+      <pubDate>Mon, 09 Nov 2026 20:04:37 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what&amp;apos;s new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/</link>
+      <guid isPermaLink="false">d-c9b44f24e7</guid>
+      <pubDate>Mon, 09 Nov 2026 20:01:20 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <guid isPermaLink="false">d-3a734b9514</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/chatgpt-enterprise-aws-marketplace&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning</title>
+      <link>https://arxiv.org/abs/2611.12886v1</link>
+      <guid isPermaLink="false">d-d29dff6320</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:54 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards and stochastic removal of the original visual input, encouraging them to acquire grounded evidence and use the returned observations. Second, Observation-Gated-MOPD (OG-MOPD) replaces deficient tool actions with canonical ones mid-rollout and resumes distillation from the repaired observation. The two stages complement each other, as learning to rely on tool-returned observations can help the pol…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12886v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>World In-Context Learning for Agentic Robot Manipulation</title>
+      <link>https://arxiv.org/abs/2611.12885v1</link>
+      <guid isPermaLink="false">d-3f921955a3</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:45 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in which a frozen model starts from a demonstration, rehearses the task in a world such as a simulator, and writes the feedback into its context rather than its weights. We build RoboScript, a modular infrastructure that implements WICL for agentic manipulation. From a single demonstration, RoboScript learns each task through rehearsal in simulation, freezes the learned knowledge as a Task Memory, a…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12885v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guiding Data Allocation for Robust Subpopulation Generalization</title>
+      <link>https://arxiv.org/abs/2611.12884v1</link>
+      <guid isPermaLink="false">d-14e66468c4</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:40 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple configurations, including substantially imbalanced ones, can perform comparably to the balanced one. We further derive gradient-based directions for adjusting subgroup proportions to improve adjusted accuracy and worst-group accuracy more efficiently. These findings suggest that strategically allocating data offers a more flexible and principled path to robust performance than simple balancing. The cod…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12884v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs</title>
+      <link>https://arxiv.org/abs/2611.12883v1</link>
+      <guid isPermaLink="false">d-cd25b21ed4</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:36 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable for the task, thus motivating inference-time control of modality arbitration. We identify a small set of attention heads, termed arbitration heads, that causally influence whether predictions follow visual or textual evidence. Building on this, we introduce a lightweight, training-free intervention that biases these heads toward a designated trusted modality at inference time. The identified heads are stable across calibration set sizes and generalize across settings, and steering them enables effective bidirectional control of modality reliance across diverse benchmarks. Our findings identify an effective control mechanism to align MLLM predictions with task-specified modality priorities. The code is available at https://github.com/zhaoyingpan/modality-arbitration.&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12883v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics</title>
+      <link>https://arxiv.org/abs/2611.12880v1</link>
+      <guid isPermaLink="false">d-ff07e89823</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:13 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in substantial wall-clock simulation time and poor hardware utilization. Deep learning offers an alternative by amortizing many integration steps into a single neural network forward pass, potentially enabling much faster simulation. However, existing supervised approaches typically require long simulated trajectory data, which restricts their applicability. In this work, we introduce Kolmogorov-Chapman Maps (KC-Maps), a method for learning the transition kernel of an SDE that relies only on the trajectory-free marginal samples together with the known drift and diffusion coefficients. Given an initial time and state of a process, KC-Maps models its distribution integrated to …&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12880v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos</title>
+      <link>https://arxiv.org/abs/2611.12879v1</link>
+      <guid isPermaLink="false">d-28f4022422</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:01 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning to predict future interactions. Learning from them requires recovering motion from completed interactions and using it to anticipate what could happen next. We present $\textit{Grasping-the-Future}$, a unified generative model of joint 3D hand-object motion, including wrist motion, finger articulation, and object position and orientation. Through masked spatiotemporal completion and flow matching, we train a single model for several prediction tasks: forecasting future interactions, predicting hand motion given object motion or vice versa, generating both trajectories toward a desired final object pose, and completing partially observed interactions. We explicitly model hand-object relations and incorporate contact constraints to help preserve grasp relationships during…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12879v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels</title>
+      <link>https://arxiv.org/abs/2611.12878v1</link>
+      <guid isPermaLink="false">d-3b0d3bde24</guid>
+      <pubDate>Mon, 09 Nov 2026 18:58:41 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized estimates of a temporal-difference (TD) learning update direction to a server over a finite-capacity channel. Our goal is to investigate to what extent one can preserve the statistical convergence rates achievable when the channel has infinite capacity. To that end, we propose a new algorithm called Batched Adaptively Quantized TD (BAQ-TD), which uses batching to reduce the variance of the transmitted information, and adaptive quantization to encode innovations. We prove a high-probability finite-time error bound for BAQ-TD, and show that, above a certain finite channel capacity, BAQ-TD preserves the convergence rate of unquantized TD up to logarithmic factors. Specifically, for a $d$-dimensio…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12878v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks</title>
+      <link>https://arxiv.org/abs/2611.12875v1</link>
+      <guid isPermaLink="false">d-d0be7aa848</guid>
+      <pubDate>Mon, 09 Nov 2026 18:58:02 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of feed-forward models using sparse human correspondence clicks. Given an image pair and a small set of cross-view point correspondences provided by a user, Click3R injects geometric constraints into the 3D reconstruction networks through a lightweight point correspondence adapter, enabling the model to resolve ambiguities in challenging scenarios such as repetitive textures, symmetric structures, large viewpoint changes, or textureless regions. To evaluate interactive reconstruction, we curate a challenging benchmark specifically designed to expose failure modes of existing feed-forward 3D reconstruction methods. Experiments show that Click3R reduces reconstruction error with as few as a singl…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12875v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents</title>
+      <link>https://arxiv.org/abs/2611.12872v1</link>
+      <guid isPermaLink="false">d-3c3e793adf</guid>
+      <pubDate>Mon, 09 Nov 2026 18:57:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \textbf{\hivemem}, a multimodal memory framework that interleaves \textbf{\textsc{H}}or\textbf{\textsc{i}}zontal Memory Expansion with \textbf{\textsc{Ve}}rtical Evidence Composition. For horizontal memory expansion, \hivemem organizes memory episodes into a relational graph using textual and visual anchors, expanding semantically retrieved seeds with related neighbors to recover complementary information. For vertical evidence composition, each retrieved memory retains multiple evidence forms, including compact summaries, captions, grounded visual views, raw images, and interaction history. …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12872v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection</title>
+      <link>https://arxiv.org/abs/2611.12871v1</link>
+      <guid isPermaLink="false">d-ca944bf7fe</guid>
+      <pubDate>Mon, 09 Nov 2026 18:56:15 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restrictive distributional assumptions. In this work, we introduce a new paradigm by formulating anomaly detection from a diversity perspective. We propose the $\textit{Vendi Anomaly Score}$ (VAS), which detects anomalies by quantifying how much a sample changes the diversity of the dataset, as measured by the Vendi score, when removed. VAS captures both local redundancy and global data structure without relying on density estimation or partitioning heuristics. Moreover, VAS requires no hyperparameter tuning, instead adapting automatically to the spectral structure of the data. VAS is non-parametric and scales linearly with dataset size. Across 148 benchmark embedding datasets derived from 10 so…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12871v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWAM: Scaling World Action Models with Cross-Modal Alignment</title>
+      <link>https://arxiv.org/abs/2611.12870v1</link>
+      <guid isPermaLink="false">d-aba27a2628</guid>
+      <pubDate>Mon, 09 Nov 2026 18:55:04 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment acquired through video pretraining as an established foundation. However, introducing action learning may impair this alignment. Principled guidance on data and supervision design for maintaining language-video alignment during action learning remains limited. To investigate this, we curate a pool of approximately 47,000 hours of general videos, egocentric videos, UMI demonstrations, and robot demonstrations. Building on this, we systematically study how language-video supervision, language-video-action supervision, and the joint use of these two forms affect WAM performance. In particular, we examine how language annotation quality affects pretrained language-video capabilities, and how action supervision from UMI and robot demonstrations extends these capabilities to language-video-action…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12870v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis</title>
+      <link>https://arxiv.org/abs/2611.12869v1</link>
+      <guid isPermaLink="false">d-a3040f3406</guid>
+      <pubDate>Mon, 09 Nov 2026 18:53:57 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to hold for newer language models. Moreover, it has been shown that representation similarity metrics can be confounded by model depth and width, requiring appropriate baselines for interpretation. In this work, we first investigate where alignment emerges between unimodal models across model layers and representation dimensions. Next, we find that the PRH capability-alignment trend persists for newer models as long as the captions are sufficiently clean and informative. Finally, we contextualize cross-modal alignment, introducing unimodal and multimodal baselines on various datasets. Our results show that the cross-modal representational alignment of unimodal models can surpass that of explic…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12869v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning</title>
+      <link>https://arxiv.org/abs/2611.12865v1</link>
+      <guid isPermaLink="false">d-f9db67534b</guid>
+      <pubDate>Mon, 09 Nov 2026 18:52:20 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Reinforcement learning (RL) can improve an agent&amp;apos;s task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some executable shortcuts earn more reward than every compliant strategy. Encoding these conflicts in task dynamics lets us generate diverse interactive environments at scale and derive compliance feedback from execution histories. In resource and reporting workflows, task optimization increases real productivity through unauthorized resource use or raises reported scores while actual work declines. Controlled changes in the training distribution show that minority conflict exposure can still lead to widespread shortcut acquisition, reaching 97.9\% certified profitable violations on an API task under a 25\% conflict mixture after 128 updates. The same contextual checks supply a …&lt;/p&gt;
+&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12865v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is Persona Generalization Predictable?</title>
+      <link>https://arxiv.org/abs/2611.12864v1</link>
+      <guid isPermaLink="false">d-8aafbf47da</guid>
+      <pubDate>Mon, 09 Nov 2026 18:51:03 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising &amp;quot;on-the-line&amp;quot; phenomenon in persona generalization: in-domain and out-of-domain persona rates across various fine-tuning hyperparameters follow an approximately probit-linear relationship, and the specific probit-linear relationship is surprisingly shared even across model families and model sizes, including Qwen and Llama. Training choices that leave the set of trainable parameters unchanged, such as learning rate, weight decay, and training duration, largely move models along the same line, reducing transfer mainly by weakening in-domain learning. Changing which layers are fine-tuned, however, can change the slope. For unsafe behavior, fine-tuning only later layers yields shallower slopes, retaining strong in-domain learning while reducing out-of-domain misalignment. …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.12864v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation</title>
+      <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
+      <guid isPermaLink="false">d-8f9d712812</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:01 GMT</pubDate>
       <category>交叉与基础设施</category>
-      <description>&lt;p&gt;Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
-      <link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
-      <guid isPermaLink="false">d-a16fb780f5</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-secure-agentic-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
-      <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
-      <guid isPermaLink="false">d-eef1ad1c59</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
-      <guid isPermaLink="false">d-87e3446841</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A multi-scale cell-type resolved map of trans-regulatory architecture in the aging human brain</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367384v1</link>
-      <guid isPermaLink="false">d-5ad9c6158a</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Mapping genetic effects on distal genes and regulatory programs is essential for understanding how genetic variation influences complex diseases; yet trans-QTL discovery remains limited by weak effect sizes, extensive multiple testing and poor reproducibility. Here, we introduce TransMap, a generalizable computational framework that combines multi-scale trans-QTL mapping with multi-phenotype genetic colocalization to improve the discovery and interpretation of distal regulatory variants. Beyond individual trans-eGenes, TransMap constructs local co-regulatory program phenotypes that account for background expression variation to improve the detection of weak, coordinated distal genetic effects. Across a broad range of simulation settings, TransMap achieved 9.2-36.7% higher trans-QTL discovery power than existing methods while maintaining well-controlled type I error rates. We applied TransMap to bulk and single-nucleus transcriptomic profiles from the aging human brain in the ADSP Func…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367384v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Computational Modeling of the Acoustic Radiation Force and Viscoelastic Displacement for Transcranial Focused Ultrasound Neuromodulation</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.06.26367432v1</link>
-      <guid isPermaLink="false">d-45d873eea9</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Objective: In transcranial ultrasound neuromodulation (TUS), simulations of the harmonic pressure are often used for treatment planning. However, other mechanisms of energy transfer, such as acoustic radiation force (ARF) and the resulting tissue displacement, are reported less frequently. Furthermore, there is limited guidance on how these mechanisms should be simulated. This study evaluates the numerical convergence and accuracy of different ARF formulations and investigates the simulation of ultrasound-induced tissue displacement in the context of TUS. Approach: Two simulations steps are used in k-Wave to first simulate the first order acoustic pressure and velocity fields. Subsequently, these fields are used to calculate the ARF using the momentum-flux density tensor, Reynolds stress force, and attenuation force formulations. The ARF is then applied as input for a second viscoelastic simulation to estimate the tissue displacement induced by the ultrasound field. Numerical accuracy…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.06.26367432v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Investigating the potential effect of topiramate on anorexia nervosa and binge eating behaviour using drug-target Mendelian randomization</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367397v1</link>
-      <guid isPermaLink="false">d-079bb29312</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Topiramate is an antiseizure medication used to treat epilepsy and migraine and is commonly prescribed for appetite suppression and weight loss. However, whether its pharmacological actions influence eating disorder risk remains unclear. We applied drug-target Mendelian randomization (MR) to investigate potential causal effects of topiramate on the risk of anorexia nervosa (AN; 24,223 cases and 1,243,971 controls) and binge-eating behaviour (BE; 39,279 cases and 1,227,436 controls) and, exploratorily, eight other psychiatric disorders: attention-deficit/hyperactivity disorder, anxiety disorders, alcohol use disorder, bipolar disorder, major depressive disorder, panic disorder, post-traumatic stress disorder, and schizophrenia. We used summary-data-based Mendelian randomization (SMR) to investigate genetically predicted pharmacological actions of topiramate using brain- and blood-derived cis-expression quantitative trait loci for genes encoding its molecular targets. Five genetic instr…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367397v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Molecular typing and characterisation of antimicrobial resistance determinants of Neisseria gonorrhoeae among symptomatic individuals in the Eastern Cape, South Africa</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.06.26367404v1</link>
-      <guid isPermaLink="false">d-f803fd90e5</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;ABSTRACT Background. Antimicrobial resistance in Neisseria gonorrhoeae threatens gonorrhoea treatment, while surveillance is constrained by limited culture capacity. We evaluated multi-antigen sequence typing (NG-MAST) and targeted real-time PCR for molecular epidemiology and detection of antimicrobial resistance-associated determinants directly from clinical specimens. Methods. We analysed 235 N. gonorrhoeae-positive stored DNA extracts from symptomatic individuals in South Africa. NG-MAST sequence types were obtained directly or from whole-genome sequences (WGS) of paired cultured isolates. Real-time PCR targeted quinolone resistance-associated mutations (RAMs) in parC and gyrA and macrolide RAMs in the 23S rRNA gene. Results were compared with WGS and with phenotypic susceptibility results from paired isolates. Results. NG-MAST sequence types were obtained for 200/235 (85.1%) specimens and were diverse, with ST21253 predominating (n=26). At least one gyrA or parC mutation was detec…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.06.26367404v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A subtype-specific gene regulatory program controls differential circuit integration of deep CA3 pyramidal neurons</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.03.763963v2</link>
-      <guid isPermaLink="false">d-5ae7e4c779</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;How closely related neuronal subtypes integrate into different circuits remains poorly understood. Deep and superficial hippocampal CA3 pyramidal neurons (PNs) differ in intrinsic firing and mossy fiber (MF) input at specialized postsynaptic structures termed thorny excrescences (TEs). Combining developmental single-nucleus multiomics with genetic targeting, morphological analysis and electrophysiology, we identify the transcription factor ST18 as a regulator of deep CA3 subtype identity. ST18 marks sparsely thorny and burst-firing neurons, and gene regulatory analyses predict that it represses a superficial-associated program involved in dendritic spine development, synaptic organization, and electrophysiological properties. Postnatal ST18 loss shifts the transcriptional and chromatin landscape of deep CA3 PNs toward a superficial-like state. These molecular changes are accompanied by increased TE elaboration approaching superficial levels, enhanced excitatory synaptic activity, and …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.03.763963v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Learning to play with spikes: characterizing, predicting, and engineering unsupervised plasticity rules for spiking reservoir computing</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.09.15.751573v2</link>
-      <guid isPermaLink="false">d-f42aa59293</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Spiking reservoir computing, and reservoir computing more generally, is a powerful and efficient framework for neuromorphic and biological applications, in which a fixed random reservoir drives a trained readout. Its performance depends critically on the reservoir initialization, so that enriching the reservoir with adaptive, unsupervised plasticity rules offers a natural solution to this limitation. However, it is unclear which rules work, or why, and how to find the best-suited rules for specific tasks without exhaustive and expensive search. Here, we learn how to play the Atari game Pong in a plastic spiking reservoir network. We systematically characterize a large family of local plasticity rules that were meta-learned in prior work. We then show that their performance is predictable and structured: high-scoring rules are characterized by strong differentiation between neurons encoding the ball trajectory and the background, with stable weight dynamics, and consistent readout alig…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.09.15.751573v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FMRP safeguards long mRNA expression by opposing repressive RNP states</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.23.739932v2</link>
-      <guid isPermaLink="false">d-7ef72dddd9</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Fragile X messenger ribonucleoprotein (FMRP) is widely viewed as a translational repressor, yet its loss paradoxically compromises expression of exceptionally long, dosage-sensitive neurodevelopmental mRNAs. First shown in Drosophila oocytes, this selective loss extends to mouse cortex and hippocampus, but its mechanism remains unknown. Here, we uncover a protective function for FMRP: shielding long mRNAs from repression by Me31B/DDX6, a conserved RNA helicase that organizes repressive RNP complexes. In Drosophila oocytes, FMRP loss redirects target mRNAs into Me31B-marked P-bodies. Transcriptome-wide binding maps reveal extensive FMRP-Me31B co-occupancy, preferentially concentrated on long coding sequences whose translation depends on FMRP. Strikingly, disrupting Me31B-dependent repression preferentially enhances translation of FMRP targets in FMRP-deficient oocytes. We identify Rin/G3BP, Caprin, and Lig/UBAP2L as FMRP-associated cofactors supporting expression of distinct targets. T…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.23.739932v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Integrated genomics and transcriptomics reveal molecular insights into extreme dietary adaptation in vampire bats</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.07.24.740446v2</link>
-      <guid isPermaLink="false">d-dabdd32372</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Vampire bats are the only tetrapods that feed exclusively on blood. To uncover the molecular changes associated with this extreme dietary specialization, we generated six new reference genomes, including genomes of all three vampire bat species, and integrated comparative analyses of gene sequence evolution (selection signatures, duplications, and losses) with transcriptomic data from six major organs to identify shifts in gene expression. Our integrative analyses reveal sequence or expression changes in 150 genes that provide insights into the molecular biology of sanguivory. Through comparative analyses and experiments, we show that the enlarged vampire bat stomach has increased connective tissue content, likely facilitating extreme expansion, is pH-neutral, and exhibits reduced mucus production, together providing molecular insights into its shift from a digestive to an absorptive organ for water, electrolytes, and vitamins. We further uncover pathway-level molecular changes associ…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.24.740446v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open-source benchmarking of dairy and dairy-free products</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.08.14.744929v2</link>
-      <guid isPermaLink="false">d-ead5d73067</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Dairy-free products offer opportunities to reduce the environmental impact of food. However, they must reproduce the diverse sensory and functional properties of conventional dairy, from foam stabilization in a latte to acid-gel structure in yogurt and melt--stretch behavior in mozzarella. Yet, large-scale, open-source sensory benchmarks across dairy product categories remain scarce. Here we show that the sensory gap between dairy and dairy-free products varies substantially across ten categories: barista milk, butter, cheddar, cream cheese, creamer, ice cream, fluid milk, mozzarella, sour cream, and Greek-style yogurt. We analyze the NECTAR Taste of the Industry 2026 dataset, which includes 1,437 respondents, 3,220 overall-liking ratings, and 79,027 recorded survey responses, including 35,762 product-linked responses. Leading dairy-free beverages, barista milk ($+0.17$), fluid milk ($+0.02$), and creamer ($-0.06$), closely approach their dairy benchmarks in overall liking on a seven-…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.08.14.744929v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zero-Shot Protein-Ligand Binding Site Prediction from Protein Sequence and SMILES</title>
-      <link>https://www.biorxiv.org/content/10.1101/2025.09.28.679103v2</link>
-      <guid isPermaLink="false">d-2af63f8b35</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Accurate identification of protein-ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training. Using a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling pr…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.09.28.679103v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CryoSHIELDs: tunable amphipathic peptide additives for cryo-EM</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.01.755993v2</link>
-      <guid isPermaLink="false">d-b30b27657f</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;While cryogenic electron microscopy (cryo-EM) has transformed structural biology, sample preparation remains a major determinant of success. Specifically, the air-water interface (AWI) can damage complexes, impose preferred orientation, and reduce particle density. Here, we introduce cryoSHIELDs, a library of peptide additives designed to modulate the AWI and improve cryo-EM grid preparation. Across 24 diverse protein systems, cryoSHIELDs improved particle distribution, angular sampling, complex integrity, and, in selected cases, map quality and resolution. CryoSHIELDs enabled structure determination of the OSMR{beta}-Vixarelimab complex, the multi-subunit CCAN kinetochore complex without chemical cross-linking, and membrane proteins including ABCC6 and the -opioid receptor-Gi complex, the latter resolved at 2.3 A using tenfold lower protein concentration without compromising map quality. CryoSHIELDs provide a simple, tunable, and broadly applicable platform for more reliable cryo-EM …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.01.755993v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The methionine cycle sustains the mesenchymal phenotype of tumor cells and drives PDA progression</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.05.764593v1</link>
-      <guid isPermaLink="false">d-b0e631085c</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Mesenchymal traits are associated with poor prognosis in Pancreatic Ductal Adenocarcinoma (PDA), but direct targeting of mesenchymal tumor cells remains a challenge. Metabolic profiling of tumor cells isolated from murine PDA and liver metastases (LM) revealed that LM rely more on the methionine cycle than does primary PDA. This metabolic shift was specifically associated with increased activation of the methionine cycle in mesenchymal tumor cells compared to differentiated tumor cells. We show that the targeting of the key enzyme of the methionine cycle S-adenosylhomocysteine hydrolase (SAHH) in mesenchymal cells lowers the levels of homocysteine (Hcy) and glutathione, resulting in reduced antioxidant capacity, deregulated intracellular calcium homeostasis, and ultimately loss of mesenchymal markers. Together, these events decrease cell proliferation and invasion, blunting the tumorigenic and metastatic potential of SAHH-deficient cells, eventually impeding tumor growth and progressi…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.05.764593v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diagnostic Value in Discarded Reads: Re-evaluating Multi-Mapping cfDNA Fragmentomics and GC Bias in Early-Stage Cancer.</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.11.05.26367150v2</link>
-      <guid isPermaLink="false">d-1641cbfedf</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background. Low-coverage plasma cell-free DNA (cfDNA) sequencing is an inexpensive substrate for cancer detection. Standard pipelines discard fragments with low mapping quality, which originate mostly from repetitive DNA, although pericentromeric satellite repeats are frequently hypomethylated in cancer. We asked whether the fraction of multi-mapping cfDNA fragments differs between early-stage cancer and matched healthy controls, and how it compares with conventional fragmentomic features under strict control of technical factors. Methods. We analysed public plasma cfDNA whole-genome sequencing from 25 patients with stage I to III breast cancer and 25 healthy controls matched 1:1 for age, sex, smoking and alcohol use, each pair processed in the same library and sequencing batch, and from 8 early-stage hepatocellular carcinoma (HCC) cases with 8 matched controls. For every sample we computed the fraction of autosomal fragments with MAPQ &amp;lt; 30 and the share of these fragments located in …&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.05.26367150v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ShortKit-ML: an open toolkit for measuring shortcut potential in medical imaging embeddings</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v2</link>
-      <guid isPermaLink="false">d-f8b97db1d1</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background and Objective: A classifier trained on frozen embeddings can take a shortcut through a sensitive attribute only if the embedding carries information about it beyond what the task label explains: its shortcut potential. We asked whether this can be measured on the embedding alone with a known false positive rate, and whether it predicts how strongly a classifier trained on confounded data relies on the attribute. Methods: ShortKit-ML tests whether an embedding E and a sensitive attribute A are dependent given a task label Y. The primary test is a condi- tional probe: a logistic regression that predicts A from E and Y, scored by out-of-fold AUROC and calibrated by permuting A within levels of Y, be- tween patients. Five secondary detectors share this null. We audited sex, age and race for seven frozen encoders on CheXpert and four on MIMIC-CXR, and trained heads on confounded CheXpert splits. Results: Under the null the probe rejected in 0.02 of synthetic data sets. With A an…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dense Breast Tissue Segmentation under Limited Annotation: Comparing CNNs, Transformers, Self-Supervision, and Prompting</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.02.23.26346855v2</link>
-      <guid isPermaLink="false">d-5fd1a8cb34</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Dense breast tissue reduces the sensitivity of mammographic screening and is an important risk factor for breast cancer, making accurate dense-tissue segmentation particularly important when expert pixel-level annotations are limited. We empirically study dense breast tissue segmentation under limited pixel-level supervision using a small expert-annotated dataset (596 images) together with an in-domain unlabeled mammography dataset (20{,}000 images). We compare classical pixel-level segmentation methods, CNN and U-Net encoder--decoder models, transformer-based models, self-supervised pre-training, fine-tuning strategies, loss functions, and prompt-based MedSAM variants under a unified evaluation protocol. CNN-based models achieve the best standalone segmentation performance while providing the most favorable balance between accuracy and computational cost. In contrast, the adaptive fuzzy c-means + SVM baseline and transformer-based models perform worse in this low-label setting. Our a…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.02.23.26346855v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Testing the internal validity of the maintenance/discontinuation study design for antidepressant medications in depression using simulations</title>
-      <link>https://www.medrxiv.org/content/10.1101/2025.10.02.25337182v2</link>
-      <guid isPermaLink="false">d-9cce46e3b1</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Background: Evidence for longer-term antidepressant use in major depressive disorder comes largely from maintenance/discontinuation trials. Among patients who remit on antidepressants, approximately 20% relapse within one year when treatment is maintained, compared with 40% when treatment is discontinued. This apparent benefit exceeds what might be expected from the modest effects observed in acute-phase trials, raising questions about the internal validity of maintenance/discontinuation trials. By randomizing only patients who improve during initial treatment, these trials may enrich for patients who benefit from medication. Whether this enrichment is sufficient to explain the observed maintenance benefit remains unclear. Objective: To test whether enrichment can account for the apparently larger treatment effects in maintenance/discontinuation trials. Methods: We simulated maintenance/discontinuation trials using design parameters averaged across nine trials, symptom fluctuations de…&lt;/p&gt;
-&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2025.10.02.25337182v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
