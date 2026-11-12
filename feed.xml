@@ -5,9 +5,99 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:24:24 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>Build autonomous AI agents with Amazon Bedrock and Spring AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/</link>
+      <guid isPermaLink="false">d-81e5399ad8</guid>
+      <pubDate>Thu, 12 Nov 2026 01:18:23 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gilbert + Tobin rethinks the business of law with AI</title>
+      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+      <guid isPermaLink="false">d-06c2b6efe9</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/gilbert-tobin-sam-nickless&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI Codex on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/</link>
+      <guid isPermaLink="false">d-aa4c1ad4ce</guid>
+      <pubDate>Wed, 11 Nov 2026 23:35:47 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic diffing of formal policies with anti-unification</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/</link>
+      <guid isPermaLink="false">d-c4f20d2fa9</guid>
+      <pubDate>Wed, 11 Nov 2026 23:33:03 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between two candidate authorization policies.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/</link>
+      <guid isPermaLink="false">d-d0f05738b6</guid>
+      <pubDate>Wed, 11 Nov 2026 23:30:03 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="false">d-4b7190847a</guid>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.&lt;/p&gt;
+&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
+      <guid isPermaLink="false">d-273edab55e</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.&lt;/p&gt;
+&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
+      <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+      <guid isPermaLink="false">d-25575f3581</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:15 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Predicting how DNA sequences and their variations impact specific human cell types and disease.&lt;/p&gt;
+&lt;p&gt;Google DeepMind · 官方一手 · &lt;a href=&quot;https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience the art and legacy of Dr. Esther Mahlangu</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</link>
+      <guid isPermaLink="false">d-8b8f55b5b1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp;amp; Culture.&lt;/p&gt;
+&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPT Plus for veterans and servicemembers</title>
       <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
@@ -39,173 +129,83 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/</link>
-      <guid isPermaLink="false">d-d0d36a735c</guid>
-      <pubDate>Tue, 10 Nov 2026 23:34:05 GMT</pubDate>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid isPermaLink="false">d-724511390a</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/jiostar-vijay-seshadri&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/</link>
-      <guid isPermaLink="false">d-5190a01452</guid>
-      <pubDate>Tue, 10 Nov 2026 22:35:03 GMT</pubDate>
+      <title>DeepMind&apos;s ultra-powerful AI for genome mapping wows scientists</title>
+      <link>https://www.nature.com/articles/d41586-026-03673-0</link>
+      <guid isPermaLink="false">d-ce6545d5ba</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03673-0 AlphaGenome 2 can predict the types of cells where a DNA variant is likely to act.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03673-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents</title>
-      <link>https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</link>
-      <guid isPermaLink="false">d-909544d2d2</guid>
-      <pubDate>Tue, 10 Nov 2026 20:52:56 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Microsoft researchers have discovered &amp;amp;#8220;Lazarus,&amp;amp;#8221; a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, [&amp;amp;#8230;] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .&lt;/p&gt;
-&lt;p&gt;Microsoft Research · 官方一手 · &lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Proteins that form the nuclear pore barrier move like liquids</title>
+      <link>https://www.nature.com/articles/d41586-026-03428-x</link>
+      <guid isPermaLink="false">d-5f326ac961</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03428-x Nuclear pores control molecular traffic into and out of the cell nucleus. Measurements in living cells, together with molecular-dynamics simulations, show that flexible protein chains that form the selectivity barriers of nuclear pores are highly mobile, and that a sugar modification and the carrier protein importin-β help to preserve this dynamic state.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03428-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gemini Intelligence: New features, on more devices</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
-      <guid isPermaLink="false">d-6f37bd791c</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.&lt;/p&gt;
-&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?</title>
+      <link>https://www.nature.com/articles/d41586-026-03640-9</link>
+      <guid isPermaLink="false">d-5ee32d79c6</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03640-9 A promising biotechnology company developed a new approach that might treat a rare disease — but its sole employee didn’t do all the work.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03640-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training</title>
-      <link>https://arxiv.org/abs/2611.14519v1</link>
-      <guid isPermaLink="false">d-1a65ffd1d6</guid>
-      <pubDate>Tue, 10 Nov 2026 18:59:54 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the training source and on independent datasets from other institutions. The adapted foundation model generalised better on every external dataset. Within the training distribution, the task-specific model…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14519v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins</title>
+      <link>https://www.nature.com/articles/d41586-026-03655-2</link>
+      <guid isPermaLink="false">d-9beb4790fd</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03655-2 The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03655-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Toward Foundation Detection Models via Example-Based Grounding in EM-DETR</title>
-      <link>https://arxiv.org/abs/2611.14518v1</link>
-      <guid isPermaLink="false">d-72f4ff52e2</guid>
-      <pubDate>Tue, 10 Nov 2026 18:59:17 GMT</pubDate>
+      <title>AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?</title>
+      <link>https://www.nature.com/articles/d41586-026-03412-5</link>
+      <guid isPermaLink="false">d-1f302f84e5</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by integrating diverse medical image datasets annotated for both anatomical structures and abnormalities. We first propose a student-teacher training strategy to effectively combine datasets with heterogeneous label spaces, mitigating catastrophic forgetting, and im proving feature learning. In addition, building on our previously pro posed example-based EM-DETR framework, we adapt it to jointly learn from multiple domain-specific datasets, enabling fine-grained, example driven detection across m…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14518v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03412-5 Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positive.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03412-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TorchCurves: Differentiable Parametric Curves</title>
-      <link>https://arxiv.org/abs/2611.14516v1</link>
-      <guid isPermaLink="false">d-d2221ef56c</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:52 GMT</pubDate>
+      <title>ATR promotes genome instability via CENP-A eviction from centromeres after prolonged exposure to genotoxic stress</title>
+      <link>https://www.nature.com/articles/s41467-026-79517-2</link>
+      <guid isPermaLink="false">d-bbaf937f73</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. The library provides trainable modules, reusable basis modules, and a functional interface, supporting applications ranging from continuous feature embeddings to Kolmogorov-Arnold networks and functional regression. Its implementation combines classical evaluation algorithms with vectorized PyTorch operations, emphasizing readability and maintainability without custom hardware kernels. Timing experiments compare curve evaluation against NumPy and SciPy and KAN training against EfficientKAN across a range of problem sizes. The results illustrate where this generality remains computationally pra…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14516v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 11 November 2026; doi:10.1038/s41467-026-79517-2 Interphase DNA damage can lead to genome instability by promoting missegregation of chromosomes lacking centromeres. Here the authors show that DNA damage activates ATR and driving VCP-dependent eviction of CENP-A from centromeres to nucleoli. CENP-A loss causes increased chromosomes missegregation, linking DNA damage to centromere dysfunction.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79517-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models</title>
-      <link>https://arxiv.org/abs/2611.14515v1</link>
-      <guid isPermaLink="false">d-9d0d5f7ce6</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:46 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turns a student&amp;apos;s training experience into adaptive scaffolds, with minimal domain-specific information and no human intervention during training. A frozen teacher periodically examines this experience, diagnoses bottlenecks, and designs scaffolds in two forms: (i) strategies shared across a class of tasks and (ii) hints for individual hard tasks, adjusting the content and amount of support as the student learns. The scaffolds are removed at evaluation. We apply the same framework to ALFWorld, sear…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14515v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations</title>
-      <link>https://arxiv.org/abs/2611.14514v1</link>
-      <guid isPermaLink="false">d-0935eb7dfa</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:43 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusive and collectively exhaustive competing explanations. Each experiment is scored by how its evidence redistributes belief across the set, and the question is resolved when belief concentrates on one explanation. Because contrast sets change only the unit an agent proposes and scores, an existing agent can use them to re-evaluate evidence it has already collected or to guide its search. Across six domains, $89\%$ of the pointwise candidates with the largest belief shifts are rejections. On the sa…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14514v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents</title>
-      <link>https://arxiv.org/abs/2611.14511v1</link>
-      <guid isPermaLink="false">d-a31f1adc23</guid>
-      <pubDate>Tue, 10 Nov 2026 18:56:32 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturizer, which generates executable code to construct features for logistic regression, optionally incorporating features derived from LLM subcalls. These agents achieve up to 67% and 74% accuracy, respect…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14511v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology</title>
-      <link>https://arxiv.org/abs/2611.14508v1</link>
-      <guid isPermaLink="false">d-e63f16c861</guid>
-      <pubDate>Tue, 10 Nov 2026 18:55:48 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, gains or plasticity rates the model also needs, and modellers often tune these until the real-wiring model works. We separate three estimands: physiology tuned on the real wiring and transferred to nulls (P1), each wiring tuned on its own (P2), and P2 restricted to physiology consistent with independent data (P3). The biases involved are known in machine learning (under-tuned baselines, inherited weights, winner&amp;apos;s curse); we measure what they do to biological conclusions, using synthetic ground truth, placebo nulls and three Drosophila circuit models. Some claims survive every protocol we test: segregated reward and punishment dopamine improves learning, and head-direction topography is requi…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14508v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Continual-ARC: Measuring Skill Acquisition over a Working Lifetime</title>
-      <link>https://arxiv.org/abs/2611.14505v1</link>
-      <guid isPermaLink="false">d-8182382899</guid>
-      <pubDate>Tue, 10 Nov 2026 18:55:01 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The same tasks return after dormant gaps with fresh instances, while new tasks keep arriving. On each instance, the learner may pay for demonstrations, submit answers, or act inside the harness, with retries permitted on incorrect submissions, which are paid for. Each instance is scored based on the share of this feedback budget consumed. Since a learner may keep anything between instances, memory-based and weight-based systems are scored on the same scale. After the stream, the learner is frozen …&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14505v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emergent Biological Capabilities in a Foundation Model for Molecular Interactions</title>
-      <link>https://arxiv.org/abs/2611.14504v1</link>
-      <guid isPermaLink="false">d-a0e8a55384</guid>
-      <pubDate>Tue, 10 Nov 2026 18:53:01 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalent engagement). All three capabilities generalize to out-of-distribution complexes. Bonbon was trained on protein-ligand sequences alone, without any task-specific supervision and without structural coordinates. We conducted controlled scaling experiments across six model scales from 42M to 1.6B parameters; every capability evaluated shows a sharp jump at the largest scale on continuous metrics, e…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14504v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion</title>
-      <link>https://arxiv.org/abs/2611.14498v1</link>
-      <guid isPermaLink="false">d-fcaaf43d3c</guid>
-      <pubDate>Tue, 10 Nov 2026 18:51:31 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with brain-like wiring are more robust at lower computational cost is unclear. We address this by benchmarking a task-optimized, continuous-time recurrent neural network of the fly visual system constrained by its synaptic connectome (FlyNet) against artificial neural networks. We compare it against CNNs, RAFT, and continuous-time recurrent neural networks without detailed connectome constraints (sCTRNN, CTRNN) on a collision-detection task within a differentiable 3D rendering pipeline. FlyNet is adversarially vulnerable but, relative to its compute, more robust to common video corruptions than RAFT, while using up to five orders of magnitude fewer FLOPs. The CTRNNs remain more robust than FlyNet across almost all tested perturbations, suggesting that connectome constraints…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14498v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</title>
-      <link>https://arxiv.org/abs/2611.14496v1</link>
-      <guid isPermaLink="false">d-aa26fc95f5</guid>
-      <pubDate>Tue, 10 Nov 2026 18:51:05 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, without manual labels. Existing self-supervised methods either reconstruct sensor-specific pixel detail, align each image only with its co-registered twin, or rely on large transformers with 118-173M parameters (and up to 398M). We introduce RS-JEPA, a compact joint-embedding predictive framework built on a Vision Mamba encoder shared by both sensors. Since a state-space encoder reads an image as an ordered sequence of patches, we propose scan-path views, which treat two reading orders of the same image as two views with identical pixels and predict the hidden patches in one order from the visible patches in the other.To keep this prediction challenging, we propose Adversarial View Coupling (AVC), which learns the hardest split of the visible patches, and a neighbourhood consensus loss that ali…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14496v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents</title>
-      <link>https://arxiv.org/abs/2611.14493v1</link>
-      <guid isPermaLink="false">d-5c0e1269e5</guid>
-      <pubDate>Tue, 10 Nov 2026 18:50:06 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies evaluation harness stability through repeated measurements, finding that 97% of configurations meet the stability threshold and that stability patterns are agent-independent. Phase 2 measures known risk detection on 72 ground-truth test cases, where the trace-based framework achieves the best precision-recall balance (F1=0.90) while text-only evaluation matches on recall but generates 5x more false alarms. Phase 3 evaluates unknown risk discovery, uncovering 24 novel failures with zero overlap b…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14493v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows</title>
-      <link>https://arxiv.org/abs/2611.14492v1</link>
-      <guid isPermaLink="false">d-f3b6599e6a</guid>
-      <pubDate>Tue, 10 Nov 2026 18:49:47 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent&amp;apos;s reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled for different orchestration platforms. On $79$ procedures from our production platform, ReTrace workflows reach $93.8\%$ completion, against $96.8\%$ for the agent, at $24\%$ lower cost per task. On…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.14492v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Topographical mismatch sustains open microchannels in living soft tissue for non-destructive protein biopsy</title>
+      <link>https://www.nature.com/articles/s41467-026-78755-8</link>
+      <guid isPermaLink="false">d-15e67aabe1</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 11 November 2026; doi:10.1038/s41467-026-78755-8 Skin-attached devices can easily inflame or collapse. Here, the authors show a multi-lobed microneedle device that holds micron-scale conduits open for seven days, allowing repeated protein sampling from interstitial fluid&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78755-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
