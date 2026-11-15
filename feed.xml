@@ -5,17 +5,17 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:48:48 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies</title>
-      <link>https://www.nature.com/articles/s41467-026-79090-8</link>
-      <guid isPermaLink="false">d-5d99bd31d9</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79090-8 The study introduces deep learning-based protein-protein interfaces’ quality score- DPI-score, that uses only structural coordinates, without engineered interface features. It provides complementary validation and detects errors at interfaces.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79090-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses</title>
+      <link>https://www.nature.com/articles/s41467-026-79192-3</link>
+      <guid isPermaLink="false">d-5897c8f0d0</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 15 November 2026; doi:10.1038/s41467-026-79192-3 TAA×CD28 costimulatory bispecific antibodies are a class of immunotherapeutics that provide tumor-targeted CD28 costimulation to T cells by crosslinking CD28 on T cells to a tumor-associated antigen (TAA) expressed on tumor cells. Here, the authors show that cytotoxic therapies reprogram the tumor microenvironment and augment the antitumor immunity induced by TAA×CD28 bispecifics.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79192-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -36,6 +36,36 @@
       <category>医疗健康</category>
       <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03458-9 Learning uncertainty fields for joint brain stroke diagnosis and intrinsic lesion localization in CT and MRI&lt;/p&gt;
 &lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03458-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning health system frameworks and the integration of artificial intelligence and data science in United States health care: a scoping review</title>
+      <link>https://www.nature.com/articles/s41746-026-03452-1</link>
+      <guid isPermaLink="false">d-82f52217f4</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03452-1 Learning health system frameworks and the integration of artificial intelligence and data science in United States health care: a scoping review&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03452-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Measurement fidelity and external validation of automated breast DCE-MRI segmentation</title>
+      <link>https://www.nature.com/articles/s41746-026-03446-z</link>
+      <guid isPermaLink="false">d-34e7a78e9b</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03446-z Measurement fidelity and external validation of automated breast DCE-MRI segmentation&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03446-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies</title>
+      <link>https://www.nature.com/articles/s41467-026-79090-8</link>
+      <guid isPermaLink="false">d-5d99bd31d9</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79090-8 The study introduces deep learning-based protein-protein interfaces’ quality score- DPI-score, that uses only structural coordinates, without engineered interface features. It provides complementary validation and detects errors at interfaces.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79090-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -109,103 +139,73 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>This AI ‘mechanic’ can peer inside the black box of other neural networks</title>
-      <link>https://www.nature.com/articles/d41586-026-03679-8</link>
-      <guid isPermaLink="false">d-ffaaba2ce3</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.&lt;/p&gt;
-&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03679-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enhanced skin tone and blood estimation through AI-enabled upscaling of discrete reflectance spectra</title>
-      <link>https://www.nature.com/articles/s41746-026-03429-0</link>
-      <guid isPermaLink="false">d-ffce6f8ae0</guid>
+      <title>Distinct input-output relationships between basal forebrain subnuclei underlie heterogeneous cholinergic modulation of the mouse cortex</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.10.765460v2</link>
+      <guid isPermaLink="false">d-3b01835e1a</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 13 November 2026; doi:10.1038/s41746-026-03429-0 Enhanced skin tone and blood estimation through AI-enabled upscaling of discrete reflectance spectra&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03429-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The basal forebrain (BF) supports many behavioral functions via its brain-wide projections, which can be recruited independently and task specifically. However, the anatomical underpinnings for this functional heterogeneity are poorly understood. Here, we compared two mouse BF subnuclei, the horizontal diagonal band (HDB) and the substantial innominata (SI), in terms of their anatomical connectivity and functional recruitment. Using anterograde and retrograde tracing, we show that they target largely segregated forebrain regions, but their input comes from a partially overlapping subset of regions. However, many neurons within each region project to just one of the subnuclei, suggesting they can be recruited independently. To test this, we combined optogenetics and widefield Ca2+ imaging and showed that stimulating prefrontal cortical projections to the HDB or SI results in distinct large-scale patterns of cortical activity via a cholinergic mechanism. Our results provide an anatomica…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.10.765460v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Multicenter benchmarking of large language models for bladder cancer management recommendations from mpMRI reports</title>
-      <link>https://www.nature.com/articles/s41746-026-03469-6</link>
-      <guid isPermaLink="false">d-526ba4b181</guid>
+      <title>Visual object recognition in the fly: the internal representation of a predator drives defensive behaviour</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.09.765114v2</link>
+      <guid isPermaLink="false">d-b2e1f88a1a</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 13 November 2026; doi:10.1038/s41746-026-03469-6 Multicenter benchmarking of large language models for bladder cancer management recommendations from mpMRI reports&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03469-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Animals recognize visual objects and respond to them appropriately to survive. This process is thought to unfold in stages: the visual scene is first deconstructed into constituent features, which are then reconstructed into representations of object identity and relayed to motor circuits. Here we define a neural circuit in Drosophila that underlies the visual recognition of a natural predator, the parasitoid wasp, and orchestrates defence. We found that flies exhibit a repertoire of directed defensive actions structured by the wasp&amp;apos;s position within the fly&amp;apos;s field of view. Expression of these behaviours is driven by visual detection of a conspicuous morphological cue -- the wasp&amp;apos;s elongated antennae. A small subset of lobula columnar (LC) visual projection neuron types are required for defence and are activated by constituent visual features of the wasp. Three LC types respond selectively to the wasp&amp;apos;s antennae, and relay this information to LC9, which sums antennal- and body-featur…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.09.765114v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Deploy frontier AI models on AWS Trainium with SGLang-Neuron</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/</link>
-      <guid isPermaLink="false">d-2606be0d98</guid>
-      <pubDate>Thu, 12 Nov 2026 22:03:34 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Clofarabine enforces dual host-pathogen translational arrest and disarms enteric bacterial virulence</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.09.757903v3</link>
+      <guid isPermaLink="false">d-de4be6430b</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Enteropathogenic and enterohaemorrhagic Escherichia coli (EPEC/EHEC) cause severe global diarrhoeal disease, exacerbated by rising antimicrobial resistance. Pathogenesis relies on attaching and effacing lesions, where bacteria generate actin pedestals to adhere, replicate, and destroy intestinal microvilli. To identify novel anti-virulence candidates targeting this process, we conducted a high-throughput phenotypic screen quantifying pedestal formation via high-content fluorescence microscopy. We identified the anticancer nucleotide analogue clofarabine as a potent inhibitor of EPEC growth and pathogenesis. Distinct from its oncology mechanism - inducing DNA chain termination and apoptosis - clofarabine competes with bacterial ATP-dependent processes to impede gene transcription, protein synthesis, and Type III Secretion System (T3SS) function. Remarkably, EPEC counteracts this inhibition by cleaving clofarabine, enabling restored protein synthesis and resumed growth. Furthermore, we …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.09.757903v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="false">d-be7f67ea52</guid>
-      <pubDate>Thu, 12 Nov 2026 21:47:07 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Reliable prediction of short linear motifs in the human proteome</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.03.04.709504v3</link>
+      <guid isPermaLink="false">d-5598ac7701</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Short linear motifs (SLiMs) are small interaction modules within intrinsically disordered regions of proteins that interact with specific domains, and thereby regulate diverse biological processes. The limited information in SLiM definitions leads to frequent false positive hits in computational and experimental SLiM identification methods. Here, we refined the annotations of known motif classes to create a high-quality training dataset, and developed SLiMMine, a deep learning-based method to identify SLiMs in the human proteome. Relying on protein embeddings, SLiMMine outperforms similar approaches in identifying functional SLiMs, while eliminating ~80% of the pattern matching-based hits as false-positives. Furthermore, it can uncover novel SLiMs that do not fit known motif classes purely based on sequence features. Finally, narrowing the broad interactor-domain definitions of SLiM classes to specific partners enables more precise linking of predicted SLiMs to known protein-protein i…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.04.709504v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Four Amazon Bedrock inference choices that affect cost</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/</link>
-      <guid isPermaLink="false">d-3492185016</guid>
-      <pubDate>Thu, 12 Nov 2026 20:51:55 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Coupling Complementary Pathways in a Bacterial Co-culture Enables 4-Aminophenol Removal during Paracetamol Degradation</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1</link>
+      <guid isPermaLink="false">d-4dfa4c7e50</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Pharmaceutical biodegradation can generate potentially toxic metabolites that persist after the parent compound has been removed, posing additional risks to aquatic environments. Microbial co-cultures offer a promising strategy to address this challenge by combining complementary metabolic capabilities to remove both pharmaceuticals and their harmful transformation products by coupling complementary degradation pathways. Here, we investigated a two-species co-culture combining the paracetamol-degrading bacterium Delftia P1 with Microbacterium lacus to enable subsequent 4-AP removal. While Delftia P1 efficiently degraded paracetamol, it accumulated 4-AP as a dead-end metabolite. M. lacus was selected to complement this metabolic limitation because its genome contains a homolog of sadB, a monooxygenase gene involved in 4-AP transformation. The relative abundance of the two strains strongly influenced 4-AP removal, with the highest efficiency achieved at a Delftia P1:M. lacus cell-densit…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/business/customer-stories/amplitude</link>
-      <guid isPermaLink="false">d-88ce5596f3</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/business/customer-stories/amplitude&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Infection-dependent antibiotic response phenotypes emerge during chronic airway adaptation of Pseudomonas aeruginosa</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1</link>
+      <guid isPermaLink="false">d-46bb6d942e</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Objectives Chronic Pseudomonas aeruginosa airway infections can persist for years despite intensive antibiotic therapy guided by standard antimicrobial susceptibility testing. While this technique captures the emergence of resistance, it does not reproduce many features of the infection environment, where adaptation acquired during chronic infection may alter bacterial responses to antibiotics in ways that are not fully reflected by conventional susceptibility testing. Here we investigated antibiotic responses of longitudinal clinical isolates under standard laboratory conditions and in an airway epithelial infection model. Methods Six longitudinal pairs of P. aeruginosa isolates from people with cystic fibrosis were analysed. Changes in bacterial growth following exposure to tobramycin, ceftazidime and ciprofloxacin were quantified under standard laboratory conditions and compared with changes in bacterial burden after treatment measured in differentiated airway epithelial cultures m…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/</link>
-      <guid isPermaLink="false">d-d5ddfc7139</guid>
-      <pubDate>Thu, 12 Nov 2026 19:29:55 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Back to Pixels: Lifting Latent Video Diffusion into Pixel Space</title>
-      <link>https://arxiv.org/abs/2611.17336v1</link>
-      <guid isPermaLink="false">d-9398493d8f</guid>
-      <pubDate>Thu, 12 Nov 2026 18:59:55 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to directly generate every frame in pixel space. PixVid keeps the diffusion transformer and replaces the VAE decoder with a convolutional head that renders its outputs into pixels. We find that predicting clean video rather than velocity, together with a larger noise shift, is key to quality. Finetuned from Wan2.1-14B, PixVid is competitive with the latent baseline within $\sim 1.3$M training clips. Working framewise in pixels, it generates at $2\times$ higher resolution with the same per-frame token …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.17336v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unbundling Multimodal Vision Encoding</title>
-      <link>https://arxiv.org/abs/2611.17334v1</link>
-      <guid isPermaLink="false">d-90f1100590</guid>
-      <pubDate>Thu, 12 Nov 2026 18:59:54 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a controlled framework where we pretrain all models from scratch on common data and compare them on visual question answering and language benchmarks at matched lifetime compute. We find that the visual prior is not necessary; an encoder trained jointly from scratch is on par with a pretrained one, without a separate training stage. What matters instead is dedicated vision capacity: an encoder-free…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.17334v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <title>Flexible phosphorus allocation to the phosphoproteome underpins diatom regulatory adaptations to fluctuating phosphate supply</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1</link>
+      <guid isPermaLink="false">d-b023cfb725</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Diatoms are major drivers of marine phosphorus (P) cycling and are highly adapted to cope with variable P supply. P-starved diatoms can sense increases in P availability within seconds, accumulating this limiting resource through luxury polyphosphate (polyP) storage. Yet, how diatoms coordinate such responses is unknown. Protein phosphorylation is a core mechanism for environmental signal transduction in eukaryotes, but how cells balance investment in protein phosphorylation against competing physiological demands during P limitation is poorly understood. Here, we characterise system-wide remodelling of the Phaeodactylum tricornutum phosphoproteome in response to P deficiency and subsequent resupply. We identify widespread proteome dephosphorylation across 44% of phosphosites, revealing a previously unrecognised P-sparing strategy in marine phytoplankton. Following P resupply, diatoms orchestrate extensive phosphoproteome reprogramming within minutes. We characterise previously unreco…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
