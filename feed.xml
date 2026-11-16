@@ -5,9 +5,99 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:47:56 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed</title>
+      <link>https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/</link>
+      <guid isPermaLink="false">d-83aa2fcde3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:25:27 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta&amp;apos;s Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed appeared first on Meta Newsroom .&lt;/p&gt;
+&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
+      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
+      <guid isPermaLink="false">d-b769d39813</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:28 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A step toward defining the Standard Model on a lattice</title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <guid isPermaLink="false">d-a0bfa3d070</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/step-toward-defining-the-standard-model&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our new blog for science</title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="false">d-8110ba6428</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/our-new-blog-for-science&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diversification without convergence: national childhood respiratory pathogen spectra diverge as they diversify, 1990-2023</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.01.26361890v2</link>
+      <guid isPermaLink="false">d-e7ff241f37</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background National childhood respiratory pathogen spectra are diversifying nearly everywhere - within-country diversity rose in 203 of 204 countries between 1990 and 2023 - yet whether countries are diversifying toward a common spectrum or along divergent paths is unknown. We quantified between-country compositional distance of national pathogen spectra over the same period. Methods We built national pathogen share vectors from Global Burden of Disease Study 2023 lower respiratory infection etiologic attributions (26 pathogens, 204 countries, ages 0-19 years) at five timepoints spanning 1990-2023. Between-country distance was measured as all pairwise Jensen-Shannon divergences (JSD; primary) and Bray-Curtis dissimilarities, with Baselga and Jaccard decompositions; robustness was assessed across metrics, pathogen panels, low-count thresholds and a balanced panel of 107 countries. Results Mean pairwise JSD rose from 0.0084 in 1990 to 0.0283 in 2023 (+238%; trend p = 0.030), peaking in …&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.01.26361890v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Avoidable childhood respiratory-infection deaths: a frontier analysis of episode-fatality ratios in 204 countries, 1990-2023</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.01.26361882v2</link>
+      <guid isPermaLink="false">d-0332db9d25</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background Respiratory infections remain the leading infectious cause of death among children and adolescents, yet the share of these deaths that could be averted with currently feasible care is not routinely quantified. Existing amenable-mortality frameworks rely on cause lists and population-level mortality benchmarks and do not exploit information on how many episodes occur. We propose an episode-fatality-ratio (EFR) frontier approach and apply it to lower respiratory infections (LRI), whooping cough (pertussis) and upper respiratory infections (URI) in 204 countries, 1990-2023. Methods For each cause, country and year we computed EFR = deaths/incident episodes using Global Burden of Disease (GBD) 2023 estimates for ages 0-19 years. The frontier was defined as the 10th-percentile country EFR within each GBD super-region, cause and year; avoidable deaths = max(0, deaths - episodes x frontier EFR). Primary estimates are deterministic; 95% uncertainty intervals (UIs) come from 2,000 M…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.01.26361882v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thermal variability and the geography of optimal temperature for child survival: childhood respiratory-infection mortality in 171 countries: a systematic analysis of the Global Burden of Disease Study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.08.31.26361864v2</link>
+      <guid isPermaLink="false">d-91162780ff</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Background In adults, cold-attributable mortality exceeds heat-attributable mortality roughly 17-fold. Child-specific evidence has begun to emerge only recently-a nationwide Brazilian case-crossover study located the minimum mortality temperature (MMT) for under-five deaths, and a 56-country survey-based analysis linked monthly temperature anomalies to under-five mortality-but no multi-country, climate-zone-resolved estimate of the childhood respiratory-infection MMT exists, and whether temperature variability is independently associated with childhood respiratory mortality at the global scale is unknown. We quantified both. Methods We combined Global Burden of Disease 2023 mortality estimates-lower respiratory infection (LRI) deaths at ages 0-19 years and asthma deaths at ages 0-24 years, 171 countries, 1990-2023-with 0.5 degree monthly land temperature and diurnal temperature range (DTR) fields from C-LSAT/C-LDTR (1901-2023). Four exposure dimensions (annual mean, DTR, seasonal ampl…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.08.31.26361864v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expert-level localization of fine-grained cardiac structures across the transthoracic echocardiogram</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.11.10.26367643v2</link>
+      <guid isPermaLink="false">d-b55ee21d27</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Artificial intelligence models for echocardiography interpret studies without identifying the structures that support their outputs. We show that this spatial grounding does not emerge from the pretraining of current vision-language models. General-purpose and medical vision-language models and an open-vocabulary detector recalled 3% or fewer of cardiac structures and scored below a box that never sees the image. EchoLens, a detector trained on 5,912 expert-annotated structures and 4,219 Doppler signals from 136 patients, recalled 87% and localized structures as reliably as a blinded expert reader (box centre within the reference in 95.7% and 95.3% of cases). It covers 21 structures across 11 transthoracic views and 11 spectral Doppler signal types. In external data, two physicians judged 81-92% of its detections correct across all 11 views, and it identified the Doppler signal type in 83% of frames. EchoLens provides the spatial layer that grounded echocardiographic interpretation re…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.11.10.26367643v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Directly visualizing the energy level structure of quantum dot molecules</title>
+      <link>https://www.nature.com/articles/s41467-026-79672-6</link>
+      <guid isPermaLink="false">d-df86b14f69</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature Communications, Published online: 15 November 2026; doi:10.1038/s41467-026-79672-6 Characterizing the energy spectrum of semiconductor quantum dots is essential for spin qubit operation but remains challenging across broad parameter ranges. Here, the authors use molecular spectroscopy to map one and two electron energy levels in a silicon double quantum dot as functions of detuning, tunnel coupling, and magnetic field.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79672-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses</title>
       <link>https://www.nature.com/articles/s41467-026-79192-3</link>
@@ -19,193 +109,103 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening</title>
-      <link>https://www.nature.com/articles/s41746-026-03466-9</link>
-      <guid isPermaLink="false">d-74e2012e05</guid>
+      <title>Multicellular signaling in reverse cardiac remodeling revealed by integrated bulk and single-nucleus transcriptomics</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.01.12.699040v2</link>
+      <guid isPermaLink="false">d-1af89cd3f3</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03466-9 Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03466-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Heart failure results from maladaptive multicellular remodeling triggered by sustained biomechanical stress. Although mechanical unloading can promote reverse remodeling, recovery is frequently incomplete and its mechanistic basis remains unclear. Using a reversible murine pressure-overload model combined with bulk and single-nucleus transcriptomics, we demonstrate that reverse remodeling represents an actively maintained yet constrained multicellular state. Unloading improved cardiac function and partially restored extracellular matrix and metabolic programs, whereas inflammatory and mitochondrial dysfunction signatures persisted. Cardiomyocytes and endothelial cells largely re-established homeostatic transcriptional states, while fibroblasts retained activated programs that dominated residual pathology. Multicellular factor analysis delineated a reversible metabolic stress program and a persistent inflammatory-mitochondrial program coordinated across cardiac cell types. Cell-cell co…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.12.699040v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Learning uncertainty fields for joint brain stroke diagnosis and intrinsic lesion localization in CT and MRI</title>
-      <link>https://www.nature.com/articles/s41746-026-03458-9</link>
-      <guid isPermaLink="false">d-79bcfe5e21</guid>
+      <title>Network modeling identifies vitamin B2 control of AIFM2 deficit-driven hepatocyte death in MASLD</title>
+      <link>https://www.biorxiv.org/content/10.1101/2024.10.10.617610v3</link>
+      <guid isPermaLink="false">d-e120e38dfe</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03458-9 Learning uncertainty fields for joint brain stroke diagnosis and intrinsic lesion localization in CT and MRI&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03458-9&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Drug discovery for metabolic dysfunction-associated steatotic liver disease (MASLD) remains difficult due to network effects. We developed MetaLiver, a public resource to identify druggable nodes within complex interactomes. It incorporates a MASLD-specific knowledge graph that improves bioactive compound contextualization while reducing computing time 18.8-fold. Layering progression-resolved bulk and hepatocyte-specific single-cell MASLD data onto this graph identified the vitamin B2-dependent flavoproteome (FlavProt) as an injury-sensitive network. Induced pluripotent stem cell-derived and primary human hepatocytes validated that flavin-cofactor replenishment mitigates FlavProt-dependent dysregulation, augmenting metabolic functions under cellular stress. Saturating flavin-cofactor availability blunted human immune cell activation. Clinically, a FlavProt expression score significantly correlated with poor outcomes in retrospectively stratified MASLD patients. We identified the oxido…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.10.10.617610v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Learning health system frameworks and the integration of artificial intelligence and data science in United States health care: a scoping review</title>
-      <link>https://www.nature.com/articles/s41746-026-03452-1</link>
-      <guid isPermaLink="false">d-82f52217f4</guid>
+      <title>A dynamic displacement mechanism drives protein import into mitochondria</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.01.14.699430v2</link>
+      <guid isPermaLink="false">d-369bec6d31</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03452-1 Learning health system frameworks and the integration of artificial intelligence and data science in United States health care: a scoping review&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03452-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Most mitochondrial proteins are produced in the cytosol and imported through the translocase of the outer mitochondrial membrane (TOM) to reach their final destination. Although this protein entry gate has been structurally characterized, it remains unclear how precursor proteins are handed off from the cytosolic receptor domains to the translocation pore. Here we show that the cytosolic domain of Tom22 - traditionally viewed as the central TOM receptor - acts not as a structured scaffold but as a largely disordered, flexible segment that plays an active role in precursor transfer. Atomic-level structural techniques and in vivo experiments identified a conserved short linear motif that forms a transient -helical element within this disordered domain. By binding to the canonical precursor protein binding sites of the receptors Tom20 and Tom70, this critical -helical segment acts as a precursor protein displacement element (PPDE). This competitive interaction facilitates the release of …&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.01.14.699430v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Measurement fidelity and external validation of automated breast DCE-MRI segmentation</title>
-      <link>https://www.nature.com/articles/s41746-026-03446-z</link>
-      <guid isPermaLink="false">d-34e7a78e9b</guid>
+      <title>From Network Topology to Parameterization: An Optimized Model of Endothelial Mechanobiology</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.05.756772v2</link>
+      <guid isPermaLink="false">d-b660235432</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 14 November 2026; doi:10.1038/s41746-026-03446-z Measurement fidelity and external validation of automated breast DCE-MRI segmentation&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03446-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Endothelial cells integrate biomechanical and biochemical cues to regulate vascular function, which can be modeled using signaling networks. Yet, the extent to which their signaling behavior is determined by network topology versus reaction-specific parameterization remains unclear. We developed a continuous logic-based ordinary differential equation model of endothelial signaling containing 70 species and 123 regulatory reactions assembled from the literature. Model predictions were evaluated against 79 literature-defined responses to imposed wall stress, wall shear stress, hypoxia, or TNF. We first tested whether a single global parameter triplet (describing reaction weight, Hill coefficient, and half-maximal activation) could reproduce these observations. Investigator-selected global parameters reproduced 62/79 responses (78.48%). Monte Carlo sampling of 100,000 globally constant parameter sets improved agreement to 69/79 responses (87.34%), indicating that network topology alone c…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.05.756772v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies</title>
-      <link>https://www.nature.com/articles/s41467-026-79090-8</link>
-      <guid isPermaLink="false">d-5d99bd31d9</guid>
+      <title>Dynamic Hierarchical Interleaved Bloom Filter: An Updatable Index for Large-Scale Fast Sequence Search</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.08.26.747224v2</link>
+      <guid isPermaLink="false">d-811d0ee4d5</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79090-8 The study introduces deep learning-based protein-protein interfaces’ quality score- DPI-score, that uses only structural coordinates, without engineered interface features. It provides complementary validation and detects errors at interfaces.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79090-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Motivation: A continued decrease in sequencing costs has facilitated the exponential increase in available sequencing data, with public databases like the European Nucleotide Archive (ENA) and Sequence Read Archive (SRA) reaching well in the order of petabases. This has been the incentive to develop more scalable tools for common bioinformatics tasks. One such task is the approximate searching of short sequence patterns like genes or reads in reference data sets. In recent years, a variety of indexing data structures have been proposed for searching large sequencing databases. The state-of-the-art index, the Hierarchical Interleaved Bloom Filter (HIBF), was first-in-class to index one million samples. However, its static design necessitates costly full reconstructions as repositories grow, motivating an extension to support dynamic updates. Results: In this paper, we introduce a scalable and updatable sequence-search index by extending the HIBF with partial rebuilding to support effic…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.08.26.747224v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/</link>
-      <guid isPermaLink="false">d-3947082fa8</guid>
-      <pubDate>Fri, 13 Nov 2026 23:22:09 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers&amp;apos; no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/</link>
-      <guid isPermaLink="false">d-f30db3bb52</guid>
-      <pubDate>Fri, 13 Nov 2026 22:30:12 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/</link>
-      <guid isPermaLink="false">d-8af6993598</guid>
-      <pubDate>Fri, 13 Nov 2026 22:02:39 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/</link>
-      <guid isPermaLink="false">d-b8861fe7b4</guid>
-      <pubDate>Fri, 13 Nov 2026 21:53:40 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Wallet</title>
-      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-      <guid isPermaLink="false">d-b75d22b73a</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/introducing-chatgpt-wallet&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How AI Is Helping Care Teams Get Patients the Right Care, Sooner</title>
-      <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
-      <guid isPermaLink="false">d-88726910c9</guid>
-      <pubDate>Fri, 13 Nov 2026 13:00:42 GMT</pubDate>
-      <category>交叉与基础设施</category>
-      <description>&lt;p&gt;From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI [&amp;amp;#8230;]&lt;/p&gt;
-&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
-      <link>https://openai.com/business/customer-stories/shield</link>
-      <guid isPermaLink="false">d-be02ca9585</guid>
-      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/business/customer-stories/shield&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Distinct input-output relationships between basal forebrain subnuclei underlie heterogeneous cholinergic modulation of the mouse cortex</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.10.765460v2</link>
-      <guid isPermaLink="false">d-3b01835e1a</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Ribonucleotide Reductase Inhibition Overcomes FLT3 Inhibitor Resistance in Acute Myeloid Leukemia</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.07.21.736123v2</link>
+      <guid isPermaLink="false">d-d0f7c3ab18</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;The basal forebrain (BF) supports many behavioral functions via its brain-wide projections, which can be recruited independently and task specifically. However, the anatomical underpinnings for this functional heterogeneity are poorly understood. Here, we compared two mouse BF subnuclei, the horizontal diagonal band (HDB) and the substantial innominata (SI), in terms of their anatomical connectivity and functional recruitment. Using anterograde and retrograde tracing, we show that they target largely segregated forebrain regions, but their input comes from a partially overlapping subset of regions. However, many neurons within each region project to just one of the subnuclei, suggesting they can be recruited independently. To test this, we combined optogenetics and widefield Ca2+ imaging and showed that stimulating prefrontal cortical projections to the HDB or SI results in distinct large-scale patterns of cortical activity via a cholinergic mechanism. Our results provide an anatomica…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.10.765460v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Internal tandem duplication mutations in FLT3 (FLT3ITD) occur in approximately 30% of patients with acute myeloid leukemia (AML) and are among the most common genetic alterations in this disease. FLT3ITD is a major driver of AML and associated with poor clinical outcomes. Although FLT3 inhibitors (FLT3is) have significantly improved outcomes for patients with FLT3ITD+ AML, acquired resistance remains a major barrier to durable clinical benefit. Reactivation of RAS/MAPK signaling, often driven by activating NRAS mutations, is a major mechanism of FLT3i resistance in AML; however, effective strategies to overcome this resistance remain lacking. Here, we identify ribonucleotide reductase (RNR) as a critical therapeutic vulnerability in NRAS-driven FLT3i-resistant FLT3ITD+ AML. Activation of RAS signaling through SPRY3 loss or oncogenic NRAS mutations confers robust resistance to FLT3is, pharmacologic inhibition of RNR with multiple inhibitors, as well as siRNA-mediated RNR suppression, r…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.07.21.736123v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Visual object recognition in the fly: the internal representation of a predator drives defensive behaviour</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.09.765114v2</link>
-      <guid isPermaLink="false">d-b2e1f88a1a</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Interpersonal alignment in infra-slow EEG rhythms and bodily signals anticipates mutual recognition</title>
+      <link>https://www.biorxiv.org/content/10.1101/2025.05.29.656704v3</link>
+      <guid isPermaLink="false">d-75d078cdd5</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Animals recognize visual objects and respond to them appropriately to survive. This process is thought to unfold in stages: the visual scene is first deconstructed into constituent features, which are then reconstructed into representations of object identity and relayed to motor circuits. Here we define a neural circuit in Drosophila that underlies the visual recognition of a natural predator, the parasitoid wasp, and orchestrates defence. We found that flies exhibit a repertoire of directed defensive actions structured by the wasp&amp;apos;s position within the fly&amp;apos;s field of view. Expression of these behaviours is driven by visual detection of a conspicuous morphological cue -- the wasp&amp;apos;s elongated antennae. A small subset of lobula columnar (LC) visual projection neuron types are required for defence and are activated by constituent visual features of the wasp. Three LC types respond selectively to the wasp&amp;apos;s antennae, and relay this information to LC9, which sums antennal- and body-featur…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.09.765114v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Across multiple timescales, neural rhythms coordinate cognitive and physiological processes. Slower rhythms are increasingly recognised as the scale at which autonomic and interoceptive processes are folded into ongoing cognition, a brain&amp;amp;body view of allostatic regulation that is particularly relevant to social interaction. Examining these slow components of the electroencephalogram (EEG) during real-time interaction remains challenging. Here, we recorded infra-slow EEG alongside respiratory, cardiac and skin conductance signals during the perceptual crossing experiment, a social interaction and EEG hyperscanning paradigm. We assessed interpersonal alignment by contrasting trials in which dyads achieved mutual recognition with trials in which they did not, which separates genuine social alignment or recognition from a shared anticipatory context. Dyads achieving mutual recognition showed enhanced inter-participant alignment of 0.1 Hz infra-slow EEG power relative to those that did no…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.05.29.656704v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Clofarabine enforces dual host-pathogen translational arrest and disarms enteric bacterial virulence</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.10.09.757903v3</link>
-      <guid isPermaLink="false">d-de4be6430b</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Spatiospectral signatures of stomach-brain synchrony</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.03.13.711584v2</link>
+      <guid isPermaLink="false">d-72e418e638</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Enteropathogenic and enterohaemorrhagic Escherichia coli (EPEC/EHEC) cause severe global diarrhoeal disease, exacerbated by rising antimicrobial resistance. Pathogenesis relies on attaching and effacing lesions, where bacteria generate actin pedestals to adhere, replicate, and destroy intestinal microvilli. To identify novel anti-virulence candidates targeting this process, we conducted a high-throughput phenotypic screen quantifying pedestal formation via high-content fluorescence microscopy. We identified the anticancer nucleotide analogue clofarabine as a potent inhibitor of EPEC growth and pathogenesis. Distinct from its oncology mechanism - inducing DNA chain termination and apoptosis - clofarabine competes with bacterial ATP-dependent processes to impede gene transcription, protein synthesis, and Type III Secretion System (T3SS) function. Remarkably, EPEC counteracts this inhibition by cleaving clofarabine, enabling restored protein synthesis and resumed growth. Furthermore, we …&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.10.09.757903v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;While cognitive neuroscience has increasingly recognized the brain-body connection, the temporal dynamics of how the stomach&amp;apos;s intrinsic rhythm (~0.05 Hz) modulates human neural activity remain poorly understood. Leveraging high-resolution magneto- encephalography (MEG) and novel high-density electrogastrography (EGG), we provide the first comprehensive spatiotemporal mapping of human gastric-brain coupling at rest. Our circular-linear correlation approach revealed widespread, broadband phase-amplitude coupling between the gastric rhythm and spontaneous cortical oscillations across delta, theta, alpha, and beta bands. Using nonnegative matrix factorization, we identified distinct spatiospectral fingerprints that significantly overlap with the known fMRI-based gastric resting-state network. Functional connectivity analyses based on multivariate Granger causality further showed that these modulation patterns extend to a gastric influence on frequency-specific, directed communication bet…&lt;/p&gt;
+&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.13.711584v2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reliable prediction of short linear motifs in the human proteome</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.03.04.709504v3</link>
-      <guid isPermaLink="false">d-5598ac7701</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Sleep Variability From Routine Nursing Observation and Wearable Actigraphy and Post-Enrollment Length of Stay in Acute Psychiatric Inpatients: Prospective Observational Study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.09.08.26362319v3</link>
+      <guid isPermaLink="false">d-d082b2c588</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Short linear motifs (SLiMs) are small interaction modules within intrinsically disordered regions of proteins that interact with specific domains, and thereby regulate diverse biological processes. The limited information in SLiM definitions leads to frequent false positive hits in computational and experimental SLiM identification methods. Here, we refined the annotations of known motif classes to create a high-quality training dataset, and developed SLiMMine, a deep learning-based method to identify SLiMs in the human proteome. Relying on protein embeddings, SLiMMine outperforms similar approaches in identifying functional SLiMs, while eliminating ~80% of the pattern matching-based hits as false-positives. Furthermore, it can uncover novel SLiMs that do not fit known motif classes purely based on sequence features. Finally, narrowing the broad interactor-domain definitions of SLiM classes to specific partners enables more precise linking of predicted SLiMs to known protein-protein i…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.03.04.709504v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Background Length of stay (LOS) in acute psychiatric inpatient settings is clinically and operationally important, but practical early markers for identifying patients at risk for prolonged hospitalization remain limited. Objective To evaluate whether sleep instability measured during the early inpatient observation period was associated with prolonged post-enrollment hospitalization in acute psychiatric inpatients. Methods This observational study included 94 consecutive patients admitted to an acute psychiatric inpatient unit. Monitoring began after study enrollment, and participants contributed 5 to 7 available nightly observations from wrist actigraphy and routine nursing observation; observations were not required to occur on consecutive calendar days. The primary exposure was intraindividual sleep variability (IISV), defined as the within-subject standard deviation of nightly total sleep time across available post-enrollment observations. The primary outcome was prolonged post-e…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.64898/2026.09.08.26362319v3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Coupling Complementary Pathways in a Bacterial Co-culture Enables 4-Aminophenol Removal during Paracetamol Degradation</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1</link>
-      <guid isPermaLink="false">d-4dfa4c7e50</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Systematic Benchmarking and Optimization of Retrieval-Augmented Generation (RAG) for Clinical Phenotyping: A Type II Diabetes Case Study in an ICD-Screened Cohort</title>
+      <link>https://www.medrxiv.org/content/10.1101/2025.04.29.25326696v5</link>
+      <guid isPermaLink="false">d-6a5a7df96d</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Pharmaceutical biodegradation can generate potentially toxic metabolites that persist after the parent compound has been removed, posing additional risks to aquatic environments. Microbial co-cultures offer a promising strategy to address this challenge by combining complementary metabolic capabilities to remove both pharmaceuticals and their harmful transformation products by coupling complementary degradation pathways. Here, we investigated a two-species co-culture combining the paracetamol-degrading bacterium Delftia P1 with Microbacterium lacus to enable subsequent 4-AP removal. While Delftia P1 efficiently degraded paracetamol, it accumulated 4-AP as a dead-end metabolite. M. lacus was selected to complement this metabolic limitation because its genome contains a homolog of sadB, a monooxygenase gene involved in 4-AP transformation. The relative abundance of the two strains strongly influenced 4-AP removal, with the highest efficiency achieved at a Delftia P1:M. lacus cell-densit…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Infection-dependent antibiotic response phenotypes emerge during chronic airway adaptation of Pseudomonas aeruginosa</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1</link>
-      <guid isPermaLink="false">d-46bb6d942e</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Objectives Chronic Pseudomonas aeruginosa airway infections can persist for years despite intensive antibiotic therapy guided by standard antimicrobial susceptibility testing. While this technique captures the emergence of resistance, it does not reproduce many features of the infection environment, where adaptation acquired during chronic infection may alter bacterial responses to antibiotics in ways that are not fully reflected by conventional susceptibility testing. Here we investigated antibiotic responses of longitudinal clinical isolates under standard laboratory conditions and in an airway epithelial infection model. Methods Six longitudinal pairs of P. aeruginosa isolates from people with cystic fibrosis were analysed. Changes in bacterial growth following exposure to tobramycin, ceftazidime and ciprofloxacin were quantified under standard laboratory conditions and compared with changes in bacterial burden after treatment measured in differentiated airway epithelial cultures m…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flexible phosphorus allocation to the phosphoproteome underpins diatom regulatory adaptations to fluctuating phosphate supply</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1</link>
-      <guid isPermaLink="false">d-b023cfb725</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Diatoms are major drivers of marine phosphorus (P) cycling and are highly adapted to cope with variable P supply. P-starved diatoms can sense increases in P availability within seconds, accumulating this limiting resource through luxury polyphosphate (polyP) storage. Yet, how diatoms coordinate such responses is unknown. Protein phosphorylation is a core mechanism for environmental signal transduction in eukaryotes, but how cells balance investment in protein phosphorylation against competing physiological demands during P limitation is poorly understood. Here, we characterise system-wide remodelling of the Phaeodactylum tricornutum phosphoproteome in response to P deficiency and subsequent resupply. We identify widespread proteome dephosphorylation across 44% of phosphosites, revealing a previously unrecognised P-sparing strategy in marine phytoplankton. Following P resupply, diatoms orchestrate extensive phosphoproteome reprogramming within minutes. We characterise previously unreco…&lt;/p&gt;
-&lt;p&gt;bioRxiv · 学术一手 · &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Traditional EHR phenotyping methods can require substantial disease-specific development and long-term maintenance. While integrating large language models (LLMs) with Retrieval-Augmented Generation (RAG) is promising, the impact of RAG configurations remains underexplored. We systematically evaluated these design choices for type 2 diabetes mellitus (T2DM) phenotyping in an ICD-screened cohort. Using GPT-4o, we processed 170,678 clinical notes from 275 patients. We evaluated seven embedding models and three prompt strategies (baseline, improved zero-shot, and few-shot). Using the improved zero-shot prompt, we tested 350 embedding model-chunk size-retrieval depth combinations on the training set and selected eight optimized configurations for test-set evaluation. Combined with three prompts, these yielded 24 prompt-configuration combinations for comparison with ICD codes and the institutional PheNorm method. RAG achieved a mean sensitivity of 0.9019 (95% CI: 0.8866-0.9172), specificit…&lt;/p&gt;
+&lt;p&gt;medRxiv · 学术一手 · &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2025.04.29.25326696v5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
