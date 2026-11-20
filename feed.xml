@@ -5,206 +5,207 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:29:53 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
     <item>
-      <title>Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/</link>
-      <guid isPermaLink="false">d-c7c55423aa</guid>
-      <pubDate>Thu, 19 Nov 2026 00:15:58 GMT</pubDate>
+      <title>Amazon SageMaker Inference: 2026 launches in review, part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</link>
+      <guid isPermaLink="false">d-eaf46160e8</guid>
+      <pubDate>Fri, 20 Nov 2026 00:34:07 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year&amp;apos;s total to 26.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Automated data to model transformation for constraint programming with AI</title>
-      <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-      <guid isPermaLink="false">d-6a9e0f2b6d</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Use Kimi Code CLI with models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/</link>
+      <guid isPermaLink="false">d-931fa7c161</guid>
+      <pubDate>Fri, 20 Nov 2026 00:33:30 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-78715-2 The authors introduce CPAM-LLM, a framework that converts unstructured optimization problems into executable constraint models using LLMs, retrieval-augmented generation, data augmentation, and dynamic constraints.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-78715-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The evolutionary plateau of efflux-mediated drug resistance in mycobacteria</title>
-      <link>https://www.nature.com/articles/s41467-026-79513-6</link>
-      <guid isPermaLink="false">d-c521ee4e37</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Lifting weights reduces muscle loss from obesity drugs</title>
+      <link>https://www.nature.com/articles/d41586-026-03751-3</link>
+      <guid isPermaLink="false">d-9be5425116</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03751-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SMC5/6 safeguards chromatin compartments and TAD boundaries for genome stability</title>
+      <link>https://www.nature.com/articles/s41467-026-79493-7</link>
+      <guid isPermaLink="false">d-4393fec29e</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79513-6 Multidrug efflux pumps are major drivers of antimicrobial resistance in bacteria. Here, Sharma et al. use experimental evolution in mycobacteria and show that, after prolonged selection, drug resistance achieved through efflux pump overexpression reaches a stable level, apparently due to exhaustion of cellular energy.&lt;/p&gt;
-&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79513-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79493-7 The SMC5/6 complex protects genome stability, but how it shapes 3D genome folding is unclear. Here, the authors show that SMC5/6 loss in human cells alters chromatin compartments and activates inflammatory and cancer-related genes, changes that are uncoupled from DNA damage.&lt;/p&gt;
+&lt;p&gt;Nature Communications · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41467-026-79493-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Physician AI disclosure, condition severity, and public trust in digital medicine</title>
-      <link>https://www.nature.com/articles/s41746-026-03484-7</link>
-      <guid isPermaLink="false">d-98be285337</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities</title>
+      <link>https://www.nature.com/articles/s41746-026-03454-z</link>
+      <guid isPermaLink="false">d-9b15efaaac</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 19 November 2026; doi:10.1038/s41746-026-03484-7 Physician AI disclosure, condition severity, and public trust in digital medicine&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03484-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 20 November 2026; doi:10.1038/s41746-026-03454-z Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03454-z&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Multicenter evaluation of radiomics and multimodal artificial intelligence for colorectal cancer diagnosis and survival prediction</title>
-      <link>https://www.nature.com/articles/s41746-026-03434-3</link>
-      <guid isPermaLink="false">d-f60e6e9cf3</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Virtual atrial fibrillation dynamics reflect clinical outcomes after catheter ablation</title>
+      <link>https://www.nature.com/articles/s41746-026-03495-4</link>
+      <guid isPermaLink="false">d-17f4d3bfce</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 19 November 2026; doi:10.1038/s41746-026-03434-3 Multicenter evaluation of radiomics and multimodal artificial intelligence for colorectal cancer diagnosis and survival prediction&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03434-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 20 November 2026; doi:10.1038/s41746-026-03495-4 Virtual atrial fibrillation dynamics reflect clinical outcomes after catheter ablation&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03495-4&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Imaging-based biological age gap and risk of mortality and incident diseases: a systematic review and meta-analysis</title>
-      <link>https://www.nature.com/articles/s41746-026-03472-x</link>
-      <guid isPermaLink="false">d-aa15c0fc40</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/</link>
+      <guid isPermaLink="false">d-12c07cc8e4</guid>
+      <pubDate>Thu, 19 Nov 2026 23:02:16 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer&amp;apos;s AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How the BMW Group governs hundreds of agents across thousands of developers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/</link>
+      <guid isPermaLink="false">d-f319fa7376</guid>
+      <pubDate>Thu, 19 Nov 2026 22:20:23 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&amp;amp;amp;D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.&lt;/p&gt;
+&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs</title>
+      <link>https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/</link>
+      <guid isPermaLink="false">d-815ba644c5</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:15 GMT</pubDate>
+      <category>交叉与基础设施</category>
+      <description>&lt;p&gt;NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [&amp;amp;#8230;]&lt;/p&gt;
+&lt;p&gt;NVIDIA 官方博客 · 官方一手 · &lt;a href=&quot;https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Posterior Matching Distillation</title>
+      <link>https://arxiv.org/abs/2611.26629v1</link>
+      <guid isPermaLink="false">d-e9609147c2</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:57 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Diffusion distillation accelerates image and video generation by compressing a pretrained teacher&amp;apos;s iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student&amp;apos;s output distribution to the teacher&amp;apos;s. This matching is often driven by reverse-KL objectives, whose mode-seeking bias favors dominant teacher modes at the expense of diversity across samples. We introduce Posterior Matching Distillation (PMD), a new member of the distribution-based distillation family that combines mode-covering posterior sampling with any-step generation. At zero population loss, PMD recovers the teacher&amp;apos;s full posterior of clean images at each trained noise level. Its stochastic student supports any-step sampling budgets within the trained timestep grid without further training. To learn these posteriors, PMD matches exponentially reweighted averages of student samples conditioned on a fixed noisy state to corresponding teacher posterior means. …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26629v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RL Post-Training in Diffusion Transformers Is Activation Steering</title>
+      <link>https://arxiv.org/abs/2611.26627v1</link>
+      <guid isPermaLink="false">d-1b15aca560</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:53 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in the objective. Although the vectors are identical for every prompt, token, and sampling seed, they recover 90.0-96.3% of the reward gains of six RL-tuned image models, and 89.8% and 111.9% on two RL…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26627v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms</title>
+      <link>https://arxiv.org/abs/2611.26625v1</link>
+      <guid isPermaLink="false">d-63e5ebb00a</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:35 GMT</pubDate>
       <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 19 November 2026; doi:10.1038/s41746-026-03472-x Imaging-based biological age gap and risk of mortality and incident diseases: a systematic review and meta-analysis&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03472-x&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Geometric foundation models (GFMs) estimate camera mo- tion and scene structure from images without requiring ex- pert parameter tuning, but either lack metric scale or rely on learned priors to infer scale, which is unobservable from monocular images alone. Inertial sensing offers a way to observe metric scale, but existing methods add inertial in- formation through a filter or factor graph, which reintro- duces bespoke parameter tuning and optimization costs that can grow with the trajectory. To bridge this gap, we present AnyVIO, a real-time, feed-forward streaming model for monocular visual-inertial odometry (VIO), which combines a streaming GFM with an inertial foundation model (IFM). Both the GFM and IFM predict the metric motion between consecutive frames, and a lightweight learned fusion head quantifies the reliability of each estimate and blends them in a single forward pass. Across nine datasets recorded from cars, legged and ground robots, and handheld and head- mounted dev…&lt;/p&gt;
+&lt;p&gt;arXiv eess.IV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26625v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/</link>
-      <guid isPermaLink="false">d-3d2b437b97</guid>
-      <pubDate>Wed, 18 Nov 2026 23:58:22 GMT</pubDate>
+      <title>PlayCraft: Designing Engaging Games from Agent Play Experience</title>
+      <link>https://arxiv.org/abs/2611.26624v1</link>
+      <guid isPermaLink="false">d-8b0e5590a2</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:34 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Exa&amp;apos;s neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing stage, a player agent watches the game screen, uses the controls, and pursues the game objective over repeated episodes while retaining memory. After each episode, it reports its progress, outcomes, decisions, and reflections. In the crafting stage, a crafter agent uses these reports to revise the game. It estimates player abilities, predicts performance at different proficiency levels, and compares those predictions with a target learning progression. It diagnoses the game and addresses the gaps by giving players meaningful opportunities to …&lt;/p&gt;
+&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26624v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/</link>
-      <guid isPermaLink="false">d-cfee73b7c0</guid>
-      <pubDate>Wed, 18 Nov 2026 23:03:29 GMT</pubDate>
+      <title>TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming</title>
+      <link>https://arxiv.org/abs/2611.26619v1</link>
+      <guid isPermaLink="false">d-b8164f82ec</guid>
+      <pubDate>Thu, 19 Nov 2026 18:58:31 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual addresses, preserving cache layouts and backend interfaces. The Cache Streamer uses computation intervals provided by bounded-state layers to prefetch the next global-attention layer&amp;apos;s prefix into GPU slots shared across global-attention layers, reducing GPU residency while overlapping layer-wise transfers with computation. Generated KV remains resident. The Request Scheduler selects resident or streamed execution and triggers capacity adjustments according to request size and queue state. Together, t…&lt;/p&gt;
+&lt;p&gt;arXiv cs.DC · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26619v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing the Amazon SageMaker JumpStart Model Leaderboard</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/</link>
-      <guid isPermaLink="false">d-cc952c837d</guid>
-      <pubDate>Wed, 18 Nov 2026 22:31:04 GMT</pubDate>
+      <title>One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning</title>
+      <link>https://arxiv.org/abs/2611.26617v1</link>
+      <guid isPermaLink="false">d-fb4779eb14</guid>
+      <pubDate>Thu, 19 Nov 2026 18:58:14 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior, two dynamics. We initialize both models from the same pretrained video DiT and adapt them to their distinct roles: a feed-forward transition encoder with learnable action queries for inverse dynamics, and a causal, action-conditioned video generator for forward dynamics. By controlling information access and optimizing both dynamics end-to-end through a compact bottleneck, O$^{2}$LaF learns transferable actions from unlabeled videos. Across navigation and robotic manipulation, O$^{2}$LaF sets a new state of the art in few-shot action probing and enables stronger zero-shot action transfer acr…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26617v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing Gemini 4 Neon</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
-      <guid isPermaLink="false">d-52640666a8</guid>
-      <pubDate>Wed, 18 Nov 2026 21:35:43 GMT</pubDate>
+      <title>ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement</title>
+      <link>https://arxiv.org/abs/2611.26615v1</link>
+      <guid isPermaLink="false">d-20c80bc6ba</guid>
+      <pubDate>Thu, 19 Nov 2026 18:58:04 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Google DeepMind · 官方一手 · &lt;a href=&quot;https://deepmind.google/blog/introducing-gemini-4-neon/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present ScaleWorld, a causal video model that unifies low-resolution world prediction and high-resolution refinement within a single shared backbone. By refining its own predictions, ScaleWorld produces high-resolution world videos without requiring a separate refinement model. For each video chunk, the shared backbone first completes a low-resolution prediction and then performs one-step high-resolution refinement conditioned on that prediction. To support efficient streaming generation, we maintain separate causal states with a long low-resolution history for prediction and a short high-resolution history for refinement. To address task interference during distillation, we separate specialist optimization from capability consolidation and introduce task-asymmetric on-policy dist…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26615v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation</title>
-      <link>https://arxiv.org/abs/2611.24941v1</link>
-      <guid isPermaLink="false">d-8b211814b6</guid>
-      <pubDate>Wed, 18 Nov 2026 18:59:57 GMT</pubDate>
+      <title>AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control</title>
+      <link>https://arxiv.org/abs/2611.26613v1</link>
+      <guid isPermaLink="false">d-e590a13af1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:57:25 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate metallic and roughness attributes for relighting. We present UltraTex, a cascaded multi-view framework that moves beyond appearance matching by integrating physical knowledge into multi-view diffusion-based PBR generation. UltraTex first jointly predicts albedo and world-space shading normals to generate more detailed albedo maps, and then predicts metallic-roughness (MR) maps conditioned on the generated albedo, reference image, and material semantic priors. To inject material semantics, a lightweight adapter transforms hidden-layer features of a vision-language model (VLM) into intrinsic material representation tokens, providing part-level knowledge anchors for MR estim…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24941v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an intent-grounded critique framework in which the policy agent states a local intent alongside each action, and a critic evaluates the action&amp;apos;s outcome and failure mode against this intent. Our action-level analysis demonstrates the promising capabilities of frontier agents on direct robot control, including closed-loop recovery from local execution failures, reliable semantic grounding across diverse scenes, and strong zero-shot manipulation without task-specific adaptation. It also identifies their …&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26613v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling</title>
-      <link>https://arxiv.org/abs/2611.24940v1</link>
-      <guid isPermaLink="false">d-3d6cf73d30</guid>
-      <pubDate>Wed, 18 Nov 2026 18:59:38 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for control, yet inherit the heavy cost of video generators. Recent latent-space policies avoid pixel generation, yet typically align intermediate features or rely on frozen target encoders, decoupling future prediction from the VLM&amp;apos;s native feature space. $Z$-sight instead predicts the future directly in the visual token space in which its VLM perceives the present. Coupling a foresight expert and a continuous action expert with the VLM in a mixture-of-transformers, $Z$-sight jointly denoises future spatial tokens and actions at inference without pixel reconstruction or external encoders. Trained on human video and robot trajectories, $Z$-sight achieves 81.9% success on SIMPLE (+9.6 points over the strongest baseline) and 73.3% across six Unitree G1 tasks (+2…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24940v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models</title>
-      <link>https://arxiv.org/abs/2611.24938v1</link>
-      <guid isPermaLink="false">d-814142309d</guid>
-      <pubDate>Wed, 18 Nov 2026 18:59:04 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulation. We introduce Phoenix, which learns representations of scene structure for world-action modeling. Specifically, Phoenix Encoder enriches DINOv3&amp;apos;s general visual semantics through dual-teacher distillation of geometric and spatiotemporal semantic knowledge. Next, CS-VAE causally aggregates and compresses Phoenix Encoder features into generative latents while preserving scene information and spatial layout. Finally, Phoenix jointly predicts these latents, complementary appearance latents, and robot actions, linking scene evolution with action generation. To study pretraining data efficiency, we curate approximately 39,000 hours of egocentric and robot manipulation data for representation learning and use the robot demonstration subset for WAM pretraining. Following be…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24938v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jailbreak Detection on Large Language Models via Contrastive Prototype Structures</title>
-      <link>https://arxiv.org/abs/2611.24936v1</link>
-      <guid isPermaLink="false">d-47d79f174d</guid>
-      <pubDate>Wed, 18 Nov 2026 18:56:12 GMT</pubDate>
+      <title>Bio-PM-Guided Synthetic IMU Generation</title>
+      <link>https://arxiv.org/abs/2611.26607v1</link>
+      <guid isPermaLink="false">d-8d0ea36df5</guid>
+      <pubDate>Thu, 19 Nov 2026 18:56:25 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI&amp;apos;s detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-speci…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24936v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classes and benefit from targeted augmentation. We explore whether synthetic IMU data generated in the representation space of a pretrained biosignal encoder, Bio-PM \cite{b1}, can serve as a practical augmentation source. Rather than synthesizing raw signals, we leverage Bio-PM&amp;apos;s frozen encoder to convert 10-second IMU windows into token embedding sequences and train class-conditional decoders in this space: (1) an autoregressive transformer decoder that predicts tokens sequentially, and (2) a diffusion decoder that learns the token distribution through a denoising objective. We analyze generation realism through distributional metrics and embedding-space visualizations, evaluate downstream util…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26607v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems</title>
-      <link>https://arxiv.org/abs/2611.24932v1</link>
-      <guid isPermaLink="false">d-86782ab0be</guid>
-      <pubDate>Wed, 18 Nov 2026 18:55:07 GMT</pubDate>
+      <title>Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth</title>
+      <link>https://arxiv.org/abs/2611.26603v1</link>
+      <guid isPermaLink="false">d-b559d4e899</guid>
+      <pubDate>Thu, 19 Nov 2026 18:55:41 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer&amp;apos;s behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, speed, agreement, or tenure; calibration leaves observable traces in behavioral telemetry; those traces are non-diagnostic on their own, because the fast, low-revision signature of a calibrated expert is indistinguishable from that of a confident novice until it is gated by outcomes; human calibration and a model&amp;apos;s self-knowledge are the same construct, so the joint system should defer to whichever agent is better calibrated on each item; and individual calibration is causally identifiable only above the level of the single judgment. We ground ea…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24932v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming prior work in all of these dimensions. We release a family of models that define a new Pareto frontier in terms of metric accuracy, sharpness, temporal consistency, and runtime. We release code and weights at https://apple-aiml-research.github.io/ml-depth-pro-2/&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26603v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem</title>
-      <link>https://arxiv.org/abs/2611.24927v1</link>
-      <guid isPermaLink="false">d-ebc0e4bc8e</guid>
-      <pubDate>Wed, 18 Nov 2026 18:53:58 GMT</pubDate>
+      <title>SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research</title>
+      <link>https://arxiv.org/abs/2611.26601v1</link>
+      <guid isPermaLink="false">d-78ec02a7fe</guid>
+      <pubDate>Thu, 19 Nov 2026 18:54:19 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CY · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24927v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation</title>
-      <link>https://arxiv.org/abs/2611.24926v1</link>
-      <guid isPermaLink="false">d-2f9f177620</guid>
-      <pubDate>Wed, 18 Nov 2026 18:53:53 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-task pretraining to long-horizon tasks remains underexplored. Long-horizon progress models often rely on task-specific subtask classifiers or fixed action vocabularies, limiting the reuse of learned progress knowledge when adapting to new tasks. To address these challenges, we introduce Grana, a vision-language robot reward model that learns to identify unfinished subtasks and estimate their continuous progress using open-vocabulary subtask descriptions. We train a language-conditioned model to estimate progress in short-horizon tasks and individual subtasks of long-horizon tasks. For long-horizon tasks, we combine the selected subtask&amp;apos;s predicted progress with credit for preceding completed subtasks to estimate whole-task progress. General progress prediction requires…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24926v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Render the Robot, Generate the World: One Video World Model Across Embodiments</title>
-      <link>https://arxiv.org/abs/2611.24925v1</link>
-      <guid isPermaLink="false">d-cdc8063169</guid>
-      <pubDate>Wed, 18 Nov 2026 18:52:28 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Predicting the consequences of an agent&amp;apos;s actions requires modeling both the body&amp;apos;s motion and the environment&amp;apos;s response. Most video world models attempt to learn both from numerical actions, even though geometry and kinematics already specify the intended motion. We introduce Doppel, an embodiment-agnostic video world model conditioned on camera-aligned renderings of future body configurations and numerical action trajectories. By explicitly providing the intended motion, Doppel can focus on predicting object motion and interaction-driven changes in the environment. Rendered motion also provides a common visual interface across different embodiments and action spaces. To train on robot datasets without camera extrinsics, we recover camera poses and align rendered trajectories with recorded observations. We jointly train a single shared video backbone and conditioning adapter on eight datasets spanning eight robot and human embodiments, from single- and bimanual robot arms to a dexte…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24925v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses</title>
-      <link>https://arxiv.org/abs/2611.24924v1</link>
-      <guid isPermaLink="false">d-3f32762ad0</guid>
-      <pubDate>Wed, 18 Nov 2026 18:52:13 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima. We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practices into harness evolution. The loop consists of three steps: (1) User-driven evaluation lets simulated users raise their requirements as issues while they work with the harness over multiple turns. (2) Team-based modification implements those requirements as generalizable changes rather than task-specific patches. (3) Requirement-driven selection merges a change only when it resolves a verified requirement and passes review. Empirically, on held-out …&lt;/p&gt;
-&lt;p&gt;arXiv cs.SE · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24924v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unified Law for Visual Tasks (The Four Laws of Computer Vision)</title>
-      <link>https://arxiv.org/abs/2611.24917v1</link>
-      <guid isPermaLink="false">d-eabe0743db</guid>
-      <pubDate>Wed, 18 Nov 2026 18:48:38 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the world information is encoded into image, which we call World Snapshots, then image processing is world processing, and image generation is World Snapshot generation. Furthermore, if all visual and visualization tasks can be reformulated as generation tasks, then a unified method, World Snapshot Models (WSMs), can perform the vast majority of visual tasks, much as large language models have largely unified natural language processing. This paper validates these laws across more than 1,000 trained and evaluated visual tasks (defined by distinct input-output mappings) and presents a unified training framework for future visual-task research and applications.&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.24917v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and are rarely comparable. We introduce a framework that rates these capabilities on an autonomy scale modeled on the levels of driving automation, and qualifies each claim by its correctness, its availability and the strength of its evidence. We use this framework to systematize the published evidence on LLM capability in vulnerability research. We find that agents discovered, validated, and patched vulnerabilities in real-world software without human intervention before the restricted frontier models of 2026, and that open-weight models subsequently attained comparable autonomy for discovery and validation. We then measure the consequences of evolving LLM security capabiliti…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CR · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.26601v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
