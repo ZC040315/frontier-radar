@@ -5,9 +5,179 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:50:58 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>OmniAct: One Policy, One Million Embodiments</title>
+      <link>https://arxiv.org/abs/2611.33158v1</link>
+      <guid isPermaLink="false">d-a343106e33</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:58 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot&amp;apos;s capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot&amp;apos;s kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot&amp;apos;s joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative joint motions for each node, enabling control across robots with different degrees of freedom and kinematic configurations. To learn how physical structure shapes behavior at scale, we procedurally d…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33158v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PointX: Multi-View Consistent Intrinsics by Querying Surface Points</title>
+      <link>https://arxiv.org/abs/2611.33157v1</link>
+      <guid isPermaLink="false">d-514d368e4c</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:42 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition in every view. We introduce PointX, a simple feed-forward model that predicts intrinsics per 3D surface point instead. A multi-view transformer encodes a set of unposed images, and for any queried surface point, PointX pools the point&amp;apos;s tokens across the views in which it appears and decodes the point&amp;apos;s intrinsics once. Each point of a 3D reconstruction of the scene, such as a point cloud or a mesh, thus receives a single prediction, which is exactly consistent across views by construction and enables view-consistent relighting and editing. The same model also predicts per-view maps, from one image or many, by querying the point seen at every pixel. These maps agree across…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33157v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning</title>
+      <link>https://arxiv.org/abs/2611.33153v1</link>
+      <guid isPermaLink="false">d-b305239604</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:08 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp ac…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33153v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles</title>
+      <link>https://arxiv.org/abs/2611.33151v1</link>
+      <guid isPermaLink="false">d-5bd96d6c23</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:04 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, treating these as independent image-text pairs overlooks their relationships. To address this limitation, we incorporate these structural relationships into contrastive image-text supervision. We preserve exact image-text matches while introducing weaker positive supervision for related pairs, such as a panel and the caption of a sibling panel. We upweight cross-article negatives of the same content type to encourage finer discrimination. We also enrich panel descriptions using visual content, …&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33151v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies</title>
+      <link>https://arxiv.org/abs/2611.33148v1</link>
+      <guid isPermaLink="false">d-4dd1a78f62</guid>
+      <pubDate>Tue, 24 Nov 2026 18:58:53 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher&amp;apos;s trajectories, which contain the teacher&amp;apos;s chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher&amp;apos;s actions alone. The student is trained on these trajectories with its reasoning block left empty, while a KL loss on a replay buffer of its own generations limits drift from its initial model. Surprisingly, the policy learned from these trajectories with an empty reasoning block carries over to inference with thinking enabled, where the student reasons in its own style while acting like the teacher, an effect we call cross-format transfer. Distilling the actions of Qwen3.6-27B raises the task success of…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CL · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33148v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography</title>
+      <link>https://arxiv.org/abs/2611.33147v1</link>
+      <guid isPermaLink="false">d-b73f438af4</guid>
+      <pubDate>Tue, 24 Nov 2026 18:58:32 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a single wide-angle dialogue video. Existing video generators can synthesize new shots, but rely on visual cues alone, so when the source video barely shows the lips, the generated lip motion fails to match the speech. Our key observation is that the speech audio is view-invariant: it constrains lip motion in any target view. Building on this insight, we adapt a pretrained audio-visual diffusion model to generate the new shot from a target frame that specifies the view, a source video that contains the performance, and the speech audio that drives lip motion. In multi-person scenes, however, pretrained audio-visual models drive every visible face with the same speech, causing speech leakage, wh…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33147v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild</title>
+      <link>https://arxiv.org/abs/2611.33145v1</link>
+      <guid isPermaLink="false">d-59363d78bb</guid>
+      <pubDate>Tue, 24 Nov 2026 18:57:48 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial reasoning in static images or synthetic indoor environments, where semantic shortcuts often suffice, making it difficult to faithfully evaluate spatial reasoning capabilities in the wild. In light of this, we present Lost on Campus, a benchmark for evaluating ESR in large-scale real-world outdoor 3D environments reconstructed by 3D Gaussian Splatting. Our benchmark introduces a unified reasoning-action evaluation framework that seamlessly integrates diagnostic QA for isolated reasoning with closed-loop interactive navigation for active reasoning under multimodal instructions. To enable fine-grained diagnosis, we evaluate six capability aspects of ESR: action grounding, spatial foresight, metric awareness, goal-directed planning, ego-allocentric localization, and spatio-temporal consistency.…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33145v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents</title>
+      <link>https://arxiv.org/abs/2611.33144v1</link>
+      <guid isPermaLink="false">d-127ec58da9</guid>
+      <pubDate>Tue, 24 Nov 2026 18:56:44 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Learning for dexterous manipulation is limited by the scarcity of high-quality demonstrations: retargeting from human video is imprecise, teleoperation gives no force feedback to the operator, and exoskeleton-based collection is hard to scale up. We present PyRUA-Dex, a framework that enables coding agents to develop dexterous manipulation through programmatic policy, without the need of demonstrations. The programmatic policy is developed in two stages: during exploration, multiple agents explore in parallel for task skills and ways to compose them, and a distilling agent condenses the successful attempts into a task library and one program. During refinement, this program is improved through randomized layouts for enhanced robustness and execution efficiency. In simulated environments, PyRUA-Dex achieves SOTA on Bench2Dex with a score of 72.9 and reaches 81.0% success on DexJoCo under full randomization, ahead of every trained policy on both benchmarks. In real world experiments on …&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33144v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification</title>
+      <link>https://arxiv.org/abs/2611.33143v1</link>
+      <guid isPermaLink="false">d-bd36131aa6</guid>
+      <pubDate>Tue, 24 Nov 2026 18:56:22 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities under robot motion and collision constraints. Independent checks use simulation state and episode records to assess outcomes and task requirements, with stronger checks of geometry, coverage, or placement. It comprises 250 manually validated tasks across 11 types in five groups and 27 indoor environments, covering object and room search, counting, geometric judgments, direction reasoning, and relocation. Human evaluators achieve 84% strict task success on 100 sampled tasks, with every correct outcome satisfying the required checks. Across seven frontier vision-language models, we identify two complementary failure modes: correct outcomes with unmet task requirements, and incorrect outcomes desp…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33143v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction</title>
+      <link>https://arxiv.org/abs/2611.33141v1</link>
+      <guid isPermaLink="false">d-320dd58716</guid>
+      <pubDate>Tue, 24 Nov 2026 18:56:04 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish between possible futures. This leads to the design principle behind iWAM: rather than denoising an entire future frame, can we condition the action policy on intermediate features from a single video-model evaluation? We show that the answer is yes. Exploiting the reversible dynamics of flow-matching models, we invert each training future into the corresponding latent noise vector. However, a single velocity evaluation at this latent does not necessarily yield informative features for action p…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33141v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action</title>
+      <link>https://arxiv.org/abs/2611.33137v1</link>
+      <guid isPermaLink="false">d-4631e90a82</guid>
+      <pubDate>Tue, 24 Nov 2026 18:55:07 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic annotations, providing rich, joint supervision for visual and embodied learning. We demonstrate its value as training data across inverse rendering, 3D reconstruction, scene understanding, and mobile manipulation. Across these tasks, training state-of-the-art methods with our scenes improves performance over alternative synthetic datasets. In addition, we introduce a mobile manipulation benchmark, evaluating vision-language-action models performing physical pick and place in diverse 3D scenes with realistic layouts, and using our part annotations to also score where each object is grasped. Our dataset will be released publicly to facilitate research in visual and embodied AI.&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33137v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation</title>
+      <link>https://arxiv.org/abs/2611.33135v1</link>
+      <guid isPermaLink="false">d-ad47f948c6</guid>
+      <pubDate>Tue, 24 Nov 2026 18:54:38 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Language models can generate LEGO$^\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards decoded tokens without guaranteeing a valid build. We present BriConstrain, a constrained decoding method that restricts a pretrained language model&amp;apos;s next-token probabilities before sampling, steering it towards valid placements. Because the validity of a brick placement depends on the non-predetermined build state, it cannot be compiled into a fixed grammar and must be checked dynamically. However, checking the validity of a brick before sampling is challenging as the space of valid placements is combinatorially large and cannot be enumerated exhaustively. Our key idea is to narrow the search space by constraining how parts attach rather than which parts attach to each other. Concretely, given the model&amp;apos;s predictions of the currently placed part, and the previously placed…&lt;/p&gt;
+&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33135v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model&apos;s Thinking Loops and Complement a Frontier Model&apos;s Weight Edit</title>
+      <link>https://arxiv.org/abs/2611.33133v1</link>
+      <guid isPermaLink="false">d-81965d31ea</guid>
+      <pubDate>Tue, 24 Nov 2026 18:53:22 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the model&amp;apos;s weights without gradients and reported MATH-500 rising from 7.9% to 48.1% at a 32,768-token budget. We provide the missing gradient baseline, then combine the two edits. Fine-tuning only the 140 to 139,750 weights with the largest gradient, on the model&amp;apos;s own correct answers to MATH training problems, raises thinking-mode MATH-500 at 4k tokens to 39.0-45.5% after 2-9 minutes of training on one GPU; 50 training examples suffice, and 1,398 random positions give only 16.3%. The gradient concentrates the edit on the most nearly constant channel of each of the first three layers. Because the model has no bias terms, an edit confined to those channels acts as a constant vector added to the residual stream: adding three fixed vectors to the unedited mo…&lt;/p&gt;
+&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33133v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploratory Midtraining for Robot Policies</title>
+      <link>https://arxiv.org/abs/2611.33130v1</link>
+      <guid isPermaLink="false">d-995b658753</guid>
+      <pubDate>Tue, 24 Nov 2026 18:52:34 GMT</pubDate>
+      <category>数字产品与交互</category>
+      <description>&lt;p&gt;Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challenging states of the robot and its environment to states from which further progress is possible (&amp;quot;connected behavioral coverage&amp;quot;). We also examine how this coverage supports downstream adaptation and online improvement. To this end, we introduce $β$-Data, a dataset collected via adversarial teleoperation, where a human adversary reversibly perturbs the environment while a human operator continues toward completion without resetting. We relabel trajectory segments with local outcomes in natural language and finetune a pretrained policy conditioned on recent action history. The resulting policy exhibits sustained use of more low-level behaviors. Across manipulation tasks in simulation and on thr…&lt;/p&gt;
+&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33130v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Gemini is changing the game for Golden State&apos;s organization and fans.</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
+      <guid isPermaLink="false">d-04b2af0679</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.&lt;/p&gt;
+&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+      <guid isPermaLink="false">d-e32ed061be</guid>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Searching for distant planets with Astra</title>
+      <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+      <guid isPermaLink="false">d-4812d6e153</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/searching-for-distant-planets-with-astra&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introducing Muse in the UK: A Personal AI Agent You Control</title>
       <link>https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/</link>
@@ -19,7 +189,7 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls</title>
+      <title>Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models</title>
       <link>https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/</link>
       <guid isPermaLink="false">d-8850a44a23</guid>
       <pubDate>Tue, 24 Nov 2026 05:01:14 GMT</pubDate>
@@ -29,183 +199,13 @@
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Divergent legal consequences of cyberattacks on healthcare organizations worldwide</title>
-      <link>https://www.nature.com/articles/s41746-026-03451-2</link>
-      <guid isPermaLink="false">d-3a6b730705</guid>
+      <title>How Intentful uses dots to make more time for growth</title>
+      <link>https://openai.com/business/customer-stories/intentful-dots</link>
+      <guid isPermaLink="false">d-ec576a8acb</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 24 November 2026; doi:10.1038/s41746-026-03451-2 Divergent legal consequences of cyberattacks on healthcare organizations worldwide&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03451-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Challenges in AI based tumor board case summarization and recommendations</title>
-      <link>https://www.nature.com/articles/s41746-026-03442-3</link>
-      <guid isPermaLink="false">d-e6a8e6d8d7</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;npj Digital Medicine, Published online: 24 November 2026; doi:10.1038/s41746-026-03442-3 Challenges in AI based tumor board case summarization and recommendations&lt;/p&gt;
-&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03442-3&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI and Cisco introduce Shirudo</title>
-      <link>https://openai.com/index/introducing-shirudo</link>
-      <guid isPermaLink="false">d-60167006a5</guid>
-      <pubDate>Mon, 23 Nov 2026 21:20:00 GMT</pubDate>
       <category>AI 与智能体</category>
-      <description>&lt;p&gt;OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/introducing-shirudo&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action</title>
-      <link>https://arxiv.org/abs/2611.31240v1</link>
-      <guid isPermaLink="false">d-af5cdda4c2</guid>
-      <pubDate>Mon, 23 Nov 2026 18:59:52 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory objectives assign different importance to the same vision-language model (VLM) structures. In the action expert, MLP channels exhibit more stable importance rankings across denoising steps than query heads, and a small fraction of channels accounts for most of the measured importance. Based on these findings, we propose MoOP, which combines importance ranks from both objectives for VLM pruning and aggregates stepwise importance to select a fixed subset of expert MLP channels. At 24.0% total parameter reduction, VLM-only pruning with MoOP performs comparably to or slightly better than the stron…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31240v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory</title>
-      <link>https://arxiv.org/abs/2611.31239v1</link>
-      <guid isPermaLink="false">d-5f3b68d0f6</guid>
-      <pubDate>Mon, 23 Nov 2026 18:59:46 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based video generation methods preserve what they have already seen, but have no anchor beyond it, where the camera drifts from its path and a text prompt can name objects but not place them. Layout-conditioned methods provide such an anchor and precise control over what appears where, but rely on layouts that are typically authored by hand. Both limitations arise because, beyond what was captured, nothing anchors the video model unless a human authors one. To overcome both, we propose Lyris, a long video generation framework that never leaves the video model without an anchor: a persistent point-cloud memory where the scene has been observed or generated, and a 3D layout that a vision-language model authors where it has not. Our key insight is that the interface between the two models can be …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31239v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Modern Self-Supervised Vision Transformers Are Pareidolic</title>
-      <link>https://arxiv.org/abs/2611.31238v1</link>
-      <guid isPermaLink="false">d-c499784a6b</guid>
-      <pubDate>Mon, 23 Nov 2026 18:59:41 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features still form spatially coherent patterns across the patches, imposed by the features themselves.We call this behavior pareidolia, and the span of these directions the pareidolic subspace.On natural images, it holds most of the feature variance in DINOv2 and DINOv3 but little in DINO.This excess explains why DINOv2 and DINOv3, despite stronger dense features, fall far behind DINO in object emergence, the hallmark ability of self-supervised ViTs to identify the patches of an object on their own.Our experiments further show that scaling down their pareidolic subspaces steadily restores their ability to discover objects, so their object emergence is hindered rather than lost.T…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31238v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Let Vision-Language Models Generate Images through Their Representations</title>
-      <link>https://arxiv.org/abs/2611.31237v1</link>
-      <guid isPermaLink="false">d-a89ba09cd0</guid>
-      <pubDate>Mon, 23 Nov 2026 18:59:32 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial. We find that a central challenge lies in the heterogeneous visual representations used for understanding and generation. To address this challenge, we introduce Integral, which converts a pretrained vision-language model into a unified multimodal model by constructing a shared visual representation space across the two capabilities. Integral implements this design through two complementary components. Abstraction Fusion constructs shared visual tokens by aggregating hierarchical representations from the frozen vision encoder, while Block-wise MoT introduces a lightweight generative stream that interacts with the visi…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31237v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming</title>
-      <link>https://arxiv.org/abs/2611.31233v1</link>
-      <guid isPermaLink="false">d-9250fcccf8</guid>
-      <pubDate>Mon, 23 Nov 2026 18:59:13 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc degrades retrieval on every CLIP checkpoint we test. We introduce a paired statistic that identifies directions where the two towers agree more on hard negatives than on matched pairs. Mildly attenuating these directions improves retrieval while largely preserving the gap. We arrive at this correction through weight-space programming: guided by the statistic, an LLM agent inspects both towers and writes closed-form weight edits without backpropagation. Free to edit any component, the agent improves COCO test retrieval on all 13 CLIP checkpoints and edits an output projection in 12 of the 13. We distill and refine its recurring correction into TowerBridge, a closed-form …&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31233v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ</title>
-      <link>https://arxiv.org/abs/2611.31228v1</link>
-      <guid isPermaLink="false">d-f5a255a7a6</guid>
-      <pubDate>Mon, 23 Nov 2026 18:58:52 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-weights models (Qwen2.5-7B, Llama-3.1-8B, Mistral-7B, and Phi-4, 14.7B) across 15,200 math benchmark attempts, isolating 2,017 reasoning errors within each model&amp;apos;s capability frontier. Applying 27,568 counterfactual continuations across these failure points, we demonstrate a consistent decoupling between monitoring and control. On monitoring, all four models fail to detect their own errors. Verbalized confidence does not distinguish mistake steps from sound reasoning, yielding near-chance within-position AUROCs between 0.500 and 0.561. Even at …&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31228v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling</title>
-      <link>https://arxiv.org/abs/2611.31227v1</link>
-      <guid isPermaLink="false">d-eae4bf3f87</guid>
-      <pubDate>Mon, 23 Nov 2026 18:58:32 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation responses in unseen cell types and identifying perturbed genes from their transcriptional effects therefore remain challenging. Here, we show that both tasks can be addressed through a common linear decomposition of transcriptional responses into shared and perturbation-specific components. Building on this principle, we introduce BiPert, a simple linear framework for both forward perturbation prediction and inverse identification. For forward prediction, BiPert outperforms existing methods that use no external biological knowledge when predicting gene expression changes in unseen cell lines. Its few-shot extension, BiPert-FS, adapts to new cell lines using as few as ten measured perturbations. For inverse identi…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31227v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Self-Supervised Dataset Distillation via Mutual Information Maximization</title>
-      <link>https://arxiv.org/abs/2611.31225v1</link>
-      <guid isPermaLink="false">d-094ba53fef</guid>
-      <pubDate>Mon, 23 Nov 2026 18:58:27 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representations that remain consistent across augmentations. To bridge this gap, we introduce Mutual Information Prototype Alignment (MIPA), an efficient SSL dataset distillation approach that optimizes synthetic images to preserve augmentation-invariant information. Specifically, MIPA treats synthetic images as learnable prototypes and uses a frozen encoder to assign real samples to them based on feature similarity. A synthetic dataset that preserves such augmentation invariance should yield stable prototype assignments across multiple augmented views of the same real image. MIPA encourages this by maximizing mutual information between cross-view assignments while avoiding trivia…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31225v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic AI for Intent Management and Control in Autonomous Communication Networks</title>
-      <link>https://arxiv.org/abs/2611.31223v1</link>
-      <guid isPermaLink="false">d-2ff52628b7</guid>
-      <pubDate>Mon, 23 Nov 2026 18:57:32 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on intent management and orchestration, leaving the adaptation of underlying network optimization and control functions largely unaddressed. This article proposes a triadic agentic AI framework that co-designs intent management and intent fulfillment through three agents: an interpreter, powered by a language model, that translates and refines intents into machine-readable optimization templates; an optimizer that adapts controller policies to intent specifications; and a controller that performs fast decision-making. We discuss the design space of each agent and how the workflow can be embedded across network architectural domains. Finally, we develop a concrete realization combining a language-model interpreter with Bayesian optimization for the optimizer and multi-objectiv…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31223v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans</title>
-      <link>https://arxiv.org/abs/2611.31222v1</link>
-      <guid isPermaLink="false">d-07c363d2bd</guid>
-      <pubDate>Mon, 23 Nov 2026 18:57:26 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was trained on 4123 noncontrast chest CT scans with 9547 segmented report findings, including ReXGroundingCTv2, a newly annotated dataset of 1134 scans and 1895 findings with every instance of each finding segmented. On the 200 ReXGroundingCT validation scans, CTLink achieved a hit rate of 0.816, an instance F1 score of 0.456, and a mean Dice score of 0.400, compared with 0.533, 0.175, and 0.234 for VoxTell, a publicly available text-prompted segmentation model (P &amp;lt; .001 for all). On the test set of the MICCAI 2026 ReXGrounding challenge, an ensemble of seven CTLink models achieved the highest hit rate (0.782) and instance F1 score (0.386) of all 48 participating teams. On 50 test scans segment…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31222v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LeJEPA Features Are Not Isotropic, and Should Not Be</title>
-      <link>https://arxiv.org/abs/2611.31216v1</link>
-      <guid isPermaLink="false">d-9e2d6dd11f</guid>
-      <pubDate>Mon, 23 Nov 2026 18:56:04 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;The SIGReg term in LeJEPA regularizes features to have an isotropic Gaussian distribution. Our first result is to show that this regularizer, in practice, cannot achieve its goal. We design a modified regularizer to enforce the objective better. This leads to slightly improved performance. For example, on ImageNet-100, our modified regularizer reaches the final accuracy of SIGReg in 1.3$\times$ fewer epochs. Our second result argues that self-supervised encoders should not have isotropic Gaussian features. We show that the alignment term in LeJEPA conflicts with SIGReg, because it couples the magnitude of the features with their directions. In contrast, isotropic Gaussian features would entail independent magnitude and directions. Features obtained with LeJEPA are, in fact, not isotropic. So LeJEPA has two issues. Its regularizer is weak, and the isotropic Gaussian target is too strict. Our third result is about reformulating the isotropic Gaussian regularizer to enforce only the marg…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31216v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning</title>
-      <link>https://arxiv.org/abs/2611.31215v1</link>
-      <guid isPermaLink="false">d-2edac58473</guid>
-      <pubDate>Mon, 23 Nov 2026 18:55:44 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to them? We present ActSpace-Bench, a benchmark of 994 questions across 234 exploration episodes in 72 real-scanned indoor scenes, where a model starts from a single view, navigates real captured frames, and must gather evidence before answering. To assess whether such exploration is purposeful, we introduce a controlled evaluation protocol that fixes each model as the reasoner and compares its own exploration against a same-budget random walk and an oracle route, separating evidence seeking from spatial reasoning. Every question is verified to require exploration and answered from 3D annotations, masked-evidence questions test whether models know when to abstain, and over 95% of sampled questio…&lt;/p&gt;
-&lt;p&gt;arXiv cs.AI · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31215v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model</title>
-      <link>https://arxiv.org/abs/2611.31212v1</link>
-      <guid isPermaLink="false">d-1e74b6efc2</guid>
-      <pubDate>Mon, 23 Nov 2026 18:55:29 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;High-resolution flood forecasting with full two-dimensional shallow water equation (SWE) solvers remains computationally expensive, even on GPUs. We develop a conditional denoising diffusion probabilistic model (DDPM) that forecasts the evolution of 30 m water-depth fields over a four-day horizon for the Des Plaines River watershed, Illinois. The model is trained on SynxFlow SWE simulations of 113 historical storms observed across twelve Midwestern states (2003-2024), each under three antecedent-wetness scenarios, and can optionally be conditioned on coarse 100 m or 150 m hydrodynamic simulations. Because reverse diffusion is stochastic, every forecast is a 20-member ensemble drawn from the same trained model. Coarse conditioning reduces the four-day mean water-depth RMSE of the ensemble mean from 0.170 m to 0.054 m (100 m) and 0.048 m (150 m). The coarser 150 m conditioning also gives the best critical success index (0.839), false alarm ratio, CRPS and Brier score at lower cost, so f…&lt;/p&gt;
-&lt;p&gt;arXiv physics.flu-dyn · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31212v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates</title>
-      <link>https://arxiv.org/abs/2611.31211v1</link>
-      <guid isPermaLink="false">d-eb5ddf6a6a</guid>
-      <pubDate>Mon, 23 Nov 2026 18:55:06 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned surrogates. In earlier work on cardiac pulsed field ablation, we proposed that solvers return a certificate with their answers. The certificate consists of an admissible potential and an exactly charge-conserving current, and a small independent checker turns it into guaranteed error bounds against a written specification of the physics. Here, the same checker verifies the outputs of other solvers on the same problem. Specifically, FEniCSx computes both fields and receives the same bounds as our own solver. Five plausible bugs in a correct solver, one of them about 0.2% from the true impedance, all converge and pass a grid convergence study, yet the certificate rejects or refutes all five. Of three solvers written by LLMs, one is correct and certified to 0.1%, and one never solves the equat…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CE · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.31211v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine</title>
-      <link>https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/</link>
-      <guid isPermaLink="false">d-63c6779803</guid>
-      <pubDate>Mon, 23 Nov 2026 18:00:01 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery. The post Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine appeared first on Meta Newsroom .&lt;/p&gt;
-&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.&lt;/p&gt;
+&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/business/customer-stories/intentful-dots&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
