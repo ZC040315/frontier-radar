@@ -5,9 +5,109 @@
     <link>https://zc040315.github.io/frontier-radar/</link>
     <description>由我自己策展的前沿科技信息源。只收一手来源（学术一手 + 官方一手），不收媒体转载。订阅源里有两类条目：带解读的「正式条目」，和只有原文摘要的「每日线索」——正文都直接写在条目里，不点开网站也能读完。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:50:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:36:30 GMT</lastBuildDate>
     <generator>前沿雷达 · scripts/build-feed.mjs</generator>
     <!-- 本次共 35 条：正式条目最多 15，每日线索最多 20 -->
+    <item>
+      <title>From sketch to publication-ready flowchart: how AI tools can bridge the gap</title>
+      <link>https://www.nature.com/articles/d41586-026-03513-1</link>
+      <guid isPermaLink="false">d-454913e868</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1 The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03513-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>China’s AI-powered smart-city model is going global</title>
+      <link>https://www.nature.com/articles/d41586-026-03473-6</link>
+      <guid isPermaLink="false">d-9621ee3995</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03473-6 China is using AI and big data to connect its cities and rural regions. Now, its smart-city technologies are attracting international interest.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03473-6&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helsinki puts trust at the heart of its smart-city model</title>
+      <link>https://www.nature.com/articles/d41586-026-03469-2</link>
+      <guid isPermaLink="false">d-d12e7e079d</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03469-2 Open urban data, recycled data-centre heat and a public AI register are helping the Finnish capital develop responsible urban technology.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03469-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs</title>
+      <link>https://www.nature.com/articles/d41586-026-03835-0</link>
+      <guid isPermaLink="false">d-a0f222d1c2</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03835-0 Awe, anxiety and opportunity: mathematics community shares mixed emotions following the solution of the field’s biggest unsolved problem.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/d41586-026-03835-0&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum-enhanced sensing with 500 photons via Fock-space confocal focusing</title>
+      <link>https://www.nature.com/articles/s41586-026-11353-2</link>
+      <guid isPermaLink="false">d-71eb6d8199</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>AI 与智能体</category>
+      <description>&lt;p&gt;Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11353-2 Quantum confocal microscopy enables deterministic preparation of high-photon-number Fock-like states with up to 500 photons, reducing photon-number variance by 21.5 dB and achieving record displacement-sensing precision 19.2 dB beyond the standard quantum limit.&lt;/p&gt;
+&lt;p&gt;Nature · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41586-026-11353-2&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Author Correction: On-premise medical AI agents for reliable clinical decision-making</title>
+      <link>https://www.nature.com/articles/s41591-026-04822-8</link>
+      <guid isPermaLink="false">d-91fcdd48b6</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04822-8 Author Correction: On-premise medical AI agents for reliable clinical decision-making&lt;/p&gt;
+&lt;p&gt;Nature Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04822-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A systematic review and meta analysis of extended reality interventions for chronic respiratory conditions</title>
+      <link>https://www.nature.com/articles/s41746-026-03494-5</link>
+      <guid isPermaLink="false">d-0b87801f7b</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 25 November 2026; doi:10.1038/s41746-026-03494-5 A systematic review and meta analysis of extended reality interventions for chronic respiratory conditions&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03494-5&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation</title>
+      <link>https://www.nature.com/articles/s41746-026-03492-7</link>
+      <guid isPermaLink="false">d-4db05f7cb3</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 25 November 2026; doi:10.1038/s41746-026-03492-7 Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03492-7&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sequential framework for predicting postoperative recurrence and antiseizure-medication withdrawal risk in mesial temporal lobe epilepsy</title>
+      <link>https://www.nature.com/articles/s41746-026-03502-8</link>
+      <guid isPermaLink="false">d-cc1e903287</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 25 November 2026; doi:10.1038/s41746-026-03502-8 Sequential framework for predicting postoperative recurrence and antiseizure-medication withdrawal risk in mesial temporal lobe epilepsy&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03502-8&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Potential of multimedia-supported informed consent in clinical practice: a systematic review</title>
+      <link>https://www.nature.com/articles/s41746-026-03460-1</link>
+      <guid isPermaLink="false">d-7e1dbb3e5f</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category>医疗健康</category>
+      <description>&lt;p&gt;npj Digital Medicine, Published online: 25 November 2026; doi:10.1038/s41746-026-03460-1 Potential of multimedia-supported informed consent in clinical practice: a systematic review&lt;/p&gt;
+&lt;p&gt;npj Digital Medicine · 学术一手 · &lt;a href=&quot;https://www.nature.com/articles/s41746-026-03460-1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OmniAct: One Policy, One Million Embodiments</title>
       <link>https://arxiv.org/abs/2611.33158v1</link>
@@ -106,106 +206,6 @@
       <category>数字产品与交互</category>
       <description>&lt;p&gt;World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish between possible futures. This leads to the design principle behind iWAM: rather than denoising an entire future frame, can we condition the action policy on intermediate features from a single video-model evaluation? We show that the answer is yes. Exploiting the reversible dynamics of flow-matching models, we invert each training future into the corresponding latent noise vector. However, a single velocity evaluation at this latent does not necessarily yield informative features for action p…&lt;/p&gt;
 &lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33141v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action</title>
-      <link>https://arxiv.org/abs/2611.33137v1</link>
-      <guid isPermaLink="false">d-4631e90a82</guid>
-      <pubDate>Tue, 24 Nov 2026 18:55:07 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic annotations, providing rich, joint supervision for visual and embodied learning. We demonstrate its value as training data across inverse rendering, 3D reconstruction, scene understanding, and mobile manipulation. Across these tasks, training state-of-the-art methods with our scenes improves performance over alternative synthetic datasets. In addition, we introduce a mobile manipulation benchmark, evaluating vision-language-action models performing physical pick and place in diverse 3D scenes with realistic layouts, and using our part annotations to also score where each object is grasped. Our dataset will be released publicly to facilitate research in visual and embodied AI.&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33137v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation</title>
-      <link>https://arxiv.org/abs/2611.33135v1</link>
-      <guid isPermaLink="false">d-ad47f948c6</guid>
-      <pubDate>Tue, 24 Nov 2026 18:54:38 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Language models can generate LEGO$^\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards decoded tokens without guaranteeing a valid build. We present BriConstrain, a constrained decoding method that restricts a pretrained language model&amp;apos;s next-token probabilities before sampling, steering it towards valid placements. Because the validity of a brick placement depends on the non-predetermined build state, it cannot be compiled into a fixed grammar and must be checked dynamically. However, checking the validity of a brick before sampling is challenging as the space of valid placements is combinatorially large and cannot be enumerated exhaustively. Our key idea is to narrow the search space by constraining how parts attach rather than which parts attach to each other. Concretely, given the model&amp;apos;s predictions of the currently placed part, and the previously placed…&lt;/p&gt;
-&lt;p&gt;arXiv cs.CV · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33135v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model&apos;s Thinking Loops and Complement a Frontier Model&apos;s Weight Edit</title>
-      <link>https://arxiv.org/abs/2611.33133v1</link>
-      <guid isPermaLink="false">d-81965d31ea</guid>
-      <pubDate>Tue, 24 Nov 2026 18:53:22 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the model&amp;apos;s weights without gradients and reported MATH-500 rising from 7.9% to 48.1% at a 32,768-token budget. We provide the missing gradient baseline, then combine the two edits. Fine-tuning only the 140 to 139,750 weights with the largest gradient, on the model&amp;apos;s own correct answers to MATH training problems, raises thinking-mode MATH-500 at 4k tokens to 39.0-45.5% after 2-9 minutes of training on one GPU; 50 training examples suffice, and 1,398 random positions give only 16.3%. The gradient concentrates the edit on the most nearly constant channel of each of the first three layers. Because the model has no bias terms, an edit confined to those channels acts as a constant vector added to the residual stream: adding three fixed vectors to the unedited mo…&lt;/p&gt;
-&lt;p&gt;arXiv cs.LG · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33133v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exploratory Midtraining for Robot Policies</title>
-      <link>https://arxiv.org/abs/2611.33130v1</link>
-      <guid isPermaLink="false">d-995b658753</guid>
-      <pubDate>Tue, 24 Nov 2026 18:52:34 GMT</pubDate>
-      <category>数字产品与交互</category>
-      <description>&lt;p&gt;Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challenging states of the robot and its environment to states from which further progress is possible (&amp;quot;connected behavioral coverage&amp;quot;). We also examine how this coverage supports downstream adaptation and online improvement. To this end, we introduce $β$-Data, a dataset collected via adversarial teleoperation, where a human adversary reversibly perturbs the environment while a human operator continues toward completion without resetting. We relabel trajectory segments with local outcomes in natural language and finetune a pretrained policy conditioned on recent action history. The resulting policy exhibits sustained use of more low-level behaviors. Across manipulation tasks in simulation and on thr…&lt;/p&gt;
-&lt;p&gt;arXiv cs.RO · 学术一手 · &lt;a href=&quot;https://arxiv.org/abs/2611.33130v1&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Gemini is changing the game for Golden State&apos;s organization and fans.</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
-      <guid isPermaLink="false">d-04b2af0679</guid>
-      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.&lt;/p&gt;
-&lt;p&gt;Google AI 官方博客 · 官方一手 · &lt;a href=&quot;https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
-      <guid isPermaLink="false">d-e32ed061be</guid>
-      <pubDate>Tue, 24 Nov 2026 13:00:00 GMT</pubDate>
-      <category>医疗健康</category>
-      <description>&lt;p&gt;GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Searching for distant planets with Astra</title>
-      <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
-      <guid isPermaLink="false">d-4812d6e153</guid>
-      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/index/searching-for-distant-planets-with-astra&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Muse in the UK: A Personal AI Agent You Control</title>
-      <link>https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/</link>
-      <guid isPermaLink="false">d-744246248e</guid>
-      <pubDate>Tue, 24 Nov 2026 06:00:40 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Muse is now in the UK: a personal AI agent that doesn&amp;apos;t just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared first on Meta Newsroom .&lt;/p&gt;
-&lt;p&gt;Meta 官方新闻室 · 官方一手 · &lt;a href=&quot;https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/</link>
-      <guid isPermaLink="false">d-8850a44a23</guid>
-      <pubDate>Tue, 24 Nov 2026 05:01:14 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic&amp;apos;s Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.&lt;/p&gt;
-&lt;p&gt;AWS 机器学习博客 · 官方一手 · &lt;a href=&quot;https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Intentful uses dots to make more time for growth</title>
-      <link>https://openai.com/business/customer-stories/intentful-dots</link>
-      <guid isPermaLink="false">d-ec576a8acb</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <category>AI 与智能体</category>
-      <description>&lt;p&gt;Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.&lt;/p&gt;
-&lt;p&gt;OpenAI · 官方一手 · &lt;a href=&quot;https://openai.com/business/customer-stories/intentful-dots&quot;&gt;原文出处&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zc040315.github.io/frontier-radar/daily.html&quot;&gt;在站内看全部每日线索 →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
